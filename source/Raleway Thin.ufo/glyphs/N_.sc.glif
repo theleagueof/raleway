@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N.sc" format="1">
+  <advance width="593"/>
+  <outline>
+    <contour>
+      <point x="101" y="488" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="513" y="0" type="line"/>
+      <point x="513" y="517" type="line"/>
+      <point x="493" y="517" type="line"/>
+      <point x="493" y="29" type="line"/>
+      <point x="104" y="517" type="line"/>
+      <point x="81" y="517" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="101" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j.alt" format="1">
+  <advance width="121"/>
+  <outline>
+    <contour>
+      <point x="81" y="-213" type="line"/>
+      <point x="81" y="517" type="line"/>
+      <point x="61" y="517" type="line"/>
+      <point x="61" y="-213" type="line"/>
+    </contour>
+    <contour>
+      <point x="81" y="653" type="line"/>
+      <point x="81" y="717" type="line"/>
+      <point x="61" y="717" type="line"/>
+      <point x="61" y="653" type="line"/>
+    </contour>
+  </outline>
+</glyph>

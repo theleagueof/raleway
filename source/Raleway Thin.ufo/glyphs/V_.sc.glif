@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V.sc" format="1">
+  <advance width="524"/>
+  <outline>
+    <contour>
+      <point x="271" y="0" type="line"/>
+      <point x="497" y="519" type="line"/>
+      <point x="475" y="519" type="line"/>
+      <point x="262" y="29" type="line"/>
+      <point x="49" y="519" type="line"/>
+      <point x="27" y="519" type="line"/>
+      <point x="253" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
