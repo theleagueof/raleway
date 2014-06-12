@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="1">
+  <advance width="294"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="215" y="260" type="line"/>
+      <point x="215" y="-130" type="line"/>
+      <point x="79" y="-130" type="line"/>
+      <point x="79" y="260" type="line"/>
+    </contour>
+    <contour>
+      <point x="215" y="775" type="line"/>
+      <point x="215" y="385" type="line"/>
+      <point x="79" y="385" type="line"/>
+      <point x="79" y="775" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

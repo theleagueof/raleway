@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odblgrave" format="1">
+  <advance width="724"/>
+  <unicode hex="020C"/>
+  <outline>
+    <contour>
+      <point x="489" y="918" type="line"/>
+      <point x="539" y="918" type="line"/>
+      <point x="578" y="833" type="line"/>
+      <point x="546" y="817" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="918" type="line"/>
+      <point x="429" y="918" type="line"/>
+      <point x="466" y="833" type="line"/>
+      <point x="434" y="817" type="line"/>
+    </contour>
+    <contour>
+      <point x="297" y="-5" type="qcurve"/>
+      <point x="237" y="-5"/>
+      <point x="144" y="43"/>
+      <point x="81" y="124"/>
+      <point x="48" y="230"/>
+      <point x="48" y="287" type="qcurve"/>
+      <point x="48" y="369"/>
+      <point x="116" y="523"/>
+      <point x="228" y="643"/>
+      <point x="374" y="715"/>
+      <point x="451" y="715" type="qcurve"/>
+      <point x="511" y="715"/>
+      <point x="603" y="665"/>
+      <point x="666" y="583"/>
+      <point x="698" y="477"/>
+      <point x="698" y="421" type="qcurve"/>
+      <point x="698" y="340"/>
+      <point x="630" y="186"/>
+      <point x="518" y="67"/>
+      <point x="374" y="-5"/>
+    </contour>
+    <contour>
+      <point x="307" y="42" type="qcurve"/>
+      <point x="376" y="42"/>
+      <point x="500" y="109"/>
+      <point x="592" y="216"/>
+      <point x="646" y="350"/>
+      <point x="646" y="416" type="qcurve"/>
+      <point x="646" y="467"/>
+      <point x="618" y="558"/>
+      <point x="565" y="627"/>
+      <point x="488" y="668"/>
+      <point x="440" y="668" type="qcurve"/>
+      <point x="371" y="668"/>
+      <point x="247" y="601"/>
+      <point x="154" y="494"/>
+      <point x="100" y="360"/>
+      <point x="100" y="293" type="qcurve"/>
+      <point x="100" y="242"/>
+      <point x="128" y="151"/>
+      <point x="181" y="82"/>
+      <point x="258" y="42"/>
+    </contour>
+  </outline>
+</glyph>

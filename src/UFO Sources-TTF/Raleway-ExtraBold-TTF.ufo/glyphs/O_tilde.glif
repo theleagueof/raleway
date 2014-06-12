@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otilde" format="1">
+  <advance width="760"/>
+  <unicode hex="00D5"/>
+  <outline>
+    <contour>
+      <point x="379" y="-6" type="qcurve"/>
+      <point x="300" y="-6"/>
+      <point x="170" y="56"/>
+      <point x="78" y="157"/>
+      <point x="27" y="287"/>
+      <point x="27" y="356" type="qcurve"/>
+      <point x="27" y="426"/>
+      <point x="80" y="556"/>
+      <point x="175" y="655"/>
+      <point x="305" y="714"/>
+      <point x="382" y="714" type="qcurve"/>
+      <point x="461" y="714"/>
+      <point x="591" y="652"/>
+      <point x="683" y="550"/>
+      <point x="733" y="420"/>
+      <point x="733" y="353" type="qcurve"/>
+      <point x="733" y="283"/>
+      <point x="680" y="153"/>
+      <point x="586" y="54"/>
+      <point x="456" y="-6"/>
+    </contour>
+    <contour>
+      <point x="194" y="354" type="qcurve"/>
+      <point x="194" y="313"/>
+      <point x="218" y="236"/>
+      <point x="265" y="176"/>
+      <point x="335" y="140"/>
+      <point x="380" y="140" type="qcurve"/>
+      <point x="427" y="140"/>
+      <point x="497" y="178"/>
+      <point x="543" y="239"/>
+      <point x="566" y="316"/>
+      <point x="566" y="356" type="qcurve"/>
+      <point x="566" y="397"/>
+      <point x="542" y="474"/>
+      <point x="494" y="533"/>
+      <point x="425" y="568"/>
+      <point x="380" y="568" type="qcurve"/>
+      <point x="333" y="568"/>
+      <point x="264" y="531"/>
+      <point x="217" y="471"/>
+      <point x="194" y="394"/>
+    </contour>
+    <contour>
+      <point x="448" y="773" type="qcurve"/>
+      <point x="425" y="773"/>
+      <point x="390" y="787"/>
+      <point x="360" y="805"/>
+      <point x="332" y="819"/>
+      <point x="315" y="819" type="qcurve"/>
+      <point x="298" y="819"/>
+      <point x="280" y="805"/>
+      <point x="270" y="787"/>
+      <point x="268" y="772"/>
+      <point x="268" y="771" type="qcurve"/>
+      <point x="182" y="771" type="line"/>
+      <point x="182" y="782"/>
+      <point x="195" y="829"/>
+      <point x="225" y="877"/>
+      <point x="274" y="913"/>
+      <point x="309" y="913" type="qcurve"/>
+      <point x="333" y="913"/>
+      <point x="367" y="898"/>
+      <point x="396" y="880"/>
+      <point x="424" y="865"/>
+      <point x="442" y="865" type="qcurve"/>
+      <point x="459" y="865"/>
+      <point x="480" y="880"/>
+      <point x="491" y="898"/>
+      <point x="494" y="914"/>
+      <point x="494" y="915" type="qcurve"/>
+      <point x="580" y="915" type="line"/>
+      <point x="580" y="907"/>
+      <point x="566" y="861"/>
+      <point x="535" y="811"/>
+      <point x="485" y="773"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.denominator" format="1">
+  <advance width="432"/>
+  <outline>
+    <contour>
+      <point x="27" y="283" type="qcurve"/>
+      <point x="27" y="314"/>
+      <point x="55" y="370"/>
+      <point x="105" y="410"/>
+      <point x="174" y="434"/>
+      <point x="214" y="434" type="qcurve"/>
+      <point x="300" y="434"/>
+      <point x="400" y="326"/>
+      <point x="400" y="226" type="qcurve"/>
+      <point x="400" y="116"/>
+      <point x="295" y="-6"/>
+      <point x="202" y="-6" type="qcurve"/>
+      <point x="155" y="-6"/>
+      <point x="74" y="26"/>
+      <point x="47" y="56" type="qcurve"/>
+      <point x="100" y="121" type="line"/>
+      <point x="117" y="103"/>
+      <point x="173" y="82"/>
+      <point x="205" y="82" type="qcurve"/>
+      <point x="254" y="82"/>
+      <point x="313" y="129"/>
+      <point x="314" y="172" type="qcurve"/>
+      <point x="299" y="156"/>
+      <point x="237" y="140"/>
+      <point x="208" y="140" type="qcurve"/>
+      <point x="168" y="140"/>
+      <point x="102" y="162"/>
+      <point x="54" y="200"/>
+      <point x="27" y="253"/>
+    </contour>
+    <contour>
+      <point x="212" y="348" type="qcurve"/>
+      <point x="192" y="348"/>
+      <point x="158" y="338"/>
+      <point x="131" y="320"/>
+      <point x="116" y="296"/>
+      <point x="116" y="283" type="qcurve"/>
+      <point x="116" y="257"/>
+      <point x="173" y="222"/>
+      <point x="213" y="222" type="qcurve"/>
+      <point x="253" y="222"/>
+      <point x="310" y="257"/>
+      <point x="310" y="283" type="qcurve"/>
+      <point x="310" y="296"/>
+      <point x="294" y="320"/>
+      <point x="267" y="338"/>
+      <point x="232" y="348"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

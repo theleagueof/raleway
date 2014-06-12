@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="583"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="380" y="620" type="line"/>
+      <point x="335" y="637" type="line"/>
+      <point x="394" y="730" type="line"/>
+      <point x="466" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="89" y="0" type="line"/>
+      <point x="89" y="710" type="line"/>
+      <point x="159" y="710" type="line"/>
+      <point x="159" y="62" type="line"/>
+      <point x="569" y="62" type="line"/>
+      <point x="569" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

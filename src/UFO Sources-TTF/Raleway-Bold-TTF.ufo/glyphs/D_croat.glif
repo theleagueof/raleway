@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcroat" format="1">
+  <advance width="721"/>
+  <unicode hex="0110"/>
+  <outline>
+    <contour>
+      <point x="79" y="0" type="line"/>
+      <point x="79" y="307" type="line"/>
+      <point x="31" y="307" type="line"/>
+      <point x="31" y="407" type="line"/>
+      <point x="79" y="407" type="line"/>
+      <point x="79" y="710" type="line"/>
+      <point x="337" y="710" type="line"/>
+      <point x="424" y="710"/>
+      <point x="555" y="654"/>
+      <point x="643" y="558"/>
+      <point x="687" y="429"/>
+      <point x="687" y="356" type="qcurve"/>
+      <point x="687" y="275"/>
+      <point x="638" y="144"/>
+      <point x="546" y="51"/>
+      <point x="417" y="0"/>
+      <point x="337" y="0" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="548" y="356" type="qcurve"/>
+      <point x="548" y="407"/>
+      <point x="520" y="493"/>
+      <point x="466" y="555"/>
+      <point x="387" y="589"/>
+      <point x="337" y="589" type="qcurve"/>
+      <point x="217" y="589" type="line"/>
+      <point x="217" y="407" type="line"/>
+      <point x="356" y="407" type="line"/>
+      <point x="356" y="307" type="line"/>
+      <point x="217" y="307" type="line"/>
+      <point x="217" y="121" type="line"/>
+      <point x="337" y="121" type="line"/>
+      <point x="388" y="121"/>
+      <point x="467" y="157"/>
+      <point x="520" y="220"/>
+      <point x="548" y="306"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

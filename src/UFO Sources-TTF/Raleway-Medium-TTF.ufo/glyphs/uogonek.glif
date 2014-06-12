@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek" format="1">
+  <advance width="601"/>
+  <unicode hex="0173"/>
+  <outline>
+    <contour>
+      <point x="232" y="-10" type="qcurve"/>
+      <point x="150" y="-10"/>
+      <point x="66" y="100"/>
+      <point x="66" y="209" type="qcurve"/>
+      <point x="66" y="522" type="line"/>
+      <point x="154" y="522" type="line"/>
+      <point x="154" y="226" type="line"/>
+      <point x="154" y="66"/>
+      <point x="265" y="66" type="qcurve"/>
+      <point x="319" y="66"/>
+      <point x="414" y="135"/>
+      <point x="437" y="195" type="qcurve"/>
+      <point x="437" y="522" type="line"/>
+      <point x="525" y="522" type="line"/>
+      <point x="525" y="108" type="line"/>
+      <point x="525" y="77"/>
+      <point x="553" y="76" type="qcurve"/>
+      <point x="553" y="0" type="line"/>
+      <point x="509" y="-27"/>
+      <point x="471" y="-70"/>
+      <point x="471" y="-92" type="qcurve"/>
+      <point x="471" y="-129"/>
+      <point x="526" y="-135" type="qcurve"/>
+      <point x="504" y="-181" type="line"/>
+      <point x="462" y="-173"/>
+      <point x="420" y="-132"/>
+      <point x="420" y="-104" type="qcurve"/>
+      <point x="420" y="-52"/>
+      <point x="496" y="-1" type="qcurve"/>
+      <point x="476" y="4"/>
+      <point x="452" y="31"/>
+      <point x="451" y="51" type="qcurve"/>
+      <point x="449" y="112" type="line"/>
+      <point x="414" y="53"/>
+      <point x="300" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

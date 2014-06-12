@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h" format="1">
+  <advance width="565"/>
+  <unicode hex="0068"/>
+  <outline>
+    <contour>
+      <point x="302" y="518" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="487" y="0" type="line"/>
+      <point x="467" y="0" type="line"/>
+      <point x="467" y="289" type="line"/>
+      <point x="467" y="507"/>
+      <point x="323" y="507" type="qcurve"/>
+      <point x="287" y="507"/>
+      <point x="217" y="479"/>
+      <point x="158" y="431"/>
+      <point x="114" y="366"/>
+      <point x="104" y="328" type="qcurve"/>
+      <point x="104" y="0" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="84" y="730" type="line"/>
+      <point x="104" y="730" type="line"/>
+      <point x="104" y="385" type="line"/>
+      <point x="120" y="417"/>
+      <point x="167" y="470"/>
+      <point x="224" y="507"/>
+      <point x="289" y="527"/>
+      <point x="322" y="527" type="qcurve"/>
+      <point x="403" y="527"/>
+      <point x="487" y="407"/>
+      <point x="487" y="289" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

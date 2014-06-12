@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etilde" format="1">
+  <advance width="578"/>
+  <unicode hex="1EBC"/>
+  <outline>
+    <contour>
+      <point x="161" y="710" type="line"/>
+      <point x="621" y="710" type="line"/>
+      <point x="596" y="589" type="line"/>
+      <point x="272" y="589" type="line"/>
+      <point x="236" y="418" type="line"/>
+      <point x="515" y="418" type="line"/>
+      <point x="491" y="306" type="line"/>
+      <point x="212" y="306" type="line"/>
+      <point x="173" y="121" type="line"/>
+      <point x="505" y="121" type="line"/>
+      <point x="479" y="0" type="line"/>
+      <point x="10" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="463" y="788" type="qcurve"/>
+      <point x="442" y="788"/>
+      <point x="412" y="802"/>
+      <point x="387" y="819"/>
+      <point x="363" y="833"/>
+      <point x="347" y="833" type="qcurve"/>
+      <point x="331" y="833"/>
+      <point x="310" y="819"/>
+      <point x="298" y="801"/>
+      <point x="293" y="786"/>
+      <point x="293" y="785" type="qcurve"/>
+      <point x="219" y="785" type="line"/>
+      <point x="221" y="794"/>
+      <point x="241" y="837"/>
+      <point x="277" y="880"/>
+      <point x="328" y="913"/>
+      <point x="360" y="913" type="qcurve"/>
+      <point x="382" y="913"/>
+      <point x="410" y="898"/>
+      <point x="434" y="881"/>
+      <point x="458" y="866"/>
+      <point x="475" y="866" type="qcurve"/>
+      <point x="492" y="866"/>
+      <point x="515" y="880"/>
+      <point x="529" y="898"/>
+      <point x="536" y="914"/>
+      <point x="536" y="916" type="qcurve"/>
+      <point x="609" y="916" type="line"/>
+      <point x="607" y="909"/>
+      <point x="587" y="867"/>
+      <point x="550" y="823"/>
+      <point x="497" y="788"/>
+    </contour>
+  </outline>
+</glyph>

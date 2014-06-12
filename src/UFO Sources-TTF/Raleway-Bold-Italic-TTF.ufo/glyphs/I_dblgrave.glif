@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idblgrave" format="1">
+  <advance width="285"/>
+  <unicode hex="0208"/>
+  <outline>
+    <contour>
+      <point x="161" y="709" type="line"/>
+      <point x="298" y="709" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="10" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="918" type="line"/>
+      <point x="358" y="918" type="line"/>
+      <point x="378" y="799" type="line"/>
+      <point x="305" y="781" type="line"/>
+    </contour>
+    <contour>
+      <point x="99" y="918" type="line"/>
+      <point x="203" y="918" type="line"/>
+      <point x="221" y="799" type="line"/>
+      <point x="149" y="781" type="line"/>
+    </contour>
+  </outline>
+</glyph>

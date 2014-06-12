@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otilde" format="1">
+  <advance width="748"/>
+  <unicode hex="00D5"/>
+  <outline>
+    <contour>
+      <point x="373" y="-5" type="qcurve"/>
+      <point x="298" y="-5"/>
+      <point x="175" y="56"/>
+      <point x="87" y="157"/>
+      <point x="39" y="287"/>
+      <point x="39" y="355" type="qcurve"/>
+      <point x="39" y="426"/>
+      <point x="90" y="556"/>
+      <point x="180" y="656"/>
+      <point x="303" y="715"/>
+      <point x="375" y="715" type="qcurve"/>
+      <point x="450" y="715"/>
+      <point x="572" y="652"/>
+      <point x="660" y="550"/>
+      <point x="708" y="421"/>
+      <point x="708" y="354" type="qcurve"/>
+      <point x="708" y="283"/>
+      <point x="657" y="153"/>
+      <point x="568" y="54"/>
+      <point x="445" y="-5"/>
+    </contour>
+    <contour>
+      <point x="130" y="355" type="qcurve"/>
+      <point x="130" y="301"/>
+      <point x="165" y="200"/>
+      <point x="229" y="122"/>
+      <point x="319" y="76"/>
+      <point x="374" y="76" type="qcurve"/>
+      <point x="431" y="76"/>
+      <point x="521" y="125"/>
+      <point x="584" y="204"/>
+      <point x="617" y="304"/>
+      <point x="617" y="355" type="qcurve"/>
+      <point x="617" y="409"/>
+      <point x="582" y="510"/>
+      <point x="517" y="587"/>
+      <point x="428" y="633"/>
+      <point x="374" y="633" type="qcurve"/>
+      <point x="317" y="633"/>
+      <point x="227" y="585"/>
+      <point x="164" y="507"/>
+      <point x="130" y="407"/>
+    </contour>
+    <contour>
+      <point x="437" y="813" type="qcurve"/>
+      <point x="414" y="813"/>
+      <point x="381" y="826"/>
+      <point x="352" y="842"/>
+      <point x="324" y="855"/>
+      <point x="308" y="855" type="qcurve"/>
+      <point x="291" y="855"/>
+      <point x="272" y="841"/>
+      <point x="262" y="824"/>
+      <point x="259" y="808"/>
+      <point x="259" y="807" type="qcurve"/>
+      <point x="207" y="807" type="line"/>
+      <point x="207" y="813"/>
+      <point x="216" y="847"/>
+      <point x="238" y="883"/>
+      <point x="276" y="910"/>
+      <point x="306" y="910" type="qcurve"/>
+      <point x="327" y="910"/>
+      <point x="359" y="897"/>
+      <point x="388" y="880"/>
+      <point x="417" y="867"/>
+      <point x="435" y="867" type="qcurve"/>
+      <point x="454" y="867"/>
+      <point x="476" y="881"/>
+      <point x="488" y="899"/>
+      <point x="491" y="914"/>
+      <point x="491" y="916" type="qcurve"/>
+      <point x="543" y="916" type="line"/>
+      <point x="543" y="910"/>
+      <point x="534" y="877"/>
+      <point x="510" y="841"/>
+      <point x="469" y="813"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

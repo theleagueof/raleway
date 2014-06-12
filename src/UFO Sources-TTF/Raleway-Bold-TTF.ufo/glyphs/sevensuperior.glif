@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sevensuperior" format="1">
+  <advance width="388"/>
+  <unicode hex="2077"/>
+  <outline>
+    <contour>
+      <point x="263" y="736" type="line"/>
+      <point x="24" y="736" type="line"/>
+      <point x="24" y="815" type="line"/>
+      <point x="388" y="815" type="line"/>
+      <point x="140" y="394" type="line"/>
+      <point x="50" y="394" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

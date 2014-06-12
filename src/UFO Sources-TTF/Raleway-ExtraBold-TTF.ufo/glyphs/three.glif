@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three" format="1">
+  <advance width="569"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="393" y="237" type="qcurve"/>
+      <point x="424" y="231"/>
+      <point x="476" y="200"/>
+      <point x="513" y="153"/>
+      <point x="533" y="92"/>
+      <point x="533" y="57" type="qcurve"/>
+      <point x="533" y="10"/>
+      <point x="495" y="-65"/>
+      <point x="424" y="-118"/>
+      <point x="324" y="-147"/>
+      <point x="262" y="-147" type="qcurve"/>
+      <point x="110" y="-147"/>
+      <point x="24" y="-58" type="qcurve"/>
+      <point x="110" y="56" type="line"/>
+      <point x="137" y="28"/>
+      <point x="206" y="-1"/>
+      <point x="254" y="-1" type="qcurve"/>
+      <point x="367" y="-1"/>
+      <point x="367" y="82" type="qcurve"/>
+      <point x="367" y="127"/>
+      <point x="300" y="173"/>
+      <point x="228" y="173" type="qcurve"/>
+      <point x="198" y="173" type="line"/>
+      <point x="198" y="288" type="line"/>
+      <point x="231" y="288" type="line"/>
+      <point x="287" y="288"/>
+      <point x="350" y="334"/>
+      <point x="350" y="372" type="qcurve"/>
+      <point x="350" y="405"/>
+      <point x="304" y="439"/>
+      <point x="266" y="439" type="qcurve"/>
+      <point x="225" y="439"/>
+      <point x="158" y="400"/>
+      <point x="135" y="364" type="qcurve"/>
+      <point x="34" y="480" type="line"/>
+      <point x="50" y="501"/>
+      <point x="102" y="537"/>
+      <point x="168" y="562"/>
+      <point x="244" y="576"/>
+      <point x="284" y="576" type="qcurve"/>
+      <point x="337" y="576"/>
+      <point x="425" y="551"/>
+      <point x="487" y="504"/>
+      <point x="521" y="439"/>
+      <point x="521" y="399" type="qcurve"/>
+      <point x="521" y="369"/>
+      <point x="502" y="315"/>
+      <point x="468" y="271"/>
+      <point x="421" y="242"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

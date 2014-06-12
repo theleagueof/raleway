@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction" format="1">
+  <advance width="154"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="-216" y="27" type="line"/>
+      <point x="63" y="367" type="line"/>
+      <point x="335" y="714" type="line"/>
+      <point x="370" y="684" type="line"/>
+      <point x="91" y="344" type="line"/>
+      <point x="-182" y="-4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

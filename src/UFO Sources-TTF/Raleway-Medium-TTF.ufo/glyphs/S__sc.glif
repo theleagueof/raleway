@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="S.sc" format="1">
+  <advance width="525"/>
+  <outline>
+    <contour>
+      <point x="306" y="729" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="306" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="428" y="427" type="line"/>
+      <point x="405" y="450"/>
+      <point x="320" y="484"/>
+      <point x="267" y="484" type="qcurve"/>
+      <point x="199" y="484"/>
+      <point x="136" y="440"/>
+      <point x="136" y="401" type="qcurve"/>
+      <point x="136" y="381"/>
+      <point x="155" y="353"/>
+      <point x="193" y="333"/>
+      <point x="252" y="318"/>
+      <point x="291" y="309" type="qcurve"/>
+      <point x="337" y="299"/>
+      <point x="411" y="275"/>
+      <point x="463" y="240"/>
+      <point x="491" y="188"/>
+      <point x="491" y="151" type="qcurve"/>
+      <point x="491" y="110"/>
+      <point x="457" y="50"/>
+      <point x="399" y="12"/>
+      <point x="320" y="-6"/>
+      <point x="274" y="-6" type="qcurve"/>
+      <point x="205" y="-6"/>
+      <point x="82" y="33"/>
+      <point x="31" y="70" type="qcurve"/>
+      <point x="69" y="138" type="line"/>
+      <point x="98" y="110"/>
+      <point x="207" y="66"/>
+      <point x="276" y="66" type="qcurve"/>
+      <point x="336" y="66"/>
+      <point x="405" y="105"/>
+      <point x="405" y="143" type="qcurve"/>
+      <point x="405" y="165"/>
+      <point x="383" y="195"/>
+      <point x="339" y="217"/>
+      <point x="276" y="234"/>
+      <point x="235" y="243" type="qcurve"/>
+      <point x="190" y="253"/>
+      <point x="122" y="277"/>
+      <point x="77" y="311"/>
+      <point x="54" y="359"/>
+      <point x="54" y="392" type="qcurve"/>
+      <point x="54" y="432"/>
+      <point x="87" y="493"/>
+      <point x="144" y="534"/>
+      <point x="222" y="555"/>
+      <point x="268" y="555" type="qcurve"/>
+      <point x="328" y="555"/>
+      <point x="426" y="521"/>
+      <point x="464" y="492" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

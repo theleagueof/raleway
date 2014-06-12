@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="1">
+  <advance width="390"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="195" y="520" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="53" y="672" type="line"/>
+      <point x="53" y="709" type="line"/>
+      <point x="338" y="709" type="line"/>
+      <point x="338" y="672" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

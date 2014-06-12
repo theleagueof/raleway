@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="566"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="283" y="525" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="90" y="580" type="line"/>
+      <point x="90" y="720" type="line"/>
+      <point x="246" y="720" type="line"/>
+      <point x="246" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="580" type="line"/>
+      <point x="320" y="720" type="line"/>
+      <point x="476" y="720" type="line"/>
+      <point x="476" y="580" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

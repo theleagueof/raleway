@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii61352" format="1">
+  <advance width="1098"/>
+  <unicode hex="2116"/>
+  <outline>
+    <contour>
+      <point x="119" y="671" type="line"/>
+      <point x="119" y="0" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="99" y="710" type="line"/>
+      <point x="114" y="710" type="line"/>
+      <point x="657" y="29" type="line"/>
+      <point x="657" y="709" type="line"/>
+      <point x="677" y="709" type="line"/>
+      <point x="677" y="0" type="line"/>
+      <point x="654" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="901" y="357" type="qcurve"/>
+      <point x="864" y="357"/>
+      <point x="800" y="386"/>
+      <point x="753" y="435"/>
+      <point x="726" y="499"/>
+      <point x="726" y="535" type="qcurve"/>
+      <point x="726" y="572"/>
+      <point x="753" y="637"/>
+      <point x="800" y="686"/>
+      <point x="864" y="715"/>
+      <point x="901" y="715" type="qcurve"/>
+      <point x="938" y="715"/>
+      <point x="1003" y="686"/>
+      <point x="1051" y="637"/>
+      <point x="1078" y="572"/>
+      <point x="1078" y="535" type="qcurve"/>
+      <point x="1078" y="499"/>
+      <point x="1051" y="435"/>
+      <point x="1003" y="386"/>
+      <point x="938" y="357"/>
+    </contour>
+    <contour>
+      <point x="748" y="534" type="qcurve"/>
+      <point x="748" y="501"/>
+      <point x="772" y="444"/>
+      <point x="814" y="401"/>
+      <point x="869" y="376"/>
+      <point x="901" y="376" type="qcurve"/>
+      <point x="933" y="376"/>
+      <point x="989" y="402"/>
+      <point x="1031" y="445"/>
+      <point x="1056" y="503"/>
+      <point x="1056" y="536" type="qcurve"/>
+      <point x="1056" y="569"/>
+      <point x="1031" y="627"/>
+      <point x="989" y="670"/>
+      <point x="933" y="695"/>
+      <point x="901" y="695" type="qcurve"/>
+      <point x="870" y="695"/>
+      <point x="814" y="670"/>
+      <point x="772" y="626"/>
+      <point x="748" y="567"/>
+    </contour>
+  </outline>
+</glyph>

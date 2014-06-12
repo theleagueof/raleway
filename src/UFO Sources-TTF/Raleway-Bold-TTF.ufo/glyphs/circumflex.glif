@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="1">
+  <advance width="369"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="185" y="524" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="30" y="629" type="line"/>
+      <point x="136" y="730" type="line"/>
+      <point x="233" y="730" type="line"/>
+      <point x="339" y="629" type="line"/>
+      <point x="270" y="597" type="line"/>
+      <point x="185" y="660" type="line"/>
+      <point x="100" y="597" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

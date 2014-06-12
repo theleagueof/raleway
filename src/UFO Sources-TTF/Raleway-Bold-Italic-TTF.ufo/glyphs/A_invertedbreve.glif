@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ainvertedbreve" format="1">
+  <advance width="645"/>
+  <unicode hex="0202"/>
+  <outline>
+    <contour>
+      <point x="352" y="710" type="line"/>
+      <point x="475" y="710" type="line"/>
+      <point x="578" y="0" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="414" y="177" type="line"/>
+      <point x="185" y="177" type="line"/>
+      <point x="89" y="0" type="line"/>
+      <point x="-53" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="411" y="274" type="line"/>
+      <point x="380" y="553" type="line"/>
+      <point x="228" y="274" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="782" type="line"/>
+      <point x="307" y="811"/>
+      <point x="336" y="860"/>
+      <point x="378" y="896"/>
+      <point x="429" y="916"/>
+      <point x="456" y="916" type="qcurve"/>
+      <point x="505" y="916"/>
+      <point x="559" y="856"/>
+      <point x="559" y="812" type="qcurve"/>
+      <point x="559" y="797"/>
+      <point x="556" y="782" type="qcurve"/>
+      <point x="485" y="782" type="line"/>
+      <point x="486" y="790"/>
+      <point x="487" y="804"/>
+      <point x="487" y="810" type="qcurve"/>
+      <point x="487" y="856"/>
+      <point x="445" y="856" type="qcurve"/>
+      <point x="387" y="856"/>
+      <point x="372" y="782" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

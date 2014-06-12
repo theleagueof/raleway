@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Utilde" format="1">
+  <advance width="755"/>
+  <unicode hex="0168"/>
+  <outline>
+    <contour>
+      <point x="377" y="76" type="qcurve"/>
+      <point x="439" y="76"/>
+      <point x="521" y="124"/>
+      <point x="570" y="201"/>
+      <point x="590" y="300"/>
+      <point x="590" y="351" type="qcurve"/>
+      <point x="590" y="710" type="line"/>
+      <point x="680" y="710" type="line"/>
+      <point x="680" y="351" type="line"/>
+      <point x="680" y="279"/>
+      <point x="647" y="150"/>
+      <point x="575" y="52"/>
+      <point x="460" y="-5"/>
+      <point x="378" y="-5" type="qcurve"/>
+      <point x="293" y="-5"/>
+      <point x="177" y="55"/>
+      <point x="106" y="154"/>
+      <point x="75" y="283"/>
+      <point x="75" y="351" type="qcurve"/>
+      <point x="75" y="710" type="line"/>
+      <point x="165" y="710" type="line"/>
+      <point x="165" y="351" type="line"/>
+      <point x="165" y="298"/>
+      <point x="186" y="199"/>
+      <point x="235" y="123"/>
+      <point x="316" y="76"/>
+    </contour>
+    <contour>
+      <point x="440" y="813" type="qcurve"/>
+      <point x="417" y="813"/>
+      <point x="384" y="826"/>
+      <point x="355" y="842"/>
+      <point x="327" y="855"/>
+      <point x="311" y="855" type="qcurve"/>
+      <point x="294" y="855"/>
+      <point x="275" y="841"/>
+      <point x="265" y="824"/>
+      <point x="262" y="808"/>
+      <point x="262" y="807" type="qcurve"/>
+      <point x="210" y="807" type="line"/>
+      <point x="210" y="813"/>
+      <point x="219" y="847"/>
+      <point x="241" y="883"/>
+      <point x="279" y="910"/>
+      <point x="309" y="910" type="qcurve"/>
+      <point x="330" y="910"/>
+      <point x="362" y="897"/>
+      <point x="391" y="880"/>
+      <point x="420" y="867"/>
+      <point x="438" y="867" type="qcurve"/>
+      <point x="457" y="867"/>
+      <point x="479" y="881"/>
+      <point x="491" y="899"/>
+      <point x="494" y="914"/>
+      <point x="494" y="916" type="qcurve"/>
+      <point x="546" y="916" type="line"/>
+      <point x="546" y="910"/>
+      <point x="537" y="877"/>
+      <point x="513" y="841"/>
+      <point x="472" y="813"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iogonek" format="1">
+  <advance width="273"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="145" y="-188" type="line"/>
+      <point x="96" y="-180"/>
+      <point x="46" y="-135"/>
+      <point x="46" y="-106" type="qcurve"/>
+      <point x="46" y="-51"/>
+      <point x="125" y="0" type="qcurve"/>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="710" type="line"/>
+      <point x="192" y="710" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="150" y="-26"/>
+      <point x="112" y="-68"/>
+      <point x="112" y="-89" type="qcurve"/>
+      <point x="112" y="-126"/>
+      <point x="170" y="-130" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

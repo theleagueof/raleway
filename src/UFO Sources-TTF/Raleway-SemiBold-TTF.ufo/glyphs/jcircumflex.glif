@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex" format="1">
+  <advance width="242"/>
+  <unicode hex="0135"/>
+  <outline>
+    <contour>
+      <point x="5" y="-191" type="qcurve"/>
+      <point x="-31" y="-191"/>
+      <point x="-96" y="-169"/>
+      <point x="-122" y="-146" type="qcurve"/>
+      <point x="-73" y="-72" type="line"/>
+      <point x="-59" y="-84"/>
+      <point x="-25" y="-95"/>
+      <point x="-8" y="-95" type="qcurve"/>
+      <point x="21" y="-95"/>
+      <point x="66" y="-52"/>
+      <point x="66" y="-19" type="qcurve"/>
+      <point x="66" y="523" type="line"/>
+      <point x="176" y="523" type="line"/>
+      <point x="176" y="-11" type="line"/>
+      <point x="176" y="-51"/>
+      <point x="148" y="-117"/>
+      <point x="102" y="-165"/>
+      <point x="39" y="-191"/>
+    </contour>
+    <contour>
+      <point x="-22" y="635" type="line"/>
+      <point x="82" y="730" type="line"/>
+      <point x="161" y="730" type="line"/>
+      <point x="265" y="635" type="line"/>
+      <point x="206" y="607" type="line"/>
+      <point x="121" y="670" type="line"/>
+      <point x="36" y="607" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

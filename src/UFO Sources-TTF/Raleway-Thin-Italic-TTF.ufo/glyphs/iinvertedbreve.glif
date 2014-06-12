@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iinvertedbreve" format="1">
+  <advance width="182"/>
+  <unicode hex="020B"/>
+  <outline>
+    <contour>
+      <point x="127" y="519" type="line"/>
+      <point x="147" y="519" type="line"/>
+      <point x="37" y="0" type="line"/>
+      <point x="17" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="653" type="line"/>
+      <point x="101" y="668"/>
+      <point x="117" y="695"/>
+      <point x="139" y="717"/>
+      <point x="168" y="730"/>
+      <point x="184" y="730" type="qcurve"/>
+      <point x="213" y="730"/>
+      <point x="241" y="692"/>
+      <point x="241" y="668" type="qcurve"/>
+      <point x="241" y="658"/>
+      <point x="240" y="653" type="qcurve"/>
+      <point x="222" y="653" type="line"/>
+      <point x="222" y="656"/>
+      <point x="223" y="662"/>
+      <point x="223" y="665" type="qcurve"/>
+      <point x="223" y="713"/>
+      <point x="183" y="713" type="qcurve"/>
+      <point x="157" y="713"/>
+      <point x="122" y="676"/>
+      <point x="117" y="653" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

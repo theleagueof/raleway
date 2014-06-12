@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wcircumflex" format="1">
+  <advance width="1055"/>
+  <unicode hex="0174"/>
+  <outline>
+    <contour>
+      <point x="360" y="807" type="line"/>
+      <point x="470" y="915" type="line"/>
+      <point x="585" y="915" type="line"/>
+      <point x="694" y="807" type="line"/>
+      <point x="612" y="771" type="line"/>
+      <point x="527" y="834" type="line"/>
+      <point x="442" y="771" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="709" type="line"/>
+      <point x="455" y="709" type="line"/>
+      <point x="527" y="482" type="line"/>
+      <point x="599" y="709" type="line"/>
+      <point x="751" y="709" type="line"/>
+      <point x="632" y="379" type="line"/>
+      <point x="704" y="188" type="line"/>
+      <point x="882" y="710" type="line"/>
+      <point x="1061" y="710" type="line"/>
+      <point x="777" y="0" type="line"/>
+      <point x="640" y="0" type="line"/>
+      <point x="527" y="278" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="-6" y="710" type="line"/>
+      <point x="172" y="710" type="line"/>
+      <point x="351" y="188" type="line"/>
+      <point x="421" y="379" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

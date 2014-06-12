@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="1">
+  <advance width="251"/>
+  <unicode hex="0142"/>
+  <outline>
+    <contour>
+      <point x="20" y="321" type="line"/>
+      <point x="120" y="402" type="line"/>
+      <point x="190" y="730" type="line"/>
+      <point x="224" y="730" type="line"/>
+      <point x="161" y="435" type="line"/>
+      <point x="265" y="519" type="line"/>
+      <point x="278" y="498" type="line"/>
+      <point x="153" y="397" type="line"/>
+      <point x="88" y="93" type="line"/>
+      <point x="85" y="81"/>
+      <point x="85" y="72" type="qcurve"/>
+      <point x="85" y="50"/>
+      <point x="112" y="26"/>
+      <point x="136" y="26" type="qcurve"/>
+      <point x="147" y="26"/>
+      <point x="176" y="31"/>
+      <point x="190" y="36" type="qcurve"/>
+      <point x="192" y="8" type="line"/>
+      <point x="176" y="3"/>
+      <point x="131" y="-5"/>
+      <point x="115" y="-5" type="qcurve"/>
+      <point x="84" y="-5"/>
+      <point x="49" y="29"/>
+      <point x="49" y="58" type="qcurve"/>
+      <point x="49" y="70"/>
+      <point x="52" y="82" type="qcurve"/>
+      <point x="112" y="364" type="line"/>
+      <point x="32" y="300" type="line"/>
+    </contour>
+  </outline>
+</glyph>

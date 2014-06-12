@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uacute" format="1">
+  <advance width="755"/>
+  <unicode hex="00DA"/>
+  <outline>
+    <contour>
+      <point x="393" y="795" type="line"/>
+      <point x="335" y="815" type="line"/>
+      <point x="393" y="916" type="line"/>
+      <point x="481" y="916" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="76" type="qcurve"/>
+      <point x="439" y="76"/>
+      <point x="521" y="124"/>
+      <point x="570" y="201"/>
+      <point x="590" y="300"/>
+      <point x="590" y="351" type="qcurve"/>
+      <point x="590" y="710" type="line"/>
+      <point x="680" y="710" type="line"/>
+      <point x="680" y="351" type="line"/>
+      <point x="680" y="279"/>
+      <point x="647" y="150"/>
+      <point x="575" y="52"/>
+      <point x="460" y="-5"/>
+      <point x="378" y="-5" type="qcurve"/>
+      <point x="293" y="-5"/>
+      <point x="177" y="55"/>
+      <point x="106" y="154"/>
+      <point x="75" y="283"/>
+      <point x="75" y="351" type="qcurve"/>
+      <point x="75" y="710" type="line"/>
+      <point x="165" y="710" type="line"/>
+      <point x="165" y="351" type="line"/>
+      <point x="165" y="298"/>
+      <point x="186" y="199"/>
+      <point x="235" y="123"/>
+      <point x="316" y="76"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

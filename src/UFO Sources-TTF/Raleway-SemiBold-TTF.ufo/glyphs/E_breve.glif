@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ebreve" format="1">
+  <advance width="603"/>
+  <unicode hex="0114"/>
+  <outline>
+    <contour>
+      <point x="567" y="99" type="line"/>
+      <point x="567" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="710" type="line"/>
+      <point x="558" y="710" type="line"/>
+      <point x="558" y="611" type="line"/>
+      <point x="192" y="611" type="line"/>
+      <point x="192" y="409" type="line"/>
+      <point x="509" y="409" type="line"/>
+      <point x="509" y="316" type="line"/>
+      <point x="192" y="316" type="line"/>
+      <point x="192" y="99" type="line"/>
+    </contour>
+    <contour>
+      <point x="330" y="845" type="qcurve"/>
+      <point x="352" y="845"/>
+      <point x="385" y="885"/>
+      <point x="388" y="916" type="qcurve"/>
+      <point x="449" y="916" type="line"/>
+      <point x="449" y="890"/>
+      <point x="431" y="845"/>
+      <point x="399" y="812"/>
+      <point x="355" y="794"/>
+      <point x="330" y="794" type="qcurve"/>
+      <point x="304" y="794"/>
+      <point x="261" y="812"/>
+      <point x="229" y="845"/>
+      <point x="211" y="890"/>
+      <point x="211" y="916" type="qcurve"/>
+      <point x="272" y="916" type="line"/>
+      <point x="272" y="887"/>
+      <point x="307" y="845"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="racute" format="1">
+  <advance width="341"/>
+  <unicode hex="0155"/>
+  <outline>
+    <contour>
+      <point x="191" y="629" type="line"/>
+      <point x="156" y="645" type="line"/>
+      <point x="217" y="730" type="line"/>
+      <point x="275" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="324" y="475" type="line"/>
+      <point x="254" y="473"/>
+      <point x="149" y="394"/>
+      <point x="128" y="325" type="qcurve"/>
+      <point x="128" y="0" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="78" y="520" type="line"/>
+      <point x="126" y="520" type="line"/>
+      <point x="126" y="392" type="line"/>
+      <point x="153" y="447"/>
+      <point x="242" y="516"/>
+      <point x="293" y="521" type="qcurve"/>
+      <point x="303" y="522"/>
+      <point x="319" y="522"/>
+      <point x="324" y="522" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

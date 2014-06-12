@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ibreve" format="1">
+  <advance width="223"/>
+  <unicode hex="012C"/>
+  <outline>
+    <contour>
+      <point x="181" y="709" type="line"/>
+      <point x="216" y="709" type="line"/>
+      <point x="65" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="219" y="856" type="qcurve"/>
+      <point x="239" y="856"/>
+      <point x="278" y="892"/>
+      <point x="286" y="918" type="qcurve"/>
+      <point x="310" y="918" type="line"/>
+      <point x="306" y="901"/>
+      <point x="287" y="870"/>
+      <point x="261" y="847"/>
+      <point x="230" y="834"/>
+      <point x="215" y="834" type="qcurve"/>
+      <point x="187" y="834"/>
+      <point x="152" y="872"/>
+      <point x="152" y="901" type="qcurve"/>
+      <point x="152" y="906"/>
+      <point x="153" y="913"/>
+      <point x="154" y="918" type="qcurve"/>
+      <point x="180" y="918" type="line"/>
+      <point x="178" y="910"/>
+      <point x="178" y="906" type="qcurve"/>
+      <point x="178" y="886"/>
+      <point x="201" y="856"/>
+    </contour>
+  </outline>
+</glyph>

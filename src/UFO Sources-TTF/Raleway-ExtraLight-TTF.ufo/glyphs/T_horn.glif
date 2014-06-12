@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="1">
+  <advance width="600"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="367" y="563" type="line"/>
+      <point x="411" y="563"/>
+      <point x="486" y="525"/>
+      <point x="540" y="463"/>
+      <point x="570" y="385"/>
+      <point x="570" y="345" type="qcurve"/>
+      <point x="570" y="303"/>
+      <point x="542" y="224"/>
+      <point x="490" y="164"/>
+      <point x="418" y="127"/>
+      <point x="374" y="127" type="qcurve"/>
+      <point x="131" y="127" type="line"/>
+      <point x="131" y="0" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="96" y="710" type="line"/>
+      <point x="131" y="710" type="line"/>
+      <point x="131" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="373" y="159" type="line"/>
+      <point x="411" y="159"/>
+      <point x="471" y="191"/>
+      <point x="513" y="244"/>
+      <point x="536" y="310"/>
+      <point x="536" y="345" type="qcurve"/>
+      <point x="536" y="381"/>
+      <point x="509" y="448"/>
+      <point x="463" y="499"/>
+      <point x="401" y="530"/>
+      <point x="366" y="530" type="qcurve"/>
+      <point x="131" y="530" type="line"/>
+      <point x="131" y="159" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

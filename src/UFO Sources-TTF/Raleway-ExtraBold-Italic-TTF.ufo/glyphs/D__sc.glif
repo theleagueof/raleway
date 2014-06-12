@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D.sc" format="1">
+  <advance width="619"/>
+  <outline>
+    <contour>
+      <point x="293" y="707" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="118" y="563" type="line"/>
+      <point x="343" y="563" type="line"/>
+      <point x="406" y="563"/>
+      <point x="499" y="528"/>
+      <point x="560" y="467"/>
+      <point x="590" y="385"/>
+      <point x="590" y="338" type="qcurve"/>
+      <point x="590" y="264"/>
+      <point x="534" y="140"/>
+      <point x="436" y="50"/>
+      <point x="302" y="0"/>
+      <point x="223" y="0" type="qcurve"/>
+      <point x="-2" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="249" y="125" type="line"/>
+      <point x="293" y="125"/>
+      <point x="365" y="156"/>
+      <point x="415" y="208"/>
+      <point x="442" y="277"/>
+      <point x="442" y="316" type="qcurve"/>
+      <point x="442" y="371"/>
+      <point x="378" y="438"/>
+      <point x="316" y="438" type="qcurve"/>
+      <point x="234" y="438" type="line"/>
+      <point x="168" y="125" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="448"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="172" y="-130" type="line"/>
+      <point x="172" y="123" type="line"/>
+      <point x="40" y="123" type="line"/>
+      <point x="40" y="222" type="line"/>
+      <point x="172" y="222" type="line"/>
+      <point x="172" y="334" type="line"/>
+      <point x="40" y="334" type="line"/>
+      <point x="40" y="433" type="line"/>
+      <point x="172" y="433" type="line"/>
+      <point x="172" y="775" type="line"/>
+      <point x="277" y="775" type="line"/>
+      <point x="277" y="433" type="line"/>
+      <point x="408" y="433" type="line"/>
+      <point x="408" y="334" type="line"/>
+      <point x="277" y="334" type="line"/>
+      <point x="277" y="222" type="line"/>
+      <point x="408" y="222" type="line"/>
+      <point x="408" y="123" type="line"/>
+      <point x="277" y="123" type="line"/>
+      <point x="277" y="-130" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="252"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="109" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="33" y="-125" type="line"/>
+      <point x="48" y="-132"/>
+      <point x="94" y="-143"/>
+      <point x="120" y="-143" type="qcurve"/>
+      <point x="178" y="-143"/>
+      <point x="178" y="-105" type="qcurve"/>
+      <point x="178" y="-84"/>
+      <point x="151" y="-67"/>
+      <point x="130" y="-67" type="qcurve"/>
+      <point x="109" y="-67"/>
+      <point x="63" y="-78"/>
+      <point x="49" y="-83" type="qcurve"/>
+      <point x="103" y="11" type="line"/>
+      <point x="121" y="0" type="line"/>
+      <point x="88" y="-57" type="line"/>
+      <point x="98" y="-53"/>
+      <point x="122" y="-51"/>
+      <point x="130" y="-51" type="qcurve"/>
+      <point x="198" y="-51"/>
+      <point x="198" y="-105" type="qcurve"/>
+      <point x="198" y="-135"/>
+      <point x="155" y="-162"/>
+      <point x="117" y="-162" type="qcurve"/>
+      <point x="91" y="-162"/>
+      <point x="42" y="-151"/>
+      <point x="23" y="-143" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

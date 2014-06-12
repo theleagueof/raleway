@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adblgrave" format="1">
+  <advance width="647"/>
+  <unicode hex="0200"/>
+  <outline>
+    <contour>
+      <point x="406" y="710" type="line"/>
+      <point x="424" y="710" type="line"/>
+      <point x="566" y="0" type="line"/>
+      <point x="544" y="0" type="line"/>
+      <point x="493" y="254" type="line"/>
+      <point x="142" y="254" type="line"/>
+      <point x="-17" y="0" type="line"/>
+      <point x="-39" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="489" y="274" type="line"/>
+      <point x="409" y="681" type="line"/>
+      <point x="154" y="274" type="line"/>
+    </contour>
+    <contour>
+      <point x="444" y="918" type="line"/>
+      <point x="476" y="918" type="line"/>
+      <point x="522" y="845" type="line"/>
+      <point x="503" y="833" type="line"/>
+    </contour>
+    <contour>
+      <point x="348" y="918" type="line"/>
+      <point x="381" y="918" type="line"/>
+      <point x="426" y="845" type="line"/>
+      <point x="408" y="833" type="line"/>
+    </contour>
+  </outline>
+</glyph>
