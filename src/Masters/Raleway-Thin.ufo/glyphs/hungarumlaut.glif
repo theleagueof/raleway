@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="1">
+  <advance width="298"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="130" y="519" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="148" y="730" type="line"/>
+      <point x="114" y="730" type="line"/>
+      <point x="50" y="657" type="line"/>
+      <point x="66" y="645" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="730" type="line"/>
+      <point x="214" y="730" type="line"/>
+      <point x="150" y="657" type="line"/>
+      <point x="166" y="645" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

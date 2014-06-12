@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threeeighths" format="1">
+  <advance width="1049"/>
+  <unicode hex="215C"/>
+  <outline>
+    <component base="fraction" xOffset="406"/>
+    <component base="eight.denominator" xOffset="604"/>
+    <component base="three.numerator" xOffset="15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophe" format="1">
+  <advance width="518"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <contour>
+      <point x="379" y="730" type="line"/>
+      <point x="180" y="730" type="line"/>
+      <point x="191" y="675" type="line"/>
+      <point x="160" y="588" type="line"/>
+      <point x="280" y="556" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="526" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

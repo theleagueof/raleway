@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.denominator" format="1">
+  <advance width="439"/>
+  <outline>
+    <contour>
+      <point x="412" y="133" type="curve" smooth="yes"/>
+      <point x="412" y="182"/>
+      <point x="379" y="212"/>
+      <point x="333" y="235" type="curve"/>
+      <point x="369" y="251"/>
+      <point x="396" y="278"/>
+      <point x="396" y="317" type="curve" smooth="yes"/>
+      <point x="396" y="389"/>
+      <point x="302" y="440"/>
+      <point x="219" y="440" type="curve" smooth="yes"/>
+      <point x="136" y="440"/>
+      <point x="44" y="388"/>
+      <point x="44" y="315" type="curve" smooth="yes"/>
+      <point x="44" y="274"/>
+      <point x="73" y="249"/>
+      <point x="106" y="235" type="curve"/>
+      <point x="63" y="213"/>
+      <point x="27" y="187"/>
+      <point x="27" y="135" type="curve" smooth="yes"/>
+      <point x="27" y="54"/>
+      <point x="115" y="-6"/>
+      <point x="220" y="-6" type="curve" smooth="yes"/>
+      <point x="324" y="-6"/>
+      <point x="412" y="53"/>
+    </contour>
+    <contour>
+      <point x="302" y="145" type="curve" smooth="yes"/>
+      <point x="302" y="121"/>
+      <point x="263" y="103"/>
+      <point x="220" y="103" type="curve" smooth="yes"/>
+      <point x="179" y="103"/>
+      <point x="137" y="120"/>
+      <point x="137" y="145" type="curve" smooth="yes"/>
+      <point x="137" y="169"/>
+      <point x="174" y="186"/>
+      <point x="219" y="186" type="curve" smooth="yes"/>
+      <point x="262" y="186"/>
+      <point x="302" y="170"/>
+    </contour>
+    <contour>
+      <point x="152" y="305" type="curve" smooth="yes"/>
+      <point x="152" y="323"/>
+      <point x="183" y="335"/>
+      <point x="219" y="335" type="curve" smooth="yes"/>
+      <point x="255" y="335"/>
+      <point x="287" y="323"/>
+      <point x="287" y="305" type="curve" smooth="yes"/>
+      <point x="287" y="286"/>
+      <point x="251" y="275"/>
+      <point x="219" y="275" type="curve" smooth="yes"/>
+      <point x="187" y="275"/>
+      <point x="152" y="286"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,78 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="120821_1713_beta_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="Peso" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="80.0" />
+<data name="previewtext" value="@peperios" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.68561525327" />
+<!-- axis definitions -->
+<axis maximum="1000" minimum="0" name="Peso" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="Raleway-Thin-Italic.ufo">
+<location>
+<dimension name="Peso" xvalue="0" />
+</location>
+<!-- color for Raleway-Thin-Italic.ufo -->
+<color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
+</master>
+<master filename="Raleway-Medium-Italic.ufo">
+<location>
+<dimension name="Peso" xvalue="400" />
+</location>
+<!-- color for Raleway-Medium-Italic.ufo -->
+<color a="1.000000" b="1.000000" g="1.000000" r="0.500000" />
+</master>
+<master filename="Raleway-Black-Italic.ufo">
+<location>
+<dimension name="Peso" xvalue="1000" />
+</location>
+<!-- color for Raleway-Black-Italic.ufo -->
+<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="Raleway" sequence="" stylename="ExtraLight-Italic">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="Peso" xvalue="82.3500" />
+</location>
+</instance>
+<instance familyname="Raleway" sequence="" stylename="Light-Italic">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="Peso" xvalue="176.5000" />
+</location>
+</instance>
+<instance familyname="Raleway" sequence="" stylename="Regular-Italic">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="Peso" xvalue="282.3400" />
+</location>
+</instance>
+<instance familyname="Raleway" sequence="" stylename="SemiBold-Italic">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="Peso" xvalue="529.4000" />
+</location>
+</instance>
+<instance familyname="Raleway" sequence="" stylename="Bold-Italic">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="Peso" xvalue="670.6000" />
+</location>
+</instance>
+<instance familyname="Raleway" sequence="" stylename="ExtraBold-Italic">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="Peso" xvalue="823.5200" />
+</location>
+</instance>
+</designspace>
