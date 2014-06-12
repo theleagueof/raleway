@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcommaaccent" format="1">
+  <advance width="584"/>
+  <unicode hex="013B"/>
+  <outline>
+    <contour>
+      <point x="344" y="-213" type="line"/>
+      <point x="379" y="-136" type="line"/>
+      <point x="379" y="-48" type="line"/>
+      <point x="284" y="-48" type="line"/>
+      <point x="284" y="-136" type="line"/>
+      <point x="316" y="-136" type="line"/>
+      <point x="293" y="-213" type="line"/>
+    </contour>
+    <contour>
+      <point x="573" y="0" type="line"/>
+      <point x="573" y="99" type="line"/>
+      <point x="192" y="99" type="line"/>
+      <point x="192" y="710" type="line"/>
+      <point x="80" y="710" type="line"/>
+      <point x="80" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

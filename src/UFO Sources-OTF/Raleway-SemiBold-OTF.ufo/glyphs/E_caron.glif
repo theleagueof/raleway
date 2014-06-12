@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecaron" format="1">
+  <advance width="603"/>
+  <unicode hex="011A"/>
+  <outline>
+    <contour>
+      <point x="187" y="888" type="line"/>
+      <point x="291" y="793" type="line"/>
+      <point x="370" y="793" type="line"/>
+      <point x="474" y="888" type="line"/>
+      <point x="415" y="916" type="line"/>
+      <point x="330" y="853" type="line"/>
+      <point x="245" y="916" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="99" type="line"/>
+      <point x="192" y="316" type="line"/>
+      <point x="509" y="316" type="line"/>
+      <point x="509" y="409" type="line"/>
+      <point x="192" y="409" type="line"/>
+      <point x="192" y="611" type="line"/>
+      <point x="558" y="611" type="line"/>
+      <point x="558" y="710" type="line"/>
+      <point x="80" y="710" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="567" y="0" type="line"/>
+      <point x="567" y="99" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

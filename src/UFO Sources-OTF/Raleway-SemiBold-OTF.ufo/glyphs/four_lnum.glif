@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.lnum" format="1">
+  <advance width="581"/>
+  <outline>
+    <contour>
+      <point x="454" y="0" type="line"/>
+      <point x="454" y="172" type="line"/>
+      <point x="542" y="172" type="line"/>
+      <point x="542" y="271" type="line"/>
+      <point x="454" y="271" type="line"/>
+      <point x="454" y="710" type="line"/>
+      <point x="378" y="710" type="line"/>
+      <point x="27" y="270" type="line"/>
+      <point x="27" y="172" type="line"/>
+      <point x="344" y="172" type="line"/>
+      <point x="344" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="356" y="543" type="line"/>
+      <point x="356" y="271" type="line"/>
+      <point x="139" y="271" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

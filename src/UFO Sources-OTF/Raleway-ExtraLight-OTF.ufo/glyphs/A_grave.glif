@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="1">
+  <advance width="675"/>
+  <unicode hex="00C0"/>
+  <outline>
+    <contour>
+      <point x="16" y="0" type="line"/>
+      <point x="54" y="0" type="line"/>
+      <point x="159" y="245" type="line"/>
+      <point x="515" y="245" type="line"/>
+      <point x="620" y="0" type="line"/>
+      <point x="657" y="0" type="line"/>
+      <point x="352" y="710" type="line"/>
+      <point x="322" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="275" type="line"/>
+      <point x="337" y="666" type="line"/>
+      <point x="504" y="275" type="line"/>
+    </contour>
+    <contour>
+      <point x="345" y="826" type="line"/>
+      <point x="369" y="839" type="line"/>
+      <point x="306" y="918" type="line"/>
+      <point x="262" y="918" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

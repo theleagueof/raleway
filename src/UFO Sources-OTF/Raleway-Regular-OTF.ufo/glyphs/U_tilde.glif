@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Utilde" format="1">
+  <advance width="755"/>
+  <unicode hex="0168"/>
+  <outline>
+    <contour>
+      <point x="377" y="58" type="curve" smooth="yes"/>
+      <point x="201" y="58"/>
+      <point x="148" y="203"/>
+      <point x="148" y="352" type="curve" smooth="yes"/>
+      <point x="148" y="710" type="line"/>
+      <point x="79" y="710" type="line"/>
+      <point x="79" y="352" type="line" smooth="yes"/>
+      <point x="79" y="171"/>
+      <point x="153" y="-5"/>
+      <point x="378" y="-5" type="curve" smooth="yes"/>
+      <point x="596" y="-5"/>
+      <point x="677" y="161"/>
+      <point x="677" y="352" type="curve" smooth="yes"/>
+      <point x="677" y="710" type="line"/>
+      <point x="607" y="710" type="line"/>
+      <point x="607" y="352" type="line" smooth="yes"/>
+      <point x="607" y="207"/>
+      <point x="557" y="58"/>
+    </contour>
+    <contour>
+      <point x="440" y="825" type="curve" smooth="yes"/>
+      <point x="521" y="825"/>
+      <point x="538" y="904"/>
+      <point x="538" y="917" type="curve"/>
+      <point x="496" y="917" type="line"/>
+      <point x="496" y="913"/>
+      <point x="491" y="868"/>
+      <point x="439" y="868" type="curve" smooth="yes"/>
+      <point x="389" y="868"/>
+      <point x="367" y="910"/>
+      <point x="311" y="910" type="curve" smooth="yes"/>
+      <point x="236" y="910"/>
+      <point x="220" y="831"/>
+      <point x="220" y="817" type="curve"/>
+      <point x="262" y="817" type="line"/>
+      <point x="262" y="822"/>
+      <point x="268" y="865"/>
+      <point x="312" y="865" type="curve" smooth="yes"/>
+      <point x="354" y="865"/>
+      <point x="380" y="825"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="1">
+  <advance width="264"/>
+  <unicode hex="0142"/>
+  <outline>
+    <contour>
+      <point x="102" y="82" type="line" smooth="yes"/>
+      <point x="102" y="29"/>
+      <point x="136" y="-5"/>
+      <point x="187" y="-5" type="curve" smooth="yes"/>
+      <point x="208" y="-5"/>
+      <point x="243" y="1"/>
+      <point x="263" y="8" type="curve"/>
+      <point x="255" y="36" type="line"/>
+      <point x="238" y="30"/>
+      <point x="215" y="26"/>
+      <point x="200" y="26" type="curve" smooth="yes"/>
+      <point x="161" y="26"/>
+      <point x="135" y="50"/>
+      <point x="135" y="89" type="curve" smooth="yes"/>
+      <point x="135" y="395" type="line"/>
+      <point x="245" y="498" type="line"/>
+      <point x="227" y="519" type="line"/>
+      <point x="135" y="433" type="line"/>
+      <point x="135" y="730" type="line"/>
+      <point x="102" y="730" type="line"/>
+      <point x="102" y="403" type="line"/>
+      <point x="14" y="321" type="line"/>
+      <point x="32" y="300" type="line"/>
+      <point x="102" y="365" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

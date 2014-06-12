@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zdotaccent" format="1">
+  <advance width="493"/>
+  <unicode hex="017C"/>
+  <outline>
+    <contour>
+      <point x="26" y="0" type="line"/>
+      <point x="464" y="0" type="line"/>
+      <point x="464" y="94" type="line"/>
+      <point x="169" y="94" type="line"/>
+      <point x="459" y="442" type="line"/>
+      <point x="459" y="524" type="line"/>
+      <point x="38" y="524" type="line"/>
+      <point x="38" y="430" type="line"/>
+      <point x="318" y="430" type="line"/>
+      <point x="26" y="82" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="604" type="line"/>
+      <point x="310" y="730" type="line"/>
+      <point x="189" y="730" type="line"/>
+      <point x="189" y="604" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

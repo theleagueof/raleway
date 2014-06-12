@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek" format="1">
+  <advance width="600"/>
+  <unicode hex="0118"/>
+  <outline>
+    <contour>
+      <point x="232" y="144" type="line"/>
+      <point x="232" y="295" type="line"/>
+      <point x="512" y="295" type="line"/>
+      <point x="512" y="428" type="line"/>
+      <point x="232" y="428" type="line"/>
+      <point x="232" y="566" type="line"/>
+      <point x="558" y="566" type="line"/>
+      <point x="558" y="710" type="line"/>
+      <point x="68" y="710" type="line"/>
+      <point x="68" y="0" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="422" y="-34"/>
+      <point x="394" y="-74"/>
+      <point x="394" y="-112" type="curve" smooth="yes"/>
+      <point x="394" y="-156"/>
+      <point x="437" y="-194"/>
+      <point x="526" y="-205" type="curve"/>
+      <point x="557" y="-121" type="line"/>
+      <point x="513" y="-120"/>
+      <point x="492" y="-105"/>
+      <point x="492" y="-82" type="curve" smooth="yes"/>
+      <point x="492" y="-58"/>
+      <point x="517" y="-30"/>
+      <point x="567" y="0" type="curve"/>
+      <point x="567" y="144" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aringacute" format="1">
+  <advance width="675"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <contour>
+      <point x="464" y="918" type="line"/>
+      <point x="359" y="918" type="line"/>
+      <point x="306" y="816" type="line"/>
+      <point x="271" y="807"/>
+      <point x="249" y="783"/>
+      <point x="249" y="747" type="curve" smooth="yes"/>
+      <point x="249" y="721"/>
+      <point x="261" y="701"/>
+      <point x="280" y="688" type="curve"/>
+      <point x="7" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="200" y="193" type="line"/>
+      <point x="474" y="193" type="line"/>
+      <point x="549" y="0" type="line"/>
+      <point x="667" y="0" type="line"/>
+      <point x="395" y="689" type="line"/>
+      <point x="414" y="701"/>
+      <point x="426" y="721"/>
+      <point x="426" y="747" type="curve" smooth="yes"/>
+      <point x="426" y="777"/>
+      <point x="410" y="799"/>
+      <point x="385" y="810" type="curve"/>
+    </contour>
+    <contour>
+      <point x="220" y="276" type="line"/>
+      <point x="338" y="581" type="line"/>
+      <point x="452" y="276" type="line"/>
+    </contour>
+    <contour>
+      <point x="337" y="784" type="curve" smooth="yes"/>
+      <point x="360" y="784"/>
+      <point x="378" y="769"/>
+      <point x="378" y="747" type="curve" smooth="yes"/>
+      <point x="378" y="726"/>
+      <point x="359" y="710"/>
+      <point x="337" y="710" type="curve" smooth="yes"/>
+      <point x="314" y="710"/>
+      <point x="297" y="727"/>
+      <point x="297" y="747" type="curve" smooth="yes"/>
+      <point x="297" y="769"/>
+      <point x="315" y="784"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncommaaccent" format="1">
+  <advance width="772"/>
+  <unicode hex="0145"/>
+  <outline>
+    <contour>
+      <point x="393" y="-199" type="line"/>
+      <point x="418" y="-125" type="line"/>
+      <point x="418" y="-49" type="line"/>
+      <point x="355" y="-49" type="line"/>
+      <point x="355" y="-125" type="line"/>
+      <point x="375" y="-125" type="line"/>
+      <point x="358" y="-199" type="line"/>
+    </contour>
+    <contour>
+      <point x="622" y="0" type="line"/>
+      <point x="683" y="0" type="line"/>
+      <point x="683" y="709" type="line"/>
+      <point x="613" y="709" type="line"/>
+      <point x="613" y="119" type="line"/>
+      <point x="143" y="710" type="line"/>
+      <point x="89" y="710" type="line"/>
+      <point x="89" y="0" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="159" y="580" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

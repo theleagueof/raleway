@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.numerator" format="1">
+  <advance width="340"/>
+  <outline>
+    <contour>
+      <point x="62" y="331" type="line"/>
+      <point x="113" y="331" type="line"/>
+      <point x="421" y="730" type="line"/>
+      <point x="114" y="730" type="line"/>
+      <point x="105" y="686" type="line"/>
+      <point x="342" y="686" type="line"/>
+    </contour>
+  </outline>
+</glyph>

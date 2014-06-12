@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek" format="1">
+  <advance width="582"/>
+  <unicode hex="0118"/>
+  <outline>
+    <contour>
+      <point x="24" y="0" type="line"/>
+      <point x="234" y="0" type="line"/>
+      <point x="168" y="-42"/>
+      <point x="139" y="-77"/>
+      <point x="139" y="-114" type="curve" smooth="yes"/>
+      <point x="139" y="-143"/>
+      <point x="159" y="-166"/>
+      <point x="199" y="-175" type="curve"/>
+      <point x="225" y="-137" type="line"/>
+      <point x="197" y="-133"/>
+      <point x="183" y="-120"/>
+      <point x="183" y="-101" type="curve" smooth="yes"/>
+      <point x="183" y="-70"/>
+      <point x="209" y="-43"/>
+      <point x="282" y="0" type="curve"/>
+      <point x="478" y="0" type="line"/>
+      <point x="491" y="62" type="line"/>
+      <point x="106" y="62" type="line"/>
+      <point x="164" y="333" type="line"/>
+      <point x="492" y="333" type="line"/>
+      <point x="504" y="392" type="line"/>
+      <point x="176" y="392" type="line"/>
+      <point x="231" y="648" type="line"/>
+      <point x="607" y="648" type="line"/>
+      <point x="620" y="710" type="line"/>
+      <point x="175" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

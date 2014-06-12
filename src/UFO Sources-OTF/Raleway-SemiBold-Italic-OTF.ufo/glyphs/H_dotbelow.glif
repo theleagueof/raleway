@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hdotbelow" format="1">
+  <advance width="715"/>
+  <unicode hex="1E24"/>
+  <outline>
+    <contour>
+      <point x="15" y="0" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="195" y="313" type="line"/>
+      <point x="527" y="313" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="572" y="0" type="line"/>
+      <point x="723" y="710" type="line"/>
+      <point x="611" y="710" type="line"/>
+      <point x="548" y="413" type="line"/>
+      <point x="216" y="413" type="line"/>
+      <point x="279" y="710" type="line"/>
+      <point x="166" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="-189" type="line"/>
+      <point x="328" y="-73" type="line"/>
+      <point x="229" y="-73" type="line"/>
+      <point x="204" y="-189" type="line"/>
+    </contour>
+  </outline>
+</glyph>

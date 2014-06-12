@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zerosuperior" format="1">
+  <advance width="437"/>
+  <unicode hex="2070"/>
+  <outline>
+    <contour>
+      <point x="219" y="422" type="curve" smooth="yes"/>
+      <point x="328" y="422"/>
+      <point x="395" y="522"/>
+      <point x="395" y="616" type="curve" smooth="yes"/>
+      <point x="395" y="700"/>
+      <point x="335" y="810"/>
+      <point x="219" y="810" type="curve" smooth="yes"/>
+      <point x="110" y="810"/>
+      <point x="42" y="708"/>
+      <point x="42" y="616" type="curve" smooth="yes"/>
+      <point x="42" y="530"/>
+      <point x="102" y="423"/>
+    </contour>
+    <contour>
+      <point x="62" y="616" type="curve" smooth="yes"/>
+      <point x="62" y="690"/>
+      <point x="114" y="791"/>
+      <point x="219" y="791" type="curve" smooth="yes"/>
+      <point x="316" y="791"/>
+      <point x="375" y="698"/>
+      <point x="375" y="616" type="curve" smooth="yes"/>
+      <point x="375" y="542"/>
+      <point x="323" y="441"/>
+      <point x="219" y="441" type="curve" smooth="yes"/>
+      <point x="119" y="441"/>
+      <point x="62" y="534"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

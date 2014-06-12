@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ytilde" format="1">
+  <advance width="657"/>
+  <unicode hex="1EF8"/>
+  <outline>
+    <contour>
+      <point x="9" y="710" type="line"/>
+      <point x="272" y="256" type="line"/>
+      <point x="272" y="0" type="line"/>
+      <point x="384" y="0" type="line"/>
+      <point x="384" y="254" type="line"/>
+      <point x="649" y="710" type="line"/>
+      <point x="526" y="710" type="line"/>
+      <point x="328" y="354" type="line"/>
+      <point x="132" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="391" y="801" type="curve" smooth="yes"/>
+      <point x="480" y="801"/>
+      <point x="505" y="899"/>
+      <point x="505" y="916" type="curve"/>
+      <point x="442" y="916" type="line"/>
+      <point x="442" y="912"/>
+      <point x="437" y="867"/>
+      <point x="388" y="867" type="curve" smooth="yes"/>
+      <point x="339" y="867"/>
+      <point x="316" y="911"/>
+      <point x="257" y="911" type="curve" smooth="yes"/>
+      <point x="174" y="911"/>
+      <point x="150" y="817"/>
+      <point x="150" y="796" type="curve"/>
+      <point x="212" y="796" type="line"/>
+      <point x="212" y="800"/>
+      <point x="216" y="844"/>
+      <point x="261" y="844" type="curve" smooth="yes"/>
+      <point x="304" y="844"/>
+      <point x="330" y="801"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

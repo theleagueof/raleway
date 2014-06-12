@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Obreve" format="1">
+  <advance width="753"/>
+  <unicode hex="014E"/>
+  <outline>
+    <contour>
+      <point x="376" y="-5" type="curve" smooth="yes"/>
+      <point x="565" y="-5"/>
+      <point x="709" y="164"/>
+      <point x="709" y="355" type="curve" smooth="yes"/>
+      <point x="709" y="532"/>
+      <point x="575" y="715"/>
+      <point x="377" y="715" type="curve" smooth="yes"/>
+      <point x="188" y="715"/>
+      <point x="44" y="544"/>
+      <point x="44" y="355" type="curve" smooth="yes"/>
+      <point x="44" y="173"/>
+      <point x="179" y="-4"/>
+    </contour>
+    <contour>
+      <point x="95" y="355" type="curve" smooth="yes"/>
+      <point x="95" y="510"/>
+      <point x="207" y="668"/>
+      <point x="377" y="668" type="curve" smooth="yes"/>
+      <point x="539" y="668"/>
+      <point x="657" y="518"/>
+      <point x="657" y="355" type="curve" smooth="yes"/>
+      <point x="657" y="201"/>
+      <point x="547" y="42"/>
+      <point x="377" y="42" type="curve" smooth="yes"/>
+      <point x="211" y="42"/>
+      <point x="95" y="192"/>
+    </contour>
+    <contour>
+      <point x="378" y="853" type="curve" smooth="yes"/>
+      <point x="349" y="853"/>
+      <point x="322" y="884"/>
+      <point x="322" y="917" type="curve"/>
+      <point x="289" y="917" type="line"/>
+      <point x="289" y="866"/>
+      <point x="329" y="825"/>
+      <point x="378" y="825" type="curve" smooth="yes"/>
+      <point x="426" y="825"/>
+      <point x="467" y="866"/>
+      <point x="467" y="917" type="curve"/>
+      <point x="434" y="917" type="line"/>
+      <point x="430" y="881"/>
+      <point x="405" y="853"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

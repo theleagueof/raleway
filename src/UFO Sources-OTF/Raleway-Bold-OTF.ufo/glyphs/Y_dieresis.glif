@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydieresis" format="1">
+  <advance width="660"/>
+  <unicode hex="0178"/>
+  <outline>
+    <contour>
+      <point x="4" y="710" type="line"/>
+      <point x="261" y="250" type="line"/>
+      <point x="261" y="0" type="line"/>
+      <point x="398" y="0" type="line"/>
+      <point x="398" y="248" type="line"/>
+      <point x="656" y="710" type="line"/>
+      <point x="507" y="710" type="line"/>
+      <point x="329" y="368" type="line"/>
+      <point x="154" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="289" y="790" type="line"/>
+      <point x="289" y="909" type="line"/>
+      <point x="178" y="909" type="line"/>
+      <point x="178" y="790" type="line"/>
+    </contour>
+    <contour>
+      <point x="481" y="790" type="line"/>
+      <point x="481" y="909" type="line"/>
+      <point x="370" y="909" type="line"/>
+      <point x="370" y="790" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
