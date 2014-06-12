@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright" format="1">
+  <advance width="264"/>
+  <unicode hex="201D"/>
+  <outline>
+    <component base="quoteleft" xScale="-1.0" yScale="-1.0" xOffset="176" yOffset="1286"/>
+    <component base="quoteleft" xScale="-1.0" yScale="-1.0" xOffset="268" yOffset="1286"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

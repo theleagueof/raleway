@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.denominator" format="1">
+  <advance width="384"/>
+  <outline>
+    <contour>
+      <point x="297" y="0" type="line"/>
+      <point x="297" y="103" type="line"/>
+      <point x="354" y="103" type="line"/>
+      <point x="354" y="147" type="line"/>
+      <point x="297" y="147" type="line"/>
+      <point x="297" y="399" type="line"/>
+      <point x="266" y="399" type="line"/>
+      <point x="24" y="145" type="line"/>
+      <point x="24" y="103" type="line"/>
+      <point x="252" y="103" type="line"/>
+      <point x="252" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="253" y="338" type="line"/>
+      <point x="253" y="147" type="line"/>
+      <point x="72" y="147" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

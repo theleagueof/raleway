@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.alt" format="1">
+  <advance width="247"/>
+  <outline>
+    <contour>
+      <point x="4" y="0" type="line"/>
+      <point x="43" y="0"/>
+      <point x="114" y="0"/>
+      <point x="114" y="0" type="curve"/>
+      <point x="269" y="730" type="line"/>
+      <point x="159" y="730" type="line"/>
+    </contour>
+  </outline>
+</glyph>

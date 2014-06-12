@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="1">
+  <advance width="641"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="574" y="380" type="line"/>
+      <point x="574" y="412" type="line"/>
+      <point x="67" y="412" type="line"/>
+      <point x="67" y="380" type="line"/>
+    </contour>
+    <component base="T" xOffset="17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

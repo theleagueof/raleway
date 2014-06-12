@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="1">
+  <advance width="645"/>
+  <unicode hex="0111"/>
+  <outline>
+    <contour>
+      <point x="637" y="597" type="line"/>
+      <point x="637" y="676" type="line"/>
+      <point x="340" y="676" type="line"/>
+      <point x="340" y="597" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

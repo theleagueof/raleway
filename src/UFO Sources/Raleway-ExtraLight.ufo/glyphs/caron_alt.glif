@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.alt" format="1">
+  <advance width="205"/>
+  <outline>
+    <contour>
+      <point x="82" y="520" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="157" y="730" type="line"/>
+      <point x="112" y="730" type="line"/>
+      <point x="50" y="651" type="line"/>
+      <point x="74" y="638" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

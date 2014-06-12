@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="1">
+  <advance width="292"/>
+  <unicode hex="0142"/>
+  <outline>
+    <contour>
+      <point x="278" y="482" type="line"/>
+      <point x="254" y="521" type="line"/>
+      <point x="10" y="328" type="line"/>
+      <point x="33" y="289" type="line"/>
+    </contour>
+    <component base="l" xOffset="19"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

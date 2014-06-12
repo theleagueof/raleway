@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="1">
+  <advance width="641"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="291" y="-123" type="line"/>
+      <point x="360" y="-123" type="line"/>
+      <point x="360" y="78" type="line"/>
+      <point x="291" y="78" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="95" type="line"/>
+      <point x="349" y="622" type="line"/>
+      <point x="302" y="610" type="line"/>
+      <point x="302" y="97" type="line"/>
+    </contour>
+    <contour>
+      <point x="291" y="625" type="line"/>
+      <point x="360" y="637" type="line"/>
+      <point x="360" y="815" type="line"/>
+      <point x="291" y="815" type="line"/>
+    </contour>
+    <component base="S" xOffset="15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P.sc" format="1">
+  <advance width="556"/>
+  <outline>
+    <contour>
+      <point x="206" y="0" type="line"/>
+      <point x="206" y="176" type="line"/>
+      <point x="335" y="176" type="line" smooth="yes"/>
+      <point x="455" y="176"/>
+      <point x="536" y="271"/>
+      <point x="536" y="370" type="curve" smooth="yes"/>
+      <point x="536" y="465"/>
+      <point x="450" y="563"/>
+      <point x="330" y="563" type="curve" smooth="yes"/>
+      <point x="62" y="563" type="line"/>
+      <point x="62" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="438" type="line"/>
+      <point x="321" y="438" type="line" smooth="yes"/>
+      <point x="355" y="438"/>
+      <point x="390" y="419"/>
+      <point x="390" y="370" type="curve" smooth="yes"/>
+      <point x="390" y="322"/>
+      <point x="361" y="302"/>
+      <point x="326" y="302" type="curve" smooth="yes"/>
+      <point x="206" y="302" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

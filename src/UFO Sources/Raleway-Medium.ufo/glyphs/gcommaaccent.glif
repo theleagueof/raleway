@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcommaaccent" format="1">
+  <advance width="623"/>
+  <unicode hex="0123"/>
+  <outline>
+    <component base="g" xOffset="-1"/>
+    <component base="commaaccent" xScale="-1.0" yScale="-1.0" xOffset="410" yOffset="532"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

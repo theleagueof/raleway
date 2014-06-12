@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.denominator" format="1">
+  <advance width="365"/>
+  <outline>
+    <contour>
+      <point x="57" y="0" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="359" y="406" type="line"/>
+      <point x="25" y="406" type="line"/>
+      <point x="25" y="351" type="line"/>
+      <point x="272" y="351" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

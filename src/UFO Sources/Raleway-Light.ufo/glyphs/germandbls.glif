@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls" format="1">
+  <advance width="549"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <contour>
+      <point x="235" y="-6" type="line"/>
+      <point x="404" y="0"/>
+      <point x="508" y="73"/>
+      <point x="508" y="205" type="curve" smooth="yes"/>
+      <point x="508" y="306"/>
+      <point x="449" y="381"/>
+      <point x="345" y="403" type="curve"/>
+      <point x="407" y="417"/>
+      <point x="456" y="483"/>
+      <point x="456" y="555" type="curve" smooth="yes"/>
+      <point x="456" y="647"/>
+      <point x="377" y="714"/>
+      <point x="272" y="714" type="curve" smooth="yes"/>
+      <point x="159" y="714"/>
+      <point x="78" y="632"/>
+      <point x="78" y="513" type="curve" smooth="yes"/>
+      <point x="78" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="127" y="506" type="line" smooth="yes"/>
+      <point x="127" y="600"/>
+      <point x="179" y="669"/>
+      <point x="271" y="669" type="curve" smooth="yes"/>
+      <point x="347" y="669"/>
+      <point x="408" y="622"/>
+      <point x="408" y="547" type="curve" smooth="yes"/>
+      <point x="408" y="475"/>
+      <point x="352" y="424"/>
+      <point x="274" y="424" type="curve" smooth="yes"/>
+      <point x="258" y="424" type="line"/>
+      <point x="258" y="377" type="line"/>
+      <point x="275" y="377" type="line" smooth="yes"/>
+      <point x="383" y="377"/>
+      <point x="457" y="309"/>
+      <point x="457" y="208" type="curve" smooth="yes"/>
+      <point x="457" y="99"/>
+      <point x="372" y="43"/>
+      <point x="235" y="40" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
