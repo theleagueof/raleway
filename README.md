@@ -14,3 +14,18 @@ Afar, Afrikaans, Albanian, Azerbaijani, Basque, Belarusian, Bislama, Bosnian, Br
 
 The Roman Styles also include support for the following 17 Cyrillic languages:
 Balkar, Belarusian, Bosnian, Chukchi, Crimean_Tartar, Erzya, Karachay, Kumyk, Lak, Macedonian, Moksha, Montenegrin, Nanai, Nogai, Rusyn, Serbian, Ukranian
+
+TTF Files hinted using TTF Autohint v0.96
+
+Source Files:
+
+Folder | Content
+------------ | -------------
+src/Masters | 6 Original Masters in Fontlab and UFO format, plus Superpolator2 Interpolation Settings
+src/FontLab Sources | Source Files in FontLab format. (Un-Merged, Componets, etc.)
+src/UFO Sources | Source Files in UFO format, generated from FL (Having /quotesingle for the first member of each kerning class)
+src/FontLab Sources-OTF | Source Files ready for OTF generation. (Merged, Decomposed, etc.)
+src/UFO Sources-OTF | Source Files in UFO format, generated from FL, ready for OTF generation.
+src/FontLab Sources-TTF | Source Files ready for TTF generation. Merged, Decomposed, etc. (Merged, Decomposed, etc.)
+src/UFO Sources-TTF | Source Files in UFO format, generated from FL, ready for TTF generation.
+src/OTF | OTF files generated from src/FontLab Sources-OTF
