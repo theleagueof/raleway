@@ -1,0 +1,21 @@
+{
+  "name": "raleway",
+  "version": "1.0.0",
+  "homepage": "https://www.theleagueofmoveabletype.com/raleway",
+  "authors": [
+    "Matt McInerney <matt@matt.cc>"
+  ],
+  "description": "An elegant sans-serif, designed in a single thin weight",
+  "main": "Raleway Thin.otf",
+  "keywords": [
+    "font",
+    "sans-serif",
+    "webfont",
+    "raleway"
+  ],
+  "license": "OFL-1.1",
+  "ignore": [
+    "**/.*",
+    "images"
+  ]
+}
