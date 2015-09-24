@@ -1,0 +1,52 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+#feature aalt {
+#  XX
+#} aalt;
+
+#feature aalt {
+#  XX
+#} aalt;
+
+lookup lining {
+  sub [zero one two three four five six seven eight nine] by [zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt];
+} lining;
+
+feature lnum {
+  lookup lining;
+} lnum;
+
+feature onum {
+  sub [zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt] by [zero one two three four five six seven eight nine];
+} onum;
+
+feature smcp {
+  sub [a-z] by [A.sc-Z.sc];
+} smcp;
+
+feature c2sc {
+  sub [A-Z] by [A.sc-Z.sc];
+} c2sc;
+
+feature case {
+  lookup lining;
+} case;
+
+feature salt {
+  lookup lining;
+  sub [a d G j l q t u w W y] by [a.alt d.alt G.alt j.alt l.alt q.alt t.alt u.alt w.alt W.alt y.alt];
+} salt;
+
+feature liga {
+  sub f f i by ffi;
+  sub f f l by ffl;
+  sub f f by ff;
+  sub f i by fi;
+  sub f l by fl;
+} liga;
+
+feature dlig {
+  sub c t by ct;
+  sub s t by st;
+} dlig;
