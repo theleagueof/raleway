@@ -1,7 +1,8 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-"/softsign-cy.loclBGR"
+"/softsign-cy.loclBGR",
+"/ka-cy"
 );
 classes = (
 {
