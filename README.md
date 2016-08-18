@@ -1,6 +1,8 @@
 Raleway Fonts
 ====================
 
+#### Raleway is in the process of migration sources to Glyphs and charset expansion... 
+
 Raleway is an elegant sans-serif typeface family.
 
 Initially designed by [Matt McInerney](http://blog.matt.cc/) as a [single thin weight](https://github.com/theleagueof/raleway), it was expanded into a 9 weight family by Pablo Impallari and Rodrigo Fuenzalida in 2012 and iKerned by Igino Marini. In 2013 the Italics where added.
@@ -16,18 +18,3 @@ Afar, Afrikaans, Albanian, Azerbaijani, Basque, Belarusian, Bislama, Bosnian, Br
 #### The Roman Styles also include support for the following 17 Cyrillic languages:
 
 Balkar, Belarusian, Bosnian, Chukchi, Crimean_Tartar, Erzya, Karachay, Kumyk, Lak, Macedonian, Moksha, Montenegrin, Nanai, Nogai, Rusyn, Serbian, Ukranian
-
-#### Source Files:
-
-Folder | Content
------------- | -------------
-src/Masters | 6 Original Masters in Fontlab and UFO format, plus Superpolator2 Interpolation Settings
-src/FontLab&nbsp;Sources | Source Files in FontLab format. (Un-Merged, Componets, etc.)
-src/UFO&nbsp;Sources | Source Files in UFO format, generated from FL (Having /quotesingle for the first member of each kerning class)
-src/FontLab&nbsp;Sources-OTF | Source Files ready for OTF generation. (Merged, Decomposed, etc.)
-src/UFO&nbsp;Sources-OTF | Source Files in UFO format, generated from FL, ready for OTF generation.
-src/FontLab&nbsp;Sources-TTF | Source Files ready for TTF generation. Merged, Decomposed, etc. (Merged, Decomposed, etc.)
-src/UFO&nbsp;Sources-TTF | Source Files in UFO format, generated from FL, ready for TTF generation.
-src/OTF | OTF files generated from src/FontLab Sources-OTF
-
-TTF Files hinted using TTF Autohint v0.96
