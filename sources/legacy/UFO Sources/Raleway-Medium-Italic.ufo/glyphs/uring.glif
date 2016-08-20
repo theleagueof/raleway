@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uring" format="1">
-  <advance width="577"/>
-  <unicode hex="016F"/>
-  <outline>
-    <component base="ring" xOffset="198"/>
-    <component base="u"/>
-  </outline>
-</glyph>
