@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I.sc" format="1">
+  <advance width="206"/>
+  <outline>
+    <contour>
+      <point x="52" y="707" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="53" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="144" y="539" type="line"/>
+      <point x="163" y="539" type="line"/>
+      <point x="49" y="0" type="line"/>
+      <point x="29" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

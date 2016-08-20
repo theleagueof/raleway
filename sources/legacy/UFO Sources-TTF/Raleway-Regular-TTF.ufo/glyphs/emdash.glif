@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash" format="1">
+  <advance width="901"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="65" y="241" type="line"/>
+      <point x="65" y="304" type="line"/>
+      <point x="836" y="304" type="line"/>
+      <point x="836" y="241" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

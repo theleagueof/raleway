@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis" format="1">
+  <advance width="756"/>
+  <unicode hex="00DC"/>
+  <outline>
+    <component base="dieresis" xOffset="231" yOffset="188"/>
+    <component base="U"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

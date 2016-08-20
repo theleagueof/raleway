@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ntilde" format="1">
+  <advance width="740"/>
+  <unicode hex="00D1"/>
+  <outline>
+    <contour>
+      <point x="175" y="710" type="line"/>
+      <point x="229" y="710" type="line"/>
+      <point x="545" y="119" type="line"/>
+      <point x="670" y="709" type="line"/>
+      <point x="739" y="709" type="line"/>
+      <point x="588" y="0" type="line"/>
+      <point x="529" y="0" type="line"/>
+      <point x="216" y="580" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="24" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="542" y="825" type="qcurve"/>
+      <point x="521" y="825"/>
+      <point x="492" y="837"/>
+      <point x="468" y="852"/>
+      <point x="444" y="865"/>
+      <point x="429" y="865" type="qcurve"/>
+      <point x="414" y="865"/>
+      <point x="392" y="851"/>
+      <point x="379" y="834"/>
+      <point x="372" y="819"/>
+      <point x="372" y="817" type="qcurve"/>
+      <point x="330" y="817" type="line"/>
+      <point x="331" y="822"/>
+      <point x="345" y="853"/>
+      <point x="371" y="885"/>
+      <point x="411" y="910"/>
+      <point x="438" y="910" type="qcurve"/>
+      <point x="458" y="910"/>
+      <point x="485" y="897"/>
+      <point x="509" y="881"/>
+      <point x="533" y="868"/>
+      <point x="551" y="868" type="qcurve"/>
+      <point x="569" y="868"/>
+      <point x="594" y="882"/>
+      <point x="608" y="900"/>
+      <point x="615" y="915"/>
+      <point x="615" y="917" type="qcurve"/>
+      <point x="657" y="917" type="line"/>
+      <point x="656" y="912"/>
+      <point x="642" y="882"/>
+      <point x="614" y="850"/>
+      <point x="572" y="825"/>
+    </contour>
+  </outline>
+</glyph>

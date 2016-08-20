@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_f_l" format="1">
+  <advance width="960"/>
+  <unicode hex="FB04"/>
+  <outline>
+    <contour>
+      <point x="824" y="-8" type="qcurve"/>
+      <point x="789" y="-8"/>
+      <point x="735" y="11"/>
+      <point x="698" y="43"/>
+      <point x="678" y="86"/>
+      <point x="678" y="110" type="qcurve"/>
+      <point x="678" y="504" type="line"/>
+      <point x="678" y="525"/>
+      <point x="672" y="562"/>
+      <point x="655" y="589"/>
+      <point x="624" y="605"/>
+      <point x="600" y="605" type="qcurve"/>
+      <point x="579" y="605"/>
+      <point x="550" y="589"/>
+      <point x="532" y="561"/>
+      <point x="524" y="524"/>
+      <point x="524" y="503" type="qcurve"/>
+      <point x="524" y="482" type="line"/>
+      <point x="603" y="482" type="line"/>
+      <point x="603" y="361" type="line"/>
+      <point x="524" y="361" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="364" y="0" type="line"/>
+      <point x="364" y="361" type="line"/>
+      <point x="249" y="361" type="line"/>
+      <point x="249" y="0" type="line"/>
+      <point x="89" y="0" type="line"/>
+      <point x="89" y="361" type="line"/>
+      <point x="22" y="361" type="line"/>
+      <point x="22" y="482" type="line"/>
+      <point x="89" y="482" type="line"/>
+      <point x="89" y="499" type="line"/>
+      <point x="89" y="544"/>
+      <point x="115" y="620"/>
+      <point x="164" y="674"/>
+      <point x="233" y="705"/>
+      <point x="275" y="705" type="qcurve"/>
+      <point x="310" y="705"/>
+      <point x="376" y="690"/>
+      <point x="411" y="676" type="qcurve"/>
+      <point x="442" y="708"/>
+      <point x="537" y="740"/>
+      <point x="598" y="740" type="qcurve"/>
+      <point x="722" y="740"/>
+      <point x="838" y="624"/>
+      <point x="838" y="528" type="qcurve"/>
+      <point x="838" y="192" type="line"/>
+      <point x="838" y="183"/>
+      <point x="843" y="162"/>
+      <point x="854" y="145"/>
+      <point x="871" y="134"/>
+      <point x="884" y="134" type="qcurve"/>
+      <point x="892" y="134"/>
+      <point x="912" y="139"/>
+      <point x="928" y="144"/>
+      <point x="940" y="149"/>
+      <point x="941" y="149" type="qcurve"/>
+      <point x="962" y="20" type="line"/>
+      <point x="961" y="19"/>
+      <point x="936" y="10"/>
+      <point x="897" y="0"/>
+      <point x="848" y="-8"/>
+    </contour>
+    <contour>
+      <point x="364" y="482" type="line"/>
+      <point x="364" y="485"/>
+      <point x="364" y="508"/>
+      <point x="365" y="534"/>
+      <point x="366" y="557"/>
+      <point x="367" y="559" type="qcurve"/>
+      <point x="353" y="565"/>
+      <point x="323" y="570"/>
+      <point x="310" y="570" type="qcurve"/>
+      <point x="279" y="570"/>
+      <point x="249" y="534"/>
+      <point x="249" y="505" type="qcurve"/>
+      <point x="249" y="482" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

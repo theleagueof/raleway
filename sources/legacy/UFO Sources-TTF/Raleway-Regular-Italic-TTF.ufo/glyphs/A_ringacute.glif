@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aringacute" format="1">
+  <advance width="651"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <contour>
+      <point x="455" y="812" type="line"/>
+      <point x="475" y="808"/>
+      <point x="497" y="781"/>
+      <point x="497" y="761" type="qcurve"/>
+      <point x="497" y="737"/>
+      <point x="471" y="700"/>
+      <point x="449" y="691" type="qcurve"/>
+      <point x="574" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="461" y="222" type="line"/>
+      <point x="162" y="222" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="-45" y="0" type="line"/>
+      <point x="375" y="692" type="line"/>
+      <point x="352" y="706"/>
+      <point x="352" y="736" type="qcurve"/>
+      <point x="352" y="771"/>
+      <point x="404" y="814"/>
+      <point x="439" y="814" type="qcurve"/>
+      <point x="443" y="814"/>
+      <point x="449" y="813"/>
+      <point x="453" y="813" type="qcurve"/>
+      <point x="413" y="828" type="line"/>
+      <point x="489" y="918" type="line"/>
+      <point x="560" y="918" type="line"/>
+    </contour>
+    <contour>
+      <point x="457" y="277" type="line"/>
+      <point x="399" y="628" type="line"/>
+      <point x="188" y="277" type="line"/>
+    </contour>
+    <contour>
+      <point x="433" y="787" type="qcurve"/>
+      <point x="415" y="787"/>
+      <point x="385" y="761"/>
+      <point x="385" y="741" type="qcurve"/>
+      <point x="385" y="728"/>
+      <point x="402" y="710"/>
+      <point x="416" y="710" type="qcurve"/>
+      <point x="433" y="710"/>
+      <point x="465" y="736"/>
+      <point x="465" y="756" type="qcurve"/>
+      <point x="465" y="770"/>
+      <point x="447" y="787"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aogonek" format="1">
+  <advance width="676"/>
+  <unicode hex="0104"/>
+  <outline>
+    <contour>
+      <point x="618" y="-181" type="line"/>
+      <point x="576" y="-173"/>
+      <point x="534" y="-132"/>
+      <point x="534" y="-104" type="qcurve"/>
+      <point x="534" y="-78"/>
+      <point x="571" y="-26"/>
+      <point x="611" y="0" type="qcurve"/>
+      <point x="571" y="0" type="line"/>
+      <point x="487" y="208" type="line"/>
+      <point x="189" y="208" type="line"/>
+      <point x="106" y="0" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="301" y="710" type="line"/>
+      <point x="377" y="710" type="line"/>
+      <point x="667" y="0" type="line"/>
+      <point x="623" y="-27"/>
+      <point x="585" y="-70"/>
+      <point x="585" y="-92" type="qcurve"/>
+      <point x="585" y="-129"/>
+      <point x="640" y="-135" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="467" y="278" type="line"/>
+      <point x="339" y="606" type="line"/>
+      <point x="207" y="278" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

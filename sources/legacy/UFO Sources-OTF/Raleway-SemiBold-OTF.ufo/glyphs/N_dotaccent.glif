@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ndotaccent" format="1">
+  <advance width="767"/>
+  <unicode hex="1E44"/>
+  <outline>
+    <contour>
+      <point x="433" y="800" type="line"/>
+      <point x="433" y="915" type="line"/>
+      <point x="334" y="915" type="line"/>
+      <point x="334" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="594" y="0" type="line"/>
+      <point x="687" y="0" type="line"/>
+      <point x="687" y="709" type="line"/>
+      <point x="574" y="709" type="line"/>
+      <point x="574" y="198" type="line"/>
+      <point x="168" y="710" type="line"/>
+      <point x="80" y="710" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="192" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

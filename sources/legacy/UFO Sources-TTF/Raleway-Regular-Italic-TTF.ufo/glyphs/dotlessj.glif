@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessj" format="1">
+  <advance width="213"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="47" y="521" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-110" y="-181" type="qcurve"/>
+      <point x="-142" y="-181"/>
+      <point x="-193" y="-163"/>
+      <point x="-210" y="-142" type="qcurve"/>
+      <point x="-168" y="-96" type="line"/>
+      <point x="-157" y="-110"/>
+      <point x="-122" y="-120"/>
+      <point x="-104" y="-120" type="qcurve"/>
+      <point x="-88" y="-120"/>
+      <point x="-53" y="-106"/>
+      <point x="-23" y="-81"/>
+      <point x="-1" y="-47"/>
+      <point x="3" y="-27" type="qcurve"/>
+      <point x="119" y="521" type="line"/>
+      <point x="187" y="521" type="line"/>
+      <point x="71" y="-23" type="line"/>
+      <point x="64" y="-58"/>
+      <point x="27" y="-116"/>
+      <point x="-23" y="-158"/>
+      <point x="-82" y="-181"/>
+    </contour>
+  </outline>
+</glyph>

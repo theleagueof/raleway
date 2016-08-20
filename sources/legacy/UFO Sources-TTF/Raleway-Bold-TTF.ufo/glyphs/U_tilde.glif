@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Utilde" format="1">
+  <advance width="750"/>
+  <unicode hex="0168"/>
+  <outline>
+    <contour>
+      <point x="374" y="117" type="qcurve"/>
+      <point x="423" y="117"/>
+      <point x="490" y="157"/>
+      <point x="531" y="221"/>
+      <point x="548" y="304"/>
+      <point x="548" y="348" type="qcurve"/>
+      <point x="548" y="710" type="line"/>
+      <point x="685" y="710" type="line"/>
+      <point x="685" y="348" type="line"/>
+      <point x="685" y="275"/>
+      <point x="650" y="147"/>
+      <point x="575" y="51"/>
+      <point x="457" y="-5"/>
+      <point x="375" y="-5" type="qcurve"/>
+      <point x="290" y="-5"/>
+      <point x="171" y="54"/>
+      <point x="97" y="151"/>
+      <point x="64" y="279"/>
+      <point x="64" y="348" type="qcurve"/>
+      <point x="64" y="710" type="line"/>
+      <point x="202" y="710" type="line"/>
+      <point x="202" y="348" type="line"/>
+      <point x="202" y="303"/>
+      <point x="219" y="220"/>
+      <point x="260" y="156"/>
+      <point x="326" y="117"/>
+    </contour>
+    <contour>
+      <point x="438" y="787" type="qcurve"/>
+      <point x="415" y="787"/>
+      <point x="381" y="801"/>
+      <point x="352" y="818"/>
+      <point x="323" y="832"/>
+      <point x="307" y="832" type="qcurve"/>
+      <point x="290" y="832"/>
+      <point x="271" y="818"/>
+      <point x="261" y="800"/>
+      <point x="259" y="785"/>
+      <point x="259" y="784" type="qcurve"/>
+      <point x="185" y="784" type="line"/>
+      <point x="185" y="793"/>
+      <point x="197" y="836"/>
+      <point x="224" y="879"/>
+      <point x="269" y="912"/>
+      <point x="302" y="912" type="qcurve"/>
+      <point x="325" y="912"/>
+      <point x="358" y="897"/>
+      <point x="387" y="880"/>
+      <point x="416" y="865"/>
+      <point x="434" y="865" type="qcurve"/>
+      <point x="452" y="865"/>
+      <point x="473" y="879"/>
+      <point x="484" y="897"/>
+      <point x="487" y="913"/>
+      <point x="487" y="915" type="qcurve"/>
+      <point x="561" y="915" type="line"/>
+      <point x="561" y="908"/>
+      <point x="549" y="866"/>
+      <point x="520" y="822"/>
+      <point x="473" y="787"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

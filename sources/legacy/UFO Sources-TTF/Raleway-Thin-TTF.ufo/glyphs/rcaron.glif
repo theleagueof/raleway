@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcaron" format="1">
+  <advance width="323"/>
+  <unicode hex="0159"/>
+  <outline>
+    <contour>
+      <point x="306" y="499" type="line"/>
+      <point x="232" y="496"/>
+      <point x="125" y="406"/>
+      <point x="104" y="328" type="qcurve"/>
+      <point x="104" y="0" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="84" y="519" type="line"/>
+      <point x="104" y="519" type="line"/>
+      <point x="104" y="385" type="line"/>
+      <point x="131" y="440"/>
+      <point x="222" y="511"/>
+      <point x="273" y="517" type="qcurve"/>
+      <point x="283" y="518"/>
+      <point x="300" y="519"/>
+      <point x="306" y="519" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="91" y="730" type="line"/>
+      <point x="176" y="667" type="line"/>
+      <point x="261" y="730" type="line"/>
+      <point x="277" y="718" type="line"/>
+      <point x="184" y="644" type="line"/>
+      <point x="168" y="644" type="line"/>
+      <point x="75" y="718" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

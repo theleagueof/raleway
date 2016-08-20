@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gacute" format="1">
+  <advance width="714"/>
+  <unicode hex="01F4"/>
+  <outline>
+    <contour>
+      <point x="586" y="96" type="line"/>
+      <point x="492" y="-5"/>
+      <point x="370" y="-5" type="qcurve"/>
+      <point x="299" y="-5"/>
+      <point x="178" y="57"/>
+      <point x="90" y="158"/>
+      <point x="39" y="288"/>
+      <point x="39" y="357" type="qcurve"/>
+      <point x="39" y="429"/>
+      <point x="89" y="558"/>
+      <point x="177" y="657"/>
+      <point x="299" y="715"/>
+      <point x="370" y="715" type="qcurve"/>
+      <point x="473" y="715"/>
+      <point x="606" y="629"/>
+      <point x="641" y="560" type="qcurve"/>
+      <point x="572" y="512" type="line"/>
+      <point x="540" y="574"/>
+      <point x="434" y="634"/>
+      <point x="368" y="634" type="qcurve"/>
+      <point x="314" y="634"/>
+      <point x="226" y="587"/>
+      <point x="164" y="510"/>
+      <point x="130" y="409"/>
+      <point x="130" y="355" type="qcurve"/>
+      <point x="130" y="298"/>
+      <point x="168" y="197"/>
+      <point x="234" y="120"/>
+      <point x="324" y="76"/>
+      <point x="377" y="76" type="qcurve"/>
+      <point x="493" y="76"/>
+      <point x="586" y="188" type="qcurve"/>
+      <point x="586" y="286" type="line"/>
+      <point x="433" y="286" type="line"/>
+      <point x="433" y="354" type="line"/>
+      <point x="662" y="354" type="line"/>
+      <point x="662" y="0" type="line"/>
+      <point x="586" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="795" type="line"/>
+      <point x="332" y="815" type="line"/>
+      <point x="390" y="916" type="line"/>
+      <point x="478" y="916" type="line"/>
+    </contour>
+  </outline>
+</glyph>

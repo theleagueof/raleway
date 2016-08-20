@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.numerator" format="1">
+  <advance width="393"/>
+  <outline>
+    <contour>
+      <point x="35" y="597" type="qcurve"/>
+      <point x="35" y="625"/>
+      <point x="59" y="673"/>
+      <point x="101" y="709"/>
+      <point x="158" y="730"/>
+      <point x="191" y="730" type="qcurve"/>
+      <point x="225" y="730"/>
+      <point x="284" y="708"/>
+      <point x="326" y="667"/>
+      <point x="350" y="609"/>
+      <point x="350" y="572" type="qcurve"/>
+      <point x="350" y="450"/>
+      <point x="261" y="334"/>
+      <point x="188" y="334" type="qcurve"/>
+      <point x="143" y="334"/>
+      <point x="73" y="374"/>
+      <point x="58" y="409" type="qcurve"/>
+      <point x="76" y="424" type="line"/>
+      <point x="89" y="395"/>
+      <point x="150" y="359"/>
+      <point x="189" y="359" type="qcurve"/>
+      <point x="249" y="359"/>
+      <point x="324" y="455"/>
+      <point x="324" y="543" type="qcurve"/>
+      <point x="310" y="508"/>
+      <point x="234" y="465"/>
+      <point x="188" y="465" type="qcurve"/>
+      <point x="156" y="465"/>
+      <point x="100" y="486"/>
+      <point x="59" y="522"/>
+      <point x="35" y="570"/>
+    </contour>
+    <contour>
+      <point x="190" y="705" type="qcurve"/>
+      <point x="163" y="705"/>
+      <point x="117" y="688"/>
+      <point x="82" y="659"/>
+      <point x="62" y="620"/>
+      <point x="62" y="598" type="qcurve"/>
+      <point x="62" y="576"/>
+      <point x="83" y="536"/>
+      <point x="118" y="506"/>
+      <point x="165" y="489"/>
+      <point x="191" y="489" type="qcurve"/>
+      <point x="218" y="489"/>
+      <point x="265" y="506"/>
+      <point x="300" y="536"/>
+      <point x="321" y="575"/>
+      <point x="321" y="597" type="qcurve"/>
+      <point x="321" y="619"/>
+      <point x="300" y="658"/>
+      <point x="264" y="688"/>
+      <point x="217" y="705"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

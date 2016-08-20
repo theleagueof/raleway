@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aogonek" format="1">
+  <advance width="679"/>
+  <unicode hex="0104"/>
+  <outline>
+    <contour>
+      <point x="627" y="-205" type="line"/>
+      <point x="560" y="-197"/>
+      <point x="495" y="-145"/>
+      <point x="495" y="-112" type="qcurve"/>
+      <point x="495" y="-83"/>
+      <point x="537" y="-26"/>
+      <point x="579" y="0" type="qcurve"/>
+      <point x="500" y="0" type="line"/>
+      <point x="445" y="159" type="line"/>
+      <point x="224" y="159" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="2" y="0" type="line"/>
+      <point x="261" y="710" type="line"/>
+      <point x="409" y="710" type="line"/>
+      <point x="668" y="0" type="line"/>
+      <point x="593" y="-45"/>
+      <point x="593" y="-82" type="qcurve"/>
+      <point x="593" y="-99"/>
+      <point x="625" y="-120"/>
+      <point x="658" y="-121" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="418" y="272" type="line"/>
+      <point x="335" y="523" type="line"/>
+      <point x="250" y="272" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

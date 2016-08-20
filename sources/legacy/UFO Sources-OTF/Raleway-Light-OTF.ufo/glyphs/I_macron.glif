@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Imacron" format="1">
+  <advance width="237"/>
+  <unicode hex="012A"/>
+  <outline>
+    <contour>
+      <point x="144" y="0" type="line"/>
+      <point x="144" y="710" type="line"/>
+      <point x="93" y="710" type="line"/>
+      <point x="93" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="261" y="859" type="line"/>
+      <point x="261" y="896" type="line"/>
+      <point x="-24" y="896" type="line"/>
+      <point x="-24" y="859" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

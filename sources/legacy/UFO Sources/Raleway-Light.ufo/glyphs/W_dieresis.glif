@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wdieresis" format="1">
+  <advance width="1043"/>
+  <unicode hex="1E84"/>
+  <outline>
+    <component base="dieresis" xOffset="374" yOffset="188"/>
+    <component base="W"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

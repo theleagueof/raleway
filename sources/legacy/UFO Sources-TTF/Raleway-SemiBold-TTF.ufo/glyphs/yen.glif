@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="699"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="478" y="389" type="line"/>
+      <point x="555" y="389" type="line"/>
+      <point x="555" y="316" type="line"/>
+      <point x="439" y="316" type="line"/>
+      <point x="404" y="254" type="line"/>
+      <point x="404" y="225" type="line"/>
+      <point x="556" y="225" type="line"/>
+      <point x="556" y="152" type="line"/>
+      <point x="404" y="152" type="line"/>
+      <point x="404" y="0" type="line"/>
+      <point x="291" y="0" type="line"/>
+      <point x="291" y="152" type="line"/>
+      <point x="141" y="152" type="line"/>
+      <point x="141" y="225" type="line"/>
+      <point x="291" y="225" type="line"/>
+      <point x="291" y="256" type="line"/>
+      <point x="258" y="316" type="line"/>
+      <point x="141" y="316" type="line"/>
+      <point x="141" y="389" type="line"/>
+      <point x="220" y="389" type="line"/>
+      <point x="29" y="710" type="line"/>
+      <point x="152" y="710" type="line"/>
+      <point x="348" y="354" type="line"/>
+      <point x="546" y="710" type="line"/>
+      <point x="669" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

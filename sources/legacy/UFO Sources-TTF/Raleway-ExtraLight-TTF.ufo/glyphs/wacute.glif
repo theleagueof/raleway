@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wacute" format="1">
+  <advance width="800"/>
+  <unicode hex="1E83"/>
+  <outline>
+    <contour>
+      <point x="391" y="638" type="line"/>
+      <point x="367" y="651" type="line"/>
+      <point x="429" y="730" type="line"/>
+      <point x="474" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="742" y="520" type="line"/>
+      <point x="777" y="520" type="line"/>
+      <point x="551" y="0" type="line"/>
+      <point x="522" y="0" type="line"/>
+      <point x="400" y="284" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="22" y="520" type="line"/>
+      <point x="57" y="520" type="line"/>
+      <point x="264" y="41" type="line"/>
+      <point x="381" y="314" type="line"/>
+      <point x="294" y="519" type="line"/>
+      <point x="325" y="519" type="line"/>
+      <point x="400" y="344" type="line"/>
+      <point x="474" y="519" type="line"/>
+      <point x="506" y="519" type="line"/>
+      <point x="418" y="314" type="line"/>
+      <point x="536" y="41" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ycircumflex" format="1">
+  <advance width="655"/>
+  <unicode hex="0176"/>
+  <outline>
+    <contour>
+      <point x="13" y="710" type="line"/>
+      <point x="282" y="261" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="372" y="259" type="line"/>
+      <point x="642" y="710" type="line"/>
+      <point x="544" y="710" type="line"/>
+      <point x="327" y="340" type="line"/>
+      <point x="112" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="242" y="802" type="line"/>
+      <point x="327" y="865" type="line"/>
+      <point x="412" y="802" type="line"/>
+      <point x="460" y="826" type="line"/>
+      <point x="359" y="916" type="line"/>
+      <point x="295" y="916" type="line"/>
+      <point x="194" y="826" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

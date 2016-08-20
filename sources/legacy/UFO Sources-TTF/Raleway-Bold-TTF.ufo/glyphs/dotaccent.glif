@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="1">
+  <advance width="221"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="110" y="524" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="50" y="604" type="line"/>
+      <point x="50" y="730" type="line"/>
+      <point x="171" y="730" type="line"/>
+      <point x="171" y="604" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

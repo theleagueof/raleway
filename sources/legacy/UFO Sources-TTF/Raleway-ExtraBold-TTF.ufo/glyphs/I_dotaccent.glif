@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotaccent" format="1">
+  <advance width="300"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="68" y="0" type="line"/>
+      <point x="68" y="710" type="line"/>
+      <point x="232" y="710" type="line"/>
+      <point x="232" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="778" type="line"/>
+      <point x="78" y="915" type="line"/>
+      <point x="222" y="915" type="line"/>
+      <point x="222" y="778" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

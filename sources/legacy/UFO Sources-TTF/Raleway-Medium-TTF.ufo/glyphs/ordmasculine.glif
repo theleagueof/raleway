@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="1">
+  <advance width="448"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="287" y="519" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="286" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="224" y="344" type="qcurve"/>
+      <point x="183" y="344"/>
+      <point x="116" y="374"/>
+      <point x="68" y="424"/>
+      <point x="42" y="491"/>
+      <point x="42" y="527" type="qcurve"/>
+      <point x="42" y="564"/>
+      <point x="68" y="631"/>
+      <point x="116" y="682"/>
+      <point x="183" y="711"/>
+      <point x="224" y="711" type="qcurve"/>
+      <point x="265" y="711"/>
+      <point x="332" y="682"/>
+      <point x="380" y="631"/>
+      <point x="406" y="564"/>
+      <point x="406" y="527" type="qcurve"/>
+      <point x="406" y="491"/>
+      <point x="380" y="424"/>
+      <point x="332" y="374"/>
+      <point x="265" y="344"/>
+    </contour>
+    <contour>
+      <point x="114" y="526" type="qcurve"/>
+      <point x="114" y="500"/>
+      <point x="131" y="456"/>
+      <point x="161" y="424"/>
+      <point x="201" y="405"/>
+      <point x="224" y="405" type="qcurve"/>
+      <point x="247" y="405"/>
+      <point x="287" y="424"/>
+      <point x="317" y="457"/>
+      <point x="334" y="502"/>
+      <point x="334" y="528" type="qcurve"/>
+      <point x="334" y="554"/>
+      <point x="317" y="598"/>
+      <point x="287" y="631"/>
+      <point x="247" y="649"/>
+      <point x="224" y="649" type="qcurve"/>
+      <point x="201" y="649"/>
+      <point x="161" y="630"/>
+      <point x="131" y="597"/>
+      <point x="114" y="552"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

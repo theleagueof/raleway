@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="1">
+  <advance width="189"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="65" y="246" type="line"/>
+      <point x="65" y="358" type="line"/>
+      <point x="124" y="358" type="line"/>
+      <point x="124" y="246" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

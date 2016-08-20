@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+  <advance width="602"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="58" y="0" type="line"/>
+      <point x="58" y="144" type="line"/>
+      <point x="168" y="144" type="line"/>
+      <point x="168" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="246" y="0" type="line"/>
+      <point x="246" y="144" type="line"/>
+      <point x="356" y="144" type="line"/>
+      <point x="356" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="434" y="0" type="line"/>
+      <point x="434" y="144" type="line"/>
+      <point x="544" y="144" type="line"/>
+      <point x="544" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aringacute" format="1">
+  <advance width="667"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <component base="A"/>
+    <component base="acute" yScale="0.873563230038" xOffset="243" yOffset="280"/>
+    <component base="ring" xOffset="197" yOffset="100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

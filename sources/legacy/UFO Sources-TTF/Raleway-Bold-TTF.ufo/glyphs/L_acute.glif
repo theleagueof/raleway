@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lacute" format="1">
+  <advance width="584"/>
+  <unicode hex="0139"/>
+  <outline>
+    <contour>
+      <point x="393" y="770" type="line"/>
+      <point x="307" y="796" type="line"/>
+      <point x="361" y="915" type="line"/>
+      <point x="486" y="915" type="line"/>
+    </contour>
+    <contour>
+      <point x="74" y="0" type="line"/>
+      <point x="74" y="710" type="line"/>
+      <point x="212" y="710" type="line"/>
+      <point x="212" y="121" type="line"/>
+      <point x="574" y="121" type="line"/>
+      <point x="574" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="1">
+  <advance width="713"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="30" y="298" type="line"/>
+      <point x="307" y="496" type="line"/>
+      <point x="307" y="344" type="line"/>
+      <point x="179" y="259" type="line"/>
+      <point x="307" y="182" type="line"/>
+      <point x="307" y="30" type="line"/>
+      <point x="30" y="210" type="line"/>
+    </contour>
+    <contour>
+      <point x="381" y="298" type="line"/>
+      <point x="658" y="496" type="line"/>
+      <point x="658" y="344" type="line"/>
+      <point x="530" y="259" type="line"/>
+      <point x="658" y="182" type="line"/>
+      <point x="658" y="30" type="line"/>
+      <point x="381" y="210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

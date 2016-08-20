@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="1">
+  <advance width="629"/>
+  <unicode hex="0111"/>
+  <outline>
+    <contour>
+      <point x="621" y="611" type="line"/>
+      <point x="621" y="667" type="line"/>
+      <point x="355" y="667" type="line"/>
+      <point x="355" y="611" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

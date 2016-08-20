@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D.sc" format="1">
+  <advance width="629"/>
+  <outline>
+    <contour>
+      <point x="353" y="707" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="74" y="0" type="line"/>
+      <point x="74" y="555" type="line"/>
+      <point x="292" y="555" type="line"/>
+      <point x="366" y="555"/>
+      <point x="478" y="512"/>
+      <point x="553" y="437"/>
+      <point x="591" y="336"/>
+      <point x="591" y="279" type="qcurve"/>
+      <point x="591" y="216"/>
+      <point x="548" y="113"/>
+      <point x="470" y="40"/>
+      <point x="360" y="0"/>
+      <point x="292" y="0" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="490" y="279" type="qcurve"/>
+      <point x="490" y="321"/>
+      <point x="464" y="390"/>
+      <point x="413" y="439"/>
+      <point x="339" y="467"/>
+      <point x="292" y="467" type="qcurve"/>
+      <point x="173" y="467" type="line"/>
+      <point x="173" y="88" type="line"/>
+      <point x="292" y="88" type="line"/>
+      <point x="340" y="88"/>
+      <point x="414" y="117"/>
+      <point x="464" y="168"/>
+      <point x="490" y="238"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

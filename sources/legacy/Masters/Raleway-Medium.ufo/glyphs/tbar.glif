@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar" format="1">
+  <advance width="353"/>
+  <unicode hex="0167"/>
+  <outline>
+    <contour>
+      <point x="302" y="294" type="line"/>
+      <point x="302" y="350" type="line"/>
+      <point x="26" y="350" type="line"/>
+      <point x="26" y="294" type="line"/>
+    </contour>
+    <component base="t" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

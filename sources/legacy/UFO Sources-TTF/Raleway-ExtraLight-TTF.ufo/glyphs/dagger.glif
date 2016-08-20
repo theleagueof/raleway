@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="1">
+  <advance width="381"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="175" y="-130" type="line"/>
+      <point x="175" y="255" type="line"/>
+      <point x="43" y="255" type="line"/>
+      <point x="43" y="287" type="line"/>
+      <point x="175" y="287" type="line"/>
+      <point x="175" y="775" type="line"/>
+      <point x="208" y="775" type="line"/>
+      <point x="208" y="287" type="line"/>
+      <point x="339" y="287" type="line"/>
+      <point x="339" y="255" type="line"/>
+      <point x="208" y="255" type="line"/>
+      <point x="208" y="-130" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

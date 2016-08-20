@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute" format="1">
+  <advance width="242"/>
+  <unicode hex="00ED"/>
+  <outline>
+    <contour>
+      <point x="146" y="598" type="line"/>
+      <point x="74" y="620" type="line"/>
+      <point x="131" y="730" type="line"/>
+      <point x="236" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="66" y="523" type="line"/>
+      <point x="176" y="523" type="line"/>
+      <point x="176" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ycircumflex" format="1">
+  <advance width="660"/>
+  <unicode hex="0176"/>
+  <outline>
+    <contour>
+      <point x="4" y="710" type="line"/>
+      <point x="261" y="250" type="line"/>
+      <point x="261" y="0" type="line"/>
+      <point x="398" y="0" type="line"/>
+      <point x="398" y="248" type="line"/>
+      <point x="656" y="710" type="line"/>
+      <point x="507" y="710" type="line"/>
+      <point x="329" y="368" type="line"/>
+      <point x="154" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="782" type="line"/>
+      <point x="330" y="845" type="line"/>
+      <point x="415" y="782" type="line"/>
+      <point x="484" y="814" type="line"/>
+      <point x="378" y="915" type="line"/>
+      <point x="281" y="915" type="line"/>
+      <point x="175" y="814" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

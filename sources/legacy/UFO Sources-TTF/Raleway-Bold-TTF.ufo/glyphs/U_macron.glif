@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Umacron" format="1">
+  <advance width="750"/>
+  <unicode hex="016A"/>
+  <outline>
+    <contour>
+      <point x="374" y="117" type="qcurve"/>
+      <point x="423" y="117"/>
+      <point x="490" y="157"/>
+      <point x="531" y="221"/>
+      <point x="548" y="304"/>
+      <point x="548" y="348" type="qcurve"/>
+      <point x="548" y="710" type="line"/>
+      <point x="685" y="710" type="line"/>
+      <point x="685" y="348" type="line"/>
+      <point x="685" y="275"/>
+      <point x="650" y="147"/>
+      <point x="575" y="51"/>
+      <point x="457" y="-5"/>
+      <point x="375" y="-5" type="qcurve"/>
+      <point x="290" y="-5"/>
+      <point x="171" y="54"/>
+      <point x="97" y="151"/>
+      <point x="64" y="279"/>
+      <point x="64" y="348" type="qcurve"/>
+      <point x="64" y="710" type="line"/>
+      <point x="202" y="710" type="line"/>
+      <point x="202" y="348" type="line"/>
+      <point x="202" y="303"/>
+      <point x="219" y="220"/>
+      <point x="260" y="156"/>
+      <point x="326" y="117"/>
+    </contour>
+    <contour>
+      <point x="226" y="818" type="line"/>
+      <point x="226" y="901" type="line"/>
+      <point x="526" y="901" type="line"/>
+      <point x="526" y="818" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

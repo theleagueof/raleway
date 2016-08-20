@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gbreve" format="1">
+  <advance width="732"/>
+  <unicode hex="011E"/>
+  <outline>
+    <contour>
+      <point x="556" y="0" type="line"/>
+      <point x="692" y="0" type="line"/>
+      <point x="692" y="371" type="line"/>
+      <point x="418" y="371" type="line"/>
+      <point x="418" y="252" type="line"/>
+      <point x="556" y="252" type="line"/>
+      <point x="556" y="230" type="line"/>
+      <point x="505" y="171"/>
+      <point x="447" y="141"/>
+      <point x="383" y="141" type="curve" smooth="yes"/>
+      <point x="272" y="141"/>
+      <point x="194" y="231"/>
+      <point x="194" y="354" type="curve" smooth="yes"/>
+      <point x="194" y="474"/>
+      <point x="268" y="569"/>
+      <point x="376" y="569" type="curve" smooth="yes"/>
+      <point x="446" y="569"/>
+      <point x="512" y="531"/>
+      <point x="544" y="468" type="curve"/>
+      <point x="666" y="560" type="line"/>
+      <point x="617" y="655"/>
+      <point x="513" y="715"/>
+      <point x="382" y="715" type="curve" smooth="yes"/>
+      <point x="181" y="715"/>
+      <point x="28" y="556"/>
+      <point x="28" y="360" type="curve" smooth="yes"/>
+      <point x="28" y="143"/>
+      <point x="183" y="-5"/>
+      <point x="369" y="-5" type="curve" smooth="yes"/>
+      <point x="440" y="-5"/>
+      <point x="501" y="19"/>
+      <point x="556" y="70" type="curve"/>
+    </contour>
+    <contour>
+      <point x="383" y="838" type="curve" smooth="yes"/>
+      <point x="351" y="838"/>
+      <point x="324" y="873"/>
+      <point x="324" y="915" type="curve"/>
+      <point x="239" y="915" type="line"/>
+      <point x="239" y="829"/>
+      <point x="299" y="768"/>
+      <point x="383" y="768" type="curve" smooth="yes"/>
+      <point x="468" y="768"/>
+      <point x="527" y="829"/>
+      <point x="527" y="915" type="curve"/>
+      <point x="444" y="915" type="line"/>
+      <point x="440" y="870"/>
+      <point x="414" y="838"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

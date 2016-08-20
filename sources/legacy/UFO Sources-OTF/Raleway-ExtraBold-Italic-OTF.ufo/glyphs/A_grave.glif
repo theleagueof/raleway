@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="1">
+  <advance width="641"/>
+  <unicode hex="00C0"/>
+  <outline>
+    <contour>
+      <point x="-57" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="193" y="159" type="line"/>
+      <point x="395" y="159" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="578" y="0" type="line"/>
+      <point x="486" y="710" type="line"/>
+      <point x="337" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="242" y="272" type="line"/>
+      <point x="372" y="523" type="line"/>
+      <point x="392" y="272" type="line"/>
+    </contour>
+    <contour>
+      <point x="369" y="771" type="line"/>
+      <point x="480" y="787" type="line"/>
+      <point x="458" y="917" type="line"/>
+      <point x="314" y="917" type="line"/>
+    </contour>
+  </outline>
+</glyph>

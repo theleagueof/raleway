@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rdblgrave" format="1">
+  <advance width="317"/>
+  <unicode hex="0211"/>
+  <outline>
+    <contour>
+      <point x="127" y="519" type="line"/>
+      <point x="147" y="519" type="line"/>
+      <point x="119" y="385" type="line"/>
+      <point x="160" y="446"/>
+      <point x="266" y="513"/>
+      <point x="320" y="518" type="qcurve"/>
+      <point x="325" y="519"/>
+      <point x="334" y="519"/>
+      <point x="339" y="519" type="qcurve"/>
+      <point x="335" y="499" type="line"/>
+      <point x="264" y="496"/>
+      <point x="143" y="406"/>
+      <point x="107" y="328" type="qcurve"/>
+      <point x="37" y="0" type="line"/>
+      <point x="17" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="244" y="730" type="line"/>
+      <point x="276" y="730" type="line"/>
+      <point x="322" y="657" type="line"/>
+      <point x="303" y="645" type="line"/>
+    </contour>
+    <contour>
+      <point x="148" y="730" type="line"/>
+      <point x="181" y="730" type="line"/>
+      <point x="226" y="657" type="line"/>
+      <point x="208" y="645" type="line"/>
+    </contour>
+  </outline>
+</glyph>

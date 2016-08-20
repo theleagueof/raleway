@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wdieresis" format="1">
+  <advance width="1040"/>
+  <unicode hex="1E84"/>
+  <outline>
+    <contour>
+      <point x="472" y="835" type="line"/>
+      <point x="472" y="917" type="line"/>
+      <point x="441" y="917" type="line"/>
+      <point x="441" y="835" type="line"/>
+    </contour>
+    <contour>
+      <point x="598" y="835" type="line"/>
+      <point x="598" y="917" type="line"/>
+      <point x="567" y="917" type="line"/>
+      <point x="567" y="835" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="411" type="line"/>
+      <point x="341" y="41" type="line"/>
+      <point x="54" y="710" type="line"/>
+      <point x="17" y="710" type="line"/>
+      <point x="323" y="0" type="line"/>
+      <point x="357" y="0" type="line"/>
+      <point x="520" y="378" type="line"/>
+      <point x="683" y="0" type="line"/>
+      <point x="717" y="0" type="line"/>
+      <point x="1024" y="710" type="line"/>
+      <point x="986" y="710" type="line"/>
+      <point x="700" y="41" type="line"/>
+      <point x="540" y="411" type="line"/>
+      <point x="666" y="704" type="line"/>
+      <point x="631" y="704" type="line"/>
+      <point x="519" y="442" type="line"/>
+      <point x="409" y="704" type="line"/>
+      <point x="374" y="704" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

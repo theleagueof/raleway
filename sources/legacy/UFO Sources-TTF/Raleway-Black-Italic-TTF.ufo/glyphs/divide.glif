@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="505"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="176" y="435" type="line"/>
+      <point x="176" y="595" type="line"/>
+      <point x="335" y="595" type="line"/>
+      <point x="335" y="435" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="27" type="line"/>
+      <point x="176" y="187" type="line"/>
+      <point x="335" y="187" type="line"/>
+      <point x="335" y="27" type="line"/>
+    </contour>
+    <contour>
+      <point x="53" y="235" type="line"/>
+      <point x="53" y="385" type="line"/>
+      <point x="457" y="385" type="line"/>
+      <point x="457" y="235" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

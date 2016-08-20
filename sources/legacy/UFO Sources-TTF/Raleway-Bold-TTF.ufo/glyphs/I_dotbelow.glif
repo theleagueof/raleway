@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotbelow" format="1">
+  <advance width="286"/>
+  <unicode hex="1ECA"/>
+  <outline>
+    <contour>
+      <point x="74" y="0" type="line"/>
+      <point x="74" y="710" type="line"/>
+      <point x="212" y="710" type="line"/>
+      <point x="212" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="-196" type="line"/>
+      <point x="80" y="-70" type="line"/>
+      <point x="201" y="-70" type="line"/>
+      <point x="201" y="-196" type="line"/>
+    </contour>
+  </outline>
+</glyph>

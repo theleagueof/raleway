@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oneinferior" format="1">
+  <advance width="274"/>
+  <unicode hex="2081"/>
+  <outline>
+    <contour>
+      <point x="171" y="-46" type="line"/>
+      <point x="171" y="319" type="line"/>
+      <point x="136" y="319" type="line"/>
+      <point x="134" y="316"/>
+      <point x="79" y="264"/>
+      <point x="35" y="264" type="curve"/>
+      <point x="35" y="229" type="line"/>
+      <point x="69" y="229"/>
+      <point x="121" y="259"/>
+      <point x="136" y="277" type="curve"/>
+      <point x="136" y="-46" type="line"/>
+      <point x="49" y="-46" type="line"/>
+      <point x="49" y="-80" type="line"/>
+      <point x="253" y="-80" type="line"/>
+      <point x="253" y="-46" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

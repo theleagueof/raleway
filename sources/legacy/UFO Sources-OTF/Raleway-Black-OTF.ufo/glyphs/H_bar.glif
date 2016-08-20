@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="756"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="497" y="710" type="line"/>
+      <point x="497" y="626" type="line"/>
+      <point x="259" y="626" type="line"/>
+      <point x="259" y="710" type="line"/>
+      <point x="64" y="710" type="line"/>
+      <point x="64" y="626" type="line"/>
+      <point x="14" y="626" type="line"/>
+      <point x="14" y="538" type="line"/>
+      <point x="64" y="538" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="259" y="0" type="line"/>
+      <point x="259" y="278" type="line"/>
+      <point x="497" y="278" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="692" y="0" type="line"/>
+      <point x="692" y="538" type="line"/>
+      <point x="742" y="538" type="line"/>
+      <point x="742" y="626" type="line"/>
+      <point x="692" y="626" type="line"/>
+      <point x="692" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="259" y="448" type="line"/>
+      <point x="259" y="538" type="line"/>
+      <point x="497" y="538" type="line"/>
+      <point x="497" y="448" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

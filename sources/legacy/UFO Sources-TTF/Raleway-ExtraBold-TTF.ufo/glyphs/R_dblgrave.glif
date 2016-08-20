@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rdblgrave" format="1">
+  <advance width="670"/>
+  <unicode hex="0210"/>
+  <outline>
+    <contour>
+      <point x="295" y="916" type="line"/>
+      <point x="416" y="916" type="line"/>
+      <point x="460" y="786" type="line"/>
+      <point x="383" y="758" type="line"/>
+    </contour>
+    <contour>
+      <point x="121" y="916" type="line"/>
+      <point x="241" y="916" type="line"/>
+      <point x="286" y="786" type="line"/>
+      <point x="208" y="758" type="line"/>
+    </contour>
+    <contour>
+      <point x="68" y="0" type="line"/>
+      <point x="68" y="710" type="line"/>
+      <point x="388" y="710" type="line"/>
+      <point x="438" y="710"/>
+      <point x="523" y="668"/>
+      <point x="585" y="600"/>
+      <point x="620" y="514"/>
+      <point x="620" y="470" type="qcurve"/>
+      <point x="620" y="437"/>
+      <point x="604" y="376"/>
+      <point x="574" y="322"/>
+      <point x="531" y="279"/>
+      <point x="504" y="264" type="qcurve"/>
+      <point x="660" y="0" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="339" y="229" type="line"/>
+      <point x="232" y="229" type="line"/>
+      <point x="232" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="232" y="372" type="line"/>
+      <point x="382" y="372" type="line"/>
+      <point x="411" y="372"/>
+      <point x="453" y="427"/>
+      <point x="453" y="470" type="qcurve"/>
+      <point x="453" y="514"/>
+      <point x="405" y="566"/>
+      <point x="377" y="566" type="qcurve"/>
+      <point x="232" y="566" type="line"/>
+    </contour>
+  </outline>
+</glyph>

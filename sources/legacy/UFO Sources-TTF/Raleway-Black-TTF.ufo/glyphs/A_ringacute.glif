@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aringacute" format="1">
+  <advance width="667"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <contour>
+      <point x="419" y="808" type="line"/>
+      <point x="451" y="786"/>
+      <point x="451" y="743" type="qcurve"/>
+      <point x="451" y="708"/>
+      <point x="430" y="687" type="qcurve"/>
+      <point x="669" y="0" type="line"/>
+      <point x="471" y="0" type="line"/>
+      <point x="428" y="139" type="line"/>
+      <point x="239" y="139" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="-2" y="0" type="line"/>
+      <point x="237" y="688" type="line"/>
+      <point x="217" y="710"/>
+      <point x="217" y="743" type="qcurve"/>
+      <point x="217" y="775"/>
+      <point x="251" y="815"/>
+      <point x="283" y="824" type="qcurve"/>
+      <point x="321" y="918" type="line"/>
+      <point x="490" y="918" type="line"/>
+    </contour>
+    <contour>
+      <point x="397" y="269" type="line"/>
+      <point x="334" y="489" type="line"/>
+      <point x="268" y="269" type="line"/>
+    </contour>
+    <contour>
+      <point x="334" y="776" type="qcurve"/>
+      <point x="317" y="776"/>
+      <point x="294" y="758"/>
+      <point x="294" y="744" type="qcurve"/>
+      <point x="294" y="729"/>
+      <point x="317" y="710"/>
+      <point x="334" y="710" type="qcurve"/>
+      <point x="351" y="710"/>
+      <point x="374" y="729"/>
+      <point x="374" y="744" type="qcurve"/>
+      <point x="374" y="758"/>
+      <point x="351" y="776"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

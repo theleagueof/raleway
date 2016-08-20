@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft" format="1">
+  <advance width="342"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="25" y="348" type="qcurve"/>
+      <point x="25" y="399"/>
+      <point x="49" y="502"/>
+      <point x="91" y="607"/>
+      <point x="148" y="716"/>
+      <point x="181" y="772" type="qcurve"/>
+      <point x="326" y="714" type="line"/>
+      <point x="314" y="695"/>
+      <point x="273" y="616"/>
+      <point x="232" y="514"/>
+      <point x="202" y="399"/>
+      <point x="202" y="345" type="qcurve"/>
+      <point x="202" y="263"/>
+      <point x="271" y="95"/>
+      <point x="321" y="1" type="qcurve"/>
+      <point x="183" y="-66" type="line"/>
+      <point x="152" y="-20"/>
+      <point x="95" y="81"/>
+      <point x="51" y="186"/>
+      <point x="25" y="294"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nacute" format="1">
+  <advance width="770"/>
+  <unicode hex="0143"/>
+  <outline>
+    <contour>
+      <point x="402" y="795" type="line"/>
+      <point x="344" y="815" type="line"/>
+      <point x="402" y="916" type="line"/>
+      <point x="490" y="916" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="542" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="85" y="710" type="line"/>
+      <point x="155" y="710" type="line"/>
+      <point x="595" y="157" type="line"/>
+      <point x="595" y="709" type="line"/>
+      <point x="685" y="709" type="line"/>
+      <point x="685" y="0" type="line"/>
+      <point x="609" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

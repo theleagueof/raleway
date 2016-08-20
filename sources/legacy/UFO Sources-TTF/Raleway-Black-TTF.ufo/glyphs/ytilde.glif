@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ytilde" format="1">
+  <advance width="555"/>
+  <unicode hex="1EF9"/>
+  <outline>
+    <contour>
+      <point x="44" y="-53" type="line"/>
+      <point x="90" y="-70"/>
+      <point x="122" y="-70" type="qcurve"/>
+      <point x="183" y="-70"/>
+      <point x="189" y="0" type="qcurve"/>
+      <point x="-2" y="526" type="line"/>
+      <point x="193" y="526" type="line"/>
+      <point x="293" y="161" type="line"/>
+      <point x="374" y="526" type="line"/>
+      <point x="551" y="526" type="line"/>
+      <point x="373" y="-63" type="line"/>
+      <point x="361" y="-102"/>
+      <point x="317" y="-165"/>
+      <point x="256" y="-210"/>
+      <point x="182" y="-234"/>
+      <point x="142" y="-234" type="qcurve"/>
+      <point x="91" y="-234"/>
+      <point x="44" y="-215" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="357" y="572" type="qcurve"/>
+      <point x="334" y="572"/>
+      <point x="299" y="587"/>
+      <point x="269" y="605"/>
+      <point x="240" y="620"/>
+      <point x="223" y="620" type="qcurve"/>
+      <point x="206" y="620"/>
+      <point x="188" y="606"/>
+      <point x="179" y="588"/>
+      <point x="177" y="573"/>
+      <point x="177" y="572" type="qcurve"/>
+      <point x="76" y="572" type="line"/>
+      <point x="76" y="585"/>
+      <point x="91" y="638"/>
+      <point x="125" y="690"/>
+      <point x="177" y="730"/>
+      <point x="215" y="730" type="qcurve"/>
+      <point x="239" y="730"/>
+      <point x="275" y="714"/>
+      <point x="305" y="695"/>
+      <point x="333" y="679"/>
+      <point x="350" y="679" type="qcurve"/>
+      <point x="366" y="679"/>
+      <point x="386" y="694"/>
+      <point x="397" y="713"/>
+      <point x="400" y="729"/>
+      <point x="400" y="730" type="qcurve"/>
+      <point x="500" y="730" type="line"/>
+      <point x="500" y="721"/>
+      <point x="484" y="670"/>
+      <point x="450" y="615"/>
+      <point x="396" y="572"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

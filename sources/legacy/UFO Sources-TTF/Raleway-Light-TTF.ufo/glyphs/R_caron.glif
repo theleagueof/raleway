@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcaron" format="1">
+  <advance width="649"/>
+  <unicode hex="0158"/>
+  <outline>
+    <contour>
+      <point x="232" y="920" type="line"/>
+      <point x="317" y="857" type="line"/>
+      <point x="402" y="920" type="line"/>
+      <point x="432" y="903" type="line"/>
+      <point x="335" y="822" type="line"/>
+      <point x="298" y="822" type="line"/>
+      <point x="202" y="903" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="0" type="line"/>
+      <point x="93" y="710" type="line"/>
+      <point x="388" y="710" type="line"/>
+      <point x="433" y="710"/>
+      <point x="509" y="672"/>
+      <point x="564" y="609"/>
+      <point x="595" y="530"/>
+      <point x="595" y="490" type="qcurve"/>
+      <point x="595" y="451"/>
+      <point x="571" y="378"/>
+      <point x="527" y="320"/>
+      <point x="465" y="282"/>
+      <point x="428" y="276" type="qcurve"/>
+      <point x="605" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="374" y="268" type="line"/>
+      <point x="144" y="268" type="line"/>
+      <point x="144" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="315" type="line"/>
+      <point x="393" y="315" type="line"/>
+      <point x="427" y="315"/>
+      <point x="483" y="345"/>
+      <point x="523" y="394"/>
+      <point x="544" y="457"/>
+      <point x="544" y="490" type="qcurve"/>
+      <point x="544" y="524"/>
+      <point x="519" y="587"/>
+      <point x="476" y="635"/>
+      <point x="419" y="664"/>
+      <point x="386" y="664" type="qcurve"/>
+      <point x="144" y="664" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

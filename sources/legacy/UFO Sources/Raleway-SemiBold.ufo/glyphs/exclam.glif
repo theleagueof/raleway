@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="1">
+  <advance width="284"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="197" y="253" type="line"/>
+      <point x="197" y="717" type="line"/>
+      <point x="87" y="717" type="line"/>
+      <point x="87" y="253" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="0" type="line"/>
+      <point x="197" y="137" type="line"/>
+      <point x="87" y="137" type="line"/>
+      <point x="87" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

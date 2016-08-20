@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K.sc" format="1">
+  <advance width="572"/>
+  <outline>
+    <contour>
+      <point x="315" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="159" y="0" type="line"/>
+      <point x="159" y="168" type="line"/>
+      <point x="262" y="261" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="566" y="0" type="line"/>
+      <point x="311" y="308" type="line"/>
+      <point x="553" y="551" type="line"/>
+      <point x="466" y="551" type="line"/>
+      <point x="159" y="256" type="line"/>
+      <point x="159" y="551" type="line"/>
+      <point x="79" y="551" type="line"/>
+      <point x="79" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uogonek" format="1">
+  <advance width="752"/>
+  <unicode hex="0172"/>
+  <outline>
+    <contour>
+      <point x="376" y="96" type="qcurve"/>
+      <point x="432" y="96"/>
+      <point x="506" y="140"/>
+      <point x="551" y="211"/>
+      <point x="570" y="302"/>
+      <point x="570" y="350" type="qcurve"/>
+      <point x="570" y="710" type="line"/>
+      <point x="683" y="710" type="line"/>
+      <point x="683" y="350" type="line"/>
+      <point x="683" y="280"/>
+      <point x="651" y="156"/>
+      <point x="584" y="60"/>
+      <point x="478" y="1"/>
+      <point x="403" y="-4" type="qcurve"/>
+      <point x="363" y="-29"/>
+      <point x="327" y="-70"/>
+      <point x="327" y="-91" type="qcurve"/>
+      <point x="327" y="-128"/>
+      <point x="385" y="-132" type="qcurve"/>
+      <point x="360" y="-190" type="line"/>
+      <point x="311" y="-182"/>
+      <point x="261" y="-137"/>
+      <point x="261" y="-108" type="qcurve"/>
+      <point x="261" y="-55"/>
+      <point x="338" y="-3" type="qcurve"/>
+      <point x="264" y="4"/>
+      <point x="162" y="67"/>
+      <point x="98" y="163"/>
+      <point x="70" y="285"/>
+      <point x="70" y="350" type="qcurve"/>
+      <point x="70" y="710" type="line"/>
+      <point x="182" y="710" type="line"/>
+      <point x="182" y="350" type="line"/>
+      <point x="182" y="301"/>
+      <point x="201" y="210"/>
+      <point x="246" y="139"/>
+      <point x="321" y="96"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

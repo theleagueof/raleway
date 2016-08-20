@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek" format="1">
+  <advance width="605"/>
+  <unicode hex="0118"/>
+  <outline>
+    <contour>
+      <point x="567" y="80" type="line"/>
+      <point x="567" y="0" type="line"/>
+      <point x="523" y="-27"/>
+      <point x="485" y="-70"/>
+      <point x="485" y="-92" type="qcurve"/>
+      <point x="485" y="-129"/>
+      <point x="540" y="-135" type="qcurve"/>
+      <point x="518" y="-181" type="line"/>
+      <point x="476" y="-173"/>
+      <point x="434" y="-132"/>
+      <point x="434" y="-104" type="qcurve"/>
+      <point x="434" y="-78"/>
+      <point x="471" y="-26"/>
+      <point x="511" y="0" type="qcurve"/>
+      <point x="85" y="0" type="line"/>
+      <point x="85" y="710" type="line"/>
+      <point x="558" y="710" type="line"/>
+      <point x="558" y="630" type="line"/>
+      <point x="175" y="630" type="line"/>
+      <point x="175" y="400" type="line"/>
+      <point x="508" y="400" type="line"/>
+      <point x="508" y="325" type="line"/>
+      <point x="175" y="325" type="line"/>
+      <point x="175" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

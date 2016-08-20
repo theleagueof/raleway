@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="1">
+  <advance width="800"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="453" y="232" type="line"/>
+      <point x="487" y="318" type="line"/>
+      <point x="68" y="318" type="line"/>
+      <point x="34" y="232" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="452" type="line"/>
+      <point x="41" y="366" type="line"/>
+      <point x="483" y="366" type="line"/>
+      <point x="517" y="452" type="line"/>
+    </contour>
+    <component base="C" xOffset="83"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

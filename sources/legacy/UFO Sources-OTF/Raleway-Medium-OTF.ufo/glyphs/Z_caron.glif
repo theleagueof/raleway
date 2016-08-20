@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zcaron" format="1">
+  <advance width="631"/>
+  <unicode hex="017D"/>
+  <outline>
+    <contour>
+      <point x="198" y="892" type="line"/>
+      <point x="299" y="802" type="line"/>
+      <point x="363" y="802" type="line"/>
+      <point x="464" y="892" type="line"/>
+      <point x="416" y="916" type="line"/>
+      <point x="331" y="853" type="line"/>
+      <point x="246" y="916" type="line"/>
+    </contour>
+    <contour>
+      <point x="32" y="0" type="line"/>
+      <point x="595" y="0" type="line"/>
+      <point x="595" y="80" type="line"/>
+      <point x="145" y="80" type="line"/>
+      <point x="595" y="640" type="line"/>
+      <point x="595" y="710" type="line"/>
+      <point x="41" y="710" type="line"/>
+      <point x="41" y="630" type="line"/>
+      <point x="490" y="630" type="line"/>
+      <point x="32" y="70" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

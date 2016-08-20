@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ndotaccent" format="1">
+  <advance width="740"/>
+  <unicode hex="1E44"/>
+  <outline>
+    <contour>
+      <point x="512" y="820" type="line"/>
+      <point x="533" y="917" type="line"/>
+      <point x="471" y="917" type="line"/>
+      <point x="450" y="820" type="line"/>
+    </contour>
+    <contour>
+      <point x="24" y="0" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="216" y="580" type="line"/>
+      <point x="529" y="0" type="line"/>
+      <point x="588" y="0" type="line"/>
+      <point x="739" y="709" type="line"/>
+      <point x="670" y="709" type="line"/>
+      <point x="545" y="119" type="line"/>
+      <point x="229" y="710" type="line"/>
+      <point x="175" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

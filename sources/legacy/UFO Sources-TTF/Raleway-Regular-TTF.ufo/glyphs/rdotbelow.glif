@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rdotbelow" format="1">
+  <advance width="351"/>
+  <unicode hex="1E5B"/>
+  <outline>
+    <contour>
+      <point x="335" y="461" type="line"/>
+      <point x="266" y="459"/>
+      <point x="164" y="387"/>
+      <point x="143" y="324" type="qcurve"/>
+      <point x="143" y="0" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="75" y="521" type="line"/>
+      <point x="139" y="521" type="line"/>
+      <point x="139" y="396" type="line"/>
+      <point x="168" y="456"/>
+      <point x="266" y="524"/>
+      <point x="322" y="524" type="qcurve"/>
+      <point x="330" y="524"/>
+      <point x="335" y="523" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="78" y="-166" type="line"/>
+      <point x="78" y="-68" type="line"/>
+      <point x="140" y="-68" type="line"/>
+      <point x="140" y="-166" type="line"/>
+    </contour>
+  </outline>
+</glyph>

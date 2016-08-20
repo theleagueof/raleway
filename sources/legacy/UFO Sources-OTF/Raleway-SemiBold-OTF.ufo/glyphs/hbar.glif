@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar" format="1">
+  <advance width="597"/>
+  <unicode hex="0127"/>
+  <outline>
+    <contour>
+      <point x="535" y="319" type="line" smooth="yes"/>
+      <point x="535" y="433"/>
+      <point x="500" y="532"/>
+      <point x="370" y="532" type="curve" smooth="yes"/>
+      <point x="289" y="532"/>
+      <point x="216" y="489"/>
+      <point x="176" y="418" type="curve"/>
+      <point x="176" y="604" type="line"/>
+      <point x="297" y="604" type="line"/>
+      <point x="297" y="672" type="line"/>
+      <point x="176" y="672" type="line"/>
+      <point x="176" y="730" type="line"/>
+      <point x="66" y="730" type="line"/>
+      <point x="66" y="672" type="line"/>
+      <point x="16" y="672" type="line"/>
+      <point x="16" y="604" type="line"/>
+      <point x="66" y="604" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="176" y="0" type="line"/>
+      <point x="176" y="311" type="line"/>
+      <point x="198" y="383"/>
+      <point x="266" y="434"/>
+      <point x="326" y="434" type="curve" smooth="yes"/>
+      <point x="389" y="434"/>
+      <point x="425" y="388"/>
+      <point x="425" y="293" type="curve" smooth="yes"/>
+      <point x="425" y="0" type="line"/>
+      <point x="535" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

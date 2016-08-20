@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J.sc" format="1">
+  <advance width="434"/>
+  <outline>
+    <contour>
+      <point x="363" y="707" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="39" y="107" type="line"/>
+      <point x="53" y="99"/>
+      <point x="111" y="80"/>
+      <point x="148" y="80" type="qcurve"/>
+      <point x="188" y="80"/>
+      <point x="235" y="104"/>
+      <point x="260" y="152"/>
+      <point x="267" y="225"/>
+      <point x="267" y="273" type="qcurve"/>
+      <point x="267" y="555" type="line"/>
+      <point x="366" y="555" type="line"/>
+      <point x="366" y="273" type="line"/>
+      <point x="366" y="210"/>
+      <point x="353" y="106"/>
+      <point x="308" y="32"/>
+      <point x="221" y="-8"/>
+      <point x="148" y="-8" type="qcurve"/>
+      <point x="69" y="-8"/>
+      <point x="15" y="25" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

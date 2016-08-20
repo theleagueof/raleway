@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threeinferior" format="1">
+  <advance width="398"/>
+  <unicode hex="2083"/>
+  <outline>
+    <contour>
+      <point x="101" y="-93" type="qcurve"/>
+      <point x="41" y="-93"/>
+      <point x="-35" y="-55"/>
+      <point x="-43" y="-17" type="qcurve"/>
+      <point x="20" y="53" type="line"/>
+      <point x="21" y="49"/>
+      <point x="33" y="32"/>
+      <point x="57" y="14"/>
+      <point x="93" y="1"/>
+      <point x="119" y="1" type="qcurve"/>
+      <point x="158" y="1"/>
+      <point x="218" y="25"/>
+      <point x="218" y="50" type="qcurve"/>
+      <point x="218" y="73"/>
+      <point x="150" y="94"/>
+      <point x="88" y="94" type="qcurve"/>
+      <point x="64" y="94" type="line"/>
+      <point x="82" y="179" type="line"/>
+      <point x="105" y="179" type="line"/>
+      <point x="135" y="179"/>
+      <point x="185" y="185"/>
+      <point x="222" y="197"/>
+      <point x="243" y="216"/>
+      <point x="243" y="230" type="qcurve"/>
+      <point x="243" y="239"/>
+      <point x="231" y="251"/>
+      <point x="212" y="258"/>
+      <point x="190" y="262"/>
+      <point x="180" y="262" type="qcurve"/>
+      <point x="142" y="262"/>
+      <point x="87" y="236"/>
+      <point x="64" y="215" type="qcurve"/>
+      <point x="22" y="291" type="line"/>
+      <point x="37" y="305"/>
+      <point x="77" y="326"/>
+      <point x="123" y="341"/>
+      <point x="173" y="349"/>
+      <point x="197" y="349" type="qcurve"/>
+      <point x="230" y="349"/>
+      <point x="284" y="333"/>
+      <point x="323" y="306"/>
+      <point x="345" y="268"/>
+      <point x="345" y="246" type="qcurve"/>
+      <point x="345" y="205"/>
+      <point x="283" y="150"/>
+      <point x="231" y="142" type="qcurve"/>
+      <point x="270" y="136"/>
+      <point x="312" y="84"/>
+      <point x="312" y="50" type="qcurve"/>
+      <point x="312" y="12"/>
+      <point x="274" y="-42"/>
+      <point x="214" y="-76"/>
+      <point x="138" y="-93"/>
+    </contour>
+  </outline>
+</glyph>

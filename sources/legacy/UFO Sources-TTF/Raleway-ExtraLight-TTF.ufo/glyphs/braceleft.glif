@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="1">
+  <advance width="238"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="128" y="709" type="line"/>
+      <point x="128" y="418" type="line"/>
+      <point x="128" y="414"/>
+      <point x="127" y="401"/>
+      <point x="123" y="384"/>
+      <point x="114" y="367"/>
+      <point x="106" y="360" type="qcurve"/>
+      <point x="122" y="346"/>
+      <point x="128" y="309"/>
+      <point x="128" y="302" type="qcurve"/>
+      <point x="128" y="0" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="183" y="-31" type="line"/>
+      <point x="119" y="-31" type="line"/>
+      <point x="111" y="-31"/>
+      <point x="96" y="-18"/>
+      <point x="96" y="-1" type="qcurve"/>
+      <point x="96" y="297" type="line"/>
+      <point x="96" y="314"/>
+      <point x="82" y="344"/>
+      <point x="64" y="346" type="qcurve"/>
+      <point x="64" y="376" type="line"/>
+      <point x="74" y="376"/>
+      <point x="87" y="388"/>
+      <point x="94" y="403"/>
+      <point x="96" y="419"/>
+      <point x="96" y="423" type="qcurve"/>
+      <point x="96" y="710" type="line"/>
+      <point x="96" y="730"/>
+      <point x="115" y="740"/>
+      <point x="119" y="740" type="qcurve"/>
+      <point x="183" y="740" type="line"/>
+      <point x="183" y="709" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

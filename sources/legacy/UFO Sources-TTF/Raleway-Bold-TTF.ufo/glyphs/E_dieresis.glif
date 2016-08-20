@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edieresis" format="1">
+  <advance width="601"/>
+  <unicode hex="00CB"/>
+  <outline>
+    <contour>
+      <point x="174" y="790" type="line"/>
+      <point x="174" y="909" type="line"/>
+      <point x="285" y="909" type="line"/>
+      <point x="285" y="790" type="line"/>
+    </contour>
+    <contour>
+      <point x="366" y="790" type="line"/>
+      <point x="366" y="909" type="line"/>
+      <point x="477" y="909" type="line"/>
+      <point x="477" y="790" type="line"/>
+    </contour>
+    <contour>
+      <point x="567" y="121" type="line"/>
+      <point x="567" y="0" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="74" y="710" type="line"/>
+      <point x="558" y="710" type="line"/>
+      <point x="558" y="589" type="line"/>
+      <point x="212" y="589" type="line"/>
+      <point x="212" y="418" type="line"/>
+      <point x="511" y="418" type="line"/>
+      <point x="511" y="306" type="line"/>
+      <point x="212" y="306" type="line"/>
+      <point x="212" y="121" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

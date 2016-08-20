@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.alt" format="1">
+  <advance width="229"/>
+  <outline>
+    <contour>
+      <point x="81" y="0" type="line"/>
+      <point x="149" y="0" type="line"/>
+      <point x="149" y="730" type="line"/>
+      <point x="81" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

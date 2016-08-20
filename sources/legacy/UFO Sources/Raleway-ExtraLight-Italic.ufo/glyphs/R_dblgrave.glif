@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rdblgrave" format="1">
+  <advance width="619"/>
+  <unicode hex="0210"/>
+  <outline>
+    <component base="uni030F" xOffset="262" yOffset="188"/>
+    <component base="R"/>
+  </outline>
+</glyph>

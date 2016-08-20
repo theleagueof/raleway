@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute" format="1">
+  <advance width="651"/>
+  <unicode hex="00DD"/>
+  <outline>
+    <contour>
+      <point x="16" y="710" type="line"/>
+      <point x="290" y="266" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="360" y="264" type="line"/>
+      <point x="635" y="710" type="line"/>
+      <point x="559" y="710" type="line"/>
+      <point x="325" y="328" type="line"/>
+      <point x="93" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="417" y="917" type="line"/>
+      <point x="345" y="917" type="line"/>
+      <point x="286" y="824" type="line"/>
+      <point x="331" y="807" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

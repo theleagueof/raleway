@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="1">
+  <advance width="1020"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <component base="fraction" xOffset="403"/>
+    <component base="one.numerator" xOffset="10"/>
+    <component base="four.denominator" xOffset="580"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

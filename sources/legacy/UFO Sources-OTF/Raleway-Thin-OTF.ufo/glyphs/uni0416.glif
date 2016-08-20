@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0416" format="1">
+  <advance width="880"/>
+  <unicode hex="0416"/>
+  <outline>
+    <contour>
+      <point x="6" y="0" type="line"/>
+      <point x="32" y="0" type="line"/>
+      <point x="266" y="361" type="line"/>
+      <point x="430" y="361" type="line"/>
+      <point x="430" y="0" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="450" y="361" type="line"/>
+      <point x="614" y="361" type="line"/>
+      <point x="848" y="0" type="line"/>
+      <point x="874" y="0" type="line"/>
+      <point x="630" y="371" type="line"/>
+      <point x="841" y="710" type="line"/>
+      <point x="815" y="710" type="line"/>
+      <point x="616" y="381" type="line"/>
+      <point x="450" y="381" type="line"/>
+      <point x="450" y="710" type="line"/>
+      <point x="430" y="710" type="line"/>
+      <point x="430" y="381" type="line"/>
+      <point x="264" y="381" type="line"/>
+      <point x="65" y="710" type="line"/>
+      <point x="39" y="710" type="line"/>
+      <point x="249" y="371" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

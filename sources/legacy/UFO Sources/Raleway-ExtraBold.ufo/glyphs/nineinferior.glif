@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nineinferior" format="1">
+  <advance width="432"/>
+  <unicode hex="2089"/>
+  <outline>
+    <contour>
+      <point x="27" y="196" type="curve" smooth="yes"/>
+      <point x="27" y="280"/>
+      <point x="107" y="347"/>
+      <point x="214" y="347" type="curve" smooth="yes"/>
+      <point x="328" y="347"/>
+      <point x="400" y="270"/>
+      <point x="400" y="139" type="curve" smooth="yes"/>
+      <point x="400" y="-7"/>
+      <point x="325" y="-93"/>
+      <point x="202" y="-93" type="curve" smooth="yes"/>
+      <point x="140" y="-93"/>
+      <point x="83" y="-71"/>
+      <point x="47" y="-31" type="curve"/>
+      <point x="100" y="34" type="line"/>
+      <point x="122" y="10"/>
+      <point x="162" y="-5"/>
+      <point x="205" y="-5" type="curve" smooth="yes"/>
+      <point x="270" y="-5"/>
+      <point x="313" y="28"/>
+      <point x="314" y="85" type="curve"/>
+      <point x="294" y="64"/>
+      <point x="247" y="53"/>
+      <point x="208" y="53" type="curve" smooth="yes"/>
+      <point x="102" y="53"/>
+      <point x="27" y="115"/>
+    </contour>
+    <contour>
+      <point x="212" y="261" type="curve" smooth="yes"/>
+      <point x="160" y="261"/>
+      <point x="116" y="231"/>
+      <point x="116" y="196" type="curve" smooth="yes"/>
+      <point x="116" y="162"/>
+      <point x="160" y="135"/>
+      <point x="213" y="135" type="curve" smooth="yes"/>
+      <point x="266" y="135"/>
+      <point x="310" y="162"/>
+      <point x="310" y="196" type="curve" smooth="yes"/>
+      <point x="310" y="231"/>
+      <point x="265" y="261"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

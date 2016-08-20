@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhungarumlaut" format="1">
+  <advance width="747"/>
+  <unicode hex="0170"/>
+  <outline>
+    <component base="U"/>
+    <component base="hungarumlaut" xOffset="203" yOffset="186"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

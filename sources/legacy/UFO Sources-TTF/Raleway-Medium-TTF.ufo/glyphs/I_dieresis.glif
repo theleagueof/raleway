@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="1">
+  <advance width="260"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="85" y="710" type="line"/>
+      <point x="175" y="710" type="line"/>
+      <point x="175" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="12" y="811" type="line"/>
+      <point x="12" y="913" type="line"/>
+      <point x="86" y="913" type="line"/>
+      <point x="86" y="811" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="811" type="line"/>
+      <point x="174" y="913" type="line"/>
+      <point x="248" y="913" type="line"/>
+      <point x="248" y="811" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

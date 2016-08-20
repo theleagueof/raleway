@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hcircumflex" format="1">
+  <advance width="604"/>
+  <unicode hex="0125"/>
+  <outline>
+    <component base="circumflex" xScale="0.8777359128" yScale="0.978643357754" xOffset="218" yOffset="14"/>
+    <component base="h"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

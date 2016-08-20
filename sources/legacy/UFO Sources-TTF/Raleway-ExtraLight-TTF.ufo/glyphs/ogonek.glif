@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="214"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="143" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="109" y="-164" type="line"/>
+      <point x="80" y="-157"/>
+      <point x="50" y="-123"/>
+      <point x="50" y="-99" type="qcurve"/>
+      <point x="50" y="-72"/>
+      <point x="93" y="-19"/>
+      <point x="143" y="15" type="qcurve"/>
+      <point x="158" y="0" type="line"/>
+      <point x="113" y="-30"/>
+      <point x="76" y="-72"/>
+      <point x="76" y="-94" type="qcurve"/>
+      <point x="76" y="-132"/>
+      <point x="123" y="-141" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

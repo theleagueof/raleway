@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.lnum" format="1">
+  <advance width="448"/>
+  <outline>
+    <contour>
+      <point x="1" y="0" type="line"/>
+      <point x="364" y="0" type="line"/>
+      <point x="385" y="99" type="line"/>
+      <point x="265" y="99" type="line"/>
+      <point x="396" y="717" type="line"/>
+      <point x="284" y="717" type="line"/>
+      <point x="281" y="713"/>
+      <point x="179" y="621"/>
+      <point x="111" y="621" type="curve"/>
+      <point x="89" y="519" type="line"/>
+      <point x="140" y="519"/>
+      <point x="233" y="574"/>
+      <point x="260" y="605" type="curve"/>
+      <point x="152" y="99" type="line"/>
+      <point x="22" y="99" type="line"/>
+    </contour>
+  </outline>
+</glyph>

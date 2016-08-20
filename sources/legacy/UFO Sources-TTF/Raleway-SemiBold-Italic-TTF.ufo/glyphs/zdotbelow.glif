@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zdotbelow" format="1">
+  <advance width="470"/>
+  <unicode hex="1E93"/>
+  <outline>
+    <contour>
+      <point x="-22" y="69" type="line"/>
+      <point x="347" y="445" type="line"/>
+      <point x="68" y="445" type="line"/>
+      <point x="85" y="523" type="line"/>
+      <point x="484" y="523" type="line"/>
+      <point x="469" y="454" type="line"/>
+      <point x="102" y="78" type="line"/>
+      <point x="392" y="78" type="line"/>
+      <point x="375" y="0" type="line"/>
+      <point x="-37" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="-189" type="line"/>
+      <point x="105" y="-73" type="line"/>
+      <point x="204" y="-73" type="line"/>
+      <point x="180" y="-189" type="line"/>
+    </contour>
+  </outline>
+</glyph>

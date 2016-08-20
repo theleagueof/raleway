@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="614"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="114" y="-6" type="line"/>
+      <point x="146" y="30" type="line"/>
+      <point x="189" y="5"/>
+      <point x="243" y="-10"/>
+      <point x="307" y="-10" type="curve" smooth="yes"/>
+      <point x="495" y="-10"/>
+      <point x="595" y="119"/>
+      <point x="595" y="263" type="curve" smooth="yes"/>
+      <point x="595" y="335"/>
+      <point x="570" y="404"/>
+      <point x="521" y="454" type="curve"/>
+      <point x="591" y="532" type="line"/>
+      <point x="490" y="532" type="line"/>
+      <point x="461" y="500" type="line"/>
+      <point x="419" y="523"/>
+      <point x="368" y="536"/>
+      <point x="307" y="536" type="curve" smooth="yes"/>
+      <point x="119" y="536"/>
+      <point x="19" y="408"/>
+      <point x="19" y="263" type="curve" smooth="yes"/>
+      <point x="19" y="193"/>
+      <point x="42" y="127"/>
+      <point x="88" y="77" type="curve"/>
+      <point x="14" y="-6" type="line"/>
+    </contour>
+    <contour>
+      <point x="307" y="150" type="curve" smooth="yes"/>
+      <point x="289" y="150"/>
+      <point x="273" y="154"/>
+      <point x="259" y="163" type="curve"/>
+      <point x="392" y="313" type="line"/>
+      <point x="397" y="299"/>
+      <point x="400" y="282"/>
+      <point x="400" y="263" type="curve" smooth="yes"/>
+      <point x="400" y="193"/>
+      <point x="361" y="150"/>
+    </contour>
+    <contour>
+      <point x="214" y="263" type="curve" smooth="yes"/>
+      <point x="214" y="333"/>
+      <point x="253" y="376"/>
+      <point x="307" y="376" type="curve" smooth="yes"/>
+      <point x="322" y="376"/>
+      <point x="336" y="372"/>
+      <point x="349" y="366" type="curve"/>
+      <point x="219" y="220" type="line"/>
+      <point x="216" y="233"/>
+      <point x="214" y="247"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F" format="1">
+  <advance width="598"/>
+  <unicode hex="0046"/>
+  <outline>
+    <contour>
+      <point x="131" y="0" type="line"/>
+      <point x="131" y="347" type="line"/>
+      <point x="492" y="347" type="line"/>
+      <point x="492" y="378" type="line"/>
+      <point x="131" y="378" type="line"/>
+      <point x="131" y="678" type="line"/>
+      <point x="556" y="678" type="line"/>
+      <point x="556" y="710" type="line"/>
+      <point x="96" y="710" type="line"/>
+      <point x="96" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

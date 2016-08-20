@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute" format="1">
+  <advance width="555"/>
+  <unicode hex="00FD"/>
+  <outline>
+    <contour>
+      <point x="44" y="-53" type="line"/>
+      <point x="90" y="-70"/>
+      <point x="122" y="-70" type="qcurve"/>
+      <point x="183" y="-70"/>
+      <point x="189" y="0" type="qcurve"/>
+      <point x="-2" y="526" type="line"/>
+      <point x="193" y="526" type="line"/>
+      <point x="293" y="161" type="line"/>
+      <point x="374" y="526" type="line"/>
+      <point x="551" y="526" type="line"/>
+      <point x="373" y="-63" type="line"/>
+      <point x="361" y="-102"/>
+      <point x="317" y="-165"/>
+      <point x="256" y="-210"/>
+      <point x="182" y="-234"/>
+      <point x="142" y="-234" type="qcurve"/>
+      <point x="91" y="-234"/>
+      <point x="44" y="-215" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="351" y="556" type="line"/>
+      <point x="231" y="588" type="line"/>
+      <point x="281" y="730" type="line"/>
+      <point x="450" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

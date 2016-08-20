@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edotaccent" format="1">
+  <advance width="601"/>
+  <unicode hex="0116"/>
+  <outline>
+    <contour>
+      <point x="212" y="121" type="line"/>
+      <point x="212" y="306" type="line"/>
+      <point x="511" y="306" type="line"/>
+      <point x="511" y="418" type="line"/>
+      <point x="212" y="418" type="line"/>
+      <point x="212" y="589" type="line"/>
+      <point x="558" y="589" type="line"/>
+      <point x="558" y="710" type="line"/>
+      <point x="74" y="710" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="567" y="0" type="line"/>
+      <point x="567" y="121" type="line"/>
+    </contour>
+    <contour>
+      <point x="387" y="789" type="line"/>
+      <point x="387" y="915" type="line"/>
+      <point x="266" y="915" type="line"/>
+      <point x="266" y="789" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

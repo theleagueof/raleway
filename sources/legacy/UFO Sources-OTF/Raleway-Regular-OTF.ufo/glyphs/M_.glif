@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="877"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="788" y="0" type="line"/>
+      <point x="788" y="710" type="line"/>
+      <point x="717" y="710" type="line"/>
+      <point x="438" y="224" type="line"/>
+      <point x="161" y="710" type="line"/>
+      <point x="89" y="710" type="line"/>
+      <point x="89" y="0" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="159" y="583" type="line"/>
+      <point x="418" y="132" type="line"/>
+      <point x="459" y="132" type="line"/>
+      <point x="718" y="583" type="line"/>
+      <point x="718" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

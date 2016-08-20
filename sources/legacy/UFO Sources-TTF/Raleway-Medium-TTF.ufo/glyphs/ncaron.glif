@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncaron" format="1">
+  <advance width="590"/>
+  <unicode hex="0148"/>
+  <outline>
+    <contour>
+      <point x="218" y="730" type="line"/>
+      <point x="303" y="667" type="line"/>
+      <point x="388" y="730" type="line"/>
+      <point x="436" y="706" type="line"/>
+      <point x="335" y="616" type="line"/>
+      <point x="271" y="616" type="line"/>
+      <point x="170" y="706" type="line"/>
+    </contour>
+    <contour>
+      <point x="524" y="0" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="436" y="292" type="line"/>
+      <point x="436" y="376"/>
+      <point x="385" y="452"/>
+      <point x="333" y="452" type="qcurve"/>
+      <point x="306" y="452"/>
+      <point x="252" y="431"/>
+      <point x="204" y="395"/>
+      <point x="168" y="345"/>
+      <point x="159" y="315" type="qcurve"/>
+      <point x="159" y="0" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="71" y="522" type="line"/>
+      <point x="151" y="522" type="line"/>
+      <point x="151" y="410" type="line"/>
+      <point x="182" y="465"/>
+      <point x="299" y="531"/>
+      <point x="368" y="531" type="qcurve"/>
+      <point x="413" y="531"/>
+      <point x="473" y="498"/>
+      <point x="509" y="439"/>
+      <point x="524" y="359"/>
+      <point x="524" y="312" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

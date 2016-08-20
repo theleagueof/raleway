@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W.sc" format="1">
+  <advance width="900"/>
+  <outline>
+    <contour>
+      <point x="507" y="707" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="307" y="544" type="line"/>
+      <point x="366" y="544" type="line"/>
+      <point x="449" y="352" type="line"/>
+      <point x="533" y="544" type="line"/>
+      <point x="592" y="544" type="line"/>
+      <point x="487" y="307" type="line"/>
+      <point x="598" y="76" type="line"/>
+      <point x="813" y="548" type="line"/>
+      <point x="882" y="548" type="line"/>
+      <point x="629" y="0" type="line"/>
+      <point x="574" y="0" type="line"/>
+      <point x="450" y="264" type="line"/>
+      <point x="326" y="0" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="18" y="548" type="line"/>
+      <point x="86" y="548" type="line"/>
+      <point x="302" y="76" type="line"/>
+      <point x="410" y="307" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

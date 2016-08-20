@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tdotbelow" format="1">
+  <advance width="589"/>
+  <unicode hex="1E6C"/>
+  <outline>
+    <contour>
+      <point x="139" y="-189" type="line"/>
+      <point x="164" y="-73" type="line"/>
+      <point x="263" y="-73" type="line"/>
+      <point x="239" y="-189" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="611" type="line"/>
+      <point x="81" y="611" type="line"/>
+      <point x="102" y="710" type="line"/>
+      <point x="659" y="710" type="line"/>
+      <point x="638" y="611" type="line"/>
+      <point x="416" y="611" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

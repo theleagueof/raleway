@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a.alt2" format="1">
+  <advance width="574"/>
+  <outline>
+    <contour>
+      <point x="371" y="0" type="line"/>
+      <point x="371" y="69" type="line"/>
+      <point x="343" y="30"/>
+      <point x="258" y="-10"/>
+      <point x="204" y="-10" type="qcurve"/>
+      <point x="165" y="-10"/>
+      <point x="98" y="15"/>
+      <point x="50" y="60"/>
+      <point x="22" y="121"/>
+      <point x="22" y="157" type="qcurve"/>
+      <point x="22" y="197"/>
+      <point x="57" y="262"/>
+      <point x="118" y="307"/>
+      <point x="200" y="332"/>
+      <point x="247" y="332" type="qcurve"/>
+      <point x="284" y="332"/>
+      <point x="345" y="320"/>
+      <point x="365" y="310" type="qcurve"/>
+      <point x="365" y="334" type="line"/>
+      <point x="365" y="425"/>
+      <point x="260" y="425" type="qcurve"/>
+      <point x="217" y="425"/>
+      <point x="139" y="396"/>
+      <point x="96" y="367" type="qcurve"/>
+      <point x="49" y="467" type="line"/>
+      <point x="100" y="500"/>
+      <point x="211" y="535"/>
+      <point x="276" y="535" type="qcurve"/>
+      <point x="396" y="535"/>
+      <point x="525" y="421"/>
+      <point x="525" y="315" type="qcurve"/>
+      <point x="525" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="342" y="138" type="qcurve"/>
+      <point x="365" y="156"/>
+      <point x="365" y="176" type="qcurve"/>
+      <point x="365" y="226" type="line"/>
+      <point x="344" y="234"/>
+      <point x="295" y="243"/>
+      <point x="274" y="243" type="qcurve"/>
+      <point x="234" y="243"/>
+      <point x="173" y="205"/>
+      <point x="173" y="171" type="qcurve"/>
+      <point x="173" y="142"/>
+      <point x="218" y="105"/>
+      <point x="251" y="105" type="qcurve"/>
+      <point x="275" y="105"/>
+      <point x="325" y="122"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

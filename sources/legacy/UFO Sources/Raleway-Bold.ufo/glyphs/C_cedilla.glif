@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccedilla" format="1">
+  <advance width="684"/>
+  <unicode hex="00C7"/>
+  <outline>
+    <component base="C" xOffset="-2"/>
+    <component base="cedilla" xOffset="237"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
