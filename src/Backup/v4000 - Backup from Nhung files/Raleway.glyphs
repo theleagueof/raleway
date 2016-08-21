@@ -1,5 +1,8 @@
 {
-.appVersion = "895";
+.appVersion = "913";
+DisplayStrings = (
+"Raleway v4.000 \012using \U00B4 legacy acute: \U00C1/Aringacute/AEacute/Cacute \U00C9/Gacute \U00CD/Lacute/Nacute \U00D3/Oslashacute/Racute/Sacute \U00DA/Wacute \U00DD/Zacute \U00E1/aringacute/aeacute/cacute \U00E9/gacute \U00ED/lacute/nacute \U00F3/oslashacute/racute/sacute \U00FA/uhornacute/wacute \U00FD/zacute/uni0403/uni040C/uni0453/uni045C \012using /acutecomb  acutecomb: /Ohornacute/Uhornacute/ohornacute/brevecomb_acutecomb/circumflexcomb_acutecomb"
+);
 classes = (
 {
 code = "L' Lacute Lcaron Lcommaaccent Ldot Lslash";
@@ -1466,7 +1469,7 @@ unicode = 1EAA;
 },
 {
 glyphname = Adblgrave;
-lastChange = "2016-08-09 19:05:12 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -1488,7 +1491,7 @@ name = A;
 },
 {
 name = uni030F;
-transform = "{1, 0, 0, 1, 139, 188}";
+transform = "{1, 0, 0, 1, 190, 187}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -1751,7 +1754,7 @@ unicode = 0202;
 },
 {
 glyphname = Amacron;
-lastChange = "2016-08-01 09:41:41 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -1773,7 +1776,7 @@ name = A;
 },
 {
 name = macron;
-transform = "{1, 0, 0, 1, 137, 186}";
+transform = "{1, 0, 0, 1, 138, 186}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -1800,7 +1803,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Aogonek;
-lastChange = "2016-08-09 19:05:12 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -1822,11 +1825,11 @@ name = A;
 },
 {
 name = ogonek;
-transform = "{1, 0, 0, 1, 476, 1}";
+transform = "{1, 0, 0, 1, 449, 5}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 676;
+width = 677;
 },
 {
 components = (
@@ -1849,7 +1852,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Aring;
-lastChange = "2016-08-01 09:41:41 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -1871,7 +1874,7 @@ name = A;
 },
 {
 name = ring;
-transform = "{1, 0, 0, 1, 212, 186}";
+transform = "{1, 0, 0, 1, 213, 186}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -1898,7 +1901,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Aringacute;
-lastChange = "2016-08-09 19:05:12 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -1924,11 +1927,11 @@ name = A;
 },
 {
 name = acute;
-transform = "{1, 0, 0, 0.9494, 254, 225}";
+transform = "{1, 0, 0, 0.9494, 248, 212}";
 },
 {
 name = ring;
-transform = "{1, 0, 0, 1, 212, 87}";
+transform = "{1, 0, 0, 1, 213, 186}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -2141,7 +2144,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = AEacute;
-lastChange = "2016-08-05 14:45:49 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -2163,7 +2166,7 @@ name = AE;
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 441, 186}";
+transform = "{1, 0, 0, 1, 440, 186}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -2611,7 +2614,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Ccedilla;
-lastChange = "2016-08-09 19:05:12 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -2630,15 +2633,14 @@ width = 697;
 components = (
 {
 name = C;
-transform = "{1, 0, 0, 1, -3, 0}";
 },
 {
 name = cedilla;
-transform = "{1, 0, 0, 1, 250, 0}";
+transform = "{1, 0, 0, 1, 253, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 679;
+width = 682;
 },
 {
 components = (
@@ -3701,7 +3703,7 @@ unicode = 1EC4;
 },
 {
 glyphname = Edblgrave;
-lastChange = "2016-08-09 19:05:12 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -3723,7 +3725,7 @@ name = E;
 },
 {
 name = uni030F;
-transform = "{1, 0, 0, 1, 138, 188}";
+transform = "{1, 0, 0, 1, 185, 187}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -3986,7 +3988,7 @@ unicode = 1EBA;
 },
 {
 glyphname = Einvertedbreve;
-lastChange = "2016-08-09 19:05:12 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -4008,7 +4010,7 @@ name = E;
 },
 {
 name = uni0311;
-transform = "{1, 0, 0, 1, 185, 186}";
+transform = "{1, 0, 0, 1, 186, 186}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -4436,7 +4438,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Gacute;
-lastChange = "2016-08-09 19:05:12 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -4458,7 +4460,7 @@ name = G;
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 284, 186}";
+transform = "{1, 0, 0, 1, 278, 186}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -4580,7 +4582,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Gcommaaccent;
-lastChange = "2016-08-09 19:05:12 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -4602,7 +4604,7 @@ name = G;
 },
 {
 name = commaaccent;
-transform = "{1, 0, 0, 1, 274, 0}";
+transform = "{1, 0, 0, 1, 275, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -5224,7 +5226,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Idblgrave;
-lastChange = "2016-08-09 19:05:12 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -5246,7 +5248,7 @@ name = I;
 },
 {
 name = uni030F;
-transform = "{1, 0, 0, 1, -56, 188}";
+transform = "{1, 0, 0, 1, -19, 187}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -5509,7 +5511,7 @@ unicode = 1EC8;
 },
 {
 glyphname = Iinvertedbreve;
-lastChange = "2016-08-09 19:05:12 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -5531,7 +5533,7 @@ name = I;
 },
 {
 name = uni0311;
-transform = "{1, 0, 0, 1, -21, 186}";
+transform = "{1, 0, 0, 1, -18, 186}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -5604,7 +5606,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Iogonek;
-lastChange = "2016-08-09 19:05:12 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -5626,7 +5628,7 @@ name = I;
 },
 {
 name = ogonek;
-transform = "{1, 0, 0, 1, -16, 0}";
+transform = "{1, 0, 0, 1, -37, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -5957,7 +5959,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Kcommaaccent;
-lastChange = "2016-08-05 14:47:03 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -5979,7 +5981,7 @@ name = K;
 },
 {
 name = commaaccent;
-transform = "{1, 0, 0, 1, 237, 0}";
+transform = "{1, 0, 0, 1, 238, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -6146,7 +6148,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Lcaron;
-lastChange = "2016-08-09 19:05:14 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -6168,7 +6170,7 @@ name = L;
 },
 {
 name = caron.alt;
-transform = "{1, 0, 0, 1, 285, 0}";
+transform = "{1, 0, 0, 1, 257, 186}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -6195,7 +6197,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Lcommaaccent;
-lastChange = "2016-08-05 14:47:23 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -6217,7 +6219,7 @@ name = L;
 },
 {
 name = commaaccent;
-transform = "{1, 0, 0, 1, 234, 0}";
+transform = "{1, 0, 0, 1, 235, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -7505,7 +7507,7 @@ unicode = 1ED6;
 },
 {
 glyphname = Odblgrave;
-lastChange = "2016-08-09 19:05:14 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -7527,7 +7529,7 @@ name = O;
 },
 {
 name = uni030F;
-transform = "{1, 0, 0, 1, 174, 188}";
+transform = "{1, 0, 0, 1, 226, 187}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -8161,7 +8163,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Oogonek;
-lastChange = "2016-08-09 19:05:14 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -8183,7 +8185,7 @@ name = O;
 },
 {
 name = ogonek;
-transform = "{1, 0, 0, 1, 207, -2}";
+transform = "{1, 0, 0, 1, 206, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -9094,7 +9096,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Racute;
-lastChange = "2016-08-05 14:49:57 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -9116,7 +9118,7 @@ name = R;
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 228, 188}";
+transform = "{1, 0, 0, 1, 227, 188}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -9241,7 +9243,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Rdblgrave;
-lastChange = "2016-08-09 19:05:14 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -9263,7 +9265,7 @@ name = R;
 },
 {
 name = uni030F;
-transform = "{1, 0, 0, 1, 126, 188}";
+transform = "{1, 0, 0, 1, 169, 189}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -9333,7 +9335,7 @@ unicode = 1E5A;
 },
 {
 glyphname = Rinvertedbreve;
-lastChange = "2016-08-09 19:05:14 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -9355,7 +9357,7 @@ name = R;
 },
 {
 name = uni0311;
-transform = "{1, 0, 0, 1, 175, 186}";
+transform = "{1, 0, 0, 1, 170, 188}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -9566,7 +9568,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Sacute;
-lastChange = "2016-08-05 14:50:14 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -9588,7 +9590,7 @@ name = S;
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 225, 200}";
+transform = "{1, 0, 0, 1, 225, 199}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -9615,7 +9617,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Scaron;
-lastChange = "2016-08-05 14:50:19 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -9637,7 +9639,7 @@ name = S;
 },
 {
 name = caron;
-transform = "{1, 0, 0, 1, 145, 200}";
+transform = "{1, 0, 0, 1, 145, 199}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -9664,7 +9666,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Scircumflex;
-lastChange = "2016-08-05 14:50:24 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -9686,7 +9688,7 @@ name = S;
 },
 {
 name = circumflex;
-transform = "{1, 0, 0, 1, 145, 200}";
+transform = "{1, 0, 0, 1, 145, 199}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -10467,7 +10469,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Udblgrave;
-lastChange = "2016-08-09 19:05:14 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -10489,7 +10491,7 @@ name = U;
 },
 {
 name = uni030F;
-transform = "{1, 0, 0, 1, 181, 188}";
+transform = "{1, 0, 0, 1, 229, 187}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -10979,7 +10981,7 @@ unicode = 1EEE;
 },
 {
 glyphname = Uhungarumlaut;
-lastChange = "2016-08-01 09:41:41 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -11001,7 +11003,7 @@ name = U;
 },
 {
 name = hungarumlaut;
-transform = "{1, 0, 0, 1, 228, 187}";
+transform = "{1, 0, 0, 1, 229, 187}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -11028,7 +11030,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Uinvertedbreve;
-lastChange = "2016-08-09 18:14:13 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -11050,7 +11052,7 @@ name = U;
 },
 {
 name = uni0311;
-transform = "{1, 0, 0, 1, 229, 186}";
+transform = "{1, 0, 0, 1, 230, 186}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -11074,7 +11076,7 @@ unicode = 0216;
 },
 {
 glyphname = Umacron;
-lastChange = "2016-08-01 09:41:41 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -11096,7 +11098,7 @@ name = U;
 },
 {
 name = macron;
-transform = "{1, 0, 0, 1, 176, 186}";
+transform = "{1, 0, 0, 1, 177, 186}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -11123,7 +11125,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Uogonek;
-lastChange = "2016-08-09 18:14:13 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -11145,7 +11147,7 @@ name = U;
 },
 {
 name = ogonek;
-transform = "{1, 0, 0, 1, 211, -2}";
+transform = "{1, 0, 0, 1, 211, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -11172,7 +11174,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Uring;
-lastChange = "2016-08-05 15:22:08 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -11194,7 +11196,7 @@ name = U;
 },
 {
 name = ring;
-transform = "{1, 0, 0, 1, 251, 186}";
+transform = "{1, 0, 0, 1, 252, 186}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -12457,7 +12459,7 @@ unicode = 1E92;
 },
 {
 glyphname = uni015E;
-lastChange = "2016-08-09 19:05:14 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -12479,7 +12481,7 @@ name = S;
 },
 {
 name = cedilla;
-transform = "{1, 0, 0, 1, 201, 0}";
+transform = "{1, 0, 0, 1, 196, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -12506,7 +12508,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = uni0162;
-lastChange = "2016-08-09 18:14:13 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -12525,15 +12527,14 @@ width = 600;
 components = (
 {
 name = T;
-transform = "{1, 0, 0, 1, -1, 0}";
 },
 {
 name = cedilla;
-transform = "{1, 0, 0, 1, 188, 0}";
+transform = "{1, 0, 0, 1, 190, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 613;
+width = 614;
 },
 {
 components = (
@@ -12556,7 +12557,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = uni01C4;
-lastChange = "2016-08-09 19:05:14 +0000";
+lastChange = "2016-08-21 07:24:31 +0000";
 layers = (
 {
 components = (
@@ -12582,15 +12583,15 @@ name = D;
 },
 {
 name = Z;
-transform = "{1, 0, 0, 1, 716, 0}";
+transform = "{1, 0, 0, 1, 703, 0}";
 },
 {
 name = caron;
-transform = "{1, 0, 0, 1, 876, 186}";
+transform = "{1, 0, 0, 1, 863, 186}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 1347;
+width = 1334;
 },
 {
 components = (
@@ -14605,7 +14606,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = aringacute;
-lastChange = "2016-08-09 19:05:15 +0000";
+lastChange = "2016-08-21 07:24:54 +0000";
 layers = (
 {
 components = (
@@ -14631,11 +14632,11 @@ name = a;
 },
 {
 name = ring;
-transform = "{1, 0, 0, 1, 139, 0}";
+transform = "{1, 0, 0, 1, 140, 0}";
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 175, 156}";
+transform = "{1, 0, 0, 1, 175, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -17598,7 +17599,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = gacute;
-lastChange = "2016-08-09 19:05:15 +0000";
+lastChange = "2016-08-21 07:25:16 +0000";
 layers = (
 {
 components = (
@@ -17617,15 +17618,14 @@ width = 603;
 components = (
 {
 name = g;
-transform = "{1, 0, 0, 1, -1, 0}";
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 218, 0}";
+transform = "{1, 0, 0, 1, 240, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 623;
+width = 624;
 },
 {
 components = (
@@ -19536,7 +19536,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = lacute;
-lastChange = "2016-08-09 19:05:15 +0000";
+lastChange = "2016-08-21 07:24:54 +0000";
 layers = (
 {
 components = (
@@ -19558,7 +19558,7 @@ name = l;
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 20, 161}";
+transform = "{1, 0, 0, 1, 167, -1}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
