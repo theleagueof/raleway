@@ -46,7 +46,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature ccmp;\012feature locl;\012feature subs;\012feature sinf;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature c2sc;\012feature smcp;\012feature salt;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss06;\012feature ss07;\012feature ss08;\012feature ss09;\012feature ss10;\012feature ss11;\012feature lnum;\012";
+code = "feature ccmp;\012feature locl;\012feature subs;\012feature sinf;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature c2sc;\012feature smcp;\012feature salt;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss06;\012feature ss07;\012feature ss08;\012feature ss09;\012feature ss10;\012feature ss11;\012";
 name = aalt;
 },
 {
@@ -173,10 +173,6 @@ name = ss10;
 automatic = 1;
 code = "sub G by G.ss11;\012";
 name = ss11;
-},
-{
-code = "sub [ one ] by [ one.lf ];\012sub [ two ] by [ two.lf ];\012sub [ three ] by [ three.lf ];\012sub [ four ] by [ four.lf ];\012sub [ five ] by [ five.lf ];\012sub [ six ] by [ six.lf ];\012sub [ seven ] by [ seven.lf ];\012sub [ eight ] by [ eight.lf ];\012sub [ nine ] by [ nine.lf ];\012sub [ zero ] by [ zero.lf ];";
-name = lnum;
 }
 );
 fontMaster = (
@@ -26366,9 +26362,9 @@ org.robofab.fontlab.mark = 0;
 };
 },
 {
-color = 1;
+color = 8;
 glyphname = q;
-lastChange = "2016-08-23 07:38:22 +0000";
+lastChange = "2016-08-23 06:19:08 +0000";
 layers = (
 {
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
@@ -31721,9 +31717,9 @@ org.robofab.fontlab.mark = 0;
 };
 },
 {
-color = 1;
+color = 8;
 glyphname = q.ss06;
-lastChange = "2016-08-23 07:38:22 +0000";
+lastChange = "2016-08-23 06:19:08 +0000";
 layers = (
 {
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
@@ -32200,8 +32196,9 @@ org.robofab.fontlab.mark = 0;
 };
 },
 {
+color = 8;
 glyphname = c_t;
-lastChange = "2016-08-23 07:39:21 +0000";
+lastChange = "2016-08-23 06:18:40 +0000";
 layers = (
 {
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
@@ -33353,8 +33350,9 @@ org.robofab.fontlab.mark = 0;
 };
 },
 {
+color = 8;
 glyphname = s_t;
-lastChange = "2016-08-23 07:39:21 +0000";
+lastChange = "2016-08-23 06:18:40 +0000";
 layers = (
 {
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
@@ -83528,5 +83526,5 @@ uni04B1
 );
 };
 versionMajor = 4;
-versionMinor = 8;
+versionMinor = 7;
 }

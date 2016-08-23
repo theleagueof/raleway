@@ -42,24 +42,24 @@ familyName = Raleway;
 featurePrefixes = (
 {
 automatic = 1;
-code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012";
+code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem latn CAT;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn KAZ;\012languagesystem latn TAT;\012languagesystem latn TRK;\012languagesystem latn CRT;\012languagesystem latn AZE;\012";
 name = Languagesystems;
 }
 );
 features = (
 {
 automatic = 1;
-code = "feature ccmp;\012feature locl;\012feature subs;\012feature sups;\012feature frac;\012feature ordn;\012feature c2sc;\012feature smcp;\012feature salt;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss06;\012feature ss07;\012feature ss08;\012feature ss09;\012feature ss10;\012feature ss11;\012feature numr;\012feature dnom;\012";
+code = "feature ccmp;\012feature locl;\012feature subs;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature c2sc;\012feature smcp;\012feature salt;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss06;\012feature ss07;\012feature ss08;\012feature ss09;\012feature ss10;\012feature ss11;\012";
 name = aalt;
 },
 {
 automatic = 1;
-code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb circumflexcomb dblgravecomb gravecomb hookabovecomb tildecomb];\012	@CombiningNonTopAccents = [dotbelowcomb horncomb strokeshortcomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012} ccmp_Other_1;\012\012lookup ccmp_latn_1 {\012	script latn;\012	lookupflag 0;\012	sub brevecomb acutecomb by brevecomb_acutecomb;\012	sub brevecomb gravecomb by brevecomb_gravecomb;\012	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;\012	sub brevecomb tildecomb by brevecomb_tildecomb;\012	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;\012	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;\012	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;\012	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;\012} ccmp_latn_1;\012";
+code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [cedillacomb dotbelowcomb ogonekcomb horncomb strokeshortcomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012} ccmp_Other_1;\012\012lookup ccmp_latn_1 {\012	script latn;\012	lookupflag 0;\012	sub brevecomb acutecomb by brevecomb_acutecomb;\012	sub brevecomb gravecomb by brevecomb_gravecomb;\012	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;\012	sub brevecomb tildecomb by brevecomb_tildecomb;\012	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;\012	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;\012	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;\012	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;\012} ccmp_latn_1;\012";
 name = ccmp;
 },
 {
 automatic = 1;
-code = "script latn;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012";
+code = "script latn;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language KAZ;\012sub i by idotaccent;\012language TAT;\012sub i by idotaccent;\012language TRK;\012sub i by idotaccent;\012language CRT;\012sub i by idotaccent;\012language AZE;\012sub i by idotaccent;\012";
 name = locl;
 },
 {
@@ -6781,7 +6781,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = Mdotbelow;
-lastChange = "2016-08-21 09:00:05 +0000";
+lastChange = "2016-08-21 09:19:18 +0000";
 layers = (
 {
 components = (
@@ -6790,10 +6790,11 @@ name = M;
 },
 {
 name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 382, 0}";
 }
 );
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 600;
+width = 884;
 },
 {
 components = (
@@ -6815,10 +6816,11 @@ name = M;
 },
 {
 name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 292, 0}";
 }
 );
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 600;
+width = 854;
 }
 );
 unicode = 1E42;
@@ -21376,7 +21378,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = mdotbelow;
-lastChange = "2016-08-21 09:00:17 +0000";
+lastChange = "2016-08-21 09:19:18 +0000";
 layers = (
 {
 components = (
@@ -21385,10 +21387,11 @@ name = m;
 },
 {
 name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 394, 0}";
 }
 );
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 600;
+width = 908;
 },
 {
 components = (
@@ -21410,10 +21413,11 @@ name = m;
 },
 {
 name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 335, 0}";
 }
 );
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 600;
+width = 940;
 }
 );
 unicode = 1E43;
@@ -43971,8 +43975,9 @@ org.robofab.fontlab.mark = 0;
 };
 },
 {
+color = 1;
 glyphname = two;
-lastChange = "2016-08-19 05:12:36 +0000";
+lastChange = "2016-08-21 09:19:34 +0000";
 layers = (
 {
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
@@ -45332,8 +45337,9 @@ org.robofab.fontlab.mark = 0;
 };
 },
 {
+color = 1;
 glyphname = two.lf;
-lastChange = "2016-08-19 05:42:09 +0000";
+lastChange = "2016-08-21 09:19:34 +0000";
 layers = (
 {
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
