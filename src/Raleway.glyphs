@@ -82300,32 +82300,85 @@ org.robofab.fontlab.mark = 0;
 );
 instances = (
 {
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = "Raleway Thin";
+},
+{
+name = openTypeNamePreferredSubfamilyName;
+value = Thin;
+},
+{
+name = weightClass;
+value = "250";
+}
+);
 interpolationWeight = 0;
 instanceInterpolations = {
 "DC0D5209-C0CE-4187-A591-293A64199C8F" = 1;
 };
 name = Thin;
-weightClass = Thin;
 },
 {
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = "Raleway ExtraLight";
+},
+{
+name = openTypeNamePreferredSubfamilyName;
+value = ExtraLight;
+},
+{
+name = weightClass;
+value = "275";
+}
+);
 interpolationWeight = 82.4;
 instanceInterpolations = {
 "A8272220-FCE5-4C48-BDEF-D37440F7149C" = 0.206;
 "DC0D5209-C0CE-4187-A591-293A64199C8F" = 0.794;
 };
 name = ExtraLight;
-weightClass = ExtraLight;
 },
 {
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = "Raleway Light";
+},
+{
+name = openTypeNamePreferredSubfamilyName;
+value = Light;
+},
+{
+name = weightClass;
+value = "300";
+}
+);
 interpolationWeight = 176.5;
 instanceInterpolations = {
 "A8272220-FCE5-4C48-BDEF-D37440F7149C" = 0.44125;
 "DC0D5209-C0CE-4187-A591-293A64199C8F" = 0.55875;
 };
 name = Light;
-weightClass = Light;
 },
 {
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = Raleway;
+},
+{
+name = openTypeNamePreferredSubfamilyName;
+value = Regular;
+},
+{
+name = weightClass;
+value = "400";
+}
+);
 interpolationWeight = 282.3;
 instanceInterpolations = {
 "A8272220-FCE5-4C48-BDEF-D37440F7149C" = 0.70575;
@@ -82334,23 +82387,63 @@ instanceInterpolations = {
 name = Regular;
 },
 {
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = "Raleway Medium";
+},
+{
+name = openTypeNamePreferredSubfamilyName;
+value = Medium;
+},
+{
+name = weightClass;
+value = "500";
+}
+);
 interpolationWeight = 400;
 instanceInterpolations = {
 "A8272220-FCE5-4C48-BDEF-D37440F7149C" = 1;
 };
 name = Medium;
-weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = "Raleway SemiBold";
+},
+{
+name = openTypeNamePreferredSubfamilyName;
+value = SemiBold;
+},
+{
+name = weightClass;
+value = "600";
+}
+);
 interpolationWeight = 529.4;
 instanceInterpolations = {
 "A8272220-FCE5-4C48-BDEF-D37440F7149C" = 0.784333;
 "CD86D743-087E-48CD-95ED-391136C80322" = 0.215667;
 };
 name = SemiBold;
-weightClass = SemiBold;
 },
 {
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = "Raleway Bold";
+},
+{
+name = openTypeNamePreferredSubfamilyName;
+value = Bold;
+},
+{
+name = weightClass;
+value = "700";
+}
+);
 interpolationWeight = 670.6;
 instanceInterpolations = {
 "A8272220-FCE5-4C48-BDEF-D37440F7149C" = 0.549;
@@ -82361,15 +82454,42 @@ name = Bold;
 weightClass = Bold;
 },
 {
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = "Raleway ExtraBold";
+},
+{
+name = openTypeNamePreferredSubfamilyName;
+value = ExtraBold;
+},
+{
+name = weightClass;
+value = "800";
+}
+);
 interpolationWeight = 823.5;
 instanceInterpolations = {
 "A8272220-FCE5-4C48-BDEF-D37440F7149C" = 0.294167;
 "CD86D743-087E-48CD-95ED-391136C80322" = 0.705833;
 };
 name = ExtraBold;
-weightClass = ExtraBold;
 },
 {
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = "Raleway Black";
+},
+{
+name = openTypeNamePreferredSubfamilyName;
+value = Black;
+},
+{
+name = weightClass;
+value = "900";
+}
+);
 interpolationWeight = 1000;
 instanceInterpolations = {
 "CD86D743-087E-48CD-95ED-391136C80322" = 1;
