@@ -1,5 +1,5 @@
 {
-.appVersion = "913";
+.appVersion = "916";
 copyright = "Copyright (c) 2012, The Raleway Project Authors (matt@pixelspread.com)";
 customParameters = (
 {
@@ -23911,7 +23911,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = l;
-lastChange = "2016-08-24 07:18:00 +0000";
+lastChange = "2016-08-26 06:21:03 +0000";
 layers = (
 {
 anchors = (
@@ -24022,6 +24022,14 @@ name = topright;
 position = "{309, 526}";
 }
 );
+background = {
+components = (
+{
+name = periodcentered;
+transform = "{1, 0, 0, 1, 245, 61}";
+}
+);
+};
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
 paths = (
 {
@@ -24313,17 +24321,19 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = ldot;
-lastChange = "2016-08-24 05:49:12 +0000";
+lastChange = "2016-08-26 06:23:04 +0000";
 layers = (
 {
 background = {
-components = (
+paths = (
 {
-name = l;
-},
-{
-name = periodcentered;
-transform = "{1, 0, 0, 1, 147, 0}";
+closed = 1;
+nodes = (
+"236 250 LINE",
+"236 333 LINE",
+"216 333 LINE",
+"216 250 LINE"
+);
 }
 );
 };
@@ -24340,13 +24350,26 @@ layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
 width = 255;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"323 245 LINE",
+"323 369 LINE",
+"249 369 LINE",
+"249 245 LINE"
+);
+}
+);
+};
 components = (
 {
 name = l;
 },
 {
 name = periodcentered;
-transform = "{1, 0, 0, 1, 185, 24}";
+transform = "{1, 0, 0, 1, 185, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -24360,10 +24383,21 @@ name = l;
 },
 {
 name = periodcentered;
-transform = "{1, 0, 0, 1, 245, 61}";
+transform = "{1, 0, 0, 1, 245, 1}";
 }
 );
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
+paths = (
+{
+closed = 1;
+nodes = (
+"448 238 LINE",
+"448 422 LINE",
+"294 422 LINE",
+"294 238 LINE"
+);
+}
+);
 width = 467;
 }
 );
@@ -25646,7 +25680,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = oacute;
-lastChange = "2016-08-23 08:16:16 +0000";
+lastChange = "2016-08-26 06:23:24 +0000";
 layers = (
 {
 components = (
@@ -64219,7 +64253,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = periodcentered;
-lastChange = "2016-08-24 05:49:12 +0000";
+lastChange = "2016-08-26 06:51:34 +0000";
 layers = (
 {
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
@@ -64267,6 +64301,8 @@ nodes = (
 width = 254;
 }
 );
+leftKerningGroup = periodcentered;
+rightKerningGroup = periodcentered;
 unicode = 00B7;
 userData = {
 org.robofab.fontlab.mark = 0;
@@ -65520,7 +65556,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = periodcentered.loclCAT;
-lastChange = "2016-08-24 05:49:12 +0000";
+lastChange = "2016-08-26 06:50:56 +0000";
 layers = (
 {
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
@@ -65568,6 +65604,8 @@ nodes = (
 width = 254;
 }
 );
+leftKerningGroup = periodcentered;
+rightKerningGroup = periodcentered;
 },
 {
 glyphname = braceleft;
@@ -82719,6 +82757,7 @@ zero = -12;
 "@MMK_R_guilsinglleft" = -68;
 "@MMK_R_hyphen" = -87;
 "@MMK_R_o" = -21;
+"@MMK_R_periodcentered" = -159;
 "@MMK_R_quoteleft" = -84;
 "@MMK_R_quoteright" = -82;
 "@MMK_R_quotesingle" = -83;
@@ -82736,7 +82775,6 @@ copyright = -35;
 eth = -14;
 ordfeminine = -115;
 ordmasculine = -115;
-periodcentered = -159;
 question = -31;
 quoteright = -156;
 registered = -35;
@@ -83464,6 +83502,7 @@ schwa = -19;
 "@MMK_R_Y" = -19;
 "@MMK_R_guilsinglleft" = -30;
 "@MMK_R_hyphen" = -19;
+"@MMK_R_periodcentered" = -73;
 "@MMK_R_quoteleft" = -11;
 "@MMK_R_quoteright" = -11;
 "@MMK_R_quotesingle" = -11;
@@ -83475,7 +83514,6 @@ backslash = -21;
 copyright = -21;
 ordfeminine = -10;
 ordmasculine = -10;
-periodcentered = -70;
 question = -20;
 quoteright = -39;
 registered = -21;
@@ -83581,6 +83619,9 @@ w.ss09 = -34;
 y.sc = -72;
 y.ss10 = -50;
 zero.lf = -13;
+};
+"@MMK_L_periodcentered" = {
+"@MMK_R_l" = -40;
 };
 "@MMK_L_quoteleft" = {
 "@MMK_R_A" = -69;
@@ -85538,7 +85579,6 @@ parenright = {
 parenright = -10;
 };
 periodcentered = {
-"@MMK_R_l" = -40;
 four = -16;
 one = -11;
 one.lf = -16;
@@ -86448,6 +86488,7 @@ zero = -12;
 "@MMK_R_guilsinglleft" = -24;
 "@MMK_R_hyphen" = -61;
 "@MMK_R_o" = -7;
+"@MMK_R_periodcentered" = -172;
 "@MMK_R_quoteleft" = -103;
 "@MMK_R_quoteright" = -100;
 "@MMK_R_quotesingle" = -105;
@@ -86463,7 +86504,6 @@ backslash = -109;
 copyright = -24;
 ordfeminine = -120;
 ordmasculine = -120;
-periodcentered = -202;
 question = -20;
 quoteright = -167;
 registered = -24;
@@ -87212,6 +87252,7 @@ schwa = -23;
 "@MMK_R_Y" = -25;
 "@MMK_R_guilsinglleft" = -30;
 "@MMK_R_hyphen" = -17;
+"@MMK_R_periodcentered" = -79;
 "@MMK_R_quoteleft" = -16;
 "@MMK_R_quoteright" = -16;
 "@MMK_R_quotesingle" = -16;
@@ -87223,7 +87264,6 @@ backslash = -25;
 copyright = -21;
 ordfeminine = -15;
 ordmasculine = -15;
-periodcentered = -79;
 question = -15;
 quoteright = -56;
 registered = -21;
@@ -87331,6 +87371,9 @@ w.sc = -50;
 w.ss09 = -34;
 y.sc = -67;
 y.ss10 = -43;
+};
+"@MMK_L_periodcentered" = {
+"@MMK_R_l" = -40;
 };
 "@MMK_L_quoteleft" = {
 "@MMK_R_A" = -63;
@@ -89407,7 +89450,6 @@ parenright = {
 parenright = -10;
 };
 periodcentered = {
-"@MMK_R_l" = -40;
 one.lf = -11;
 seven = -28;
 seven.lf = -26;
@@ -90350,6 +90392,7 @@ zero = -11;
 "@MMK_R_W" = -89;
 "@MMK_R_Y" = -96;
 "@MMK_R_f" = -16;
+"@MMK_R_periodcentered" = -201;
 "@MMK_R_quoteleft" = -117;
 "@MMK_R_quoteright" = -117;
 "@MMK_R_quotesingle" = -117;
@@ -90364,7 +90407,6 @@ four = 10;
 ordfeminine = -114;
 ordmasculine = -116;
 parenright = 8;
-periodcentered = -91;
 quoteright = -166;
 slash = 6;
 space = -29;
@@ -91149,6 +91191,7 @@ slash = 21;
 "@MMK_R_Y" = -44;
 "@MMK_R_f" = -9;
 "@MMK_R_guilsinglleft" = -11;
+"@MMK_R_periodcentered" = -90;
 "@MMK_R_quoteleft" = -23;
 "@MMK_R_quoteright" = -23;
 "@MMK_R_quotesingle" = -23;
@@ -91162,7 +91205,6 @@ copyright = -11;
 ordfeminine = -22;
 ordmasculine = -22;
 parenright = 6;
-periodcentered = -75;
 quoteright = -69;
 registered = -11;
 space = -23;
@@ -91268,6 +91310,9 @@ w.sc = -40;
 w.ss09 = -28;
 y.sc = -55;
 y.ss10 = -31;
+};
+"@MMK_L_periodcentered" = {
+"@MMK_R_l" = -32;
 };
 "@MMK_L_quoteleft" = {
 "@MMK_R_A" = -52;
@@ -93737,7 +93782,6 @@ zero.lf = -15;
 "zhe-cy" = 23;
 };
 periodcentered = {
-"@MMK_R_l" = -32;
 seven.lf = -11;
 three = -11;
 three.lf = -11;
