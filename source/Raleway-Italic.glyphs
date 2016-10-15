@@ -1,8 +1,5 @@
 {
 .appVersion = "926";
-DisplayStrings = (
-"/en-cy/endescender-cy"
-);
 copyright = "Copyright (c) 2012, The Raleway Project Authors (matt@pixelspread.com)";
 customParameters = (
 {
@@ -40584,7 +40581,7 @@ unicode = 04B0;
 {
 color = 8;
 glyphname = "Chedescender-cy";
-lastChange = "2016-10-15 21:05:20 +0000";
+lastChange = "2016-10-15 21:52:38 +0000";
 layers = (
 {
 components = (
@@ -40614,7 +40611,7 @@ transform = "{1, 0, 0, 1, 411, 0}";
 }
 );
 layerId = "985A8054-912F-442C-AEAA-CDACF2D0DECF";
-width = 739;
+width = 749;
 },
 {
 components = (
