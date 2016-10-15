@@ -24172,7 +24172,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = ldot;
-lastChange = "2016-08-26 06:23:04 +0000";
+lastChange = "2016-10-15 22:54:12 +0000";
 layers = (
 {
 background = {
@@ -24238,17 +24238,6 @@ transform = "{1, 0, 0, 1, 245, 1}";
 }
 );
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-paths = (
-{
-closed = 1;
-nodes = (
-"448 238 LINE",
-"448 422 LINE",
-"294 422 LINE",
-"294 238 LINE"
-);
-}
-);
 width = 467;
 }
 );
@@ -52497,7 +52486,7 @@ unicode = 045D;
 {
 color = 8;
 glyphname = "ka-cy";
-lastChange = "2016-10-15 22:43:07 +0000";
+lastChange = "2016-10-15 22:54:01 +0000";
 layers = (
 {
 anchors = (
@@ -52558,15 +52547,13 @@ closed = 1;
 nodes = (
 "239 0 LINE",
 "239 186 LINE",
-"353 186 LINE",
-"221 252 LINE",
+"264 186 LINE",
 "387 0 LINE",
 "603 0 LINE",
 "412 274 LINE",
 "586 526 LINE",
 "384 526 LINE",
-"225 282 LINE",
-"357 349 LINE",
+"269 349 LINE",
 "239 349 LINE",
 "239 526 LINE",
 "50 526 LINE",
@@ -80419,7 +80406,7 @@ org.robofab.fontlab.mark = 0;
 },
 {
 glyphname = quoteright;
-lastChange = "2016-08-24 16:28:12 +0000";
+lastChange = "2016-10-15 22:54:33 +0000";
 layers = (
 {
 components = (
@@ -80442,8 +80429,14 @@ layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
 width = 200;
 },
 {
+components = (
+{
+name = quoteleft;
+transform = "{-1, 0, 0, -1, 291, 1169}";
+}
+);
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 282;
+width = 287;
 }
 );
 leftKerningGroup = quoteright;
