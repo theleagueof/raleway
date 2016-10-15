@@ -1,5 +1,8 @@
 {
 .appVersion = "926";
+DisplayStrings = (
+"/en-cy/endescender-cy"
+);
 copyright = "Copyright (c) 2012, The Raleway Project Authors (matt@pixelspread.com)";
 customParameters = (
 {
@@ -314,7 +317,7 @@ xHeight = 522;
 alignmentZones = (
 "{730, 10}",
 "{710, 10}",
-"{522, 9}",
+"{6, 9}",
 "{0, -10}",
 "{-213, -10}"
 );
@@ -377,7 +380,7 @@ verticalStems = (
 );
 weight = Bold;
 weightValue = 1000;
-xHeight = 522;
+xHeight = 526;
 }
 );
 glyphs = (
@@ -33742,7 +33745,7 @@ unicode = 0490;
 {
 color = 8;
 glyphname = "De-cy";
-lastChange = "2016-10-15 21:05:08 +0000";
+lastChange = "2016-10-15 21:46:47 +0000";
 layers = (
 {
 layerId = "D38D3CE8-FE00-46D7-8A67-935B0885B622";
@@ -33862,7 +33865,7 @@ nodes = (
 );
 }
 );
-width = 802;
+width = 812;
 },
 {
 layerId = "51AEF656-B224-4228-B44D-D7CFD243EB09";
@@ -36550,7 +36553,7 @@ unicode = 0427;
 {
 color = 8;
 glyphname = "Tse-cy";
-lastChange = "2016-10-15 21:05:05 +0000";
+lastChange = "2016-10-15 21:46:45 +0000";
 layers = (
 {
 layerId = "D38D3CE8-FE00-46D7-8A67-935B0885B622";
@@ -36596,7 +36599,7 @@ nodes = (
 );
 }
 );
-width = 767;
+width = 777;
 },
 {
 layerId = "51AEF656-B224-4228-B44D-D7CFD243EB09";
@@ -40240,7 +40243,7 @@ unicode = 04A0;
 {
 color = 8;
 glyphname = "Endescender-cy";
-lastChange = "2016-10-15 21:05:20 +0000";
+lastChange = "2016-10-15 21:46:53 +0000";
 layers = (
 {
 components = (
@@ -40270,7 +40273,7 @@ transform = "{1, 0, 0, 1, 459, 0}";
 }
 );
 layerId = "985A8054-912F-442C-AEAA-CDACF2D0DECF";
-width = 780;
+width = 790;
 },
 {
 components = (
@@ -40296,7 +40299,7 @@ unicode = 04A2;
 {
 color = 8;
 glyphname = "Pedescender-cy";
-lastChange = "2016-10-15 21:05:20 +0000";
+lastChange = "2016-10-15 21:46:52 +0000";
 layers = (
 {
 components = (
@@ -40326,7 +40329,7 @@ transform = "{1, 0, 0, 1, 466, 0}";
 }
 );
 layerId = "985A8054-912F-442C-AEAA-CDACF2D0DECF";
-width = 786;
+width = 796;
 },
 {
 components = (
@@ -47422,7 +47425,7 @@ unicode = 043C;
 {
 color = 8;
 glyphname = "en-cy";
-lastChange = "2016-10-15 20:42:43 +0000";
+lastChange = "2016-10-15 21:48:12 +0000";
 layers = (
 {
 anchors = (
@@ -47460,6 +47463,13 @@ name = bottomright;
 position = "{324, 0}";
 }
 );
+background = {
+components = (
+{
+name = n;
+}
+);
+};
 layerId = "985A8054-912F-442C-AEAA-CDACF2D0DECF";
 paths = (
 {
@@ -53883,22 +53893,25 @@ unicode = 0525;
 {
 color = 8;
 glyphname = "esdescender-cy";
-lastChange = "2016-10-15 20:42:43 +0000";
+lastChange = "2016-10-15 21:07:25 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = "es-cy";
+transform = "{1, 0, 0, 1, -1, 0}";
 },
 {
 name = cedilla;
+transform = "{1, 0, 0, 1, -1, 0}";
 }
 );
 };
 components = (
 {
 name = "es-cy";
+transform = "{1, 0, 0, 1, -1, 0}";
 }
 );
 layerId = "D38D3CE8-FE00-46D7-8A67-935B0885B622";
@@ -53906,19 +53919,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"193 -117 LINE",
-"218 5 LINE",
-"199 5 LINE",
-"173 -117 LINE"
+"192 -117 LINE",
+"217 5 LINE",
+"198 5 LINE",
+"172 -117 LINE"
 );
 }
 );
-width = 520;
+width = 513;
 },
 {
 components = (
 {
 name = "es-cy";
+transform = "{1, 0, 0, 1, 1, 0}";
 }
 );
 layerId = "985A8054-912F-442C-AEAA-CDACF2D0DECF";
@@ -53926,14 +53940,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"310 -132 LINE",
-"356 82 LINE",
-"195 80 LINE",
-"150 -132 LINE"
+"311 -132 LINE",
+"357 82 LINE",
+"196 80 LINE",
+"151 -132 LINE"
 );
 }
 );
-width = 564;
+width = 556;
 },
 {
 components = (
@@ -53953,7 +53967,7 @@ nodes = (
 );
 }
 );
-width = 539;
+width = 531;
 }
 );
 leftKerningGroup = o;
@@ -56827,7 +56841,7 @@ width = 458;
 {
 color = 8;
 glyphname = "esdescender-cy.loclBSH";
-lastChange = "2016-10-15 20:52:14 +0000";
+lastChange = "2016-10-15 21:07:27 +0000";
 layers = (
 {
 components = (
@@ -56836,7 +56850,7 @@ name = "esdescender-cy";
 }
 );
 layerId = "D38D3CE8-FE00-46D7-8A67-935B0885B622";
-width = 520;
+width = 513;
 },
 {
 components = (
@@ -56845,7 +56859,7 @@ name = "esdescender-cy";
 }
 );
 layerId = "985A8054-912F-442C-AEAA-CDACF2D0DECF";
-width = 564;
+width = 556;
 },
 {
 components = (
@@ -56854,7 +56868,7 @@ name = "esdescender-cy";
 }
 );
 layerId = "51AEF656-B224-4228-B44D-D7CFD243EB09";
-width = 539;
+width = 531;
 }
 );
 },
