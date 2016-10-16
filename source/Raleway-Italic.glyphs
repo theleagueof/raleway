@@ -55152,7 +55152,7 @@ unicode = 04DD;
 {
 color = 8;
 glyphname = "zedieresis-cy";
-lastChange = "2016-10-16 03:05:54 +0000";
+lastChange = "2016-10-16 03:21:28 +0000";
 layers = (
 {
 background = {
@@ -55171,7 +55171,7 @@ name = "ze-cy";
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 176, 0}";
+transform = "{1, 0, 0, 1, 95, 0}";
 }
 );
 layerId = "D38D3CE8-FE00-46D7-8A67-935B0885B622";
@@ -55197,7 +55197,7 @@ name = "ze-cy";
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 100, 0}";
+transform = "{1, 0, 0, 1, 46, 0}";
 }
 );
 layerId = "51AEF656-B224-4228-B44D-D7CFD243EB09";
