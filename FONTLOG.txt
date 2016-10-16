@@ -94,3 +94,7 @@ E: hello@rfuenzalida.com
 W: http://www.rfuenzalida.com
 D: Designer
 
+N: Cyreal
+E: contact@cyreal.org
+W: http://cyreal.org
+D: Cyrillic expansion
