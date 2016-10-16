@@ -1,8 +1,5 @@
 {
 .appVersion = "926";
-DisplayStrings = (
-"/u-cy/U-cy/ka-cy/Softsign-cy/Te-cy O/Zhe-cy/Te-cy/a-cy/te-cy/A-cy/te-cy/A-cy/te-cy/A-cy/a-cy/Te-cy/a-cy"
-);
 copyright = "Copyright (c) 2012, The Raleway Project Authors (matt@pixelspread.com)";
 customParameters = (
 {
