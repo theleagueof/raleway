@@ -207,7 +207,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 940;
+value = 1154;
 },
 {
 name = winDescent;
@@ -277,7 +277,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 940;
+value = 1154;
 },
 {
 name = winDescent;
@@ -349,7 +349,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 940;
+value = 1154;
 },
 {
 name = winDescent;
