@@ -38,7 +38,7 @@ value = 1;
 date = "2016-08-19 06:56:35 +0000";
 designer = "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida";
 designerURL = "http://pixelspread.com";
-familyName = Raleway;
+familyName = "Raleway CYR kern";
 featurePrefixes = (
 {
 automatic = 1;
@@ -97488,11 +97488,11 @@ v = -40;
 "@MMK_R_de-cy" = -10;
 "@MMK_R_ia-cy" = -10;
 "@MMK_R_n" = -20;
+"@MMK_R_o" = 10;
 "@MMK_R_te-cy" = -50;
 "@MMK_R_x" = -20;
 "@MMK_R_y" = -40;
 "@MMK_R_ze-cy" = 0;
-"@MMK_R_o" = 10;
 };
 "@MMK_L_e" = {
 "@MMK_R_T" = -130;
@@ -97529,6 +97529,9 @@ X = -50;
 "@MMK_R_x" = -40;
 "@MMK_R_y" = -40;
 "@MMK_R_ze-cy" = -50;
+};
+"@MMK_L_h" = {
+"@MMK_R_o" = 0;
 };
 "@MMK_L_hyphen" = {
 "@MMK_R_Che-cy" = -60;
@@ -97662,13 +97665,13 @@ x = -10;
 "@MMK_R_A" = -30;
 "@MMK_R_be-cy" = 0;
 "@MMK_R_de-cy" = -10;
+"@MMK_R_h" = -10;
 "@MMK_R_ia-cy" = -30;
 "@MMK_R_te-cy" = -20;
 "@MMK_R_x" = -20;
 "@MMK_R_y" = -40;
 "@MMK_R_ze-cy" = -50;
 "@MMK_R_ze-cy.loclBGR" = -10;
-"@MMK_R_h" = -10;
 };
 "@MMK_L_x" = {
 "@MMK_R_h" = -30;
@@ -97744,9 +97747,6 @@ x = {
 "@MMK_R_ereversed-cy" = -10;
 "@MMK_R_h" = 10;
 "@MMK_R_ze-cy" = 0;
-};
-"@MMK_L_h" = {
-"@MMK_R_o" = 0;
 };
 };
 "A8272220-FCE5-4C48-BDEF-D37440F7149C" = {
@@ -97922,13 +97922,13 @@ v = -30;
 };
 "@MMK_L_el-cy.loclBGR" = {
 "@MMK_R_be-cy" = -40;
+"@MMK_R_de-cy" = 10;
 "@MMK_R_o" = -30;
 "@MMK_R_te-cy" = -60;
+"@MMK_R_x" = -10;
 "@MMK_R_y" = -40;
 "@MMK_R_ze-cy" = -30;
 "@MMK_R_ze-cy.loclBGR" = -30;
-"@MMK_R_de-cy" = 10;
-"@MMK_R_x" = -10;
 };
 "@MMK_L_ge-cy" = {
 "@MMK_R_De-cy" = -60;
@@ -98112,10 +98112,10 @@ X = -10;
 "@MMK_R_be-cy" = -10;
 "@MMK_R_de-cy" = 40;
 "@MMK_R_ia-cy" = 0;
+"@MMK_R_n" = 10;
 "@MMK_R_te-cy" = -20;
 "@MMK_R_x" = 0;
 "@MMK_R_y" = -10;
-"@MMK_R_n" = 10;
 "@MMK_R_ze-cy.loclBGR" = 10;
 };
 B = {
@@ -98440,6 +98440,7 @@ X = -20;
 "@MMK_R_U-cy" = -60;
 "@MMK_R_Ze-cy" = 10;
 "@MMK_R_be-cy" = 0;
+"@MMK_R_de-cy" = 0;
 "@MMK_R_ia-cy" = -20;
 "@MMK_R_quoteleft" = -90;
 "@MMK_R_quotesingle" = -60;
@@ -98451,7 +98452,6 @@ X = -20;
 trademark = -120;
 v = -20;
 x = 0;
-"@MMK_R_de-cy" = 0;
 };
 "@MMK_L_te-cy" = {
 "@MMK_R_A" = -30;
