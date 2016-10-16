@@ -2,7 +2,7 @@
 .appVersion = "926";
 DisplayStrings = (
 "/macroncomb/pe-cy.loclSRB",
-"OOA/Che-cy OOHHA/Che-cy HH\012OOAOOOHHAOHH\012OOA/U-cy OOHHA/U-cy HH\012OOA/Ze-cy OOHHA/Ze-cy HH\012OOA/be-cy ooHHA/be-cy nn\012OOA/che-cy ooHHA/che-cy nn\012OOAhooHHAhnn\012OOAsooHHAsnn\012OOA/te-cy ooHHA/te-cy nn\012OOAuooHHAunn\012OOA/ze-cy ooHHA/ze-cy nn\012OOBOOOHHBOHH\012OOBhooHHBhnn\012OO/Be-cy/De-cy OOHH/Be-cy/De-cy HH\012OO/Be-cy/Ia-cy OOHH/Be-cy/Ia-cy HH\012OO/Ge-cy AOOHH/Ge-cy AHH\012OO/Ge-cy/De-cy OOHH/Ge-cy/De-cy HH\012OO/Ge-cy/El-cy OOHH/Ge-cy/El-cy HH\012OO/Ge-cy/Ia-cy OOHH/Ge-cy/Ia-cy HH\012OO/Ge-cy OOOHH/Ge-cy OHH\012OO/Ge-cy aooHH/Ge-cy ann\012OO/Ge-cy/be-cy ooHH/Ge-cy/be-cy nn\012OO/Ge-cy/che-cy ooHH/Ge-cy/che-cy nn\012OO/Ge-cy/de-cy ooHH/Ge-cy/de-cy nn\012OO/Ge-cy/el-cy ooHH/Ge-cy/el-cy nn\012OO/Ge-cy/ereversed-cy ooHH/Ge-cy/ereversed-cy nn\012OO/Ge-cy hooHH/Ge-cy hnn\012OO/Ge-cy/ia-cy ooHH/Ge-cy/ia-cy nn\012OO/Ge-cy nooHH/Ge-cy nnn\012OO/Ge-cy oooHH/Ge-cy onn\012OO/Ge-cy sooHH/Ge-cy snn\012OO/Ge-cy/te-cy ooHH/Ge-cy/te-cy nn\012OO/Ge-cy uooHH/Ge-cy unn\012OO/Ge-cy/ze-cy ooHH/Ge-cy/ze-cy nn\012OO/Ge-cy vooHH/Ge-cy vnn\012OO/Ge-cy xooHH/Ge-cy xnn\012OO/Ge-cy/zedieresis-cy ooHH/Ge-cy/zedieresis-cy nn\012OOHOOOHHHOHH\012OOHhooHHHhnn\012OOHsooHHHsnn\012OO/Ka-cy/Che-cy OOHH/Ka-cy/Che-cy HH\012OO/Ka-cy/Ereversed-cy OOHH/Ka-cy/Ereversed-cy HH\012OO/Ka-cy OOOHH/Ka-cy OHH\012OO/Ka-cy SOOHH/Ka-cy SHH\012OO/Ka-cy/Ze-cy OOHH/Ka-cy/Ze-cy HH\012OO/Ka-cy aooHH/Ka-cy ann\012OO/Ka-cy/be-cy ooHH/Ka-cy/be-cy nn\012OO/Ka-cy/che-cy ooHH/Ka-cy/che-cy nn\012OO/Ka-cy/el-cy ooHH/Ka-cy/el-cy nn\012OO/Ka-cy hooHH/Ka-cy hnn\012OO/Ka-cy -OOHH/Ka-cy -HH\012OO/Ka-cy nooHH/Ka-cy nnn\012OO/Ka-cy oooHH/Ka-cy onn\012OO/Ka-cy 'OOHH/Ka-cy 'HH\012OO/Ka-cy sooHH/Ka-cy snn\012OO/Ka-cy/te-cy ooHH/Ka-cy/te-cy nn\012OO/Ka-cy uooHH/Ka-cy unn\012OO/Ka-cy/ze-cy ooHH/Ka-cy/ze-cy nn\012OO/Ka-cy vooHH/Ka-cy vnn\012OOO/De-cy OOHHO/De-cy HH\012OOO/El-cy OOHHO/El-cy HH\012OOO/U-cy OOHHO/U-cy HH\012OOOXOOHHOXHH\012OOO/Ze-cy OOHHO/Ze-cy HH\012OOO/de-cy ooHHO/de-cy nn\012OOO/el-cy ooHHO/el-cy nn\012OOOhooHHOhnn\012OOOsooHHOsnn\012OOO/ze-cy ooHHO/ze-cy nn\012OO/Softsign-cy AOOHH/Softsign-cy AHH\012OO/Softsign-cy/De-cy OOHH/Softsign-cy/De-cy HH\012OO/Softsign-cy TOOHH/Softsign-cy THH\012OO/Softsign-cy/U-cy OOHH/Softsign-cy/U-cy HH\012OO/Softsign-cy hooHH/Softsign-cy hnn\012OO/Softsign-cy XOOHH/Softsign-cy XHH\012OOT/De-cy OOHHT/De-cy HH\012OOT/El-cy OOHHT/El-cy HH\012OOTOOOHHTOHH\012OOT/be-cy ooHHT/be-cy nn\012OOT/che-cy ooHHT/che-cy nn\012OOT/de-cy ooHHT/de-cy nn\012OOT/el-cy ooHHT/el-cy nn\012OOT/ereversed-cy ooHHT/ereversed-cy nn\012OOThooHHThnn\012OOT/ia-cy ooHHT/ia-cy nn\012OOTnooHHTnnn\012OOToooHHTonn\012OOTsooHHTsnn\012OOT/te-cy ooHHT/te-cy nn\012OOTuooHHTunn\012OOT/ze-cy ooHHT/ze-cy nn\012OO/Tse-cy/Che-cy OOHH/Tse-cy/Che-cy HH\012OO/Tse-cy OOOHH/Tse-cy OHH\012OO/Tse-cy TOOHH/Tse-cy THH\012OO/Tse-cy/U-cy OOHH/Tse-cy/U-cy HH\012OO/Tse-cy/Ze-cy OOHH/Tse-cy/Ze-cy HH\012OO/Tse-cy/el-cy ooHH/Tse-cy/el-cy nn\012OO/Tse-cy hooHH/Tse-cy hnn\012OO/Tse-cy -OOHH/Tse-cy -HH\012OO/Tse-cy oooHH/Tse-cy onn\012OO/Tse-cy 'OOHH/Tse-cy 'HH\012OO/Tse-cy/te-cy ooHH/Tse-cy/te-cy nn\012OO/Tse-cy vooHH/Tse-cy vnn\012OO/Tshe-cy/De-cy OOHH/Tshe-cy/De-cy HH\012OO/U-cy/De-cy OOHH/U-cy/De-cy HH\012OO/U-cy OOOHH/U-cy OHH\012OO/U-cy/el-cy ooHH/U-cy/el-cy nn\012OO/U-cy hooHH/U-cy hnn\012OO/U-cy nooHH/U-cy nnn\012OO/U-cy oooHH/U-cy onn\012OO/U-cy sooHH/U-cy snn\012OO/U-cy/te-cy ooHH/U-cy/te-cy nn\012OO/U-cy uooHH/U-cy unn\012OO/U-cy/ze-cy ooHH/U-cy/ze-cy nn\012OOXOOOHHXOHH\012OOXhooHHXhnn\012OOXoooHHXonn\012OOXsooHHXsnn\012OOX/te-cy ooHHX/te-cy nn\012oob/De-cy OOnnb/De-cy HH\012ooeTOOnneTHH\012ooe/U-cy OOnne/U-cy HH\012ooe/de-cy oonne/de-cy nn\012ooe/te-cy oonne/te-cy nn\012oo/ge-cy/De-cy OOnn/ge-cy/De-cy HH\012oo/ge-cy TOOnn/ge-cy THH\012oo/ge-cy/U-cy OOnn/ge-cy/U-cy HH\012oo/ge-cy/de-cy oonn/ge-cy/de-cy nn\012oo/ge-cy/el-cy oonn/ge-cy/el-cy nn\012oo/ge-cy/ia-cy oonn/ge-cy/ia-cy nn\012oo/ge-cy .OOnn/ge-cy .HH\012oo/ge-cy/te-cy oonn/ge-cy/te-cy nn\012oo/ge-cy/ze-cy oonn/ge-cy/ze-cy nn\012oo/ge-cy XOOnn/ge-cy XHH\012OO-/Che-cy OOHH-/Che-cy HH\012OO-/De-cy OOHH-/De-cy HH\012OO-/El-cy OOHH-/El-cy HH\012OO-/U-cy OOHH-/U-cy HH\012OO-/de-cy ooHH-/de-cy nn\012OO-/el-cy ooHH-/el-cy nn\012oo/Ka-cy/U-cy OOnn/Ka-cy/U-cy HH\012oonTOOnnnTHH\012oon/U-cy OOnnn/U-cy HH\012oooAOOnnoAHH\012ooo/Che-cy OOnno/Che-cy HH\012ooo/De-cy OOnno/De-cy HH\012oooHOOnnoHHH\012oooTOOnnoTHH\012ooo/U-cy OOnno/U-cy HH\012oooXOOnnoXHH\012ooo/Ze-cy OOnno/Ze-cy HH\012ooo/be-cy oonno/be-cy nn\012ooo/de-cy oonno/de-cy nn\012ooo/el-cy oonno/el-cy nn\012ooo/ia-cy oonno/ia-cy nn\012ooo/te-cy oonno/te-cy nn\012oooxoonnoxnn\012oooyoonnoynn\012ooo/ze-cy oonno/ze-cy nn\012OO.OOOHH.OHH\012OO./che-cy ooHH./che-cy nn\012OO./te-cy ooHH./te-cy nn\012OO'/De-cy OOHH'/De-cy HH\012OO'/El-cy OOHH'/El-cy HH\012OO'/Ze-cy OOHH'/Ze-cy HH\012OO'/che-cy ooHH'/che-cy nn\012OO'/de-cy ooHH'/de-cy nn\012OO'/el-cy ooHH'/el-cy nn\012OO'/ereversed-cy ooHH'/ereversed-cy nn\012OO'/ia-cy ooHH'/ia-cy nn\012OO'/ze-cy ooHH'/ze-cy nn\012oos/Che-cy OOnns/Che-cy HH\012oosTOOnnsTHH\012oos/U-cy OOnns/U-cy HH\012oosXOOnnsXHH\012oos/Ze-cy OOnns/Ze-cy HH\012oos/be-cy oonns/be-cy nn\012oo/softsign-cy/Che-cy OOnn/softsign-cy/Che-cy HH\012oo/softsign-cy OOOnn/softsign-cy OHH\012oo/softsign-cy TOOnn/softsign-cy THH\012oo/softsign-cy/U-cy OOnn/softsign-cy/U-cy HH\012oo/softsign-cy/Ze-cy OOnn/softsign-cy/Ze-cy HH\012oo/softsign-cy/be-cy oonn/softsign-cy/be-cy nn\012oo/softsign-cy/ia-cy oonn/softsign-cy/ia-cy nn\012oo/softsign-cy/quoteleft OOnn/softsign-cy/quoteleft HH\012oo/softsign-cy 'OOnn/softsign-cy 'HH\012oo/softsign-cy/te-cy oonn/softsign-cy/te-cy nn\012oo/softsign-cy xoonn/softsign-cy xnn\012oo/softsign-cy yoonn/softsign-cy ynn\012oo/softsign-cy/ze-cy oonn/softsign-cy/ze-cy nn\012oo/softsign-cy/trademark OOnn/softsign-cy/trademark HH\012oo/softsign-cy voonn/softsign-cy vnn\012oo/softsign-cy xoonn/softsign-cy xnn\012oo/te-cy AOOnn/te-cy AHH\012oo/te-cy TOOnn/te-cy THH\012oo/te-cy/U-cy OOnn/te-cy/U-cy HH\012oo/te-cy/de-cy oonn/te-cy/de-cy nn\012oo/te-cy/el-cy oonn/te-cy/el-cy nn\012oo/te-cy .OOnn/te-cy .HH\012oo/te-cy/yat-cy oonn/te-cy/yat-cy nn\012oo/te-cy XOOnn/te-cy XHH\012oo/tse-cy TOOnn/tse-cy THH\012oo/tse-cy/U-cy OOnn/tse-cy/U-cy HH\012oo/tse-cy/be-cy oonn/tse-cy/be-cy nn\012oo/tse-cy/che-cy oonn/tse-cy/che-cy nn\012oo/tse-cy -OOnn/tse-cy -HH\012oo/tse-cy/quoteleft OOnn/tse-cy/quoteleft HH\012oo/tse-cy 'OOnn/tse-cy 'HH\012oo/tse-cy/trademark OOnn/tse-cy/trademark HH\012oo/tse-cy voonn/tse-cy vnn\012oouAOOnnuAHH\012oou/Che-cy OOnnu/Che-cy HH\012oouHOOnnuHHH\012oouOOOnnuOHH\012oouTOOnnuTHH\012oou/U-cy OOnnu/U-cy HH\012oou/Ze-cy OOnnu/Ze-cy HH\012oou/be-cy oonnu/be-cy nn\012oouooonnuonn\012oo/ve-cy/Che-cy OOnn/ve-cy/Che-cy HH\012oo/ve-cy HOOnn/ve-cy HHH\012oo/ve-cy TOOnn/ve-cy THH\012oo/ve-cy/U-cy OOnn/ve-cy/U-cy HH\012oo/ve-cy XOOnn/ve-cy XHH\012oo/ve-cy/Ze-cy OOnn/ve-cy/Ze-cy HH\012oo/ve-cy/be-cy oonn/ve-cy/be-cy nn\012oo/ve-cy/che-cy oonn/ve-cy/che-cy nn\012oo/ve-cy/de-cy oonn/ve-cy/de-cy nn\012oo/ve-cy/el-cy oonn/ve-cy/el-cy nn\012oo/ve-cy/te-cy oonn/ve-cy/te-cy nn\012oo/ve-cy xoonn/ve-cy xnn\012oo/ve-cy yoonn/ve-cy ynn\012oo/ve-cy/ze-cy oonn/ve-cy/ze-cy nn\012oo/ve-cy voonn/ve-cy vnn\012oo/ve-cy xoonn/ve-cy xnn\012ooxhoonnxhnn\012ooxooonnxonn\012oox/ze-cy oonnx/ze-cy nn\012ooyOOOnnyOHH\012ooyTOOnnyTHH\012ooy/U-cy OOnny/U-cy HH\012ooyhoonnyhnn\012ooy/yat-cy oonny/yat-cy nn\012ooy/ze-cy oonny/ze-cy nn\012ooyXOOnnyXHH\012OOB/De-cy OOHHB/De-cy HH\012OOB/El-cy OOHHB/El-cy HH\012OOB/Ia-cy OOHHB/Ia-cy HH\012OOB/U-cy OOHHB/U-cy HH\012OOB/de-cy ooHHB/de-cy nn\012OOB/ia-cy ooHHB/ia-cy nn\012OO/Ge-cy nooHH/Ge-cy nnn\012OO/Ge-cy oooHH/Ge-cy onn\012OOP/De-cy OOHHP/De-cy HH\012OOP/El-cy OOHHP/El-cy HH\012OOV/De-cy OOHHV/De-cy HH\012OOV/El-cy OOHHV/El-cy HH\012OOV/Ze-cy OOHHV/Ze-cy HH\012OOV/be-cy ooHHV/be-cy nn\012OOV/che-cy ooHHV/che-cy nn\012OOV/de-cy ooHHV/de-cy nn\012OOV/el-cy ooHHV/el-cy nn\012OOV/ereversed-cy ooHHV/ereversed-cy nn\012OOV/ia-cy ooHHV/ia-cy nn\012OOVnooHHVnnn\012OOV/te-cy ooHHV/te-cy nn\012OOV/ze-cy ooHHV/ze-cy nn\012OOX/be-cy ooHHX/be-cy nn\012oov/De-cy OOnnv/De-cy HH\012oovTOOnnvTHH\012oov/U-cy OOnnv/U-cy HH\012oov/de-cy oonnv/de-cy nn\012oov/el-cy oonnv/el-cy nn\012oov/ze-cy oonnv/ze-cy nn\012ooxOOOnnxOHH\012ooxTOOnnxTHH\012oox/U-cy OOnnx/U-cy HH\012oox/be-cy oonnx/be-cy nn\012oox/che-cy oonnx/che-cy nn\012oox/de-cy oonnx/de-cy nn\012oox/ereversed-cy oonnx/ereversed-cy nn\012ooxhoonnxhnn\012oox/ze-cy oonnx/ze-cy nn\012/ve-cy.loclBGR/a-cy/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/be-cy/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/de-cy/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/ka-cy.loclBGR/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/ze-cy.loclBGR/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/o-cy/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/te-cy/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/u-cy/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/ha-cy/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/softsign-cy/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/en-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/be-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/de-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/zhe-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/o-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/ze-cy.loclBGR \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/en-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/te-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/u-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/ha-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/ia-cy \012/a-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy/en-cy/o-cy/en-cy/o-cy \012/de-cy/en-cy/o-cy/en-cy/o-cy \012/ka-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/en-cy/o-cy/en-cy/o-cy \012/o-cy/en-cy/o-cy/en-cy/o-cy \012/te-cy/en-cy/o-cy/en-cy/o-cy \012/u-cy/en-cy/o-cy/en-cy/o-cy \012/ha-cy/en-cy/o-cy/en-cy/o-cy \012/softsign-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy \012/en-cy/o-cy/en-cy/o-cy/de-cy \012/en-cy/o-cy/en-cy/o-cy/zhe-cy \012/en-cy/o-cy/en-cy/o-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR \012/en-cy/o-cy/en-cy/o-cy/en-cy \012/en-cy/o-cy/en-cy/o-cy/te-cy \012/en-cy/o-cy/en-cy/o-cy/u-cy \012/en-cy/o-cy/en-cy/o-cy/ha-cy \012/en-cy/o-cy/en-cy/o-cy/ia-cy \012/ze-cy.loclBGR/a-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/be-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/de-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/ka-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/ze-cy.loclBGR/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/o-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/te-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/u-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/ha-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/softsign-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/en-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/be-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/de-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/zhe-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/o-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/ze-cy.loclBGR \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/en-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/te-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/u-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/ha-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/ia-cy \012/a-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy/en-cy/o-cy/en-cy/o-cy \012/de-cy/en-cy/o-cy/en-cy/o-cy \012/ka-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/en-cy/o-cy/en-cy/o-cy \012/o-cy/en-cy/o-cy/en-cy/o-cy \012/te-cy/en-cy/o-cy/en-cy/o-cy \012/u-cy/en-cy/o-cy/en-cy/o-cy \012/ha-cy/en-cy/o-cy/en-cy/o-cy \012/softsign-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy \012/en-cy/o-cy/en-cy/o-cy/de-cy \012/en-cy/o-cy/en-cy/o-cy/zhe-cy \012/en-cy/o-cy/en-cy/o-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR \012/en-cy/o-cy/en-cy/o-cy/en-cy \012/en-cy/o-cy/en-cy/o-cy/te-cy \012/en-cy/o-cy/en-cy/o-cy/u-cy \012/en-cy/o-cy/en-cy/o-cy/ha-cy \012/en-cy/o-cy/en-cy/o-cy/ia-cy \012/a-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy/en-cy/o-cy/en-cy/o-cy \012/de-cy/en-cy/o-cy/en-cy/o-cy \012/ka-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/en-cy/o-cy/en-cy/o-cy \012/o-cy/en-cy/o-cy/en-cy/o-cy \012/te-cy/en-cy/o-cy/en-cy/o-cy \012/u-cy/en-cy/o-cy/en-cy/o-cy \012/ha-cy/en-cy/o-cy/en-cy/o-cy \012/softsign-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy \012/en-cy/o-cy/en-cy/o-cy/de-cy \012/en-cy/o-cy/en-cy/o-cy/zhe-cy \012/en-cy/o-cy/en-cy/o-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR \012/en-cy/o-cy/en-cy/o-cy/en-cy \012/en-cy/o-cy/en-cy/o-cy/te-cy \012/en-cy/o-cy/en-cy/o-cy/u-cy \012/en-cy/o-cy/en-cy/o-cy/ha-cy \012/en-cy/o-cy/en-cy/o-cy/ia-cy \012/a-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy/en-cy/o-cy/en-cy/o-cy \012/de-cy/en-cy/o-cy/en-cy/o-cy \012/ka-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/en-cy/o-cy/en-cy/o-cy \012/o-cy/en-cy/o-cy/en-cy/o-cy \012/te-cy/en-cy/o-cy/en-cy/o-cy \012/u-cy/en-cy/o-cy/en-cy/o-cy \012/ha-cy/en-cy/o-cy/en-cy/o-cy \012/softsign-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy \012/en-cy/o-cy/en-cy/o-cy/de-cy \012/en-cy/o-cy/en-cy/o-cy/zhe-cy \012/en-cy/o-cy/en-cy/o-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR \012/en-cy/o-cy/en-cy/o-cy/en-cy \012/en-cy/o-cy/en-cy/o-cy/te-cy \012/en-cy/o-cy/en-cy/o-cy/u-cy \012/en-cy/o-cy/en-cy/o-cy/ha-cy \012/en-cy/o-cy/en-cy/o-cy/ia-cy \012/be-cy.loclSRB/a-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/be-cy.loclSRB/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/de-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/ka-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/ze-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/o-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/te-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/u-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/ha-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/softsign-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/en-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/be-cy.loclSRB \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/de-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/zhe-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/o-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/ze-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/en-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/te-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/u-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/ha-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/ia-cy"
+"OOA/Che-cy OOHHA/Che-cy HH\012OOAOOOHHAOHH\012OOA/U-cy OOHHA/U-cy HH\012OOA/Ze-cy OOHHA/Ze-cy HH\012OOA/be-cy ooHHA/be-cy nn\012OOA/che-cy ooHHA/che-cy nn\012OOAhooA/che-cy Ahnn\012OOAsooHHAsnn\012OOA/te-cy ooHHA/te-cy nn\012OOAuooHHAunn\012OOA/ze-cy ooHHA/ze-cy nn\012OOBOOOHHBOHH\012OOBhooHHBhnn\012OO/Be-cy/De-cy OOHH/Be-cy/De-cy HH\012OO/Be-cy/Ia-cy OOHH/Be-cy/Ia-cy HH\012OO/Ge-cy AOOHH/Ge-cy AHH\012OO/Ge-cy/De-cy OOHH/Ge-cy/De-cy HH\012OO/Ge-cy/El-cy OOHH/Ge-cy/El-cy HH\012OO/Ge-cy/Ia-cy OOHH/Ge-cy/Ia-cy HH\012OO/Ge-cy OOOHH/Ge-cy OHH\012OO/Ge-cy aooHH/Ge-cy ann\012OO/Ge-cy/be-cy ooHH/Ge-cy/be-cy nn\012OO/Ge-cy/che-cy ooHH/Ge-cy/che-cy nn\012OO/Ge-cy/de-cy ooHH/Ge-cy/de-cy nn\012OO/Ge-cy/el-cy ooHH/Ge-cy/el-cy nn\012OO/Ge-cy/ereversed-cy ooHH/Ge-cy/ereversed-cy nn\012OO/Ge-cy hooHH/Ge-cy hnn\012OO/Ge-cy/ia-cy ooHH/Ge-cy/ia-cy nn\012OO/Ge-cy nooHH/Ge-cy nnn\012OO/Ge-cy oooHH/Ge-cy onn\012OO/Ge-cy sooHH/Ge-cy snn\012OO/Ge-cy/te-cy ooHH/Ge-cy/te-cy nn\012OO/Ge-cy uooHH/Ge-cy unn\012OO/Ge-cy/ze-cy ooHH/Ge-cy/ze-cy nn\012OO/Ge-cy vooHH/Ge-cy vnn\012OO/Ge-cy xooHH/Ge-cy xnn\012OO/Ge-cy/zedieresis-cy ooHH/Ge-cy/zedieresis-cy nn\012OOHOOOHHHOHH\012OOHhooHHHhnn\012OOHsooHHHsnn\012OO/Ka-cy/Che-cy OOHH/Ka-cy/Che-cy HH\012OO/Ka-cy/Ereversed-cy OOHH/Ka-cy/Ereversed-cy HH\012OO/Ka-cy OOOHH/Ka-cy OHH\012OO/Ka-cy SOOHH/Ka-cy SHH\012OO/Ka-cy/Ze-cy OOHH/Ka-cy/Ze-cy HH\012OO/Ka-cy aooHH/Ka-cy ann\012OO/Ka-cy/be-cy ooHH/Ka-cy/be-cy nn\012OO/Ka-cy/che-cy ooHH/Ka-cy/che-cy nn\012OO/Ka-cy/el-cy ooHH/Ka-cy/el-cy nn\012OO/Ka-cy hooHH/Ka-cy hnn\012OO/Ka-cy -OOHH/Ka-cy -HH\012OO/Ka-cy nooHH/Ka-cy nnn\012OO/Ka-cy oooHH/Ka-cy onn\012OO/Ka-cy 'OOHH/Ka-cy 'HH\012OO/Ka-cy sooHH/Ka-cy snn\012OO/Ka-cy/te-cy ooHH/Ka-cy/te-cy nn\012OO/Ka-cy uooHH/Ka-cy unn\012OO/Ka-cy/ze-cy ooHH/Ka-cy/ze-cy nn\012OO/Ka-cy vooHH/Ka-cy vnn\012OOO/De-cy OOHHO/De-cy HH\012OOO/El-cy OOHHO/El-cy HH\012OOO/U-cy OOHHO/U-cy HH\012OOOXOOHHOXHH\012OOO/Ze-cy OOHHO/Ze-cy HH\012OOO/de-cy ooHHO/de-cy nn\012OOO/el-cy ooHHO/el-cy nn\012OOOhooHHOhnn\012OOOsooHHOsnn\012OOO/ze-cy ooHHO/ze-cy nn\012OO/Softsign-cy AOOHH/Softsign-cy AHH\012OO/Softsign-cy/De-cy OOHH/Softsign-cy/De-cy HH\012OO/Softsign-cy TOOHH/Softsign-cy THH\012OO/Softsign-cy/U-cy OOHH/Softsign-cy/U-cy HH\012OO/Softsign-cy hooHH/Softsign-cy hnn\012OO/Softsign-cy XOOHH/Softsign-cy XHH\012OOT/De-cy OOHHT/De-cy HH\012OOT/El-cy OOHHT/El-cy HH\012OOTOOOHHTOHH\012OOT/be-cy ooHHT/be-cy nn\012OOT/che-cy ooHHT/che-cy nn\012OOT/de-cy ooHHT/de-cy nn\012OOT/el-cy ooHHT/el-cy nn\012OOT/ereversed-cy ooHHT/ereversed-cy nn\012OOThooHHThnn\012OOT/ia-cy ooHHT/ia-cy nn\012OOTnooHHTnnn\012OOToooHHTonn\012OOTsooHHTsnn\012OOT/te-cy ooHHT/te-cy nn\012OOTuooHHTunn\012OOT/ze-cy ooHHT/ze-cy nn\012OO/Tse-cy/Che-cy OOHH/Tse-cy/Che-cy HH\012OO/Tse-cy OOOHH/Tse-cy OHH\012OO/Tse-cy TOOHH/Tse-cy THH\012OO/Tse-cy/U-cy OOHH/Tse-cy/U-cy HH\012OO/Tse-cy/Ze-cy OOHH/Tse-cy/Ze-cy HH\012OO/Tse-cy/el-cy ooHH/Tse-cy/el-cy nn\012OO/Tse-cy hooHH/Tse-cy hnn\012OO/Tse-cy -OOHH/Tse-cy -HH\012OO/Tse-cy oooHH/Tse-cy onn\012OO/Tse-cy 'OOHH/Tse-cy 'HH\012OO/Tse-cy/te-cy ooHH/Tse-cy/te-cy nn\012OO/Tse-cy vooHH/Tse-cy vnn\012OO/Tshe-cy/De-cy OOHH/Tshe-cy/De-cy HH\012OO/U-cy/De-cy OOHH/U-cy/De-cy HH\012OO/U-cy OOOHH/U-cy OHH\012OO/U-cy/el-cy ooHH/U-cy/el-cy nn\012OO/U-cy hooHH/U-cy hnn\012OO/U-cy nooHH/U-cy nnn\012OO/U-cy oooHH/U-cy onn\012OO/U-cy sooHH/U-cy snn\012OO/U-cy/te-cy ooHH/U-cy/te-cy nn\012OO/U-cy uooHH/U-cy unn\012OO/U-cy/ze-cy ooHH/U-cy/ze-cy nn\012OOXOOOHHXOHH\012OOXhooHHXhnn\012OOXoooHHXonn\012OOXsooHHXsnn\012OOX/te-cy ooHHX/te-cy nn\012oob/De-cy OOnnb/De-cy HH\012ooeTOOnneTHH\012ooe/U-cy OOnne/U-cy HH\012ooe/de-cy oonne/de-cy nn\012ooe/te-cy oonne/te-cy nn\012oo/ge-cy/De-cy OOnn/ge-cy/De-cy HH\012oo/ge-cy TOOnn/ge-cy THH\012oo/ge-cy/U-cy OOnn/ge-cy/U-cy HH\012oo/ge-cy/de-cy oonn/ge-cy/de-cy nn\012oo/ge-cy/el-cy oonn/ge-cy/el-cy nn\012oo/ge-cy/ia-cy oonn/ge-cy/ia-cy nn\012oo/ge-cy .OOnn/ge-cy .HH\012oo/ge-cy/te-cy oonn/ge-cy/te-cy nn\012oo/ge-cy/ze-cy oonn/ge-cy/ze-cy nn\012oo/ge-cy XOOnn/ge-cy XHH\012OO-/Che-cy OOHH-/Che-cy HH\012OO-/De-cy OOHH-/De-cy HH\012OO-/El-cy OOHH-/El-cy HH\012OO-/U-cy OOHH-/U-cy HH\012OO-/de-cy ooHH-/de-cy nn\012OO-/el-cy ooHH-/el-cy nn\012oo/Ka-cy/U-cy OOnn/Ka-cy/U-cy HH\012oonTOOnnnTHH\012oon/U-cy OOnnn/U-cy HH\012oooAOOnnoAHH\012ooo/Che-cy OOnno/Che-cy HH\012ooo/De-cy OOnno/De-cy HH\012oooHOOnnoHHH\012oooTOOnnoTHH\012ooo/U-cy OOnno/U-cy HH\012oooXOOnnoXHH\012ooo/Ze-cy OOnno/Ze-cy HH\012ooo/be-cy oonno/be-cy nn\012ooo/de-cy oonno/de-cy nn\012ooo/el-cy oonno/el-cy nn\012ooo/ia-cy oonno/ia-cy nn\012ooo/te-cy oonno/te-cy nn\012oooxoonnoxnn\012oooyoonnoynn\012ooo/ze-cy oonno/ze-cy nn\012OO.OOOHH.OHH\012OO./che-cy ooHH./che-cy nn\012OO./te-cy ooHH./te-cy nn\012OO'/De-cy OOHH'/De-cy HH\012OO'/El-cy OOHH'/El-cy HH\012OO'/Ze-cy OOHH'/Ze-cy HH\012OO'/che-cy ooHH'/che-cy nn\012OO'/de-cy ooHH'/de-cy nn\012OO'/el-cy ooHH'/el-cy nn\012OO'/ereversed-cy ooHH'/ereversed-cy nn\012OO'/ia-cy ooHH'/ia-cy nn\012OO'/ze-cy ooHH'/ze-cy nn\012oos/Che-cy OOnns/Che-cy HH\012oosTOOnnsTHH\012oos/U-cy OOnns/U-cy HH\012oosXOOnnsXHH\012oos/Ze-cy OOnns/Ze-cy HH\012oos/be-cy oonns/be-cy nn\012oo/softsign-cy/Che-cy OOnn/softsign-cy/Che-cy HH\012oo/softsign-cy OOOnn/softsign-cy OHH\012oo/softsign-cy TOOnn/softsign-cy THH\012oo/softsign-cy/U-cy OOnn/softsign-cy/U-cy HH\012oo/softsign-cy/Ze-cy OOnn/softsign-cy/Ze-cy HH\012oo/softsign-cy/be-cy oonn/softsign-cy/be-cy nn\012oo/softsign-cy/ia-cy oonn/softsign-cy/ia-cy nn\012oo/softsign-cy/quoteleft OOnn/softsign-cy/quoteleft HH\012oo/softsign-cy 'OOnn/softsign-cy 'HH\012oo/softsign-cy/te-cy oonn/softsign-cy/te-cy nn\012oo/softsign-cy xoonn/softsign-cy xnn\012oo/softsign-cy yoonn/softsign-cy ynn\012oo/softsign-cy/ze-cy oonn/softsign-cy/ze-cy nn\012oo/softsign-cy/trademark OOnn/softsign-cy/trademark HH\012oo/softsign-cy voonn/softsign-cy vnn\012oo/softsign-cy xoonn/softsign-cy xnn\012oo/te-cy AOOnn/te-cy AHH\012oo/te-cy TOOnn/te-cy THH\012oo/te-cy/U-cy OOnn/te-cy/U-cy HH\012oo/te-cy/de-cy oonn/te-cy/de-cy nn\012oo/te-cy/el-cy oonn/te-cy/el-cy nn\012oo/te-cy .OOnn/te-cy .HH\012oo/te-cy/yat-cy oonn/te-cy/yat-cy nn\012oo/te-cy XOOnn/te-cy XHH\012oo/tse-cy TOOnn/tse-cy THH\012oo/tse-cy/U-cy OOnn/tse-cy/U-cy HH\012oo/tse-cy/be-cy oonn/tse-cy/be-cy nn\012oo/tse-cy/che-cy oonn/tse-cy/che-cy nn\012oo/tse-cy -OOnn/tse-cy -HH\012oo/tse-cy/quoteleft OOnn/tse-cy/quoteleft HH\012oo/tse-cy 'OOnn/tse-cy 'HH\012oo/tse-cy/trademark OOnn/tse-cy/trademark HH\012oo/tse-cy voonn/tse-cy vnn\012oouAOOnnuAHH\012oou/Che-cy OOnnu/Che-cy HH\012oouHOOnnuHHH\012oouOOOnnuOHH\012oouTOOnnuTHH\012oou/U-cy OOnnu/U-cy HH\012oou/Ze-cy OOnnu/Ze-cy HH\012oou/be-cy oonnu/be-cy nn\012oouooonnuonn\012oo/ve-cy/Che-cy OOnn/ve-cy/Che-cy HH\012oo/ve-cy HOOnn/ve-cy HHH\012oo/ve-cy TOOnn/ve-cy THH\012oo/ve-cy/U-cy OOnn/ve-cy/U-cy HH\012oo/ve-cy XOOnn/ve-cy XHH\012oo/ve-cy/Ze-cy OOnn/ve-cy/Ze-cy HH\012oo/ve-cy/be-cy oonn/ve-cy/be-cy nn\012oo/ve-cy/che-cy oonn/ve-cy/che-cy nn\012oo/ve-cy/de-cy oonn/ve-cy/de-cy nn\012oo/ve-cy/el-cy oonn/ve-cy/el-cy nn\012oo/ve-cy/te-cy oonn/ve-cy/te-cy nn\012oo/ve-cy xoonn/ve-cy xnn\012oo/ve-cy yoonn/ve-cy ynn\012oo/ve-cy/ze-cy oonn/ve-cy/ze-cy nn\012oo/ve-cy voonn/ve-cy vnn\012oo/ve-cy xoonn/ve-cy xnn\012ooxhoonnxhnn\012ooxooonnxonn\012oox/ze-cy oonnx/ze-cy nn\012ooyOOOnnyOHH\012ooyTOOnnyTHH\012ooy/U-cy OOnny/U-cy HH\012ooyhoonnyhnn\012ooy/yat-cy oonny/yat-cy nn\012ooy/ze-cy oonny/ze-cy nn\012ooyXOOnnyXHH\012OOB/De-cy OOHHB/De-cy HH\012OOB/El-cy OOHHB/El-cy HH\012OOB/Ia-cy OOHHB/Ia-cy HH\012OOB/U-cy OOHHB/U-cy HH\012OOB/de-cy ooHHB/de-cy nn\012OOB/ia-cy ooHHB/ia-cy nn\012OO/Ge-cy nooHH/Ge-cy nnn\012OO/Ge-cy oooHH/Ge-cy onn\012OOP/De-cy OOHHP/De-cy HH\012OOP/El-cy OOHHP/El-cy HH\012OOV/De-cy OOHHV/De-cy HH\012OOV/El-cy OOHHV/El-cy HH\012OOV/Ze-cy OOHHV/Ze-cy HH\012OOV/be-cy ooHHV/be-cy nn\012OOV/che-cy ooHHV/che-cy nn\012OOV/de-cy ooHHV/de-cy nn\012OOV/el-cy ooHHV/el-cy nn\012OOV/ereversed-cy ooHHV/ereversed-cy nn\012OOV/ia-cy ooHHV/ia-cy nn\012OOVnooHHVnnn\012OOV/te-cy ooHHV/te-cy nn\012OOV/ze-cy ooHHV/ze-cy nn\012OOX/be-cy ooHHX/be-cy nn\012oov/De-cy OOnnv/De-cy HH\012oovTOOnnvTHH\012oov/U-cy OOnnv/U-cy HH\012oov/de-cy oonnv/de-cy nn\012oov/el-cy oonnv/el-cy nn\012oov/ze-cy oonnv/ze-cy nn\012ooxOOOnnxOHH\012ooxTOOnnxTHH\012oox/U-cy OOnnx/U-cy HH\012oox/be-cy oonnx/be-cy nn\012oox/che-cy oonnx/che-cy nn\012oox/de-cy oonnx/de-cy nn\012oox/ereversed-cy oonnx/ereversed-cy nn\012ooxhoonnxhnn\012oox/ze-cy oonnx/ze-cy nn\012/ve-cy.loclBGR/a-cy/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/be-cy/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/de-cy/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/ka-cy.loclBGR/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/ze-cy.loclBGR/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/o-cy/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/te-cy/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/u-cy/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/ha-cy/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/softsign-cy/en-cy/o-cy/en-cy/o-cy \012/ve-cy.loclBGR/en-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/be-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/de-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/zhe-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/o-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/ze-cy.loclBGR \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/en-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/te-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/u-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/ha-cy \012/en-cy/o-cy/en-cy/o-cy/ve-cy.loclBGR/ia-cy \012/a-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy/en-cy/o-cy/en-cy/o-cy \012/de-cy/en-cy/o-cy/en-cy/o-cy \012/ka-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/en-cy/o-cy/en-cy/o-cy \012/o-cy/en-cy/o-cy/en-cy/o-cy \012/te-cy/en-cy/o-cy/en-cy/o-cy \012/u-cy/en-cy/o-cy/en-cy/o-cy \012/ha-cy/en-cy/o-cy/en-cy/o-cy \012/softsign-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy \012/en-cy/o-cy/en-cy/o-cy/de-cy \012/en-cy/o-cy/en-cy/o-cy/zhe-cy \012/en-cy/o-cy/en-cy/o-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR \012/en-cy/o-cy/en-cy/o-cy/en-cy \012/en-cy/o-cy/en-cy/o-cy/te-cy \012/en-cy/o-cy/en-cy/o-cy/u-cy \012/en-cy/o-cy/en-cy/o-cy/ha-cy \012/en-cy/o-cy/en-cy/o-cy/ia-cy \012/ze-cy.loclBGR/a-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/be-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/de-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/ka-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/ze-cy.loclBGR/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/o-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/te-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/u-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/ha-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/softsign-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/en-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/be-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/de-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/zhe-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/o-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/ze-cy.loclBGR \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/en-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/te-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/u-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/ha-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR/ia-cy \012/a-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy/en-cy/o-cy/en-cy/o-cy \012/de-cy/en-cy/o-cy/en-cy/o-cy \012/ka-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/en-cy/o-cy/en-cy/o-cy \012/o-cy/en-cy/o-cy/en-cy/o-cy \012/te-cy/en-cy/o-cy/en-cy/o-cy \012/u-cy/en-cy/o-cy/en-cy/o-cy \012/ha-cy/en-cy/o-cy/en-cy/o-cy \012/softsign-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy \012/en-cy/o-cy/en-cy/o-cy/de-cy \012/en-cy/o-cy/en-cy/o-cy/zhe-cy \012/en-cy/o-cy/en-cy/o-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR \012/en-cy/o-cy/en-cy/o-cy/en-cy \012/en-cy/o-cy/en-cy/o-cy/te-cy \012/en-cy/o-cy/en-cy/o-cy/u-cy \012/en-cy/o-cy/en-cy/o-cy/ha-cy \012/en-cy/o-cy/en-cy/o-cy/ia-cy \012/a-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy/en-cy/o-cy/en-cy/o-cy \012/de-cy/en-cy/o-cy/en-cy/o-cy \012/ka-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/en-cy/o-cy/en-cy/o-cy \012/o-cy/en-cy/o-cy/en-cy/o-cy \012/te-cy/en-cy/o-cy/en-cy/o-cy \012/u-cy/en-cy/o-cy/en-cy/o-cy \012/ha-cy/en-cy/o-cy/en-cy/o-cy \012/softsign-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy \012/en-cy/o-cy/en-cy/o-cy/de-cy \012/en-cy/o-cy/en-cy/o-cy/zhe-cy \012/en-cy/o-cy/en-cy/o-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR \012/en-cy/o-cy/en-cy/o-cy/en-cy \012/en-cy/o-cy/en-cy/o-cy/te-cy \012/en-cy/o-cy/en-cy/o-cy/u-cy \012/en-cy/o-cy/en-cy/o-cy/ha-cy \012/en-cy/o-cy/en-cy/o-cy/ia-cy \012/a-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy/en-cy/o-cy/en-cy/o-cy \012/de-cy/en-cy/o-cy/en-cy/o-cy \012/ka-cy/en-cy/o-cy/en-cy/o-cy \012/ze-cy.loclBGR/en-cy/o-cy/en-cy/o-cy \012/o-cy/en-cy/o-cy/en-cy/o-cy \012/te-cy/en-cy/o-cy/en-cy/o-cy \012/u-cy/en-cy/o-cy/en-cy/o-cy \012/ha-cy/en-cy/o-cy/en-cy/o-cy \012/softsign-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy \012/en-cy/o-cy/en-cy/o-cy/de-cy \012/en-cy/o-cy/en-cy/o-cy/zhe-cy \012/en-cy/o-cy/en-cy/o-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/ze-cy.loclBGR \012/en-cy/o-cy/en-cy/o-cy/en-cy \012/en-cy/o-cy/en-cy/o-cy/te-cy \012/en-cy/o-cy/en-cy/o-cy/u-cy \012/en-cy/o-cy/en-cy/o-cy/ha-cy \012/en-cy/o-cy/en-cy/o-cy/ia-cy \012/be-cy.loclSRB/a-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/be-cy.loclSRB/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/de-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/ka-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/ze-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/o-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/te-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/u-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/ha-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/softsign-cy/en-cy/o-cy/en-cy/o-cy \012/be-cy.loclSRB/en-cy/en-cy/o-cy/en-cy/o-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/be-cy.loclSRB \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/de-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/zhe-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/o-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/ze-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/en-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/te-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/u-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/ha-cy \012/en-cy/o-cy/en-cy/o-cy/be-cy.loclSRB/ia-cy"
 );
 copyright = "Copyright (c) 2012, The Raleway Project Authors (matt@pixelspread.com)";
 customParameters = (
@@ -20578,7 +20578,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2016-10-16 02:49:30 +0000";
+lastChange = "2016-10-16 02:58:41 +0000";
 layers = (
 {
 anchors = (
@@ -48673,7 +48673,7 @@ unicode = 0445;
 {
 color = 8;
 glyphname = "che-cy";
-lastChange = "2016-10-16 02:51:18 +0000";
+lastChange = "2016-10-16 02:58:40 +0000";
 layers = (
 {
 anchors = (
@@ -55157,7 +55157,7 @@ unicode = 04DD;
 {
 color = 8;
 glyphname = "zedieresis-cy";
-lastChange = "2016-10-16 02:46:48 +0000";
+lastChange = "2016-10-16 02:58:02 +0000";
 layers = (
 {
 background = {
@@ -55176,7 +55176,7 @@ name = "ze-cy";
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 176, 0}";
+transform = "{1, 0, 0, 1, 182, 0}";
 }
 );
 layerId = "D38D3CE8-FE00-46D7-8A67-935B0885B622";
@@ -82423,6 +82423,444 @@ weightClass = Black;
 }
 );
 kerning = {
+"D38D3CE8-FE00-46D7-8A67-935B0885B622" = {
+"@MMK_L_A" = {
+"@MMK_R_Che-cy" = -80;
+"@MMK_R_O" = 10;
+"@MMK_R_U-cy" = -90;
+"@MMK_R_Ze-cy" = -20;
+"@MMK_R_be-cy" = -60;
+"@MMK_R_che-cy" = -60;
+"@MMK_R_h" = -10;
+"@MMK_R_s" = -10;
+"@MMK_R_te-cy" = -50;
+"@MMK_R_u" = 0;
+"@MMK_R_ze-cy" = -10;
+};
+"@MMK_L_B" = {
+"@MMK_R_O" = 10;
+"@MMK_R_h" = 0;
+};
+"@MMK_L_Be-cy" = {
+"@MMK_R_De-cy" = -20;
+"@MMK_R_Ia-cy" = -30;
+};
+"@MMK_L_De-cy.loclBGR" = {
+"@MMK_R_U-cy" = -20;
+};
+"@MMK_L_Ge-cy" = {
+"@MMK_R_A" = -100;
+"@MMK_R_De-cy" = -90;
+"@MMK_R_De-cy.loclBGR" = -100;
+"@MMK_R_El-cy" = -70;
+"@MMK_R_Ia-cy" = -40;
+"@MMK_R_O" = -20;
+"@MMK_R_a" = -100;
+"@MMK_R_be-cy" = -60;
+"@MMK_R_che-cy" = -110;
+"@MMK_R_de-cy" = -80;
+"@MMK_R_el-cy" = -190;
+"@MMK_R_ereversed-cy" = -130;
+"@MMK_R_h" = -20;
+"@MMK_R_ia-cy" = -160;
+"@MMK_R_n" = -60;
+"@MMK_R_o" = -100;
+"@MMK_R_s" = -160;
+"@MMK_R_te-cy" = -110;
+"@MMK_R_u" = -120;
+"@MMK_R_ze-cy" = -140;
+"@MMK_R_ze-cy.loclBGR" = -180;
+"be-cy.loclSRB" = -50;
+v = -100;
+x = -90;
+"zedieresis-cy" = -50;
+};
+"@MMK_L_H" = {
+"@MMK_R_O" = 0;
+"@MMK_R_h" = -20;
+"@MMK_R_s" = 10;
+};
+"@MMK_L_K" = {
+"@MMK_R_Che-cy" = -50;
+"@MMK_R_Ereversed-cy" = -40;
+"@MMK_R_O" = -60;
+"@MMK_R_S" = -20;
+"@MMK_R_Ze-cy" = -40;
+"@MMK_R_a" = -20;
+"@MMK_R_be-cy" = -60;
+"@MMK_R_che-cy" = -60;
+"@MMK_R_el-cy" = 0;
+"@MMK_R_h" = -60;
+"@MMK_R_hyphen" = -80;
+"@MMK_R_n" = -40;
+"@MMK_R_o" = -60;
+"@MMK_R_quotesingle" = -40;
+"@MMK_R_s" = -50;
+"@MMK_R_te-cy" = -60;
+"@MMK_R_u" = -40;
+"@MMK_R_ze-cy" = -50;
+v = -60;
+};
+"@MMK_L_Ka-cy" = {
+"@MMK_R_Che-cy" = -30;
+"@MMK_R_Ereversed-cy" = -30;
+"@MMK_R_O" = -40;
+"@MMK_R_Ze-cy" = -30;
+"@MMK_R_a" = -60;
+"@MMK_R_be-cy" = -60;
+"@MMK_R_che-cy" = -70;
+"@MMK_R_el-cy" = -30;
+"@MMK_R_hyphen" = -80;
+"@MMK_R_o" = -30;
+"@MMK_R_u" = -30;
+"@MMK_R_ze-cy" = -30;
+v = -30;
+};
+"@MMK_L_O" = {
+"@MMK_R_De-cy" = -60;
+"@MMK_R_El-cy" = -60;
+"@MMK_R_U-cy" = -80;
+"@MMK_R_X" = -40;
+"@MMK_R_Ze-cy" = 0;
+"@MMK_R_de-cy" = -20;
+"@MMK_R_el-cy" = -30;
+"@MMK_R_h" = -10;
+"@MMK_R_s" = -10;
+"@MMK_R_ze-cy" = -10;
+};
+"@MMK_L_Softsign-cy" = {
+"@MMK_R_A" = 0;
+"@MMK_R_De-cy" = -20;
+"@MMK_R_T" = -120;
+"@MMK_R_U-cy" = -100;
+"@MMK_R_h" = -10;
+X = -10;
+};
+"@MMK_L_T" = {
+"@MMK_R_De-cy" = -60;
+"@MMK_R_El-cy" = -70;
+"@MMK_R_O" = 10;
+"@MMK_R_be-cy" = -60;
+"@MMK_R_che-cy" = -70;
+"@MMK_R_de-cy" = -90;
+"@MMK_R_el-cy" = -110;
+"@MMK_R_ereversed-cy" = -90;
+"@MMK_R_h" = -10;
+"@MMK_R_ia-cy" = -100;
+"@MMK_R_n" = -70;
+"@MMK_R_o" = -60;
+"@MMK_R_s" = -100;
+"@MMK_R_te-cy" = -80;
+"@MMK_R_u" = -90;
+"@MMK_R_ze-cy" = -120;
+};
+"@MMK_L_Tse-cy" = {
+"@MMK_R_Che-cy" = -50;
+"@MMK_R_O" = -20;
+"@MMK_R_T" = -60;
+"@MMK_R_U-cy" = -40;
+"@MMK_R_Ze-cy" = -10;
+"@MMK_R_el-cy" = 10;
+"@MMK_R_h" = 0;
+"@MMK_R_hyphen" = -40;
+"@MMK_R_o" = -10;
+"@MMK_R_quotesingle" = -50;
+"@MMK_R_te-cy" = -30;
+v = -20;
+};
+"@MMK_L_Tshe-cy" = {
+"@MMK_R_De-cy" = -20;
+};
+"@MMK_L_U-cy" = {
+"@MMK_R_De-cy" = -100;
+"@MMK_R_De-cy.loclBGR" = -90;
+"@MMK_R_O" = -40;
+"@MMK_R_el-cy" = -100;
+"@MMK_R_h" = -10;
+"@MMK_R_n" = -40;
+"@MMK_R_o" = -60;
+"@MMK_R_s" = -80;
+"@MMK_R_te-cy" = -20;
+"@MMK_R_u" = -30;
+"@MMK_R_ze-cy" = -70;
+};
+"@MMK_L_X" = {
+"@MMK_R_O" = -30;
+"@MMK_R_h" = 10;
+"@MMK_R_o" = -20;
+"@MMK_R_s" = -30;
+"@MMK_R_te-cy" = 0;
+};
+"@MMK_L_b" = {
+"@MMK_R_De-cy" = 10;
+};
+"@MMK_L_be-cy.loclSRB" = {
+"@MMK_R_de-cy" = -10;
+"@MMK_R_ia-cy" = -30;
+"@MMK_R_n" = 0;
+"@MMK_R_te-cy" = -20;
+"@MMK_R_x" = -30;
+"@MMK_R_y" = -30;
+"@MMK_R_ze-cy" = -30;
+};
+"@MMK_L_e" = {
+"@MMK_R_T" = -110;
+"@MMK_R_U-cy" = -100;
+"@MMK_R_de-cy" = 0;
+"@MMK_R_te-cy" = -10;
+};
+"@MMK_L_el-cy.loclBGR" = {
+"@MMK_R_be-cy" = -20;
+"@MMK_R_o" = -20;
+"@MMK_R_te-cy" = -40;
+"@MMK_R_y" = -20;
+"@MMK_R_ze-cy" = -20;
+"@MMK_R_ze-cy.loclBGR" = -30;
+};
+"@MMK_L_ge-cy" = {
+"@MMK_R_De-cy" = -30;
+"@MMK_R_T" = -120;
+"@MMK_R_U-cy" = -100;
+"@MMK_R_de-cy" = -30;
+"@MMK_R_el-cy" = -40;
+"@MMK_R_ia-cy" = -20;
+"@MMK_R_period" = -30;
+"@MMK_R_te-cy" = 10;
+"@MMK_R_ze-cy" = 0;
+X = -30;
+};
+"@MMK_L_ge-cy.loclBGR" = {
+"@MMK_R_be-cy" = -20;
+"@MMK_R_de-cy" = -30;
+"@MMK_R_ia-cy" = -40;
+"@MMK_R_n" = -20;
+"@MMK_R_o" = -20;
+"@MMK_R_te-cy" = -10;
+"@MMK_R_x" = -30;
+"@MMK_R_y" = -30;
+"@MMK_R_ze-cy" = -30;
+"@MMK_R_ze-cy.loclBGR" = -40;
+};
+"@MMK_L_hyphen" = {
+"@MMK_R_Che-cy" = -70;
+"@MMK_R_De-cy" = -70;
+"@MMK_R_El-cy" = -60;
+"@MMK_R_U-cy" = -70;
+"@MMK_R_de-cy" = -40;
+"@MMK_R_el-cy" = -50;
+};
+"@MMK_L_k" = {
+"@MMK_R_U-cy" = -10;
+};
+"@MMK_L_n" = {
+"@MMK_R_T" = -80;
+"@MMK_R_U-cy" = -40;
+};
+"@MMK_L_o" = {
+"@MMK_R_A" = -10;
+"@MMK_R_Che-cy" = -10;
+"@MMK_R_De-cy" = -40;
+"@MMK_R_H" = 0;
+"@MMK_R_T" = -60;
+"@MMK_R_U-cy" = -70;
+"@MMK_R_X" = 0;
+"@MMK_R_Ze-cy" = -10;
+"@MMK_R_be-cy" = -20;
+"@MMK_R_de-cy" = -10;
+"@MMK_R_el-cy" = -10;
+"@MMK_R_ge-cy.loclBGR" = -20;
+"@MMK_R_ia-cy" = -40;
+"@MMK_R_te-cy" = -10;
+"@MMK_R_x" = -20;
+"@MMK_R_y" = -30;
+"@MMK_R_ze-cy" = 0;
+"@MMK_R_ze-cy.loclBGR" = -20;
+};
+"@MMK_L_period" = {
+"@MMK_R_O" = 10;
+"@MMK_R_che-cy" = -130;
+"@MMK_R_te-cy" = -90;
+};
+"@MMK_L_quotesingle" = {
+"@MMK_R_De-cy" = -90;
+"@MMK_R_El-cy" = -90;
+"@MMK_R_Ze-cy" = -40;
+"@MMK_R_che-cy" = -10;
+"@MMK_R_de-cy" = -70;
+"@MMK_R_el-cy" = -110;
+"@MMK_R_ereversed-cy" = -60;
+"@MMK_R_ia-cy" = -80;
+"@MMK_R_o" = -40;
+"@MMK_R_ze-cy" = -50;
+};
+"@MMK_L_s" = {
+"@MMK_R_Che-cy" = -40;
+"@MMK_R_T" = -110;
+"@MMK_R_U-cy" = -80;
+"@MMK_R_X" = -10;
+"@MMK_R_Ze-cy" = 0;
+"@MMK_R_be-cy" = -10;
+};
+"@MMK_L_softsign-cy" = {
+"@MMK_R_Che-cy" = -100;
+"@MMK_R_O" = -10;
+"@MMK_R_T" = -110;
+"@MMK_R_U-cy" = -110;
+"@MMK_R_Ze-cy" = 0;
+"@MMK_R_be-cy" = -40;
+"@MMK_R_de-cy" = -10;
+"@MMK_R_ia-cy" = -30;
+"@MMK_R_quoteleft" = -140;
+"@MMK_R_quotesingle" = -110;
+"@MMK_R_te-cy" = -50;
+"@MMK_R_x" = -30;
+"@MMK_R_y" = -50;
+"@MMK_R_ze-cy" = -20;
+"@MMK_R_ze-cy.loclBGR" = -50;
+trademark = -210;
+v = -30;
+x = -10;
+};
+"@MMK_L_te-cy" = {
+"@MMK_R_A" = -40;
+"@MMK_R_T" = -20;
+"@MMK_R_U-cy" = -20;
+"@MMK_R_de-cy" = -20;
+"@MMK_R_el-cy" = -30;
+"@MMK_R_period" = -80;
+"@MMK_R_yat-cy" = 50;
+X = 0;
+};
+"@MMK_L_tse-cy" = {
+"@MMK_R_T" = -80;
+"@MMK_R_U-cy" = -70;
+"@MMK_R_be-cy" = -40;
+"@MMK_R_che-cy" = -10;
+"@MMK_R_hyphen" = -10;
+"@MMK_R_quoteleft" = -50;
+"@MMK_R_quotesingle" = -50;
+trademark = -60;
+v = -20;
+};
+"@MMK_L_u" = {
+"@MMK_R_A" = 20;
+"@MMK_R_Che-cy" = -20;
+"@MMK_R_H" = 10;
+"@MMK_R_O" = 30;
+"@MMK_R_T" = -70;
+"@MMK_R_U-cy" = -50;
+"@MMK_R_Ze-cy" = -10;
+"@MMK_R_be-cy" = 0;
+"@MMK_R_o" = 10;
+};
+"@MMK_L_ve-cy" = {
+"@MMK_R_Che-cy" = -30;
+"@MMK_R_H" = 0;
+"@MMK_R_T" = -100;
+"@MMK_R_U-cy" = -100;
+"@MMK_R_X" = 0;
+"@MMK_R_Ze-cy" = -30;
+"@MMK_R_be-cy" = -10;
+"@MMK_R_che-cy" = -10;
+"@MMK_R_de-cy" = 10;
+"@MMK_R_el-cy" = 0;
+"@MMK_R_te-cy" = -20;
+"@MMK_R_x" = 0;
+"@MMK_R_y" = -20;
+"@MMK_R_ze-cy" = 10;
+X = -20;
+v = -20;
+x = -10;
+};
+"@MMK_L_ve-cy.loclBGR" = {
+"@MMK_R_A" = -10;
+"@MMK_R_be-cy" = -40;
+"@MMK_R_de-cy" = -40;
+"@MMK_R_ia-cy" = -30;
+"@MMK_R_te-cy" = -30;
+"@MMK_R_x" = -40;
+"@MMK_R_y" = -30;
+"@MMK_R_ze-cy" = -30;
+"@MMK_R_ze-cy.loclBGR" = -60;
+};
+"@MMK_L_x" = {
+"@MMK_R_h" = -10;
+"@MMK_R_o" = -30;
+"@MMK_R_ze-cy" = -10;
+"@MMK_R_ze-cy.loclBGR" = -20;
+};
+"@MMK_L_y" = {
+"@MMK_R_O" = 0;
+"@MMK_R_T" = -60;
+"@MMK_R_U-cy" = -50;
+"@MMK_R_h" = 0;
+"@MMK_R_yat-cy" = 60;
+"@MMK_R_ze-cy" = -40;
+X = -30;
+};
+"@MMK_L_ze-cy.loclBGR" = {
+"@MMK_R_be-cy" = -50;
+"@MMK_R_de-cy" = -30;
+"@MMK_R_ia-cy" = -20;
+"@MMK_R_te-cy" = -20;
+"@MMK_R_x" = 10;
+"@MMK_R_y" = -20;
+};
+B = {
+"@MMK_R_De-cy" = -20;
+"@MMK_R_El-cy" = -10;
+"@MMK_R_Ia-cy" = -20;
+"@MMK_R_U-cy" = -60;
+"@MMK_R_de-cy" = -10;
+"@MMK_R_ia-cy" = -30;
+};
+"Ge-cy" = {
+"@MMK_R_n" = -110;
+"@MMK_R_o" = -130;
+};
+P = {
+"@MMK_R_De-cy" = -60;
+"@MMK_R_El-cy" = -60;
+};
+V = {
+"@MMK_R_De-cy" = -100;
+"@MMK_R_El-cy" = -60;
+"@MMK_R_Ze-cy" = -20;
+"@MMK_R_be-cy" = -60;
+"@MMK_R_che-cy" = -30;
+"@MMK_R_de-cy" = -80;
+"@MMK_R_el-cy" = -80;
+"@MMK_R_ereversed-cy" = -70;
+"@MMK_R_ia-cy" = -80;
+"@MMK_R_n" = -10;
+"@MMK_R_o" = -50;
+"@MMK_R_te-cy" = -10;
+"@MMK_R_ze-cy" = -70;
+};
+X = {
+"@MMK_R_be-cy" = -30;
+"@MMK_R_h" = -10;
+};
+v = {
+"@MMK_R_De-cy" = -60;
+"@MMK_R_T" = -60;
+"@MMK_R_U-cy" = -40;
+"@MMK_R_de-cy" = -40;
+"@MMK_R_el-cy" = -30;
+"@MMK_R_ze-cy" = -10;
+};
+x = {
+"@MMK_R_O" = 0;
+"@MMK_R_T" = -40;
+"@MMK_R_U-cy" = -30;
+"@MMK_R_be-cy" = -10;
+"@MMK_R_che-cy" = 10;
+"@MMK_R_de-cy" = 20;
+"@MMK_R_ereversed-cy" = -10;
+"@MMK_R_h" = 30;
+"@MMK_R_ze-cy" = -20;
+};
+};
 "51AEF656-B224-4228-B44D-D7CFD243EB09" = {
 "@MMK_L_A" = {
 "@MMK_R_Che-cy" = -70;
@@ -82663,7 +83101,7 @@ X = -20;
 };
 "@MMK_L_period" = {
 "@MMK_R_O" = 20;
-"@MMK_R_che-cy" = -120;
+"@MMK_R_che-cy" = -100;
 "@MMK_R_te-cy" = -80;
 };
 "@MMK_L_quotesingle" = {
@@ -82855,10 +83293,448 @@ x = {
 "@MMK_R_che-cy" = -60;
 "@MMK_R_el-cy" = -20;
 "@MMK_R_hyphen" = -70;
-"@MMK_R_o" = -20;
+"@MMK_R_o" = -10;
 "@MMK_R_ze-cy" = -20;
 "@MMK_R_u" = -20;
 v = -20;
+};
+};
+"985A8054-912F-442C-AEAA-CDACF2D0DECF" = {
+"@MMK_L_A" = {
+"@MMK_R_Che-cy" = -50;
+"@MMK_R_O" = 40;
+"@MMK_R_U-cy" = -60;
+"@MMK_R_Ze-cy" = 10;
+"@MMK_R_be-cy" = -30;
+"@MMK_R_che-cy" = -30;
+"@MMK_R_h" = 20;
+"@MMK_R_s" = 20;
+"@MMK_R_te-cy" = -20;
+"@MMK_R_u" = 30;
+"@MMK_R_ze-cy" = 20;
+};
+"@MMK_L_B" = {
+"@MMK_R_O" = 40;
+"@MMK_R_h" = 30;
+};
+"@MMK_L_Be-cy" = {
+"@MMK_R_De-cy" = 10;
+"@MMK_R_Ia-cy" = 0;
+};
+"@MMK_L_De-cy.loclBGR" = {
+"@MMK_R_U-cy" = 10;
+};
+"@MMK_L_Ge-cy" = {
+"@MMK_R_A" = -70;
+"@MMK_R_De-cy" = -60;
+"@MMK_R_De-cy.loclBGR" = -70;
+"@MMK_R_El-cy" = -40;
+"@MMK_R_Ia-cy" = -10;
+"@MMK_R_O" = 10;
+"@MMK_R_a" = -70;
+"@MMK_R_be-cy" = -30;
+"@MMK_R_che-cy" = -80;
+"@MMK_R_de-cy" = -50;
+"@MMK_R_el-cy" = -160;
+"@MMK_R_ereversed-cy" = -100;
+"@MMK_R_h" = 10;
+"@MMK_R_ia-cy" = -130;
+"@MMK_R_n" = -30;
+"@MMK_R_o" = -70;
+"@MMK_R_s" = -130;
+"@MMK_R_te-cy" = -80;
+"@MMK_R_u" = -90;
+"@MMK_R_ze-cy" = -110;
+"@MMK_R_ze-cy.loclBGR" = -150;
+"be-cy.loclSRB" = -20;
+v = -70;
+x = -60;
+"zedieresis-cy" = -20;
+};
+"@MMK_L_H" = {
+"@MMK_R_O" = 30;
+"@MMK_R_h" = 10;
+"@MMK_R_s" = 40;
+};
+"@MMK_L_K" = {
+"@MMK_R_Che-cy" = -20;
+"@MMK_R_Ereversed-cy" = -10;
+"@MMK_R_O" = -30;
+"@MMK_R_S" = 10;
+"@MMK_R_Ze-cy" = -10;
+"@MMK_R_a" = 10;
+"@MMK_R_be-cy" = -30;
+"@MMK_R_che-cy" = -30;
+"@MMK_R_el-cy" = 30;
+"@MMK_R_h" = -30;
+"@MMK_R_hyphen" = -50;
+"@MMK_R_n" = -10;
+"@MMK_R_o" = -30;
+"@MMK_R_quotesingle" = -10;
+"@MMK_R_s" = -20;
+"@MMK_R_te-cy" = -30;
+"@MMK_R_u" = -10;
+"@MMK_R_ze-cy" = -20;
+v = -30;
+};
+"@MMK_L_Ka-cy" = {
+"@MMK_R_Che-cy" = 0;
+"@MMK_R_Ereversed-cy" = 0;
+"@MMK_R_O" = -10;
+"@MMK_R_Ze-cy" = 0;
+"@MMK_R_a" = -30;
+"@MMK_R_be-cy" = -30;
+"@MMK_R_che-cy" = -40;
+"@MMK_R_el-cy" = 0;
+"@MMK_R_hyphen" = -50;
+"@MMK_R_o" = 0;
+"@MMK_R_u" = 0;
+"@MMK_R_ze-cy" = 0;
+v = 0;
+};
+"@MMK_L_O" = {
+"@MMK_R_De-cy" = -30;
+"@MMK_R_El-cy" = -30;
+"@MMK_R_U-cy" = -50;
+"@MMK_R_X" = -10;
+"@MMK_R_Ze-cy" = 30;
+"@MMK_R_de-cy" = 10;
+"@MMK_R_el-cy" = 0;
+"@MMK_R_h" = 20;
+"@MMK_R_s" = 20;
+"@MMK_R_ze-cy" = 20;
+};
+"@MMK_L_Softsign-cy" = {
+"@MMK_R_A" = 30;
+"@MMK_R_De-cy" = 10;
+"@MMK_R_T" = -90;
+"@MMK_R_U-cy" = -70;
+"@MMK_R_h" = 20;
+X = 20;
+};
+"@MMK_L_T" = {
+"@MMK_R_De-cy" = -30;
+"@MMK_R_El-cy" = -40;
+"@MMK_R_O" = 40;
+"@MMK_R_be-cy" = -30;
+"@MMK_R_che-cy" = -40;
+"@MMK_R_de-cy" = -60;
+"@MMK_R_el-cy" = -80;
+"@MMK_R_ereversed-cy" = -60;
+"@MMK_R_h" = 20;
+"@MMK_R_ia-cy" = -70;
+"@MMK_R_n" = -40;
+"@MMK_R_o" = -30;
+"@MMK_R_s" = -70;
+"@MMK_R_te-cy" = -50;
+"@MMK_R_u" = -60;
+"@MMK_R_ze-cy" = -90;
+};
+"@MMK_L_Tse-cy" = {
+"@MMK_R_Che-cy" = -20;
+"@MMK_R_O" = 10;
+"@MMK_R_T" = -30;
+"@MMK_R_U-cy" = -10;
+"@MMK_R_Ze-cy" = 20;
+"@MMK_R_el-cy" = 40;
+"@MMK_R_h" = 30;
+"@MMK_R_hyphen" = -10;
+"@MMK_R_o" = 20;
+"@MMK_R_quotesingle" = -20;
+"@MMK_R_te-cy" = 0;
+v = 10;
+};
+"@MMK_L_Tshe-cy" = {
+"@MMK_R_De-cy" = 10;
+};
+"@MMK_L_U-cy" = {
+"@MMK_R_De-cy" = -70;
+"@MMK_R_De-cy.loclBGR" = -60;
+"@MMK_R_O" = -10;
+"@MMK_R_el-cy" = -70;
+"@MMK_R_h" = 20;
+"@MMK_R_n" = -10;
+"@MMK_R_o" = -30;
+"@MMK_R_s" = -50;
+"@MMK_R_te-cy" = 10;
+"@MMK_R_u" = 0;
+"@MMK_R_ze-cy" = -40;
+};
+"@MMK_L_X" = {
+"@MMK_R_O" = 0;
+"@MMK_R_h" = 40;
+"@MMK_R_o" = 10;
+"@MMK_R_s" = 0;
+"@MMK_R_te-cy" = 30;
+};
+"@MMK_L_b" = {
+"@MMK_R_De-cy" = 40;
+};
+"@MMK_L_be-cy.loclSRB" = {
+"@MMK_R_de-cy" = 20;
+"@MMK_R_ia-cy" = 0;
+"@MMK_R_n" = 30;
+"@MMK_R_te-cy" = 10;
+"@MMK_R_x" = 0;
+"@MMK_R_y" = 0;
+"@MMK_R_ze-cy" = 0;
+};
+"@MMK_L_e" = {
+"@MMK_R_T" = -80;
+"@MMK_R_U-cy" = -70;
+"@MMK_R_de-cy" = 30;
+"@MMK_R_te-cy" = 20;
+};
+"@MMK_L_el-cy.loclBGR" = {
+"@MMK_R_be-cy" = 10;
+"@MMK_R_o" = 10;
+"@MMK_R_te-cy" = -10;
+"@MMK_R_y" = 10;
+"@MMK_R_ze-cy" = 10;
+"@MMK_R_ze-cy.loclBGR" = 0;
+};
+"@MMK_L_ge-cy" = {
+"@MMK_R_De-cy" = 0;
+"@MMK_R_T" = -90;
+"@MMK_R_U-cy" = -70;
+"@MMK_R_de-cy" = 0;
+"@MMK_R_el-cy" = -10;
+"@MMK_R_ia-cy" = 10;
+"@MMK_R_period" = 0;
+"@MMK_R_te-cy" = 40;
+"@MMK_R_ze-cy" = 30;
+X = 0;
+};
+"@MMK_L_ge-cy.loclBGR" = {
+"@MMK_R_be-cy" = 10;
+"@MMK_R_de-cy" = 0;
+"@MMK_R_ia-cy" = -10;
+"@MMK_R_n" = 10;
+"@MMK_R_o" = 10;
+"@MMK_R_te-cy" = 20;
+"@MMK_R_x" = 0;
+"@MMK_R_y" = 0;
+"@MMK_R_ze-cy" = 0;
+"@MMK_R_ze-cy.loclBGR" = -10;
+};
+"@MMK_L_hyphen" = {
+"@MMK_R_Che-cy" = -40;
+"@MMK_R_De-cy" = -40;
+"@MMK_R_El-cy" = -30;
+"@MMK_R_U-cy" = -40;
+"@MMK_R_de-cy" = -10;
+"@MMK_R_el-cy" = -20;
+};
+"@MMK_L_k" = {
+"@MMK_R_U-cy" = 20;
+};
+"@MMK_L_n" = {
+"@MMK_R_T" = -50;
+"@MMK_R_U-cy" = -10;
+};
+"@MMK_L_o" = {
+"@MMK_R_A" = 20;
+"@MMK_R_Che-cy" = 20;
+"@MMK_R_De-cy" = -10;
+"@MMK_R_H" = 30;
+"@MMK_R_T" = -30;
+"@MMK_R_U-cy" = -40;
+"@MMK_R_X" = 30;
+"@MMK_R_Ze-cy" = 20;
+"@MMK_R_be-cy" = 10;
+"@MMK_R_de-cy" = 20;
+"@MMK_R_el-cy" = 20;
+"@MMK_R_ge-cy.loclBGR" = 10;
+"@MMK_R_ia-cy" = -10;
+"@MMK_R_te-cy" = 20;
+"@MMK_R_x" = 10;
+"@MMK_R_y" = 0;
+"@MMK_R_ze-cy" = 30;
+"@MMK_R_ze-cy.loclBGR" = 10;
+};
+"@MMK_L_period" = {
+"@MMK_R_O" = 40;
+"@MMK_R_che-cy" = -100;
+"@MMK_R_te-cy" = -60;
+};
+"@MMK_L_quotesingle" = {
+"@MMK_R_De-cy" = -60;
+"@MMK_R_El-cy" = -60;
+"@MMK_R_Ze-cy" = -10;
+"@MMK_R_che-cy" = 20;
+"@MMK_R_de-cy" = -40;
+"@MMK_R_el-cy" = -80;
+"@MMK_R_ereversed-cy" = -30;
+"@MMK_R_ia-cy" = -50;
+"@MMK_R_o" = -10;
+"@MMK_R_ze-cy" = -20;
+};
+"@MMK_L_s" = {
+"@MMK_R_Che-cy" = -10;
+"@MMK_R_T" = -80;
+"@MMK_R_U-cy" = -50;
+"@MMK_R_X" = 20;
+"@MMK_R_Ze-cy" = 30;
+"@MMK_R_be-cy" = 20;
+};
+"@MMK_L_softsign-cy" = {
+"@MMK_R_Che-cy" = -70;
+"@MMK_R_O" = 20;
+"@MMK_R_T" = -80;
+"@MMK_R_U-cy" = -80;
+"@MMK_R_Ze-cy" = 30;
+"@MMK_R_be-cy" = -10;
+"@MMK_R_de-cy" = 20;
+"@MMK_R_ia-cy" = 0;
+"@MMK_R_quoteleft" = -110;
+"@MMK_R_quotesingle" = -80;
+"@MMK_R_te-cy" = -20;
+"@MMK_R_x" = 0;
+"@MMK_R_y" = -20;
+"@MMK_R_ze-cy" = 10;
+"@MMK_R_ze-cy.loclBGR" = -20;
+trademark = -180;
+v = 0;
+x = 20;
+};
+"@MMK_L_te-cy" = {
+"@MMK_R_A" = -10;
+"@MMK_R_T" = 10;
+"@MMK_R_U-cy" = 10;
+"@MMK_R_de-cy" = 10;
+"@MMK_R_el-cy" = 0;
+"@MMK_R_period" = -50;
+"@MMK_R_yat-cy" = 80;
+X = 30;
+};
+"@MMK_L_tse-cy" = {
+"@MMK_R_T" = -50;
+"@MMK_R_U-cy" = -40;
+"@MMK_R_be-cy" = -10;
+"@MMK_R_che-cy" = 20;
+"@MMK_R_hyphen" = 20;
+"@MMK_R_quoteleft" = -20;
+"@MMK_R_quotesingle" = -20;
+trademark = -30;
+v = 10;
+};
+"@MMK_L_u" = {
+"@MMK_R_A" = 50;
+"@MMK_R_Che-cy" = 10;
+"@MMK_R_H" = 40;
+"@MMK_R_O" = 60;
+"@MMK_R_T" = -40;
+"@MMK_R_U-cy" = -20;
+"@MMK_R_Ze-cy" = 20;
+"@MMK_R_be-cy" = 30;
+"@MMK_R_o" = 40;
+};
+"@MMK_L_ve-cy" = {
+"@MMK_R_Che-cy" = 0;
+"@MMK_R_H" = 30;
+"@MMK_R_T" = -70;
+"@MMK_R_U-cy" = -70;
+"@MMK_R_X" = 30;
+"@MMK_R_Ze-cy" = 0;
+"@MMK_R_be-cy" = 20;
+"@MMK_R_che-cy" = 20;
+"@MMK_R_de-cy" = 40;
+"@MMK_R_el-cy" = 30;
+"@MMK_R_te-cy" = 10;
+"@MMK_R_x" = 30;
+"@MMK_R_y" = 10;
+"@MMK_R_ze-cy" = 40;
+X = 10;
+v = 10;
+x = 20;
+};
+"@MMK_L_ve-cy.loclBGR" = {
+"@MMK_R_A" = 20;
+"@MMK_R_be-cy" = -10;
+"@MMK_R_de-cy" = -10;
+"@MMK_R_ia-cy" = 0;
+"@MMK_R_te-cy" = 0;
+"@MMK_R_x" = -10;
+"@MMK_R_y" = 0;
+"@MMK_R_ze-cy" = 0;
+"@MMK_R_ze-cy.loclBGR" = -30;
+};
+"@MMK_L_x" = {
+"@MMK_R_h" = 20;
+"@MMK_R_o" = 0;
+"@MMK_R_ze-cy" = 20;
+"@MMK_R_ze-cy.loclBGR" = 10;
+};
+"@MMK_L_y" = {
+"@MMK_R_O" = 30;
+"@MMK_R_T" = -30;
+"@MMK_R_U-cy" = -20;
+"@MMK_R_h" = 30;
+"@MMK_R_yat-cy" = 90;
+"@MMK_R_ze-cy" = -10;
+X = 0;
+};
+"@MMK_L_ze-cy.loclBGR" = {
+"@MMK_R_be-cy" = -20;
+"@MMK_R_de-cy" = 0;
+"@MMK_R_ia-cy" = 10;
+"@MMK_R_te-cy" = 10;
+"@MMK_R_x" = 40;
+"@MMK_R_y" = 10;
+};
+B = {
+"@MMK_R_De-cy" = 10;
+"@MMK_R_El-cy" = 20;
+"@MMK_R_Ia-cy" = 10;
+"@MMK_R_U-cy" = -30;
+"@MMK_R_de-cy" = 20;
+"@MMK_R_ia-cy" = 0;
+};
+"Ge-cy" = {
+"@MMK_R_n" = -80;
+"@MMK_R_o" = -100;
+};
+P = {
+"@MMK_R_De-cy" = -30;
+"@MMK_R_El-cy" = -30;
+};
+V = {
+"@MMK_R_De-cy" = -70;
+"@MMK_R_El-cy" = -30;
+"@MMK_R_Ze-cy" = 10;
+"@MMK_R_be-cy" = -30;
+"@MMK_R_che-cy" = 0;
+"@MMK_R_de-cy" = -50;
+"@MMK_R_el-cy" = -50;
+"@MMK_R_ereversed-cy" = -40;
+"@MMK_R_ia-cy" = -50;
+"@MMK_R_n" = 20;
+"@MMK_R_o" = -20;
+"@MMK_R_te-cy" = 20;
+"@MMK_R_ze-cy" = -40;
+};
+X = {
+"@MMK_R_be-cy" = 0;
+"@MMK_R_h" = 20;
+};
+v = {
+"@MMK_R_De-cy" = -30;
+"@MMK_R_T" = -30;
+"@MMK_R_U-cy" = -10;
+"@MMK_R_de-cy" = -10;
+"@MMK_R_el-cy" = 0;
+"@MMK_R_ze-cy" = 20;
+};
+x = {
+"@MMK_R_O" = 30;
+"@MMK_R_T" = -10;
+"@MMK_R_U-cy" = 0;
+"@MMK_R_be-cy" = 20;
+"@MMK_R_che-cy" = 40;
+"@MMK_R_de-cy" = 50;
+"@MMK_R_ereversed-cy" = 20;
+"@MMK_R_h" = 60;
+"@MMK_R_ze-cy" = 10;
 };
 };
 };
