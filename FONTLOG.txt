@@ -33,6 +33,12 @@ Impallari at impallari@gmail.com
 
 ChangeLog
 
+15 October 2016 (Alexei Vanyashin, Ivan Petrov, Cyreal) v.4.010
+— Merged in Cyrillic in the GF Cyrillic Plus + localised variants range
+— minor fixed: adjusted win ascender
+— changed italic angle to 12 in Italic masters
+— added Cyrillic kerning 
+
 24 Sept 2013  (Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida) Raleway Family v3.0
 - Added Cyrillic to the 9 Roman Weights
 
@@ -94,3 +100,7 @@ E: hello@rfuenzalida.com
 W: http://www.rfuenzalida.com
 D: Designer
 
+N: Cyreal
+E: contact@cyreal.org
+W: http://cyreal.org
+D: Cyrillic expansion
