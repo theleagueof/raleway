@@ -49,5 +49,5 @@ http://scripts.sil.org/OFL
 
 
 #### Links
-* [Raleway on Google Fonts](http://fonts.google.com/specimens/Raleway)
+* [Raleway on Google Fonts](https://fonts.google.com/specimen/Raleway)
 * [Impallari.com](http://www.impallari.com)
