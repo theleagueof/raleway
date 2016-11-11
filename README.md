@@ -1,7 +1,11 @@
 Raleway Fonts
 ====================
 
-#### Raleway is in the process of migration sources to Glyphs and charset expansion... 
+## Current Status
+- Version 3.001 is the latest stable version.
+- Version 4.xxx is an ongoing migration to Glyphs and Vietnamese and Cyrillic extension, but is still a work in progress.
+
+## Description
 
 Raleway is an elegant sans-serif typeface family.
 
