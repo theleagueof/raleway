@@ -1,5 +1,5 @@
 {
-.appVersion = "936";
+.appVersion = "935";
 classes = (
 {
 automatic = 1;
@@ -122502,7 +122502,7 @@ unicode = 049A;
 {
 color = 8;
 glyphname = "Kaverticalstroke-cy";
-lastChange = "2016-11-11 07:20:10 +0000";
+lastChange = "2016-11-11 19:53:25 +0000";
 layers = (
 {
 background = {
@@ -122557,19 +122557,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"595 710 LINE",
-"268 373 LINE",
-"133 373 LINE",
-"204 710 LINE",
-"184 710 LINE",
-"34 0 LINE",
 "54 0 LINE",
 "129 353 LINE",
 "270 353 LINE",
 "486 0 LINE",
 "511 0 LINE",
 "288 365 LINE",
-"623 710 LINE"
+"623 710 LINE",
+"595 710 LINE",
+"268 373 LINE",
+"133 373 LINE",
+"204 710 LINE",
+"184 710 LINE",
+"34 0 LINE"
 );
 }
 );
@@ -122699,19 +122699,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"583 710 LINE",
-"292 403 LINE",
-"194 403 LINE",
-"259 710 LINE",
-"169 710 LINE",
-"19 0 LINE",
 "109 0 LINE",
 "177 321 LINE",
 "290 321 LINE",
 "463 0 LINE",
 "568 0 LINE",
 "364 371 LINE",
-"697 710 LINE"
+"697 710 LINE",
+"583 710 LINE",
+"292 403 LINE",
+"194 403 LINE",
+"259 710 LINE",
+"169 710 LINE",
+"19 0 LINE"
 );
 }
 );
@@ -142384,7 +142384,7 @@ unicode = 045B;
 {
 color = 8;
 glyphname = "iu-cy";
-lastChange = "2016-11-11 07:20:09 +0000";
+lastChange = "2016-11-11 19:51:52 +0000";
 layers = (
 {
 background = {
@@ -142589,14 +142589,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"211 522 LINE",
-"123 522 LINE",
-"13 0 LINE",
 "101 0 LINE",
 "150 233 LINE",
 "281 233 LINE",
 "296 302 LINE",
-"165 302 LINE"
+"165 302 LINE",
+"211 522 LINE",
+"123 522 LINE",
+"13 0 LINE"
 );
 }
 );
