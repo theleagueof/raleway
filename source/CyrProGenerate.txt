@@ -1,5 +1,19 @@
 strokeshortcomb
 
+Pe-cy+Dje-cy=Pemiddlehook-cy
+Pe-cy+dje-cy=pemiddlehook-cy
+
+Ka-cy+strokeshortcomb=Kastroke-cy
+Ka-cy+strokeshortcomb=kastroke-cy
+
+Softsign-cy+strokeshortcomb=Semisoftsign-cy
+softsign-cy+strokeshortcomb=semisoftsign-cy
+Te-cy+Tse-cy=Tetse-cy
+te-cy+tse-cy=tetse-cy
+
+P+strokeshortcomb=Ertick-cy
+p+strokeshortcomb=ertick-cy
+
 Ha-cy+strokeshortcomb=Hastroke-cy
 Ze-cy=Reversedze-cy
 
@@ -18,25 +32,14 @@ em-cy+tail-cy=emtail-cy
 
 Ka-cy+hook-cy.case=Kahook-cy
 En-cy+hook-cy.case=Enhook-cy
-Gestroke-cy+hook-cy.case=Gestrokehook-cy
+Ghestroke-cy+hook-cy.case=Gestrokehook-cy
 Ha-cy+hook-cy.case=Hahook-cy
 El-cy+hook-cy.case=Elhook-cy
 En-cy+hook-cy.case=EnLeftHook-cy
 
 ka-cy+hook-cy=kahook-cy
 en-cy+hook-cy=enhook-cy
-gestroke-cy+hook-cy=gestrokehook-cy
+ghestroke-cy+hook-cy=gestrokehook-cy
 ha-cy+hook-cy=hahook-cy
 el-cy+hook-cy=elhook-cy
 en-cy+hook-cy=enlefthook-cy
-
-Pe-cy+Dje-cy=Pemiddlehook-cy
-Pe-cy+dje-cy=pemiddlehook-cy
-
-Softsign-cy+srtokeshortcomb=Semisoftsign-cy
-softsign-cy+strokeshortcomb=semisoftsign-cy
-Te-cy+Tse-cy=Tetse-cy
-te-cy+tse-cy=tetse-cy
-
-P+strokeshortcomb=Ertick-cy
-p+strokeshortcomb=ertick-cy
