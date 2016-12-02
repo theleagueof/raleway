@@ -1,7 +1,10 @@
 strokeshortcomb
 
-Pe-cy+Dje-cy=Pemiddlehook-cy
-Pe-cy+dje-cy=pemiddlehook-cy
+Schwa-cy+hook-cy.case=Cheabkhasian-cy
+schwa-cy+hook-cy=cheabkhasian-cy
+
+Pe-cy+Ghemiddlehook-cy=Pemiddlehook-cy
+Pe-cy+ghemiddlehook-cy=pemiddlehook-cy
 
 Ka-cy+strokeshortcomb=Kastroke-cy
 Ka-cy+strokeshortcomb=kastroke-cy
@@ -43,3 +46,5 @@ ghestroke-cy+hook-cy=gestrokehook-cy
 ha-cy+hook-cy=hahook-cy
 el-cy+hook-cy=elhook-cy
 en-cy+hook-cy=enlefthook-cy
+
+===========================
