@@ -33,6 +33,9 @@ Impallari at impallari@gmail.com
 
 ChangeLog
 
+17 December 2016 (Alexei Vanyashin, Cyreal) v.4025
+— Expanded glyph set to GF Cyrillic Pro
+
 15 October 2016 (Alexei Vanyashin, Ivan Petrov, Cyreal) v.4.010
 — Merged in Cyrillic in the GF Cyrillic Plus + localised variants range
 — minor fixed: adjusted win ascender
