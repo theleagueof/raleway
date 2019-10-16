@@ -2,8 +2,7 @@ Raleway Fonts
 ====================
 
 ## Current Status
-- Version 3.001 is the latest stable version.
-- Version 4.xxx is an ongoing migration to Glyphs and Vietnamese and Cyrillic extension, but is still a work in progress.
+- Latest Stable Version 4.025, has been expanded to GF Cyrillic Pro, GF Latin Pro, including Vietnamese support.
 
 ## Description
 
@@ -23,13 +22,13 @@ Afar, Afrikaans, Albanian, Azerbaijani, Basque, Belarusian, Bislama, Bosnian, Br
 
 Native Vietnamese designer Nhung Nguyen (@crystaltype) has added support for Vietnamese to version 4.0000. 
 
-#### 60 Cyrillic languages | Кириллица
+#### 69 Cyrillic languages | расширенная кириллица
 
 Raleway Fonts v.3.000 included core Cyrillic support for 17 languages in Roman styles. Core Cyrillic glyphs were drawn by Pablo Impallari in 2013.  
 
 In August-September 2016 (Raleway v.4.000) existing Cyrillic was redrawn and expanded for both Roman and Italic by Alexei Vanyashin and Ivan Petrov ([Cyreal](http://cyreal.org)) to support 60 Cyrillic languages: 
 
-Adyghe, Agul, Altay, Avar, Azerbaijani (Cyrillic), Balkar, Bashkir, Belarusian (Cyrillic), Bosnian (Cyrillic), Bulgarian, Buryat, Chechen, Chuvash, Crimean Tatar (Cyrillic), Croatian (Cyrillic), Dargin, Dungan, Erzya, Gagauz (Cyrillic), Ingush, Kabardian, Kalmyk, Karachay, Karakalpak, Kazakh, Khakas (Cyrillic), Khinalugh, Komi, Kumyk, Kurdish (Cyrillic), Kyrgyz (Cyrillic), Lak, Lezgian, Macedonian, Mari (Hill and Meadow), Moksha, Moldovan (Cyrillic), Mongolian (Cyrillic), Montenigrin, Nanai, Nogai, Ossetian, Russian, Rusyn, Rutul, Sakha/Yakut, Serbian (Cyrillic), Tabasaran, Tajik, Talysh (Cyrillic), Tat, Tatar, Turkmen, Tuvan, Udi, Udmurt, Ukrainian, Uyghur (Cyrillic), Uzbek (Cyrillic), Yukaghir (Northern and Southern).
+Abkhaz, Agul, Altay Enets, Azerbaijani (Cyrillic), Balkar Adyghe, Bashkir, Belarusian (Cyrillic), Bosnian (Cyrillic), Bulgarian Avar, Chukchi, Croatian (Cyrillic), Dungan, Erzya Buryat, Gagauz (Cyrillic), Ingush, Itelmen, Kabardian, Kalmyk, Kanty, Karachay Chechen, Karakalpak, Kazakh, Khakas (Cyrillic), Khinalugh, Kildin, Komi, Kumyk Chuvash, Kurdish (Cyrillic), Kyrgyz (Cyrillic), Lak, Lezgian, Macedonian Crimean Tatar (Cyrillic), Mari (Hill and Meadow), Moksha Dargin, Moldovan (Cyrillic), Mongolian (Cyrillic), Montenigrin, Nanai, Nenets, Nogai, Orok, Ossetian, Russian, Rusyn, Rutul, Sakha/Yakut, Sami, Serbian (Cyrillic), Tabasaran, Tajik, Talysh (Cyrillic), Tat, Tatar, Tati, Turkmen, Tuvan, Udi, Udmurt, Ukrainian, Uyghur (Cyrillic), Uzbek (Cyrillic), Yukaghir (Northern and Southern).
 
 Localised variants are available for Bulgarian, Serbian, Macedonian, Chuvash, and Bashkir languages.
 
@@ -37,9 +36,7 @@ Includes currencies: ₮, ₴, ₸, ₽.
 
 #### Copyright
 
-Copyright (c) 2010, Matt McInerney (matt@pixelspread.com),
-Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),
-Copyright (c) 2011, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com), with Reserved Font Name Raleway
+Copyright (c) 2010 the Raleway Project Authors with Reserved Font Name Raleway
 
 #### License
 
