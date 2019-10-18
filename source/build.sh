@@ -56,10 +56,11 @@ echo "Fixing Hinting"
 for vf in $vfs
 do
 	gftools fix-hinting $vf;
-	mv "$vf.fix" $vf;
+	#mv "$vf.fix" $vf;
 done
+
 for ttf in $ttfs
 do
 	gftools fix-hinting $ttf;
-	#mv "$ttf.fix" $ttf;
+	mv "$ttf.fix" $ttf;
 done
