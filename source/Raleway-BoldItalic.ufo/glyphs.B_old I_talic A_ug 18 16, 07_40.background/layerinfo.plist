@@ -4,12 +4,5 @@
   <dict>
     <key>color</key>
     <string>0,0.25,1,0.7</string>
-    <key>lib</key>
-    <dict>
-      <key>com.schriftgestaltung.layerId</key>
-      <string>9A4183E1-457F-414D-A203-FD8CAB42F6F6</string>
-      <key>com.schriftgestaltung.layerOrderInGlyph.yeru-cy</key>
-      <integer>2</integer>
-    </dict>
   </dict>
 </plist>
