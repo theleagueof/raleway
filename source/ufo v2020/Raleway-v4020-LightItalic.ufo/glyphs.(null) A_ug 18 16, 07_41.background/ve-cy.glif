@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ve-cy" format="2">
-  <guideline x="52" y="289" angle="78.2326"/>
-  <guideline x="96" y="289" angle="78.2326"/>
-  <outline>
-    <component base="e" xOffset="21"/>
-  </outline>
-</glyph>

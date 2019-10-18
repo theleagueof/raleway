@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="umacrondieresis" format="2">
-  <outline>
-    <component base="u"/>
-    <component base="macroncomb" xOffset="93"/>
-    <component base="dieresiscomb" xOffset="200" yOffset="187"/>
-  </outline>
-</glyph>

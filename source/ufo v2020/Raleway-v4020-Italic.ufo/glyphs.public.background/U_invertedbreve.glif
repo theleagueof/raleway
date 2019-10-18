@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Uinvertedbreve" format="2">
-  <outline>
-    <component base="U"/>
-    <component base="breveinvertedcomb" xOffset="231" yOffset="186"/>
-  </outline>
-</glyph>

@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Aring" format="2">
-  <outline>
-    <component base="A"/>
-    <component base="ringcomb" xOffset="235" yOffset="188"/>
-  </outline>
-</glyph>

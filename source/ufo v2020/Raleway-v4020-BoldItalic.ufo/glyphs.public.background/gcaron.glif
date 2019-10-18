@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="gcaron" format="2">
-  <outline>
-    <component base="g"/>
-    <component base="caroncomb" xOffset="76" yOffset="-4"/>
-  </outline>
-</glyph>

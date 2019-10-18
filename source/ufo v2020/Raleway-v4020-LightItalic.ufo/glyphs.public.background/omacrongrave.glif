@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="omacrongrave" format="2">
-  <outline>
-    <component base="o"/>
-    <component base="macroncomb" xOffset="88"/>
-    <component base="gravecomb" xOffset="154" yOffset="187"/>
-  </outline>
-</glyph>

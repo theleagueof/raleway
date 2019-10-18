@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="odieresis-cy" format="2">
-  <outline>
-    <component base="o-cy"/>
-    <component base="dieresiscomb" xOffset="79" yOffset="-4"/>
-  </outline>
-</glyph>

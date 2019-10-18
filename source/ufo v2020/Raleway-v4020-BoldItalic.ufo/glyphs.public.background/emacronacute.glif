@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="emacronacute" format="2">
-  <outline>
-    <component base="e"/>
-    <component base="macroncomb" xOffset="91" yOffset="-4"/>
-    <component base="acutecomb" xOffset="214" yOffset="194"/>
-  </outline>
-</glyph>

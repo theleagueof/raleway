@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Idieresisacute" format="2">
-  <outline>
-    <component base="I"/>
-    <component base="dieresiscomb" xOffset="22" yOffset="188"/>
-    <component base="acutecomb" xOffset="117" yOffset="399"/>
-  </outline>
-</glyph>

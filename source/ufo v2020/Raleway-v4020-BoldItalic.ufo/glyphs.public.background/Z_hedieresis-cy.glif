@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Zhedieresis-cy" format="2">
-  <outline>
-    <component base="Zhe-cy"/>
-    <component base="dieresiscomb" xOffset="342" yOffset="184"/>
-  </outline>
-</glyph>

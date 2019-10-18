@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="AEacute" format="2">
-  <outline>
-    <component base="AE"/>
-    <component base="acutecomb" xOffset="509" yOffset="188"/>
-  </outline>
-</glyph>

@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Gcircumflex" format="2">
-  <outline>
-    <component base="G"/>
-    <component base="circumflexcomb" xOffset="177" yOffset="182"/>
-  </outline>
-</glyph>

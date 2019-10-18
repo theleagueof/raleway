@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Uhornacute" format="2">
-  <outline>
-    <component base="Uhorn"/>
-    <component base="acutecomb" xOffset="302" yOffset="186"/>
-  </outline>
-</glyph>

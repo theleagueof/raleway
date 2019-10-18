@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="onehalf" format="2">
-  <outline>
-    <component base="one.numr"/>
-    <component base="fraction" xOffset="280"/>
-    <component base="two.dnom" xScale="0.964" xOffset="448"/>
-  </outline>
-</glyph>

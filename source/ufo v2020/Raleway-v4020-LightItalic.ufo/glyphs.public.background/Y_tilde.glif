@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Ytilde" format="2">
-  <outline>
-    <component base="Y"/>
-    <component base="tildecomb" xOffset="142" yOffset="188"/>
-  </outline>
-</glyph>
