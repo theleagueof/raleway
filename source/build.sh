@@ -25,6 +25,13 @@ do
 	mv "$ttf.fix" $ttf;
 done
 
+for ttf in $ttfs
+do
+	gftools fix-hinting $ttf;
+	mv "$ttf.fix" $ttf;
+done
+
+
 vfs=$(ls ../fonts/ttf/*\[wght\].ttf)
 
 echo "Post processing VFs"
@@ -59,8 +66,4 @@ do
 	mv "$vf.fix" $vf;
 done
 
-for ttf in $ttfs
-do
-	gftools fix-hinting $ttf;
-	mv "$ttf.fix" $ttf;
-done
+
