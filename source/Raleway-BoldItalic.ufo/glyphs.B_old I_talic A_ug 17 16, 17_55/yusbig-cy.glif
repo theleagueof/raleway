@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yusbig-cy" format="2">
+  <advance width="926"/>
+  <unicode hex="046B"/>
+  <outline>
+    <contour>
+      <point x="-51" y="0" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="337" y="185" type="line"/>
+      <point x="571" y="185" type="line"/>
+      <point x="669" y="0" type="line"/>
+      <point x="897" y="0" type="line"/>
+      <point x="710" y="274" type="line"/>
+      <point x="953" y="526" type="line"/>
+      <point x="748" y="526" type="line"/>
+      <point x="534" y="281" type="line"/>
+      <point x="666" y="330" type="line"/>
+      <point x="273" y="330" type="line"/>
+      <point x="373" y="281" type="line"/>
+      <point x="250" y="526" type="line"/>
+      <point x="41" y="526" type="line"/>
+      <point x="213" y="274" type="line"/>
+    </contour>
+    <contour>
+      <point x="318" y="0" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="554" y="201" type="line"/>
+      <point x="360" y="201" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="433" type="line"/>
+      <point x="767" y="433" type="line"/>
+      <point x="780" y="526" type="line"/>
+      <point x="220" y="526" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ka-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:04:25</string>
+    </dict>
+  </lib>
+</glyph>

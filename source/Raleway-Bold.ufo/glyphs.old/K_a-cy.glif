@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ka-cy" format="2">
+  <advance width="727"/>
+  <unicode hex="041A"/>
+  <anchor x="495" y="0" name="bottomright"/>
+  <anchor x="291" y="355" name="center"/>
+  <anchor x="345" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="259" y="0" type="line"/>
+      <point x="259" y="262" type="line"/>
+      <point x="291" y="262" type="line"/>
+      <point x="496" y="0" type="line"/>
+      <point x="713" y="0" type="line"/>
+      <point x="433" y="367" type="line"/>
+      <point x="690" y="710" type="line"/>
+      <point x="470" y="710" type="line"/>
+      <point x="274" y="439" type="line"/>
+      <point x="259" y="439" type="line"/>
+      <point x="259" y="710" type="line"/>
+      <point x="65" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

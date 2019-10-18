@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghemiddlehook-cy" format="2">
+  <advance width="739"/>
+  <unicode hex="0494"/>
+  <outline>
+    <contour>
+      <point x="434" y="-150" type="curve" smooth="yes"/>
+      <point x="597" y="-150"/>
+      <point x="694" y="-49"/>
+      <point x="694" y="120" type="curve" smooth="yes"/>
+      <point x="694" y="284"/>
+      <point x="601" y="389"/>
+      <point x="425" y="389" type="curve" smooth="yes"/>
+      <point x="360" y="389"/>
+      <point x="300" y="374"/>
+      <point x="255" y="345" type="curve"/>
+      <point x="255" y="177" type="line"/>
+      <point x="304" y="212"/>
+      <point x="336" y="229"/>
+      <point x="392" y="229" type="curve" smooth="yes"/>
+      <point x="478" y="229"/>
+      <point x="504" y="182"/>
+      <point x="504" y="120" type="curve" smooth="yes"/>
+      <point x="504" y="39"/>
+      <point x="459" y="11"/>
+      <point x="416" y="11" type="curve" smooth="yes"/>
+      <point x="393" y="11"/>
+      <point x="369" y="19"/>
+      <point x="351" y="29" type="curve"/>
+      <point x="300" y="-128" type="line"/>
+      <point x="344" y="-143"/>
+      <point x="389" y="-150"/>
+    </contour>
+    <component base="Ge-cy" xOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Tshe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

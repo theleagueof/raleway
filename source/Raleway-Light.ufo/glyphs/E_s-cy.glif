@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Es-cy" format="2">
+  <advance width="697"/>
+  <unicode hex="0421"/>
+  <anchor x="394" y="-5" name="bottomright"/>
+  <outline>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

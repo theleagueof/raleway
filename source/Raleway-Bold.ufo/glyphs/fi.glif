@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi" format="2">
+  <advance width="621"/>
+  <unicode hex="FB01"/>
+  <outline>
+    <contour>
+      <point x="85" y="322" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="275" y="322" type="line"/>
+      <point x="384" y="322" type="line"/>
+      <point x="384" y="0" type="line"/>
+      <point x="574" y="0" type="line"/>
+      <point x="574" y="465" type="line"/>
+      <point x="275" y="465" type="line"/>
+      <point x="275" y="529" type="line" smooth="yes"/>
+      <point x="275" y="563"/>
+      <point x="298" y="580"/>
+      <point x="337" y="580" type="curve" smooth="yes"/>
+      <point x="383" y="580"/>
+      <point x="436" y="556"/>
+      <point x="482" y="516" type="curve"/>
+      <point x="554" y="660" type="line"/>
+      <point x="470" y="714"/>
+      <point x="401" y="740"/>
+      <point x="324" y="740" type="curve" smooth="yes"/>
+      <point x="184" y="740"/>
+      <point x="85" y="654"/>
+      <point x="85" y="522" type="curve" smooth="yes"/>
+      <point x="85" y="465" type="line"/>
+      <point x="20" y="465" type="line"/>
+      <point x="20" y="322" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/08/19 05:14:34</string>
+    </dict>
+  </lib>
+</glyph>

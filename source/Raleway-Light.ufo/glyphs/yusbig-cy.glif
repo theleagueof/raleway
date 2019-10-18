@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yusbig-cy" format="2">
+  <advance width="709"/>
+  <unicode hex="046B"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="268" y="256" type="line"/>
+      <point x="345" y="256" type="line"/>
+      <point x="345" y="0" type="line"/>
+      <point x="365" y="0" type="line"/>
+      <point x="365" y="256" type="line"/>
+      <point x="443" y="256" type="line"/>
+      <point x="639" y="0" type="line"/>
+      <point x="664" y="0" type="line"/>
+      <point x="460" y="266" type="line"/>
+      <point x="640" y="519" type="line"/>
+      <point x="69" y="519" type="line"/>
+      <point x="249" y="266" type="line"/>
+    </contour>
+    <contour>
+      <point x="267" y="275" type="line"/>
+      <point x="108" y="499" type="line"/>
+      <point x="600" y="499" type="line"/>
+      <point x="443" y="275" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>zhe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>zhe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghestroke-cy" format="2">
+  <advance width="409"/>
+  <unicode hex="0493"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="65" y="0" type="line"/>
+      <point x="171" y="500" type="line"/>
+      <point x="435" y="500" type="line"/>
+      <point x="439" y="519" type="line"/>
+      <point x="155" y="519" type="line"/>
+    </contour>
+    <contour>
+      <point x="14" y="229" type="line"/>
+      <point x="304" y="229" type="line"/>
+      <point x="308" y="249" type="line"/>
+      <point x="18" y="249" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ge-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:04:25</string>
+    </dict>
+  </lib>
+</glyph>

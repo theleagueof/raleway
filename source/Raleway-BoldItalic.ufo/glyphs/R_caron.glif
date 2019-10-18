@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rcaron" format="2">
+  <advance width="653"/>
+  <unicode hex="0158"/>
+  <outline>
+    <component base="R"/>
+    <component base="caroncomb" xOffset="119" yOffset="184"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/16 03:25:43</string>
+    </dict>
+  </lib>
+</glyph>

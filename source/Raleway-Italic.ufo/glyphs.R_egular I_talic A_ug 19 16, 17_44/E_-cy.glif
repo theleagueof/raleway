@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E-cy" format="2">
+  <advance width="691"/>
+  <unicode hex="0404"/>
+  <outline>
+    <contour>
+      <point x="70" y="326" type="line"/>
+      <point x="440" y="326" type="line"/>
+      <point x="454" y="400" type="line"/>
+      <point x="86" y="400" type="line"/>
+    </contour>
+    <component base="Es-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:04:25</string>
+    </dict>
+  </lib>
+</glyph>

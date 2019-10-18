@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tail-cy" format="2">
+  <advance width="210"/>
+  <guideline x="123" y="-23" angle="66.7323"/>
+  <guideline x="45" y="-23" angle="66.7323"/>
+  <guideline x="105" y="77" angle="0"/>
+  <anchor x="7" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="-10" y="-143" type="line"/>
+      <point x="68" y="-143" type="line"/>
+      <point x="187" y="77" type="line"/>
+      <point x="23" y="77" type="line"/>
+      <point x="7" y="0" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="89" y="40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:04:25</string>
+    </dict>
+  </lib>
+</glyph>

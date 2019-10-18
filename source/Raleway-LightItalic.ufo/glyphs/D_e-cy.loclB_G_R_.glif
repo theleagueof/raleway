@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="De-cy.loclBGR" format="2">
+  <advance width="727"/>
+  <outline>
+    <contour>
+      <point x="2" y="0" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="450" y="681" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="607" y="0" type="line"/>
+      <point x="465" y="710" type="line"/>
+      <point x="447" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="-74" y="-136" type="line"/>
+      <point x="-54" y="-136" type="line"/>
+      <point x="-26" y="0" type="line"/>
+      <point x="641" y="0" type="line"/>
+      <point x="613" y="-136" type="line"/>
+      <point x="633" y="-136" type="line"/>
+      <point x="666" y="20" type="line"/>
+      <point x="-41" y="20" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:04:25</string>
+    </dict>
+  </lib>
+</glyph>

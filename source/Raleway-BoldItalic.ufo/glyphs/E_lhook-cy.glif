@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Elhook-cy" format="2">
+  <advance width="740"/>
+  <unicode hex="0512"/>
+  <outline>
+    <component base="El-cy"/>
+    <component base="hook-cy.case" xOffset="234"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:04:25</string>
+    </dict>
+  </lib>
+</glyph>

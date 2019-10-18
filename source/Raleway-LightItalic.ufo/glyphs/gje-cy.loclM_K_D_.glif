@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gje-cy.loclMKD" format="2">
+  <advance width="182"/>
+  <outline>
+    <component base="ge-cy.loclSRB"/>
+    <component base="acutecomb" xOffset="34" yOffset="146"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:04:25</string>
+    </dict>
+  </lib>
+</glyph>

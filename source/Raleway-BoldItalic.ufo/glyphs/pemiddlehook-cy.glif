@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pemiddlehook-cy" format="2">
+  <advance width="933"/>
+  <unicode hex="04A7"/>
+  <outline>
+    <contour>
+      <point x="600" y="-202" type="curve" smooth="yes"/>
+      <point x="744" y="-202"/>
+      <point x="854" y="-75"/>
+      <point x="876" y="66" type="curve" smooth="yes"/>
+      <point x="902" y="235"/>
+      <point x="831" y="319"/>
+      <point x="719" y="319" type="curve" smooth="yes"/>
+      <point x="672" y="319"/>
+      <point x="620" y="305"/>
+      <point x="568" y="275" type="curve"/>
+      <point x="621" y="526" type="line"/>
+      <point x="106" y="526" type="line"/>
+      <point x="-5" y="0" type="line"/>
+      <point x="185" y="0" type="line"/>
+      <point x="261" y="361" type="line"/>
+      <point x="396" y="361" type="line"/>
+      <point x="320" y="0" type="line"/>
+      <point x="510" y="0" type="line"/>
+      <point x="544" y="161" type="line"/>
+      <point x="577" y="177"/>
+      <point x="608" y="185"/>
+      <point x="633" y="185" type="curve" smooth="yes"/>
+      <point x="693" y="185"/>
+      <point x="727" y="149"/>
+      <point x="712" y="58" type="curve" smooth="yes"/>
+      <point x="701" y="-13"/>
+      <point x="657" y="-61"/>
+      <point x="600" y="-61" type="curve" smooth="yes"/>
+      <point x="586" y="-61"/>
+      <point x="569" y="-57"/>
+      <point x="551" y="-49" type="curve"/>
+      <point x="478" y="-168" type="line"/>
+      <point x="508" y="-190"/>
+      <point x="552" y="-202"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ghemiddlehook-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:04:25</string>
+    </dict>
+  </lib>
+</glyph>

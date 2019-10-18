@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otildeacute" format="2">
+  <advance width="578"/>
+  <outline>
+    <component base="o"/>
+    <component base="tildecomb" xOffset="70"/>
+    <component base="acutecomb" xOffset="240" yOffset="208"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/08 19:30:33</string>
+    </dict>
+  </lib>
+</glyph>

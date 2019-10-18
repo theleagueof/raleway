@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="esdescender-cy" format="2">
+  <outline>
+    <contour>
+      <point x="169" y="-123" type="line"/>
+      <point x="249" y="-123" type="line"/>
+      <point x="283" y="36" type="line"/>
+      <point x="203" y="35" type="line"/>
+    </contour>
+    <component base="es-cy"/>
+  </outline>
+</glyph>

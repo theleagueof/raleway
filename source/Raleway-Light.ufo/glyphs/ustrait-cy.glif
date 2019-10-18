@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustrait-cy" format="2">
+  <advance width="520"/>
+  <unicode hex="04AF"/>
+  <outline>
+    <contour>
+      <point x="250" y="-213" type="line"/>
+      <point x="270" y="-213" type="line"/>
+      <point x="270" y="2" type="line"/>
+      <point x="495" y="519" type="line"/>
+      <point x="473" y="519" type="line"/>
+      <point x="260" y="29" type="line"/>
+      <point x="47" y="519" type="line"/>
+      <point x="25" y="519" type="line"/>
+      <point x="250" y="2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>v</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>v</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="te-cy" format="2">
+  <advance width="483"/>
+  <unicode hex="0442"/>
+  <anchor x="198" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="198" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="444" type="line"/>
+      <point x="466" y="444" type="line"/>
+      <point x="466" y="522" type="line"/>
+      <point x="18" y="522" type="line"/>
+      <point x="18" y="444" type="line"/>
+      <point x="198" y="444" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

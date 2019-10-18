@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odieresismacron" format="2">
+  <advance width="586"/>
+  <unicode hex="022B"/>
+  <outline>
+    <component base="o"/>
+    <component base="dieresiscomb" xOffset="175"/>
+    <component base="macroncomb" xOffset="103" yOffset="201"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/08/24 06:00:21</string>
+    </dict>
+  </lib>
+</glyph>

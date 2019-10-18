@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nje-cy" format="2">
+  <advance width="1048"/>
+  <unicode hex="040A"/>
+  <outline>
+    <contour>
+      <point x="-3" y="0" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="251" y="278" type="line"/>
+      <point x="463" y="278" type="line"/>
+      <point x="404" y="0" type="line"/>
+      <point x="721" y="0" type="line" smooth="yes"/>
+      <point x="875" y="0"/>
+      <point x="983" y="92"/>
+      <point x="1003" y="240" type="curve" smooth="yes"/>
+      <point x="1023" y="386"/>
+      <point x="937" y="475"/>
+      <point x="778" y="475" type="curve" smooth="yes"/>
+      <point x="700" y="475" type="line"/>
+      <point x="750" y="710" type="line"/>
+      <point x="555" y="710" type="line"/>
+      <point x="499" y="448" type="line"/>
+      <point x="287" y="448" type="line"/>
+      <point x="343" y="710" type="line"/>
+      <point x="148" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="632" y="158" type="line"/>
+      <point x="666" y="317" type="line"/>
+      <point x="738" y="317" type="line" smooth="yes"/>
+      <point x="788" y="317"/>
+      <point x="809" y="280"/>
+      <point x="804" y="240" type="curve" smooth="yes"/>
+      <point x="798" y="189"/>
+      <point x="766" y="158"/>
+      <point x="715" y="158" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Softsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:04:25</string>
+    </dict>
+  </lib>
+</glyph>

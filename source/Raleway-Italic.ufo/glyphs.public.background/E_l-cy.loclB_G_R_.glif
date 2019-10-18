@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="El-cy.loclBGR" format="2">
+  <outline>
+    <contour>
+      <point x="-47" y="0" type="line"/>
+      <point x="52" y="0" type="line"/>
+      <point x="391" y="601" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="573" y="0" type="line"/>
+      <point x="454" y="710" type="line"/>
+      <point x="370" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hadescender-cy" format="2">
+  <advance width="615"/>
+  <unicode hex="04B3"/>
+  <outline>
+    <contour>
+      <point x="439" y="-132" type="line"/>
+      <point x="589" y="-132" type="line"/>
+      <point x="589" y="145" type="line"/>
+      <point x="383" y="145" type="line"/>
+      <point x="383" y="0" type="line"/>
+      <point x="439" y="0" type="line"/>
+    </contour>
+    <component base="ha-cy" xOffset="15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tse-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

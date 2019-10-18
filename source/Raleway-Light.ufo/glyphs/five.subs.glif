@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.subs" format="2">
+  <advance width="361"/>
+  <outline>
+    <component base="fiveinferior"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>fiveinferior</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>fiveinferior</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/08 07:32:08</string>
+    </dict>
+  </lib>
+</glyph>

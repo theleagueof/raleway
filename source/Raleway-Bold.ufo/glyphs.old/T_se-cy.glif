@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tse-cy" format="2">
+  <advance width="774"/>
+  <unicode hex="0426"/>
+  <anchor x="524" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="654" y="0" type="line"/>
+      <point x="654" y="710" type="line"/>
+      <point x="459" y="710" type="line"/>
+      <point x="459" y="170" type="line"/>
+      <point x="260" y="170" type="line"/>
+      <point x="260" y="710" type="line"/>
+      <point x="65" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="594" y="-136" type="line"/>
+      <point x="754" y="-136" type="line"/>
+      <point x="754" y="170" type="line"/>
+      <point x="524" y="170" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="594" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

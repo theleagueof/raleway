@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tetse-cy" format="2">
+  <advance width="924"/>
+  <unicode hex="04B4"/>
+  <outline>
+    <contour>
+      <point x="514" y="540" type="line"/>
+      <point x="514" y="710" type="line"/>
+      <point x="10" y="710" type="line"/>
+      <point x="10" y="540" type="line"/>
+      <point x="215" y="540" type="line"/>
+      <point x="410" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="724" y="-136" type="line"/>
+      <point x="894" y="-136" type="line"/>
+      <point x="894" y="170" type="line"/>
+      <point x="794" y="170" type="line"/>
+      <point x="794" y="710" type="line"/>
+      <point x="599" y="710" type="line"/>
+      <point x="599" y="170" type="line"/>
+      <point x="410" y="170" type="line"/>
+      <point x="410" y="710" type="line"/>
+      <point x="215" y="710" type="line"/>
+      <point x="215" y="0" type="line"/>
+      <point x="724" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Te-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Tse-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

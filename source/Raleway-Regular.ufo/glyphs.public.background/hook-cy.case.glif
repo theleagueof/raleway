@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hook-cy.case" format="2">
+  <outline>
+    <contour>
+      <point x="58" y="-212"/>
+      <point x="82" y="-216"/>
+      <point x="104" y="-216" type="curve" smooth="yes"/>
+      <point x="201" y="-216"/>
+      <point x="271" y="-135"/>
+      <point x="271" y="-9" type="curve" smooth="yes"/>
+      <point x="271" y="68" type="line"/>
+      <point x="183" y="68" type="line"/>
+      <point x="183" y="15" type="line" smooth="yes"/>
+      <point x="183" y="-83"/>
+      <point x="151" y="-132"/>
+      <point x="91" y="-132" type="curve" smooth="yes"/>
+      <point x="80" y="-132"/>
+      <point x="68" y="-130"/>
+      <point x="55" y="-127" type="curve"/>
+      <point x="33" y="-203" type="line"/>
+    </contour>
+  </outline>
+</glyph>

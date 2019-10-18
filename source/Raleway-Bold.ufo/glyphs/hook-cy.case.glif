@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hook-cy.case" format="2">
+  <advance width="430"/>
+  <guideline x="324" y="170" angle="0"/>
+  <anchor x="185" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="171" y="-220" type="curve" smooth="yes"/>
+      <point x="292" y="-220"/>
+      <point x="380" y="-138"/>
+      <point x="380" y="0" type="curve" smooth="yes"/>
+      <point x="380" y="170" type="line"/>
+      <point x="185" y="170" type="line"/>
+      <point x="185" y="25" type="line" smooth="yes"/>
+      <point x="185" y="-28"/>
+      <point x="158" y="-59"/>
+      <point x="115" y="-59" type="curve" smooth="yes"/>
+      <point x="100" y="-59"/>
+      <point x="82" y="-55"/>
+      <point x="64" y="-47" type="curve"/>
+      <point x="20" y="-183" type="line"/>
+      <point x="73" y="-208"/>
+      <point x="124" y="-220"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

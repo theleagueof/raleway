@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ehookabove" format="2">
+  <advance width="539"/>
+  <unicode hex="1EBB"/>
+  <outline>
+    <component base="e"/>
+    <component base="hookabovecomb" xOffset="150"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/12 13:20:44</string>
+    </dict>
+  </lib>
+</glyph>

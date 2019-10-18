@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pe-cy" format="2">
+  <anchor x="409" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="25" y="0" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="151" y="500" type="line"/>
+      <point x="495" y="500" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="409" y="0" type="line"/>
+      <point x="519" y="519" type="line"/>
+      <point x="135" y="519" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ge-cy.loclBGR" format="2">
+  <advance width="471"/>
+  <anchor x="235" y="0" name="bottom"/>
+  <anchor x="240" y="519" name="top"/>
+  <outline>
+    <contour>
+      <point x="230" y="-10" type="curve" smooth="yes"/>
+      <point x="309" y="-10"/>
+      <point x="376" y="17"/>
+      <point x="428" y="74" type="curve"/>
+      <point x="413" y="87" type="line"/>
+      <point x="360" y="35"/>
+      <point x="304" y="10"/>
+      <point x="230" y="10" type="curve" smooth="yes"/>
+      <point x="128" y="10"/>
+      <point x="57" y="57"/>
+      <point x="57" y="136" type="curve" smooth="yes"/>
+      <point x="57" y="211"/>
+      <point x="122" y="230"/>
+      <point x="238" y="257" type="curve" smooth="yes"/>
+      <point x="349" y="283"/>
+      <point x="404" y="297"/>
+      <point x="404" y="380" type="curve" smooth="yes"/>
+      <point x="404" y="483"/>
+      <point x="319" y="527"/>
+      <point x="221" y="527" type="curve" smooth="yes"/>
+      <point x="137" y="527"/>
+      <point x="75" y="495"/>
+      <point x="52" y="452" type="curve"/>
+      <point x="70" y="444" type="line"/>
+      <point x="95" y="485"/>
+      <point x="159" y="507"/>
+      <point x="225" y="507" type="curve" smooth="yes"/>
+      <point x="311" y="507"/>
+      <point x="384" y="470"/>
+      <point x="384" y="383" type="curve" smooth="yes"/>
+      <point x="384" y="314"/>
+      <point x="339" y="301"/>
+      <point x="237" y="277" type="curve" smooth="yes"/>
+      <point x="113" y="248"/>
+      <point x="37" y="229"/>
+      <point x="37" y="139" type="curve" smooth="yes"/>
+      <point x="37" y="48"/>
+      <point x="114" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

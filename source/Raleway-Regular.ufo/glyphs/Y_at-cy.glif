@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yat-cy" format="2">
+  <advance width="648"/>
+  <unicode hex="0462"/>
+  <outline>
+    <contour>
+      <point x="10" y="553" type="line"/>
+      <point x="390" y="553" type="line"/>
+      <point x="390" y="623" type="line"/>
+      <point x="10" y="623" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="0" type="line"/>
+      <point x="384" y="0" type="line" smooth="yes"/>
+      <point x="533" y="0"/>
+      <point x="613" y="96"/>
+      <point x="613" y="221" type="curve" smooth="yes"/>
+      <point x="613" y="352"/>
+      <point x="533" y="441"/>
+      <point x="378" y="441" type="curve" smooth="yes"/>
+      <point x="208" y="441" type="line"/>
+      <point x="208" y="710" type="line"/>
+      <point x="118" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="75" type="line"/>
+      <point x="208" y="366" type="line"/>
+      <point x="371" y="366" type="line" smooth="yes"/>
+      <point x="485" y="366"/>
+      <point x="521" y="296"/>
+      <point x="521" y="221" type="curve" smooth="yes"/>
+      <point x="521" y="144"/>
+      <point x="478" y="75"/>
+      <point x="372" y="75" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Softsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

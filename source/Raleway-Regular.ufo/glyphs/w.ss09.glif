@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w.ss09" format="2">
+  <advance width="842"/>
+  <outline>
+    <contour>
+      <point x="547" y="0" type="line"/>
+      <point x="641" y="0" type="line"/>
+      <point x="823" y="522" type="line"/>
+      <point x="732" y="522" type="line"/>
+      <point x="591" y="108" type="line"/>
+      <point x="463" y="522" type="line"/>
+      <point x="379" y="522" type="line"/>
+      <point x="251" y="108" type="line"/>
+      <point x="110" y="522" type="line"/>
+      <point x="18" y="522" type="line"/>
+      <point x="201" y="0" type="line"/>
+      <point x="294" y="0" type="line"/>
+      <point x="421" y="387" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/08 07:32:35</string>
+    </dict>
+  </lib>
+</glyph>

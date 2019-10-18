@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obarred-cy" format="2">
+  <outline>
+    <contour>
+      <point x="46" y="256" type="line"/>
+      <point x="517" y="256" type="line"/>
+      <point x="521" y="275" type="line"/>
+      <point x="50" y="275" type="line"/>
+    </contour>
+    <component base="o-cy" xOffset="-12"/>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cheverticalstroke-cy" format="2">
+  <advance width="648"/>
+  <unicode hex="04B8"/>
+  <guideline x="325" y="407" angle="270"/>
+  <guideline x="282" y="408" angle="90"/>
+  <outline>
+    <component base="Che-cy"/>
+    <component base="verticalbar-cy.case" xOffset="228" yOffset="75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kadescender-cy" format="2">
+  <outline>
+    <contour>
+      <point x="590" y="-135" type="line"/>
+      <point x="610" y="-135" type="line"/>
+      <point x="610" y="20" type="line"/>
+      <point x="538" y="20" type="line"/>
+      <point x="538" y="0" type="line"/>
+      <point x="590" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kastroke-cy" format="2">
+  <outline>
+    <contour>
+      <point x="91" y="0" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="111" y="256" type="line"/>
+      <point x="188" y="256" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="443" y="0" type="line"/>
+      <point x="205" y="266" type="line"/>
+      <point x="413" y="519" type="line"/>
+      <point x="387" y="519" type="line"/>
+      <point x="188" y="275" type="line"/>
+      <point x="111" y="275" type="line"/>
+      <point x="111" y="730" type="line"/>
+      <point x="91" y="730" type="line"/>
+    </contour>
+    <component base="strokeshortcomb" xOffset="-43" yOffset="300"/>
+  </outline>
+</glyph>

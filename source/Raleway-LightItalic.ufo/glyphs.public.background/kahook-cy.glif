@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kahook-cy" format="2">
+  <outline>
+    <contour>
+      <point x="-424" y="266" type="move"/>
+      <point x="-353" y="266" type="line" smooth="yes"/>
+      <point x="-204" y="266"/>
+      <point x="-115" y="136"/>
+      <point x="-115" y="2" type="curve" smooth="yes"/>
+      <point x="-115" y="-101"/>
+      <point x="-168" y="-190"/>
+      <point x="-263" y="-151" type="curve"/>
+    </contour>
+    <component base="el-cy" xOffset="-69"/>
+    <component base="hook-cy" xOffset="230"/>
+  </outline>
+</glyph>

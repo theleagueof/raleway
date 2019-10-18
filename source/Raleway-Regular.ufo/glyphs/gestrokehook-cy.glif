@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gestrokehook-cy" format="2">
+  <advance width="427"/>
+  <unicode hex="04FB"/>
+  <outline>
+    <contour>
+      <point x="99" y="-207" type="curve" smooth="yes"/>
+      <point x="206" y="-207"/>
+      <point x="274" y="-131"/>
+      <point x="274" y="0" type="curve" smooth="yes"/>
+      <point x="274" y="77" type="line"/>
+      <point x="125" y="77" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="193" y="-79"/>
+      <point x="162" y="-130"/>
+      <point x="91" y="-130" type="curve" smooth="yes"/>
+      <point x="74" y="-130"/>
+      <point x="52" y="-126"/>
+      <point x="29" y="-119" type="curve"/>
+      <point x="8" y="-190" type="line"/>
+      <point x="41" y="-202"/>
+      <point x="71" y="-207"/>
+    </contour>
+    <component base="ghestroke-cy" xOffset="6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

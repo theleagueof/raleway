@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb" format="2">
+  <unicode hex="0323"/>
+  <anchor x="135" y="0" name="_bottom"/>
+  <anchor x="135" y="-214" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="50" y="-214" type="line"/>
+      <point x="220" y="-214" type="line"/>
+      <point x="220" y="-64" type="line"/>
+      <point x="50" y="-64" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/08/21 04:53:52</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>270</integer>
+    </dict>
+  </lib>
+</glyph>

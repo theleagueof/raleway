@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_gravecomb" format="2">
+  <anchor x="161" y="519" name="_top"/>
+  <anchor x="251" y="941" name="top"/>
+  <outline>
+    <component base="brevecomb"/>
+    <component base="gravecomb" xOffset="-2" yOffset="121"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

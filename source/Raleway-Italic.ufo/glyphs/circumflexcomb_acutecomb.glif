@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_acutecomb" format="2">
+  <anchor x="232" y="522" name="_top"/>
+  <anchor x="320" y="935" name="top"/>
+  <outline>
+    <component base="circumflexcomb" xOffset="-5" yOffset="-22"/>
+    <component base="acutecomb" xOffset="236" yOffset="98"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/16 03:25:43</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>455</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

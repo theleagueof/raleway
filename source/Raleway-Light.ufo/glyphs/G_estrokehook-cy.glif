@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gestrokehook-cy" format="2">
+  <advance width="538"/>
+  <unicode hex="04FA"/>
+  <outline>
+    <contour>
+      <point x="137" y="-183" type="curve" smooth="yes"/>
+      <point x="218" y="-183"/>
+      <point x="256" y="-117"/>
+      <point x="256" y="-4" type="curve" smooth="yes"/>
+      <point x="256" y="19" type="line"/>
+      <point x="156" y="19" type="line"/>
+      <point x="156" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="236" y="-107"/>
+      <point x="201" y="-164"/>
+      <point x="135" y="-164" type="curve" smooth="yes"/>
+      <point x="116" y="-164"/>
+      <point x="95" y="-160"/>
+      <point x="70" y="-150" type="curve"/>
+      <point x="70" y="-171" type="line"/>
+      <point x="95" y="-179"/>
+      <point x="117" y="-183"/>
+    </contour>
+    <component base="Ghestroke-cy" xOffset="16"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

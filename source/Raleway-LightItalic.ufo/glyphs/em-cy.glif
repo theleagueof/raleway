@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="em-cy" format="2">
+  <advance width="659"/>
+  <unicode hex="043C"/>
+  <anchor x="504" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="25" y="0" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="148" y="487" type="line"/>
+      <point x="290" y="93" type="line"/>
+      <point x="305" y="93" type="line"/>
+      <point x="606" y="485" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="634" y="519" type="line"/>
+      <point x="611" y="519" type="line"/>
+      <point x="301" y="119" type="line"/>
+      <point x="155" y="519" type="line"/>
+      <point x="135" y="519" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:04:25</string>
+    </dict>
+  </lib>
+</glyph>

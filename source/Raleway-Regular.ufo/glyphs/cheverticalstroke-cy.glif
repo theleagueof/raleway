@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cheverticalstroke-cy" format="2">
+  <advance width="527"/>
+  <unicode hex="04B9"/>
+  <outline>
+    <contour>
+      <point x="367" y="0" type="line"/>
+      <point x="456" y="0" type="line"/>
+      <point x="456" y="522" type="line"/>
+      <point x="367" y="522" type="line"/>
+      <point x="367" y="275" type="line"/>
+      <point x="340" y="259"/>
+      <point x="295" y="249"/>
+      <point x="252" y="249" type="curve" smooth="yes"/>
+      <point x="176" y="249"/>
+      <point x="143" y="286"/>
+      <point x="143" y="370" type="curve" smooth="yes"/>
+      <point x="143" y="522" type="line"/>
+      <point x="55" y="522" type="line"/>
+      <point x="55" y="358" type="line" smooth="yes"/>
+      <point x="55" y="239"/>
+      <point x="115" y="180"/>
+      <point x="229" y="180" type="curve" smooth="yes"/>
+      <point x="282" y="180"/>
+      <point x="325" y="189"/>
+      <point x="367" y="209" type="curve"/>
+    </contour>
+    <component base="verticalbar-cy" xOffset="191" yOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>che-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

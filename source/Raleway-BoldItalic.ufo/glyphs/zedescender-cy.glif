@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zedescender-cy" format="2">
+  <advance width="514"/>
+  <unicode hex="0499"/>
+  <outline>
+    <contour>
+      <point x="97" y="-132" type="line"/>
+      <point x="257" y="-132" type="line"/>
+      <point x="303" y="82" type="line"/>
+      <point x="142" y="80" type="line"/>
+    </contour>
+    <component base="ze-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:04:25</string>
+    </dict>
+  </lib>
+</glyph>

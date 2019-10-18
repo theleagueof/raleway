@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ii-cy" format="2">
+  <advance width="747"/>
+  <unicode hex="0418"/>
+  <anchor x="628" y="0" name="bottomright"/>
+  <anchor x="374" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="99" y="0" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="628" y="674" type="line"/>
+      <point x="628" y="0" type="line"/>
+      <point x="648" y="0" type="line"/>
+      <point x="648" y="710" type="line"/>
+      <point x="629" y="710" type="line"/>
+      <point x="119" y="26" type="line"/>
+      <point x="119" y="710" type="line"/>
+      <point x="99" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

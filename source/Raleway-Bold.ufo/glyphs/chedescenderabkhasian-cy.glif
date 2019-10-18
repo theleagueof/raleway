@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedescenderabkhasian-cy" format="2">
+  <advance width="703"/>
+  <unicode hex="04BF"/>
+  <outline>
+    <contour>
+      <point x="333" y="-132" type="line"/>
+      <point x="503" y="-132" type="line"/>
+      <point x="503" y="45" type="line"/>
+      <point x="333" y="0" type="line"/>
+    </contour>
+    <component base="cheabkhasian-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>cheabkhasian-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

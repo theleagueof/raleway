@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iishort-cy" format="2">
+  <advance width="728"/>
+  <unicode hex="0419"/>
+  <anchor x="491" y="0" name="bottomright"/>
+  <outline>
+    <component base="Ii-cy"/>
+    <component base="brevecomb-cy.case" xOffset="115"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:04:25</string>
+    </dict>
+  </lib>
+</glyph>

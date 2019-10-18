@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fourinferior" format="2">
+  <advance width="417"/>
+  <unicode hex="2084"/>
+  <outline>
+    <contour>
+      <point x="126" y="-89" type="line"/>
+      <point x="253" y="-89" type="line"/>
+      <point x="275" y="4" type="line"/>
+      <point x="321" y="4" type="line"/>
+      <point x="340" y="90" type="line"/>
+      <point x="294" y="90" type="line"/>
+      <point x="355" y="351" type="line"/>
+      <point x="272" y="351" type="line"/>
+      <point x="-4" y="101" type="line"/>
+      <point x="-27" y="4" type="line"/>
+      <point x="148" y="4" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="90" type="line"/>
+      <point x="197" y="202" type="line"/>
+      <point x="171" y="90" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/16 03:25:43</string>
+    </dict>
+  </lib>
+</glyph>

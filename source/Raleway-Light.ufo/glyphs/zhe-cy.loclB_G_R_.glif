@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhe-cy.loclBGR" format="2">
+  <advance width="732"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="268" y="256" type="line"/>
+      <point x="365" y="256" type="line"/>
+      <point x="365" y="0" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="385" y="256" type="line"/>
+      <point x="483" y="256" type="line"/>
+      <point x="679" y="0" type="line"/>
+      <point x="704" y="0" type="line"/>
+      <point x="500" y="266" type="line"/>
+      <point x="680" y="519" type="line"/>
+      <point x="655" y="519" type="line"/>
+      <point x="483" y="275" type="line"/>
+      <point x="385" y="275" type="line"/>
+      <point x="385" y="710" type="line"/>
+      <point x="365" y="710" type="line"/>
+      <point x="365" y="275" type="line"/>
+      <point x="267" y="275" type="line"/>
+      <point x="94" y="519" type="line"/>
+      <point x="69" y="519" type="line"/>
+      <point x="249" y="266" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

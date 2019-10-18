@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhe-cy" format="2">
+  <advance width="1012"/>
+  <unicode hex="0416"/>
+  <anchor x="882" y="0" name="bottomright"/>
+  <anchor x="506" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="25" y="0" type="line"/>
+      <point x="129" y="0" type="line"/>
+      <point x="373" y="321" type="line"/>
+      <point x="461" y="321" type="line"/>
+      <point x="461" y="0" type="line"/>
+      <point x="551" y="0" type="line"/>
+      <point x="551" y="321" type="line"/>
+      <point x="638" y="321" type="line"/>
+      <point x="882" y="0" type="line"/>
+      <point x="987" y="0" type="line"/>
+      <point x="711" y="367" type="line"/>
+      <point x="969" y="710" type="line"/>
+      <point x="864" y="710" type="line"/>
+      <point x="636" y="403" type="line"/>
+      <point x="551" y="403" type="line"/>
+      <point x="551" y="710" type="line"/>
+      <point x="461" y="710" type="line"/>
+      <point x="461" y="403" type="line"/>
+      <point x="375" y="403" type="line"/>
+      <point x="148" y="710" type="line"/>
+      <point x="42" y="710" type="line"/>
+      <point x="300" y="367" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|Ka-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

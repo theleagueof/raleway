@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edieresis-cy" format="2">
+  <advance width="595"/>
+  <unicode hex="04ED"/>
+  <outline>
+    <component base="ereversed-cy"/>
+    <component base="dieresiscomb" xOffset="18" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

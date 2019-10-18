@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kadescender-cy" format="2">
+  <advance width="545"/>
+  <unicode hex="049B"/>
+  <outline>
+    <contour>
+      <point x="490" y="-117" type="line"/>
+      <point x="510" y="-117" type="line"/>
+      <point x="510" y="19" type="line"/>
+      <point x="459" y="19" type="line"/>
+      <point x="459" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+    </contour>
+    <component base="ka-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

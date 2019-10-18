@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraitstroke-cy" format="2">
+  <advance width="539"/>
+  <unicode hex="04B1"/>
+  <outline>
+    <contour>
+      <point x="187" y="-213" type="line"/>
+      <point x="377" y="-213" type="line"/>
+      <point x="377" y="-80" type="line"/>
+      <point x="495" y="-80" type="line"/>
+      <point x="495" y="0" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="562" y="526" type="line"/>
+      <point x="382" y="526" type="line"/>
+      <point x="285" y="131" type="line"/>
+      <point x="189" y="526" type="line"/>
+      <point x="1" y="526" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="62" y="-80" type="line"/>
+      <point x="187" y="-80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

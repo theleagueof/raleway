@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kastroke-cy" format="2">
+  <advance width="664"/>
+  <unicode hex="049E"/>
+  <outline>
+    <contour>
+      <point x="19" y="572" type="line"/>
+      <point x="272" y="572" type="line"/>
+      <point x="272" y="628" type="line"/>
+      <point x="19" y="628" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="0" type="line"/>
+      <point x="188" y="0" type="line"/>
+      <point x="188" y="321" type="line"/>
+      <point x="285" y="321" type="line"/>
+      <point x="529" y="0" type="line"/>
+      <point x="639" y="0" type="line"/>
+      <point x="357" y="366" type="line"/>
+      <point x="621" y="710" type="line"/>
+      <point x="517" y="710" type="line"/>
+      <point x="283" y="403" type="line"/>
+      <point x="188" y="403" type="line"/>
+      <point x="188" y="710" type="line"/>
+      <point x="98" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iu-cy" format="2">
+  <advance width="866"/>
+  <unicode hex="044E"/>
+  <outline>
+    <contour>
+      <point x="569" y="-10" type="curve" smooth="yes"/>
+      <point x="750" y="-10"/>
+      <point x="847" y="119"/>
+      <point x="847" y="263" type="curve" smooth="yes"/>
+      <point x="847" y="408"/>
+      <point x="750" y="536"/>
+      <point x="569" y="536" type="curve" smooth="yes"/>
+      <point x="423" y="536"/>
+      <point x="332" y="453"/>
+      <point x="302" y="345" type="curve"/>
+      <point x="238" y="345" type="line"/>
+      <point x="238" y="526" type="line"/>
+      <point x="48" y="526" type="line"/>
+      <point x="48" y="0" type="line"/>
+      <point x="238" y="0" type="line"/>
+      <point x="238" y="180" type="line"/>
+      <point x="302" y="180" type="line"/>
+      <point x="333" y="73"/>
+      <point x="424" y="-10"/>
+    </contour>
+    <contour>
+      <point x="569" y="150" type="curve" smooth="yes"/>
+      <point x="521" y="150"/>
+      <point x="486" y="193"/>
+      <point x="486" y="263" type="curve" smooth="yes"/>
+      <point x="486" y="333"/>
+      <point x="521" y="376"/>
+      <point x="569" y="376" type="curve" smooth="yes"/>
+      <point x="617" y="376"/>
+      <point x="652" y="333"/>
+      <point x="652" y="263" type="curve" smooth="yes"/>
+      <point x="652" y="193"/>
+      <point x="617" y="150"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/17 09:03:23</string>
+    </dict>
+  </lib>
+</glyph>
