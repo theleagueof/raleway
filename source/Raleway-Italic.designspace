@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="250" maximum="900" default="500">
-      <map input="250" output="0"/>
-      <map input="275" output="82.400000"/>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="500">
+      <map input="100" output="0"/>
+      <map input="200" output="82.400000"/>
       <map input="300" output="176.500000"/>
       <map input="400" output="282.300000"/>
       <map input="500" output="400"/>
