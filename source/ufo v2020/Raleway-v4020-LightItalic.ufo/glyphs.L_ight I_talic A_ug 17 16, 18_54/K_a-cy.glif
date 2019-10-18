@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ka-cy" format="2">
+  <advance width="566"/>
+  <unicode hex="041A"/>
+  <anchor x="485" y="0" name="bottomright"/>
+  <anchor x="363" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="256" y="361" type="line"/>
+      <point x="284" y="361" type="line"/>
+      <point x="623" y="710" type="line"/>
+      <point x="595" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="34" y="0" type="line"/>
+      <point x="54" y="0" type="line"/>
+      <point x="204" y="710" type="line"/>
+      <point x="184" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="353" type="line"/>
+      <point x="282" y="353" type="line"/>
+      <point x="265" y="373" type="line"/>
+      <point x="122" y="373" type="line"/>
+    </contour>
+    <contour>
+      <point x="486" y="0" type="line"/>
+      <point x="511" y="0" type="line"/>
+      <point x="283" y="373" type="line"/>
+      <point x="258" y="373" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/16 03:25:43</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

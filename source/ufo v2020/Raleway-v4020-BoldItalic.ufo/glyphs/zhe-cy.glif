@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhe-cy" format="2">
+  <advance width="863"/>
+  <unicode hex="0436"/>
+  <guideline x="789" y="267" angle="0"/>
+  <anchor x="620" y="0" name="bottomright"/>
+  <anchor x="482" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="-48" y="0" type="curve"/>
+      <point x="151" y="0" type="line"/>
+      <point x="185.83" y="88.35"/>
+      <point x="242.312" y="162.267"/>
+      <point x="302.664" y="196" type="curve"/>
+      <point x="321.051" y="196" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="468" y="0" type="line"/>
+      <point x="510.051" y="196" type="line"/>
+      <point x="540.148" y="196" type="line"/>
+      <point x="620" y="0" type="line"/>
+      <point x="822" y="0" type="line"/>
+      <point x="703" y="268" type="line"/>
+      <point x="770" y="326"/>
+      <point x="846" y="414"/>
+      <point x="895" y="526" type="curve"/>
+      <point x="703" y="526" type="line"/>
+      <point x="673.078" y="447.87"/>
+      <point x="623.121" y="379.412"/>
+      <point x="570.356" y="339" type="curve"/>
+      <point x="539.929" y="339" type="line"/>
+      <point x="580" y="526" type="line"/>
+      <point x="391" y="526" type="line"/>
+      <point x="350.929" y="339" type="line"/>
+      <point x="315.812" y="339" type="line"/>
+      <point x="237" y="526" type="line"/>
+      <point x="49" y="526" type="line"/>
+      <point x="175" y="275" type="line"/>
+      <point x="89" y="221"/>
+      <point x="6" y="124"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/16 03:25:43</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

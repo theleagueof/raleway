@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfleft" format="2">
+  <advance width="139"/>
+  <outline>
+    <contour>
+      <point x="169" y="606" type="curve"/>
+      <point x="173" y="627" type="line"/>
+      <point x="157" y="627"/>
+      <point x="147" y="645"/>
+      <point x="147" y="667" type="curve" smooth="yes"/>
+      <point x="147" y="706"/>
+      <point x="172" y="735"/>
+      <point x="196" y="735" type="curve"/>
+      <point x="201" y="756" type="line"/>
+      <point x="167" y="756"/>
+      <point x="132" y="712"/>
+      <point x="132" y="662" type="curve" smooth="yes"/>
+      <point x="132" y="630"/>
+      <point x="146" y="606"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/16 03:25:43</string>
+    </dict>
+  </lib>
+</glyph>

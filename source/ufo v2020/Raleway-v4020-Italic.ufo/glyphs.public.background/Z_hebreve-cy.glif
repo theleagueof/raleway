@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhebreve-cy" format="2">
+  <outline>
+    <component base="Zhe-cy"/>
+    <component base="brevecomb-cy.case" xOffset="243"/>
+  </outline>
+</glyph>

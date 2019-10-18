@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gje-cy.loclMKD" format="2">
+  <outline>
+    <component base="ge-cy.loclSRB"/>
+    <component base="acutecomb" xOffset="42" yOffset="175"/>
+  </outline>
+</glyph>

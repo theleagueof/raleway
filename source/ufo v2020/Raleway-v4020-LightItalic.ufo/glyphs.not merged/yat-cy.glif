@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yat-cy" format="2">
+  <advance width="694"/>
+  <unicode hex="0463"/>
+  <guideline x="447" y="321" angle="0"/>
+  <outline>
+    <contour>
+      <point x="434" y="-6" type="curve" smooth="yes"/>
+      <point x="537" y="-6"/>
+      <point x="591" y="47"/>
+      <point x="607" y="133" type="curve" smooth="yes"/>
+      <point x="625" y="232"/>
+      <point x="568" y="299"/>
+      <point x="449" y="291" type="curve" smooth="yes"/>
+      <point x="349" y="285" type="line"/>
+      <point x="350" y="289" type="line"/>
+      <point x="394" y="449"/>
+      <point x="375" y="527"/>
+      <point x="276" y="527" type="curve" smooth="yes"/>
+      <point x="203" y="527"/>
+      <point x="165" y="481"/>
+      <point x="116" y="414" type="curve"/>
+      <point x="105" y="366" type="line"/>
+      <point x="163" y="464"/>
+      <point x="213" y="507"/>
+      <point x="277" y="507" type="curve" smooth="yes"/>
+      <point x="353" y="507"/>
+      <point x="371" y="442"/>
+      <point x="330" y="289" type="curve" smooth="yes"/>
+      <point x="308" y="202" type="line" smooth="yes"/>
+      <point x="273" y="65"/>
+      <point x="337" y="-6"/>
+    </contour>
+    <contour>
+      <point x="17" y="0" type="line"/>
+      <point x="37" y="0" type="line"/>
+      <point x="147" y="519" type="line"/>
+      <point x="127" y="519" type="line"/>
+    </contour>
+    <contour>
+      <point x="438" y="14" type="curve" smooth="yes"/>
+      <point x="355" y="14"/>
+      <point x="295" y="73"/>
+      <point x="328" y="202" type="curve" smooth="yes"/>
+      <point x="344" y="265" type="line"/>
+      <point x="445" y="271" type="line" smooth="yes"/>
+      <point x="558" y="278"/>
+      <point x="599" y="222"/>
+      <point x="587" y="143" type="curve" smooth="yes"/>
+      <point x="574" y="60"/>
+      <point x="521" y="14"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>softsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/16 03:25:43</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

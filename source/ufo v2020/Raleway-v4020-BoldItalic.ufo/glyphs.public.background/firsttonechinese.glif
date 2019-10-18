@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="firsttonechinese" format="2">
+  <anchor x="260" y="526" name="_top"/>
+  <outline>
+    <contour>
+      <point x="137" y="607" type="line"/>
+      <point x="420" y="607" type="line"/>
+      <point x="446" y="720" type="line"/>
+      <point x="163" y="720" type="line"/>
+    </contour>
+  </outline>
+</glyph>

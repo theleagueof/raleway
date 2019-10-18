@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>De-cy</key>
+    <string>D_e-cy.glif</string>
+    <key>Tse-cy</key>
+    <string>T_se-cy.glif</string>
+    <key>de-cy</key>
+    <string>de-cy.glif</string>
+    <key>shcha-cy</key>
+    <string>shcha-cy.glif</string>
+  </dict>
+</plist>

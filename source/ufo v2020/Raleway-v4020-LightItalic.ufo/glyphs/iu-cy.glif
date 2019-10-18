@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iu-cy" format="2">
+  <advance width="773"/>
+  <unicode hex="044E"/>
+  <outline>
+    <contour>
+      <point x="25" y="0" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="98" y="250" type="line"/>
+      <point x="234" y="250" type="line"/>
+      <point x="237" y="269" type="line"/>
+      <point x="102" y="269" type="line"/>
+      <point x="155" y="519" type="line"/>
+      <point x="135" y="519" type="line"/>
+    </contour>
+    <component base="o-cy" xOffset="180"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/16 03:25:43</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obarred-cy" format="2">
+  <advance width="726"/>
+  <unicode hex="04E8"/>
+  <outline>
+    <contour>
+      <point x="68" y="353" type="line"/>
+      <point x="705" y="353" type="line"/>
+      <point x="709" y="373" type="line"/>
+      <point x="72" y="373" type="line"/>
+    </contour>
+    <component base="O-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/16 03:25:43</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

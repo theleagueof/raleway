@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron" format="2">
+  <advance width="629"/>
+  <unicode hex="010F"/>
+  <outline>
+    <component base="d"/>
+    <component base="caroncomb.alt" xOffset="538"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/08/24 05:37:59</string>
+    </dict>
+  </lib>
+</glyph>

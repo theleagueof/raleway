@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="De-cy" format="2">
+  <advance width="808"/>
+  <unicode hex="0414"/>
+  <outline>
+    <contour>
+      <point x="16" y="-136" type="line"/>
+      <point x="176" y="-136" type="line"/>
+      <point x="176" y="0" type="line"/>
+      <point x="628" y="0" type="line"/>
+      <point x="628" y="-136" type="line"/>
+      <point x="788" y="-136" type="line"/>
+      <point x="788" y="170" type="line"/>
+      <point x="688" y="170" type="line"/>
+      <point x="688" y="710" type="line"/>
+      <point x="192" y="710" type="line"/>
+      <point x="173" y="502" type="line" smooth="yes"/>
+      <point x="150" y="256"/>
+      <point x="127" y="170"/>
+      <point x="60" y="170" type="curve" smooth="yes"/>
+      <point x="16" y="170" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="170" type="line"/>
+      <point x="328" y="236"/>
+      <point x="347" y="325"/>
+      <point x="358" y="444" type="curve" smooth="yes"/>
+      <point x="367" y="540" type="line"/>
+      <point x="493" y="540" type="line"/>
+      <point x="493" y="170" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Tse-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/10/16 02:25:11</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

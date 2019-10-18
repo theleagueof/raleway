@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kaverticalstroke-cy" format="2">
+  <advance width="735"/>
+  <unicode hex="049C"/>
+  <anchor x="487" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="61" y="0" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="255" y="282" type="line"/>
+      <point x="406" y="282" type="line"/>
+      <point x="543" y="0" type="line"/>
+      <point x="755" y="0" type="line"/>
+      <point x="566" y="367" type="line"/>
+      <point x="732" y="710" type="line"/>
+      <point x="532" y="710" type="line"/>
+      <point x="404" y="439" type="line"/>
+      <point x="255" y="439" type="line"/>
+      <point x="255" y="710" type="line"/>
+      <point x="61" y="710" type="line"/>
+    </contour>
+    <component base="verticalbar-cy.case" xOffset="266" yOffset="120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>K</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/10/16 02:25:11</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblright" format="2">
+  <advance width="531"/>
+  <unicode hex="201D"/>
+  <outline>
+    <component base="quoteleft" xScale="-1" yScale="-1" xOffset="289" yOffset="1183"/>
+    <component base="quoteleft" xScale="-1" yScale="-1" xOffset="538" yOffset="1183"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/16 03:07:30</string>
+    </dict>
+  </lib>
+</glyph>

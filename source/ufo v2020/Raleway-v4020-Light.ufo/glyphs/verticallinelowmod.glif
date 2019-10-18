@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinelowmod" format="2">
+  <advance width="214"/>
+  <unicode hex="02CC"/>
+  <outline>
+    <contour>
+      <point x="117" y="285" type="line"/>
+      <point x="97" y="285" type="line"/>
+      <point x="97" y="-130" type="line"/>
+      <point x="117" y="-130" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>brokenbar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>brokenbar</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/08/24 16:42:50</string>
+    </dict>
+  </lib>
+</glyph>

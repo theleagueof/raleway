@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shcha-cy" format="2">
+  <advance width="1101"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="801" y="-136" type="line"/>
+      <point x="971" y="-136" type="line"/>
+      <point x="1036" y="170" type="line"/>
+      <point x="936" y="170" type="line"/>
+      <point x="1051" y="710" type="line"/>
+      <point x="856" y="710" type="line"/>
+      <point x="741" y="170" type="line"/>
+      <point x="582" y="170" type="line"/>
+      <point x="697" y="710" type="line"/>
+      <point x="502" y="710" type="line"/>
+      <point x="387" y="170" type="line"/>
+      <point x="228" y="170" type="line"/>
+      <point x="343" y="710" type="line"/>
+      <point x="148" y="710" type="line"/>
+      <point x="-3" y="0" type="line"/>
+      <point x="830" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>De-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/16 03:25:43</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

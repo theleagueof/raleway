@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otildedieresis" format="2">
+  <advance width="765"/>
+  <unicode hex="1E4E"/>
+  <outline>
+    <component base="O"/>
+    <component base="tildecomb" xOffset="153" yOffset="184"/>
+    <component base="dieresiscomb" xOffset="102" yOffset="389"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/08/24 06:00:21</string>
+    </dict>
+  </lib>
+</glyph>

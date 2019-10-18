@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="el-cy" format="2">
+  <advance width="612"/>
+  <unicode hex="043B"/>
+  <outline>
+    <contour>
+      <point x="-21" y="0" type="curve"/>
+      <point x="164" y="0" type="line"/>
+      <point x="218" y="144"/>
+      <point x="253" y="223"/>
+      <point x="339" y="367" type="curve"/>
+      <point x="349" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="483" y="526" type="line"/>
+      <point x="287" y="526" type="line"/>
+      <point x="142" y="352"/>
+      <point x="31" y="174"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/16 03:25:43</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

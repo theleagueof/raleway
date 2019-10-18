@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yusbig-cy" format="2">
+  <advance width="782"/>
+  <unicode hex="046B"/>
+  <outline>
+    <contour>
+      <point x="-35" y="0" type="line"/>
+      <point x="68" y="0" type="line"/>
+      <point x="286" y="228" type="line"/>
+      <point x="342" y="228" type="line"/>
+      <point x="294" y="0" type="line"/>
+      <point x="382" y="0" type="line"/>
+      <point x="430" y="228" type="line"/>
+      <point x="485" y="228" type="line"/>
+      <point x="620" y="0" type="line"/>
+      <point x="715" y="0" type="line"/>
+      <point x="552" y="269" type="line"/>
+      <point x="789" y="522" type="line"/>
+      <point x="82" y="522" type="line"/>
+      <point x="226" y="269" type="line"/>
+    </contour>
+    <contour>
+      <point x="291" y="297" type="line"/>
+      <point x="196" y="473" type="line"/>
+      <point x="648" y="473" type="line"/>
+      <point x="488" y="297" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ka-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/16 03:25:43</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omacrongrave" format="2">
+  <advance width="726"/>
+  <outline>
+    <component base="O"/>
+    <component base="macroncomb" xOffset="222" yOffset="188"/>
+    <component base="gravecomb" xOffset="288" yOffset="375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/16 03:25:43</string>
+    </dict>
+  </lib>
+</glyph>

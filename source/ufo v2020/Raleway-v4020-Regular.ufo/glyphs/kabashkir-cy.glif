@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kabashkir-cy" format="2">
+  <advance width="593"/>
+  <unicode hex="04A1"/>
+  <outline>
+    <contour>
+      <point x="4" y="449" type="line"/>
+      <point x="155" y="449" type="line"/>
+      <point x="155" y="522" type="line"/>
+      <point x="4" y="522" type="line"/>
+    </contour>
+    <component base="ka-cy" xOffset="85"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>k</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/10/16 02:25:11</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

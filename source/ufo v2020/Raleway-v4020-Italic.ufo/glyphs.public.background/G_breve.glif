@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gbreve" format="2">
+  <outline>
+    <component base="G"/>
+    <component base="brevecomb" xOffset="235" yOffset="186"/>
+  </outline>
+</glyph>

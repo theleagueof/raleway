@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yeru-cy" format="2">
+  <advance width="977"/>
+  <unicode hex="042B"/>
+  <anchor x="489" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="61" y="0" type="line"/>
+      <point x="382" y="0" type="line" smooth="yes"/>
+      <point x="536" y="0"/>
+      <point x="630" y="92"/>
+      <point x="630" y="240" type="curve" smooth="yes"/>
+      <point x="630" y="386"/>
+      <point x="531" y="475"/>
+      <point x="372" y="475" type="curve" smooth="yes"/>
+      <point x="256" y="475" type="line"/>
+      <point x="256" y="710" type="line"/>
+      <point x="61" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="158" type="line"/>
+      <point x="256" y="317" type="line"/>
+      <point x="354" y="317" type="line" smooth="yes"/>
+      <point x="404" y="317"/>
+      <point x="431" y="280"/>
+      <point x="431" y="240" type="curve" smooth="yes"/>
+      <point x="431" y="189"/>
+      <point x="405" y="158"/>
+      <point x="354" y="158" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="721" y="0" type="line"/>
+      <point x="916" y="0" type="line"/>
+      <point x="916" y="710" type="line"/>
+      <point x="721" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/10/16 02:25:11</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

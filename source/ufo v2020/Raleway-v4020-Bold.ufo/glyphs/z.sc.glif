@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z.sc" format="2">
+  <advance width="569"/>
+  <anchor x="333" y="707" name="top"/>
+  <outline>
+    <contour>
+      <point x="29" y="126" type="line"/>
+      <point x="29" y="0" type="line"/>
+      <point x="536" y="0" type="line"/>
+      <point x="536" y="148" type="line"/>
+      <point x="251" y="148" type="line"/>
+      <point x="531" y="442" type="line"/>
+      <point x="531" y="568" type="line"/>
+      <point x="42" y="568" type="line"/>
+      <point x="42" y="420" type="line"/>
+      <point x="326" y="420" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/08/21 06:05:59</string>
+    </dict>
+  </lib>
+</glyph>

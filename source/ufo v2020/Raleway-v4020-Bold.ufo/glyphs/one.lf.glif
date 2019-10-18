@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.lf" format="2">
+  <advance width="550"/>
+  <outline>
+    <contour>
+      <point x="528" y="170" type="line"/>
+      <point x="401" y="170" type="line"/>
+      <point x="401" y="715" type="line"/>
+      <point x="207" y="715" type="line"/>
+      <point x="205" y="711"/>
+      <point x="114" y="620"/>
+      <point x="42" y="620" type="curve"/>
+      <point x="42" y="446" type="line"/>
+      <point x="96" y="446"/>
+      <point x="185" y="501"/>
+      <point x="207" y="532" type="curve"/>
+      <point x="207" y="170" type="line"/>
+      <point x="65" y="170" type="line"/>
+      <point x="65" y="0" type="line"/>
+      <point x="528" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/08/19 05:42:09</string>
+    </dict>
+  </lib>
+</glyph>

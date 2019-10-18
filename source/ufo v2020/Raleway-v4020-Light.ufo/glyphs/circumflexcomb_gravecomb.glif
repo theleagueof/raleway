@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_gravecomb" format="2">
+  <anchor x="184" y="519" name="_top"/>
+  <anchor x="185" y="800" name="top"/>
+  <outline>
+    <component base="circumflexcomb" xOffset="29" yOffset="-47"/>
+    <component base="gravecomb" xOffset="-48" yOffset="13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/10/15 20:51:56</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>331</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

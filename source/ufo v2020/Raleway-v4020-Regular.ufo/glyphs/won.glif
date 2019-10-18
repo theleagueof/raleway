@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance width="1136"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="529" y="305" type="line"/>
+      <point x="529" y="357" type="line"/>
+      <point x="38" y="357" type="line"/>
+      <point x="38" y="305" type="line"/>
+    </contour>
+    <contour>
+      <point x="606" y="357" type="line"/>
+      <point x="606" y="305" type="line"/>
+      <point x="1097" y="305" type="line"/>
+      <point x="1097" y="357" type="line"/>
+    </contour>
+    <contour>
+      <point x="529" y="426" type="line"/>
+      <point x="529" y="478" type="line"/>
+      <point x="38" y="478" type="line"/>
+      <point x="38" y="426" type="line"/>
+    </contour>
+    <contour>
+      <point x="606" y="478" type="line"/>
+      <point x="606" y="426" type="line"/>
+      <point x="1097" y="426" type="line"/>
+      <point x="1097" y="478" type="line"/>
+    </contour>
+    <component base="W" xOffset="43"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/08/19 05:12:36</string>
+    </dict>
+  </lib>
+</glyph>

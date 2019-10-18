@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.ss05" format="2">
+  <advance width="236"/>
+  <outline>
+    <contour>
+      <point x="165" y="730" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="41" y="0"/>
+      <point x="98" y="0"/>
+      <point x="98" y="0" type="curve"/>
+      <point x="253" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/16 03:25:43</string>
+    </dict>
+  </lib>
+</glyph>
