@@ -1,5 +1,5 @@
 {
-.appVersion = "951";
+.appVersion = "1268";
 copyright = "Copyright 2010 The Raleway Project Authors (impallari@gmail.com), with Reserved Font Name \"Raleway\".";
 customParameters = (
 {
@@ -106619,7 +106619,7 @@ weightClass = Thin;
 customParameters = (
 {
 name = weightClass;
-value = "275";
+value = 200;
 }
 );
 interpolationWeight = 82.4;
@@ -106658,8 +106658,8 @@ weightClass = Medium;
 {
 interpolationWeight = 529.4;
 instanceInterpolations = {
-"A8272220-FCE5-4C48-BDEF-D37440F7149C" = 0.784333;
-"CD86D743-087E-48CD-95ED-391136C80322" = 0.215667;
+"A8272220-FCE5-4C48-BDEF-D37440F7149C" = 0.78433;
+"CD86D743-087E-48CD-95ED-391136C80322" = 0.21567;
 };
 name = SemiBold;
 weightClass = SemiBold;
@@ -106677,8 +106677,8 @@ weightClass = Bold;
 {
 interpolationWeight = 823.5;
 instanceInterpolations = {
-"A8272220-FCE5-4C48-BDEF-D37440F7149C" = 0.294167;
-"CD86D743-087E-48CD-95ED-391136C80322" = 0.705833;
+"A8272220-FCE5-4C48-BDEF-D37440F7149C" = 0.29417;
+"CD86D743-087E-48CD-95ED-391136C80322" = 0.70583;
 };
 name = ExtraBold;
 weightClass = ExtraBold;
