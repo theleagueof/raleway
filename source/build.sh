@@ -11,12 +11,14 @@ fontmake -m Raleway-Italic.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
 fontmake -m Raleway-Roman.designspace -o variable --output-path ../fonts/ttf/Raleway[wght].ttf
-fontmake -m Raleway-Italic.designspace -o variable --output-path ../fonts/ttf/Raleway-Italic[wght].ttf
+# fontmake -m Raleway-Italic.designspace -o variable --output-path ../fonts/ttf/Raleway-Italic[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/*
 
 echo "Checking TYPOGRAPHIC_SUBFAMILY_NAME (aka f.info.openTypeNamePreferredSubfamilyName) in VFs"
 python fixTypographicSubfamilyName.py
+
+
 
 echo "Post processing"
 ttfs=$(ls ../fonts/ttf/*.ttf)
@@ -67,5 +69,13 @@ do
 	gftools fix-hinting $vf;
 	mv "$vf.fix" $vf;
 done
+
+echo "Fixing Non-Hinting"
+for vf in $vfs
+do
+	gftools fix-nonhinting $vf;
+	mv "$vf.fix" $vf;
+done
+
 
 
