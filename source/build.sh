@@ -15,6 +15,8 @@ fontmake -m Raleway-Italic.designspace -o variable --output-path ../fonts/ttf/Ra
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/*
 
+echo "Checking TYPOGRAPHIC_SUBFAMILY_NAME (aka f.info.openTypeNamePreferredSubfamilyName) in VFs"
+python fixTypographicSubfamilyName.py
 
 echo "Post processing"
 ttfs=$(ls ../fonts/ttf/*.ttf)
