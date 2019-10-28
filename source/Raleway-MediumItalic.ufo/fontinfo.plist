@@ -17,6 +17,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>cJ01N1ps9A</string>
         <key>x</key>
         <integer>162</integer>
         <key>y</key>
@@ -25,6 +27,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>yk2YWsoRzM</string>
         <key>x</key>
         <integer>239</integer>
         <key>y</key>
@@ -33,6 +37,8 @@
       <dict>
         <key>angle</key>
         <integer>78</integer>
+        <key>identifier</key>
+        <string>YmB1jEbX2S</string>
         <key>x</key>
         <integer>88</integer>
         <key>y</key>
@@ -41,6 +47,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>4Fcn2uYhrK</string>
         <key>x</key>
         <integer>226</integer>
         <key>y</key>
@@ -49,6 +57,8 @@
       <dict>
         <key>angle</key>
         <integer>78</integer>
+        <key>identifier</key>
+        <string>TPkEmV0FR0</string>
         <key>x</key>
         <integer>550</integer>
         <key>y</key>
@@ -57,6 +67,8 @@
       <dict>
         <key>angle</key>
         <integer>78</integer>
+        <key>identifier</key>
+        <string>9mQWPeVhcC</string>
         <key>x</key>
         <integer>640</integer>
         <key>y</key>
@@ -65,6 +77,8 @@
       <dict>
         <key>angle</key>
         <integer>78</integer>
+        <key>identifier</key>
+        <string>Bafb75flwF</string>
         <key>x</key>
         <integer>44</integer>
         <key>y</key>
@@ -73,6 +87,8 @@
       <dict>
         <key>angle</key>
         <integer>78</integer>
+        <key>identifier</key>
+        <string>BfxSJT4NGX</string>
         <key>x</key>
         <integer>176</integer>
         <key>y</key>

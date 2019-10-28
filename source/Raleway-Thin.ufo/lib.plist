@@ -1061,20 +1061,29 @@
           <string>circumflexcomb_tildecomb</string>
           <string>NULL</string>
           <string>dotbelow</string>
-          <string>G.alt</string>
           <string>Gacute</string>
           <string>IJ</string>
-          <string>W.alt</string>
-          <string>a.alt2</string>
           <string>commaaccent</string>
-          <string>d.alt</string>
           <string>gacute</string>
           <string>ij</string>
-          <string>j.alt</string>
-          <string>l.alt</string>
           <string>napostrophe</string>
-          <string>q.alt</string>
           <string>servicemark</string>
+          <string>apostrophe</string>
+          <string>uni01C5</string>
+          <string>uni01C6</string>
+          <string>uni01C7</string>
+          <string>uni01C8</string>
+          <string>uni01C9</string>
+          <string>uni01CA</string>
+          <string>uni01CB</string>
+          <string>uni01CC</string>
+          <string>uni01F1</string>
+          <string>uni01F2</string>
+          <string>uni01F3</string>
+          <string>uni0394</string>
+          <string>uni03A9</string>
+          <string>uni03BC</string>
+          <string>uni01C4</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
@@ -4716,19 +4725,12 @@
       <string>circumflexcomb_tildecomb</string>
       <string>NULL</string>
       <string>dotbelow</string>
-      <string>G.alt</string>
       <string>Gacute</string>
       <string>IJ</string>
-      <string>W.alt</string>
-      <string>a.alt2</string>
       <string>commaaccent</string>
-      <string>d.alt</string>
       <string>gacute</string>
       <string>ij</string>
-      <string>j.alt</string>
-      <string>l.alt</string>
       <string>napostrophe</string>
-      <string>q.alt</string>
       <string>servicemark</string>
       <string>apostrophe</string>
       <string>uni01C5</string>
@@ -4745,6 +4747,7 @@
       <string>uni0394</string>
       <string>uni03A9</string>
       <string>uni03BC</string>
+      <string>uni01C4</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

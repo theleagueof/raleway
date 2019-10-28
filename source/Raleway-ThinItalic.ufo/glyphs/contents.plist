@@ -228,8 +228,6 @@
     <string>F_ita-cy.glif</string>
     <key>G</key>
     <string>G_.glif</string>
-    <key>G.alt</key>
-    <string>G_.alt.glif</string>
     <key>G.ss11</key>
     <string>G_.ss11.glif</string>
     <key>Gacute</key>
@@ -656,8 +654,6 @@
     <string>V_e-cy.glif</string>
     <key>W</key>
     <string>W_.glif</string>
-    <key>W.alt</key>
-    <string>W_.alt.glif</string>
     <key>W.ss09</key>
     <string>W_.ss09.glif</string>
     <key>Wacute</key>
@@ -732,8 +728,6 @@
     <string>a.glif</string>
     <key>a-cy</key>
     <string>a-cy.glif</string>
-    <key>a.alt2</key>
-    <string>a.alt2.glif</string>
     <key>a.sc</key>
     <string>a.sc.glif</string>
     <key>a.ss01</key>
@@ -942,8 +936,6 @@
     <string>currency.glif</string>
     <key>d</key>
     <string>d.glif</string>
-    <key>d.alt</key>
-    <string>d.alt.glif</string>
     <key>d.sc</key>
     <string>d.sc.glif</string>
     <key>d.ss03</key>
@@ -1376,8 +1368,6 @@
     <string>izhitsa-cy.glif</string>
     <key>j</key>
     <string>j.glif</string>
-    <key>j.alt</key>
-    <string>j.alt.glif</string>
     <key>j.sc</key>
     <string>j.sc.glif</string>
     <key>j.ss04</key>
@@ -1416,8 +1406,6 @@
     <string>kje-cy.glif</string>
     <key>l</key>
     <string>l.glif</string>
-    <key>l.alt</key>
-    <string>l.alt.glif</string>
     <key>l.sc</key>
     <string>l.sc.glif</string>
     <key>l.ss05</key>
@@ -1682,8 +1670,6 @@
     <string>punctuationspace.glif</string>
     <key>q</key>
     <string>q.glif</string>
-    <key>q.alt</key>
-    <string>q.alt.glif</string>
     <key>q.sc</key>
     <string>q.sc.glif</string>
     <key>q.ss06</key>
