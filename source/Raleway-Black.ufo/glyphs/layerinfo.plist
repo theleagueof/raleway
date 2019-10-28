@@ -2104,6 +2104,14 @@
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.zhedieresis-cy</key>
       <integer>1</integer>
+      <key>com.typemytype.robofont.layerShowCoordinates</key>
+      <false/>
+      <key>com.typemytype.robofont.layerShowFill</key>
+      <false/>
+      <key>com.typemytype.robofont.layerShowPoints</key>
+      <true/>
+      <key>com.typemytype.robofont.layerShowStroke</key>
+      <true/>
     </dict>
   </dict>
 </plist>

@@ -26,6 +26,8 @@
     <string>E_rtick-cy.glif</string>
     <key>Eth</key>
     <string>E_th.glif</string>
+    <key>G.alt</key>
+    <string>G_.alt.glif</string>
     <key>G.ss11</key>
     <string>G_.ss11.glif</string>
     <key>Haabkhasian-cy</key>
@@ -108,6 +110,10 @@
     <string>eightsuperior.glif</string>
     <key>ertick-cy</key>
     <string>ertick-cy.glif</string>
+    <key>f_f</key>
+    <string>f_f.glif</string>
+    <key>f_f_i</key>
+    <string>f_f_i.glif</string>
     <key>f_f_l</key>
     <string>f_f_l.glif</string>
     <key>five.dnom</key>

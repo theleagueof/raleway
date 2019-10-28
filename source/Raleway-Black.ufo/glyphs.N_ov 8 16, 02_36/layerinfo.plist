@@ -10,6 +10,8 @@
       <string>90BF44CB-F507-4D76-90EC-884700749D0C</string>
       <key>com.schriftgestaltung.layerOrderInGlyph.W.ss09</key>
       <integer>3</integer>
+      <key>com.typemytype.robofont.layerShow</key>
+      <true/>
     </dict>
   </dict>
 </plist>

@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>G.alt</key>
+    <string>G_.alt.glif</string>
     <key>G.ss11</key>
     <string>G_.ss11.glif</string>
   </dict>
