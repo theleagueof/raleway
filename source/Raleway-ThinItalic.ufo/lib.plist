@@ -116,6 +116,8 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
+    <key>com.typemytype.robofont.segmentType</key>
+    <string>curve</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
@@ -1158,6 +1160,21 @@
       <string>NULL</string>
       <string>dotbelow</string>
       <string>Ertick-cy.BRACKET.700</string>
+      <string>G.alt</string>
+      <string>Gacute</string>
+      <string>IJ</string>
+      <string>W.alt</string>
+      <string>a.alt2</string>
+      <string>commaaccent</string>
+      <string>d.alt</string>
+      <string>gacute</string>
+      <string>ij</string>
+      <string>j.alt</string>
+      <string>l.alt</string>
+      <string>napostrophe</string>
+      <string>apostrophe</string>
+      <string>q.alt</string>
+      <string>servicemark</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

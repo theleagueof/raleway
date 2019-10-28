@@ -228,8 +228,12 @@
     <string>F_ita-cy.glif</string>
     <key>G</key>
     <string>G_.glif</string>
+    <key>G.alt</key>
+    <string>G_.alt.glif</string>
     <key>G.ss11</key>
     <string>G_.ss11.glif</string>
+    <key>Gacute</key>
+    <string>G_acute.glif</string>
     <key>Gbreve</key>
     <string>G_breve.glif</string>
     <key>Gcaron</key>
@@ -286,6 +290,8 @@
     <string>I_.glif</string>
     <key>I-cy</key>
     <string>I_-cy.glif</string>
+    <key>IJ</key>
+    <string>I_J_.glif</string>
     <key>Ia-cy</key>
     <string>I_a-cy.glif</string>
     <key>Iacute</key>
@@ -650,6 +656,8 @@
     <string>V_e-cy.glif</string>
     <key>W</key>
     <string>W_.glif</string>
+    <key>W.alt</key>
+    <string>W_.alt.glif</string>
     <key>W.ss09</key>
     <string>W_.ss09.glif</string>
     <key>Wacute</key>
@@ -724,6 +732,8 @@
     <string>a.glif</string>
     <key>a-cy</key>
     <string>a-cy.glif</string>
+    <key>a.alt2</key>
+    <string>a.alt2.glif</string>
     <key>a.sc</key>
     <string>a.sc.glif</string>
     <key>a.ss01</key>
@@ -788,6 +798,8 @@
     <string>ampersand.glif</string>
     <key>aogonek</key>
     <string>aogonek.glif</string>
+    <key>apostrophe</key>
+    <string>apostrophe.glif</string>
     <key>apostrophemod</key>
     <string>apostrophemod.glif</string>
     <key>approxequal</key>
@@ -916,6 +928,8 @@
     <string>colonsign.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
+    <key>commaaccent</key>
+    <string>commaaccent.glif</string>
     <key>commaaccentcomb</key>
     <string>commaaccentcomb.glif</string>
     <key>commaturnedabovecomb</key>
@@ -928,6 +942,8 @@
     <string>currency.glif</string>
     <key>d</key>
     <string>d.glif</string>
+    <key>d.alt</key>
+    <string>d.alt.glif</string>
     <key>d.sc</key>
     <string>d.sc.glif</string>
     <key>d.ss03</key>
@@ -1186,6 +1202,8 @@
     <string>g.glif</string>
     <key>g.sc</key>
     <string>g.sc.glif</string>
+    <key>gacute</key>
+    <string>gacute.glif</string>
     <key>gbreve</key>
     <string>gbreve.glif</string>
     <key>gcaron</key>
@@ -1332,6 +1350,8 @@
     <string>iishort-cy.glif</string>
     <key>iishorttail-cy</key>
     <string>iishorttail-cy.glif</string>
+    <key>ij</key>
+    <string>ij.glif</string>
     <key>imacron</key>
     <string>imacron.glif</string>
     <key>imacron-cy</key>
@@ -1356,6 +1376,8 @@
     <string>izhitsa-cy.glif</string>
     <key>j</key>
     <string>j.glif</string>
+    <key>j.alt</key>
+    <string>j.alt.glif</string>
     <key>j.sc</key>
     <string>j.sc.glif</string>
     <key>j.ss04</key>
@@ -1394,6 +1416,8 @@
     <string>kje-cy.glif</string>
     <key>l</key>
     <string>l.glif</string>
+    <key>l.alt</key>
+    <string>l.alt.glif</string>
     <key>l.sc</key>
     <string>l.sc.glif</string>
     <key>l.ss05</key>
@@ -1458,6 +1482,8 @@
     <string>nacute.glif</string>
     <key>naira</key>
     <string>naira.glif</string>
+    <key>napostrophe</key>
+    <string>napostrophe.glif</string>
     <key>nbspace</key>
     <string>nbspace.glif</string>
     <key>ncaron</key>
@@ -1656,6 +1682,8 @@
     <string>punctuationspace.glif</string>
     <key>q</key>
     <string>q.glif</string>
+    <key>q.alt</key>
+    <string>q.alt.glif</string>
     <key>q.sc</key>
     <string>q.sc.glif</string>
     <key>q.ss06</key>
@@ -1758,6 +1786,8 @@
     <string>semicolon.glif</string>
     <key>semisoftsign-cy</key>
     <string>semisoftsign-cy.glif</string>
+    <key>servicemark</key>
+    <string>servicemark.glif</string>
     <key>seven</key>
     <string>seven.glif</string>
     <key>seven.dnom</key>

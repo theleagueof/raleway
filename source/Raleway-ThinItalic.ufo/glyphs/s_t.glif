@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="s_t" format="2">
   <advance width="731"/>
+  <unicode hex="FB06"/>
   <outline>
     <contour>
-      <point x="85" y="-10"/>
       <point x="167" y="-10" type="curve" smooth="yes"/>
       <point x="260" y="-10"/>
       <point x="388" y="37"/>
@@ -92,6 +92,7 @@
       <point x="14" y="85" type="curve"/>
       <point x="-3" y="72" type="line"/>
       <point x="30" y="27"/>
+      <point x="85" y="-10"/>
     </contour>
   </outline>
 </glyph>

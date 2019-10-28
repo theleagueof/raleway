@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_i" format="2">
   <advance width="887"/>
+  <unicode hex="FB03"/>
   <outline>
     <contour>
-      <point x="86" y="322" type="line"/>
       <point x="18" y="0" type="line"/>
       <point x="208" y="0" type="line"/>
       <point x="276" y="322" type="line"/>
@@ -39,9 +39,9 @@
       <point x="117" y="465" type="line"/>
       <point x="56" y="465" type="line"/>
       <point x="25" y="322" type="line"/>
+      <point x="86" y="322" type="line"/>
     </contour>
     <contour>
-      <point x="396" y="465" type="curve"/>
       <point x="307" y="465" type="line"/>
       <point x="313" y="495" type="line" smooth="yes"/>
       <point x="320" y="529"/>
@@ -52,6 +52,7 @@
       <point x="410" y="537" type="curve"/>
       <point x="406" y="513"/>
       <point x="401" y="489"/>
+      <point x="396" y="465" type="curve"/>
     </contour>
   </outline>
 </glyph>
