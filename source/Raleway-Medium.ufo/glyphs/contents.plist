@@ -1992,6 +1992,20 @@
     <string>umacrondieresis.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
+    <key>uni01C5</key>
+    <string>uni01C_5.glif</string>
+    <key>uni01C6</key>
+    <string>uni01C_6.glif</string>
+    <key>uni01C7</key>
+    <string>uni01C_7.glif</string>
+    <key>uni01C8</key>
+    <string>uni01C_8.glif</string>
+    <key>uni01C9</key>
+    <string>uni01C_9.glif</string>
+    <key>uni01CA</key>
+    <string>uni01C_A_.glif</string>
+    <key>uni01CB</key>
+    <string>uni01C_B_.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
     <key>uring</key>

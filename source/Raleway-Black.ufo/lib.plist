@@ -4731,6 +4731,13 @@
       <string>q.alt</string>
       <string>servicemark</string>
       <string>apostrophe</string>
+      <string>uni01C5</string>
+      <string>uni01C6</string>
+      <string>uni01C7</string>
+      <string>uni01C8</string>
+      <string>uni01C9</string>
+      <string>uni01CA</string>
+      <string>uni01CB</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
