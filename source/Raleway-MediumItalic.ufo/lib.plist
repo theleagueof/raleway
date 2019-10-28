@@ -2242,6 +2242,21 @@
       <string>napostrophe</string>
       <string>apostrophe</string>
       <string>servicemark</string>
+      <string>uni01C5</string>
+      <string>uni01C6</string>
+      <string>uni01C7</string>
+      <string>uni01C8</string>
+      <string>uni01C9</string>
+      <string>uni01CA</string>
+      <string>uni01CB</string>
+      <string>uni01CC</string>
+      <string>uni01F1</string>
+      <string>uni01F2</string>
+      <string>uni01F3</string>
+      <string>uni0394</string>
+      <string>uni03A9</string>
+      <string>uni03BC</string>
+      <string>uni01C4</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
