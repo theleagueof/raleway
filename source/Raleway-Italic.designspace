@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="500">
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="100">
       <map input="100" output="0"/>
       <map input="200" output="82.400000"/>
       <map input="300" output="176.500000"/>
@@ -22,21 +22,21 @@
     </rule>
   </rules>
   <sources>
-    <source filename="Raleway-LightItalic.ufo" name="Raleway Light Italic" familyname="Raleway" stylename="Light Italic">
-      <location>
-        <dimension name="Weight" xvalue="0"/>
-      </location>
-    </source>
-    <source filename="Raleway-Italic.ufo" name="Raleway Italic" familyname="Raleway" stylename="Italic">
+    <source filename="Raleway-ThinItalic.ufo" name="Raleway Thin Italic" familyname="Raleway" stylename="Thin Italic">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
       <info copy="1"/>
       <location>
+        <dimension name="Weight" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Raleway-MediumItalic.ufo" name="Raleway Medium Italic" familyname="Raleway" stylename="Medium Italic">
+      <location>
         <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Raleway-BoldItalic.ufo" name="Raleway Bold Italic" familyname="Raleway" stylename="Bold Italic">
+    <source filename="Raleway-BlackItalic.ufo" name="Raleway Black Italic" familyname="Raleway" stylename="Black Italic">
       <location>
         <dimension name="Weight" xvalue="1000"/>
       </location>
@@ -182,9 +182,9 @@
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
             <key>51AEF656-B224-4228-B44D-D7CFD243EB09</key>
-            <real>0.784333</real>
+            <real>0.78433</real>
             <key>985A8054-912F-442C-AEAA-CDACF2D0DECF</key>
-            <real>0.215667</real>
+            <real>0.21567</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
@@ -234,9 +234,9 @@
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
             <key>51AEF656-B224-4228-B44D-D7CFD243EB09</key>
-            <real>0.294167</real>
+            <real>0.29417</real>
             <key>985A8054-912F-442C-AEAA-CDACF2D0DECF</key>
-            <real>0.705833</real>
+            <real>0.70583</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>

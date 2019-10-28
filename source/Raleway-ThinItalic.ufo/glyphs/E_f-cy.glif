@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ef-cy" format="2">
+  <advance width="791"/>
+  <unicode hex="0424"/>
+  <outline>
+    <contour>
+      <point x="347" y="71" type="curve"/>
+      <point x="347" y="91" type="line"/>
+      <point x="181" y="95"/>
+      <point x="51" y="191"/>
+      <point x="82" y="377" type="curve" smooth="yes"/>
+      <point x="113" y="559"/>
+      <point x="272" y="665"/>
+      <point x="474" y="664" type="curve"/>
+      <point x="474" y="684" type="line"/>
+      <point x="270" y="685"/>
+      <point x="98" y="574"/>
+      <point x="62" y="377" type="curve" smooth="yes"/>
+      <point x="30" y="187"/>
+      <point x="158" y="74"/>
+    </contour>
+    <contour>
+      <point x="323" y="0" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="358" y="73" type="line"/>
+      <point x="359" y="79" type="line"/>
+      <point x="485" y="674" type="line"/>
+      <point x="487" y="682" type="line"/>
+      <point x="499" y="740" type="line"/>
+      <point x="479" y="740" type="line"/>
+      <point x="466" y="681" type="line"/>
+      <point x="465" y="674" type="line"/>
+      <point x="341" y="81" type="line"/>
+      <point x="339" y="74" type="line"/>
+    </contour>
+    <contour>
+      <point x="355" y="71" type="line"/>
+      <point x="558" y="69"/>
+      <point x="730" y="186"/>
+      <point x="762" y="377" type="curve" smooth="yes"/>
+      <point x="794" y="568"/>
+      <point x="665" y="681"/>
+      <point x="479" y="684" type="curve"/>
+      <point x="479" y="664" type="line"/>
+      <point x="645" y="660"/>
+      <point x="772" y="564"/>
+      <point x="742" y="377" type="curve" smooth="yes"/>
+      <point x="713" y="198"/>
+      <point x="552" y="89"/>
+      <point x="355" y="91" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

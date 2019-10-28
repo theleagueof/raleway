@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iu-cy" format="2">
+  <advance width="983"/>
+  <unicode hex="042E"/>
+  <outline>
+    <contour>
+      <point x="34" y="0" type="line"/>
+      <point x="54" y="0" type="line"/>
+      <point x="127" y="345" type="line"/>
+      <point x="300" y="345" type="line"/>
+      <point x="304" y="365" type="line"/>
+      <point x="131" y="365" type="line"/>
+      <point x="204" y="710" type="line"/>
+      <point x="184" y="710" type="line"/>
+    </contour>
+    <component base="O-cy" xOffset="229"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

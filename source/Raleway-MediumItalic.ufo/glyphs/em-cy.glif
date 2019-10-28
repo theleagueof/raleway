@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="em-cy" format="2">
+  <advance width="697"/>
+  <unicode hex="043C"/>
+  <anchor x="490" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="13" y="0" type="line"/>
+      <point x="97" y="0" type="line"/>
+      <point x="182" y="401" type="line"/>
+      <point x="287" y="93" type="line"/>
+      <point x="343" y="93" type="line"/>
+      <point x="574" y="399" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="574" y="0" type="line"/>
+      <point x="684" y="522" type="line"/>
+      <point x="581" y="522" type="line"/>
+      <point x="330" y="192" type="line"/>
+      <point x="221" y="522" type="line"/>
+      <point x="123" y="522" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>en-cy</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emacrongrave" format="2">
+  <advance width="580"/>
+  <outline>
+    <component base="E"/>
+    <component base="macroncomb" xOffset="140" yOffset="188"/>
+    <component base="gravecomb" xOffset="184" yOffset="376"/>
+  </outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="574"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="184" y="710" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="53" y="0" type="line"/>
+      <point x="80" y="129" type="line"/>
+      <point x="323" y="129" type="line" smooth="yes"/>
+      <point x="449" y="129"/>
+      <point x="557" y="260"/>
+      <point x="557" y="383" type="curve" smooth="yes"/>
+      <point x="557" y="473"/>
+      <point x="502" y="560"/>
+      <point x="408" y="560" type="curve"/>
+      <point x="172" y="560" type="line"/>
+      <point x="204" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="327" y="149" type="curve"/>
+      <point x="85" y="149" type="line"/>
+      <point x="168" y="540" type="line"/>
+      <point x="403" y="540" type="line" smooth="yes"/>
+      <point x="484" y="540"/>
+      <point x="537" y="465"/>
+      <point x="537" y="380" type="curve" smooth="yes"/>
+      <point x="537" y="274"/>
+      <point x="445" y="149"/>
+    </contour>
+  </outline>
+</glyph>

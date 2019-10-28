@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Be-cy" format="2">
+  <advance width="687"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="-3" y="0" type="line"/>
+      <point x="387" y="0" type="line" smooth="yes"/>
+      <point x="544" y="0"/>
+      <point x="637" y="84"/>
+      <point x="657" y="222" type="curve" smooth="yes"/>
+      <point x="676" y="354"/>
+      <point x="601" y="435"/>
+      <point x="439" y="435" type="curve" smooth="yes"/>
+      <point x="285" y="435" type="line"/>
+      <point x="308" y="543" type="line"/>
+      <point x="656" y="543" type="line"/>
+      <point x="691" y="710" type="line"/>
+      <point x="148" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="164" type="line"/>
+      <point x="253" y="286" type="line"/>
+      <point x="398" y="286" type="line" smooth="yes"/>
+      <point x="452" y="286"/>
+      <point x="462" y="258"/>
+      <point x="457" y="228" type="curve" smooth="yes"/>
+      <point x="452" y="197"/>
+      <point x="431" y="164"/>
+      <point x="382" y="164" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+    </dict>
+  </lib>
+</glyph>

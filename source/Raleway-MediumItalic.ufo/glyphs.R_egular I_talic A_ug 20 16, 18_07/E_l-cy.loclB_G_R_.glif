@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="El-cy.loclBGR" format="2">
+  <advance width="643"/>
+  <outline>
+    <contour>
+      <point x="-48" y="0" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="390" y="604" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="571" y="0" type="line"/>
+      <point x="454" y="710" type="line"/>
+      <point x="372" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>
