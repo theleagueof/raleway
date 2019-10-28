@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yusbig-cy" format="2">
+  <advance width="820"/>
+  <unicode hex="046B"/>
+  <outline>
+    <contour>
+      <point x="35" y="0" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="313" y="228" type="line"/>
+      <point x="365" y="228" type="line"/>
+      <point x="365" y="0" type="line"/>
+      <point x="455" y="0" type="line"/>
+      <point x="455" y="228" type="line"/>
+      <point x="508" y="228" type="line"/>
+      <point x="679" y="0" type="line"/>
+      <point x="785" y="0" type="line"/>
+      <point x="580" y="269" type="line"/>
+      <point x="764" y="522" type="line"/>
+      <point x="56" y="522" type="line"/>
+      <point x="239" y="269" type="line"/>
+    </contour>
+    <contour>
+      <point x="319" y="297" type="line"/>
+      <point x="193" y="473" type="line"/>
+      <point x="626" y="473" type="line"/>
+      <point x="502" y="297" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>zhe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>zhe-cy</string>
+    </dict>
+  </lib>
+</glyph>

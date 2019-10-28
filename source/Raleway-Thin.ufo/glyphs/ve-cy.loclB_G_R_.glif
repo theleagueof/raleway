@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ve-cy.loclBGR" format="2">
+  <advance width="555"/>
+  <outline>
+    <contour>
+      <point x="292" y="-6" type="curve" smooth="yes"/>
+      <point x="427" y="-6"/>
+      <point x="500" y="74"/>
+      <point x="500" y="203" type="curve" smooth="yes"/>
+      <point x="500" y="314"/>
+      <point x="446" y="389"/>
+      <point x="345" y="407" type="curve"/>
+      <point x="407" y="430"/>
+      <point x="448" y="480"/>
+      <point x="448" y="555" type="curve" smooth="yes"/>
+      <point x="448" y="656"/>
+      <point x="370" y="714"/>
+      <point x="268" y="714" type="curve" smooth="yes"/>
+      <point x="159" y="714"/>
+      <point x="84" y="640"/>
+      <point x="84" y="529" type="curve" smooth="yes"/>
+      <point x="84" y="203" type="line" smooth="yes"/>
+      <point x="84" y="74"/>
+      <point x="157" y="-6"/>
+    </contour>
+    <contour>
+      <point x="292" y="14" type="curve" smooth="yes"/>
+      <point x="172" y="14"/>
+      <point x="104" y="84"/>
+      <point x="104" y="203" type="curve" smooth="yes"/>
+      <point x="104" y="393" type="line"/>
+      <point x="292" y="393" type="line" smooth="yes"/>
+      <point x="412" y="393"/>
+      <point x="480" y="323"/>
+      <point x="480" y="203" type="curve" smooth="yes"/>
+      <point x="480" y="84"/>
+      <point x="412" y="14"/>
+    </contour>
+    <contour>
+      <point x="104" y="413" type="line"/>
+      <point x="104" y="529" type="line" smooth="yes"/>
+      <point x="104" y="629"/>
+      <point x="168" y="694"/>
+      <point x="267" y="694" type="curve" smooth="yes"/>
+      <point x="359" y="694"/>
+      <point x="428" y="645"/>
+      <point x="428" y="555" type="curve" smooth="yes"/>
+      <point x="428" y="463"/>
+      <point x="359" y="413"/>
+      <point x="267" y="413" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

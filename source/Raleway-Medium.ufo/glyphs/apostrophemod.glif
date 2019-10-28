@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="apostrophemod" format="2">
+  <advance width="232"/>
+  <unicode hex="02BC"/>
+  <anchor x="91" y="522" name="_top"/>
+  <outline>
+    <contour>
+      <point x="106" y="609" type="line"/>
+      <point x="194" y="730" type="line"/>
+      <point x="106" y="730" type="line"/>
+      <point x="48" y="629" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

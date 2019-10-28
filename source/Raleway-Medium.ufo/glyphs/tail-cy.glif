@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tail-cy" format="2">
+  <advance width="210"/>
+  <guideline x="121" y="-23" angle="66.7323"/>
+  <guideline x="43" y="-23" angle="66.7323"/>
+  <guideline x="82" y="77" angle="0"/>
+  <anchor x="0" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="13" y="-143" type="line"/>
+      <point x="91" y="-143" type="line"/>
+      <point x="164" y="77" type="line"/>
+      <point x="0" y="77" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="73" y="40" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="El-cy" format="2">
+  <advance width="672"/>
+  <unicode hex="041B"/>
+  <outline>
+    <contour>
+      <point x="573" y="710" type="line"/>
+      <point x="173" y="710" type="line"/>
+      <point x="173" y="549" type="line" smooth="yes"/>
+      <point x="173" y="157"/>
+      <point x="118" y="20"/>
+      <point x="10" y="20" type="curve"/>
+      <point x="10" y="0" type="line"/>
+      <point x="100" y="0"/>
+      <point x="193" y="71"/>
+      <point x="193" y="503" type="curve" smooth="yes"/>
+      <point x="193" y="690" type="line"/>
+      <point x="553" y="690" type="line"/>
+      <point x="553" y="0" type="line"/>
+      <point x="573" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>En-cy</string>
+    </dict>
+  </lib>
+</glyph>

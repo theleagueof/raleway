@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cheabkhasian-cy" format="2">
+  <advance width="672"/>
+  <unicode hex="04BD"/>
+  <outline>
+    <contour>
+      <point x="22" y="396"/>
+      <point x="11" y="366"/>
+      <point x="11" y="339" type="curve" smooth="yes"/>
+      <point x="11" y="275"/>
+      <point x="71" y="231"/>
+      <point x="170" y="231" type="curve" smooth="yes"/>
+      <point x="258" y="231" type="line"/>
+      <point x="258" y="292" type="line"/>
+      <point x="145" y="292" type="line" smooth="yes"/>
+      <point x="100" y="292"/>
+      <point x="69" y="314"/>
+      <point x="69" y="350" type="curve" smooth="yes"/>
+      <point x="69" y="366"/>
+      <point x="75" y="384"/>
+      <point x="89" y="405" type="curve"/>
+      <point x="48" y="428" type="line"/>
+    </contour>
+    <contour>
+      <point x="383" y="-10" type="curve" smooth="yes"/>
+      <point x="488" y="-10"/>
+      <point x="577" y="45"/>
+      <point x="611" y="122" type="curve"/>
+      <point x="535" y="143" type="line"/>
+      <point x="513" y="91"/>
+      <point x="450" y="56"/>
+      <point x="386" y="56" type="curve" smooth="yes"/>
+      <point x="300" y="56"/>
+      <point x="219" y="128"/>
+      <point x="211" y="231" type="curve"/>
+      <point x="643" y="231" type="line"/>
+      <point x="644" y="237"/>
+      <point x="645" y="251"/>
+      <point x="645" y="265" type="curve" smooth="yes"/>
+      <point x="645" y="405"/>
+      <point x="542" y="531"/>
+      <point x="384" y="531" type="curve" smooth="yes"/>
+      <point x="245" y="531"/>
+      <point x="131" y="408"/>
+      <point x="131" y="261" type="curve" smooth="yes"/>
+      <point x="131" y="114"/>
+      <point x="244" y="-10"/>
+    </contour>
+    <contour>
+      <point x="208" y="292" type="line"/>
+      <point x="215" y="393"/>
+      <point x="296" y="465"/>
+      <point x="384" y="465" type="curve" smooth="yes"/>
+      <point x="477" y="465"/>
+      <point x="554" y="394"/>
+      <point x="563" y="292" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>e</string>
+    </dict>
+  </lib>
+</glyph>

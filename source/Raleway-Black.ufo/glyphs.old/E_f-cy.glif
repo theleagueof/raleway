@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ef-cy" format="2">
+  <advance width="840"/>
+  <unicode hex="0424"/>
+  <outline>
+    <contour>
+      <point x="328" y="-30" type="line"/>
+      <point x="512" y="-30" type="line"/>
+      <point x="512" y="53" type="line"/>
+      <point x="724" y="81"/>
+      <point x="818" y="201"/>
+      <point x="818" y="366" type="curve" smooth="yes"/>
+      <point x="818" y="523"/>
+      <point x="731" y="652"/>
+      <point x="512" y="681" type="curve"/>
+      <point x="512" y="780" type="line"/>
+      <point x="328" y="780" type="line"/>
+      <point x="328" y="681" type="line"/>
+      <point x="108" y="652"/>
+      <point x="22" y="523"/>
+      <point x="22" y="366" type="curve" smooth="yes"/>
+      <point x="22" y="201"/>
+      <point x="116" y="79"/>
+      <point x="328" y="52" type="curve"/>
+    </contour>
+    <contour>
+      <point x="328" y="232" type="line"/>
+      <point x="239" y="251"/>
+      <point x="208" y="300"/>
+      <point x="208" y="367" type="curve" smooth="yes"/>
+      <point x="208" y="438"/>
+      <point x="240" y="483"/>
+      <point x="328" y="501" type="curve"/>
+    </contour>
+    <contour>
+      <point x="512" y="232" type="curve"/>
+      <point x="512" y="501" type="line"/>
+      <point x="599" y="483"/>
+      <point x="631" y="438"/>
+      <point x="631" y="367" type="curve" smooth="yes"/>
+      <point x="631" y="300"/>
+      <point x="601" y="251"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

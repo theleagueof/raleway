@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Es-cy" format="2">
+  <advance width="682"/>
+  <unicode hex="0421"/>
+  <anchor x="393" y="-3" name="bottomright"/>
+  <outline>
+    <component base="C"/>
+  </outline>
+</glyph>

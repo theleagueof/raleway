@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaverticalstroke-cy" format="2">
+  <advance width="565"/>
+  <unicode hex="049D"/>
+  <outline>
+    <contour>
+      <point x="71" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="229" type="line"/>
+      <point x="286" y="229" type="line"/>
+      <point x="451" y="0" type="line"/>
+      <point x="549" y="0" type="line"/>
+      <point x="359" y="269" type="line"/>
+      <point x="525" y="522" type="line"/>
+      <point x="430" y="522" type="line"/>
+      <point x="286" y="304" type="line"/>
+      <point x="158" y="304" type="line"/>
+      <point x="158" y="522" type="line"/>
+      <point x="71" y="522" type="line"/>
+    </contour>
+    <component base="verticalbar-cy" xOffset="177" yOffset="37"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ka-cy</string>
+    </dict>
+  </lib>
+</glyph>

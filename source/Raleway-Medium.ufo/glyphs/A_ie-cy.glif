@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aie-cy" format="2">
+  <advance width="961"/>
+  <unicode hex="04D4"/>
+  <outline>
+    <component base="AE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>AE</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>AE</string>
+    </dict>
+  </lib>
+</glyph>

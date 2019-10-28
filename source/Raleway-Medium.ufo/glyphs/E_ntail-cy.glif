@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Entail-cy" format="2">
+  <advance width="741"/>
+  <unicode hex="04C9"/>
+  <outline>
+    <component base="En-cy"/>
+    <component base="tail-cy.case" xOffset="589"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Tse-cy</string>
+    </dict>
+  </lib>
+</glyph>

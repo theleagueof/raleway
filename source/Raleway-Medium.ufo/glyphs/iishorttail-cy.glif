@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iishorttail-cy" format="2">
+  <advance width="600"/>
+  <unicode hex="048B"/>
+  <outline>
+    <component base="iishort-cy"/>
+    <component base="tail-cy" xOffset="442"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tse-cy</string>
+    </dict>
+  </lib>
+</glyph>

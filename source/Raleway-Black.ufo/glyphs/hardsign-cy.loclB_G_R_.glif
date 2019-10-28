@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hardsign-cy.loclBGR" format="2">
+  <advance width="660"/>
+  <outline>
+    <contour>
+      <point x="385" y="-6" type="curve" smooth="yes"/>
+      <point x="516" y="-6"/>
+      <point x="635" y="37"/>
+      <point x="635" y="198" type="curve" smooth="yes"/>
+      <point x="635" y="359"/>
+      <point x="516" y="402"/>
+      <point x="385" y="402" type="curve" smooth="yes"/>
+      <point x="316" y="402" type="line"/>
+      <point x="316" y="526" type="line"/>
+      <point x="11" y="526" type="line"/>
+      <point x="11" y="373" type="line"/>
+      <point x="126" y="373" type="line"/>
+      <point x="126" y="213" type="line" smooth="yes"/>
+      <point x="126" y="57"/>
+      <point x="223" y="-6"/>
+    </contour>
+    <contour>
+      <point x="381" y="148" type="curve" smooth="yes"/>
+      <point x="339" y="148"/>
+      <point x="316" y="167"/>
+      <point x="316" y="202" type="curve" smooth="yes"/>
+      <point x="316" y="256" type="line"/>
+      <point x="381" y="256" type="line" smooth="yes"/>
+      <point x="423" y="256"/>
+      <point x="446" y="237"/>
+      <point x="446" y="202" type="curve" smooth="yes"/>
+      <point x="446" y="167"/>
+      <point x="423" y="148"/>
+    </contour>
+  </outline>
+</glyph>

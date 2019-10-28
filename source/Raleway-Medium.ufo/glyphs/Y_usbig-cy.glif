@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yusbig-cy" format="2">
+  <advance width="1007"/>
+  <unicode hex="046A"/>
+  <anchor x="880" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="25" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="371" y="317" type="line"/>
+      <point x="458" y="317" type="line"/>
+      <point x="458" y="0" type="line"/>
+      <point x="548" y="0" type="line"/>
+      <point x="548" y="317" type="line"/>
+      <point x="636" y="317" type="line"/>
+      <point x="880" y="0" type="line"/>
+      <point x="982" y="0" type="line"/>
+      <point x="706" y="363" type="line"/>
+      <point x="964" y="710" type="line"/>
+      <point x="42" y="710" type="line"/>
+      <point x="300" y="363" type="line"/>
+    </contour>
+    <contour>
+      <point x="373" y="399" type="line"/>
+      <point x="185" y="653" type="line"/>
+      <point x="822" y="653" type="line"/>
+      <point x="634" y="399" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Zhe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Zhe-cy</string>
+    </dict>
+  </lib>
+</glyph>
