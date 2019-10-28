@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d.alt" format="2">
+  <advance width="624"/>
+  <outline>
+    <contour>
+      <point x="553" y="0" type="line"/>
+      <point x="553" y="730" type="line"/>
+      <point x="465" y="730" type="line"/>
+      <point x="465" y="418" type="line"/>
+      <point x="424" y="481"/>
+      <point x="358" y="531"/>
+      <point x="273" y="531" type="curve" smooth="yes"/>
+      <point x="137" y="531"/>
+      <point x="37" y="408"/>
+      <point x="37" y="260" type="curve" smooth="yes"/>
+      <point x="37" y="116"/>
+      <point x="141" y="-10"/>
+      <point x="286" y="-10" type="curve" smooth="yes"/>
+      <point x="361" y="-10"/>
+      <point x="427" y="30"/>
+      <point x="465" y="92" type="curve"/>
+      <point x="465" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="465" y="183" type="line"/>
+      <point x="454" y="118"/>
+      <point x="371" y="66"/>
+      <point x="307" y="66" type="curve" smooth="yes"/>
+      <point x="206" y="66"/>
+      <point x="128" y="154"/>
+      <point x="128" y="259" type="curve" smooth="yes"/>
+      <point x="128" y="358"/>
+      <point x="196" y="455"/>
+      <point x="298" y="455" type="curve" smooth="yes"/>
+      <point x="365" y="455"/>
+      <point x="441" y="402"/>
+      <point x="465" y="333" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>1,0.5,0,1</string>
+    </dict>
+  </lib>
+</glyph>

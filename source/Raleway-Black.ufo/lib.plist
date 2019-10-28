@@ -2592,6 +2592,8 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
+    <key>com.typemytype.robofont.segmentType</key>
+    <string>curve</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
@@ -3642,6 +3644,52 @@
       <string>circumflexcomb_tildecomb</string>
       <string>NULL</string>
       <string>dotbelow</string>
+      <string>A.sc</string>
+      <string>B.sc</string>
+      <string>C.sc</string>
+      <string>D.sc</string>
+      <string>E.sc</string>
+      <string>F.sc</string>
+      <string>G.alt</string>
+      <string>Gacute</string>
+      <string>H.sc</string>
+      <string>I.sc</string>
+      <string>IJ</string>
+      <string>J.sc</string>
+      <string>K.sc</string>
+      <string>L.sc</string>
+      <string>M.sc</string>
+      <string>N.sc</string>
+      <string>O.sc</string>
+      <string>P.sc</string>
+      <string>Q.sc</string>
+      <string>R.sc</string>
+      <string>S.sc</string>
+      <string>T.sc</string>
+      <string>U.sc</string>
+      <string>V.sc</string>
+      <string>W.alt</string>
+      <string>W.sc</string>
+      <string>X.sc</string>
+      <string>Y.sc</string>
+      <string>Z.sc</string>
+      <string>a.alt2</string>
+      <string>commaaccent</string>
+      <string>d.alt</string>
+      <string>eight.lnum</string>
+      <string>five.lnum</string>
+      <string>four.lnum</string>
+      <string>gacute</string>
+      <string>ij</string>
+      <string>j.alt</string>
+      <string>l.alt</string>
+      <string>napostrophe</string>
+      <string>nine.lnum</string>
+      <string>one.lnum</string>
+      <string>q.alt</string>
+      <string>servicemark</string>
+      <string>seven.lnum</string>
+      <string>six.lnum</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

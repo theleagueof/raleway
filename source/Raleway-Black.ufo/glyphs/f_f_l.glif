@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_l" format="2">
   <advance width="1006"/>
+  <unicode hex="FB04"/>
   <outline>
     <contour>
       <point x="855" y="-9" type="curve" smooth="yes"/>
@@ -61,9 +62,15 @@
       <point x="335" y="546"/>
       <point x="355" y="543"/>
       <point x="373" y="538" type="curve"/>
-      <point x="373" y="514"/>
-      <point x="373" y="489"/>
-      <point x="373" y="465" type="curve"/>
+      <point x="373" y="465" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>1,0.5,0,1</string>
+    </dict>
+  </lib>
 </glyph>

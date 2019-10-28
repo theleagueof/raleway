@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F.sc" format="2">
+  <advance width="511"/>
+  <outline>
+    <contour>
+      <point x="159" y="0" type="line"/>
+      <point x="159" y="241" type="line"/>
+      <point x="429" y="241" type="line"/>
+      <point x="429" y="308" type="line"/>
+      <point x="159" y="308" type="line"/>
+      <point x="159" y="480" type="line"/>
+      <point x="479" y="480" type="line"/>
+      <point x="479" y="551" type="line"/>
+      <point x="79" y="551" type="line"/>
+      <point x="79" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>1,0.5,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.lnum" format="2">
+  <advance width="441"/>
+  <outline>
+    <contour>
+      <point x="292" y="80" type="line"/>
+      <point x="292" y="718" type="line"/>
+      <point x="202" y="718" type="line"/>
+      <point x="200" y="714"/>
+      <point x="114" y="621"/>
+      <point x="43" y="621" type="curve"/>
+      <point x="43" y="539" type="line"/>
+      <point x="97" y="539"/>
+      <point x="180" y="594"/>
+      <point x="202" y="625" type="curve"/>
+      <point x="202" y="80" type="line"/>
+      <point x="66" y="80" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="419" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>1,0.5,0,1</string>
+    </dict>
+  </lib>
+</glyph>

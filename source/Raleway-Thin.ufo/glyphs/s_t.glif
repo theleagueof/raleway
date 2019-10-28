@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="s_t" format="2">
   <advance width="769"/>
+  <unicode hex="FB06"/>
   <outline>
     <contour>
-      <point x="760" y="24" type="curve"/>
       <point x="749" y="40" type="line"/>
       <point x="746" y="38"/>
       <point x="709" y="15"/>
@@ -80,6 +80,15 @@
       <point x="668" y="-5" type="curve" smooth="yes"/>
       <point x="716" y="-5"/>
       <point x="759" y="22"/>
+      <point x="760" y="24" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>1,0.5,0,1</string>
+    </dict>
+  </lib>
 </glyph>
