@@ -170,6 +170,8 @@
     <integer>-100</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
+    <key>styleMapStyleName</key>
+    <string>italic</string>
     <key>styleName</key>
     <string>Medium Italic</string>
     <key>trademark</key>
