@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven" format="2">
+  <outline>
+    <contour>
+      <point x="503" y="563" type="line"/>
+      <point x="21" y="-127" type="line"/>
+      <point x="44" y="-127" type="line"/>
+      <point x="541" y="583" type="line"/>
+      <point x="103" y="583" type="line"/>
+      <point x="99" y="563" type="line"/>
+    </contour>
+  </outline>
+</glyph>

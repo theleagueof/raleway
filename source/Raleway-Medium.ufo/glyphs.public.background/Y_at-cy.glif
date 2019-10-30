@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yat-cy" format="2">
+  <anchor x="343" y="0" name="bottom"/>
+  <anchor x="343" y="708" name="top"/>
+  <outline>
+    <contour>
+      <point x="370" y="543" type="line"/>
+      <point x="370" y="623" type="line"/>
+      <point x="-10" y="623" type="line"/>
+      <point x="-10" y="543" type="line"/>
+    </contour>
+  </outline>
+</glyph>

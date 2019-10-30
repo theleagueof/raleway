@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahook-cy" format="2">
+  <outline>
+    <contour>
+      <point x="203" y="258" type="line"/>
+      <point x="-47" y="0" type="line"/>
+      <point x="-21" y="0" type="line"/>
+      <point x="203" y="234" type="line"/>
+      <point x="213" y="244" type="line"/>
+      <point x="218" y="232" type="line"/>
+      <point x="344" y="0" type="line"/>
+      <point x="370" y="0" type="line"/>
+      <point x="229" y="258" type="line"/>
+      <point x="482" y="519" type="line"/>
+      <point x="456" y="519" type="line"/>
+      <point x="227" y="281" type="line"/>
+      <point x="219" y="273" type="line"/>
+      <point x="214" y="285" type="line"/>
+      <point x="87" y="519" type="line"/>
+      <point x="61" y="519" type="line"/>
+    </contour>
+  </outline>
+</glyph>

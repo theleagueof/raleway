@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odieresis-cy" format="2">
+  <outline>
+    <component base="O-cy"/>
+    <component base="dieresiscomb" xOffset="243" yOffset="188"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cheverticalstroke-cy" format="2">
+  <advance width="633"/>
+  <unicode hex="04B8"/>
+  <outline>
+    <component base="Che-cy"/>
+    <component base="verticalbar-cy.case" xOffset="235" yOffset="63"/>
+  </outline>
+</glyph>

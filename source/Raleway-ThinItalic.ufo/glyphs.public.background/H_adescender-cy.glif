@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hadescender-cy" format="2">
+  <outline>
+    <contour>
+      <point x="647" y="-135" type="line"/>
+      <point x="667" y="-135" type="line"/>
+      <point x="667" y="20" type="line"/>
+      <point x="595" y="20" type="line"/>
+      <point x="595" y="0" type="line"/>
+      <point x="647" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

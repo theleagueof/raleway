@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ge-cy" format="2">
+  <advance width="492"/>
+  <unicode hex="0413"/>
+  <guideline x="20" y="355" angle="78.0707"/>
+  <anchor x="34" y="0" name="bottomright"/>
+  <anchor x="383" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="34" y="0" type="line"/>
+      <point x="54" y="0" type="line"/>
+      <point x="200" y="690" type="line"/>
+      <point x="559" y="690" type="line"/>
+      <point x="563" y="710" type="line"/>
+      <point x="184" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

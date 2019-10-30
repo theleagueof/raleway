@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.lf" format="2">
+  <outline>
+    <contour>
+      <point x="36" y="0" type="curve"/>
+      <point x="583" y="0" type="line"/>
+      <point x="583" y="170" type="line"/>
+      <point x="319" y="170" type="line"/>
+      <point x="319" y="213"/>
+      <point x="384" y="245"/>
+      <point x="441" y="278" type="curve" smooth="yes"/>
+      <point x="530" y="330"/>
+      <point x="582" y="380"/>
+      <point x="582" y="490" type="curve" smooth="yes"/>
+      <point x="582" y="636"/>
+      <point x="489" y="718"/>
+      <point x="327" y="718" type="curve" smooth="yes"/>
+      <point x="197" y="718"/>
+      <point x="89" y="665"/>
+      <point x="36" y="605" type="curve"/>
+      <point x="153" y="478" type="line"/>
+      <point x="191" y="515"/>
+      <point x="248" y="550"/>
+      <point x="300" y="550" type="curve" smooth="yes"/>
+      <point x="334" y="550"/>
+      <point x="365" y="535"/>
+      <point x="365" y="487" type="curve" smooth="yes"/>
+      <point x="365" y="414"/>
+      <point x="293" y="379"/>
+      <point x="210" y="340" type="curve" smooth="yes"/>
+      <point x="58" y="268"/>
+      <point x="36" y="184"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iu-cy.loclBGR" format="2">
+  <advance width="896"/>
+  <outline>
+    <contour>
+      <point x="-16" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="214.515" y="191" type="line"/>
+      <point x="336" y="191" type="line"/>
+      <point x="374" y="334" type="line"/>
+      <point x="244.721" y="334" type="line"/>
+      <point x="330" y="730" type="line"/>
+      <point x="140" y="730" type="line"/>
+    </contour>
+    <component base="o-cy" xOffset="262"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

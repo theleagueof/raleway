@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhe-cy" format="2">
+  <anchor x="612" y="0" name="bottomright"/>
+  <anchor x="432" y="522" name="top"/>
+  <outline>
+    <contour>
+      <point x="-34" y="0" type="curve"/>
+      <point x="60" y="0" type="line"/>
+      <point x="127.088" y="111.175"/>
+      <point x="196.014" y="196.631"/>
+      <point x="284.382" y="237" type="curve"/>
+      <point x="328.849" y="237" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="367" y="0" type="line"/>
+      <point x="416.849" y="237" type="line"/>
+      <point x="495" y="237" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="707" y="0" type="line"/>
+      <point x="569" y="267" type="line"/>
+      <point x="644" y="321"/>
+      <point x="715" y="408"/>
+      <point x="784" y="522" type="curve"/>
+      <point x="692" y="522" type="line"/>
+      <point x="628.49" y="418.911"/>
+      <point x="573.452" y="341.239"/>
+      <point x="500.373" y="296" type="curve"/>
+      <point x="429.192" y="296" type="line"/>
+      <point x="477" y="522" type="line"/>
+      <point x="390" y="522" type="line"/>
+      <point x="342.192" y="296" type="line"/>
+      <point x="273" y="296" type="line"/>
+      <point x="161" y="522" type="line"/>
+      <point x="72" y="522" type="line"/>
+      <point x="203" y="268" type="line"/>
+      <point x="115" y="215"/>
+      <point x="36" y="118"/>
+    </contour>
+  </outline>
+</glyph>

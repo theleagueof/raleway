@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hook-cy.case" format="2">
+  <outline>
+    <contour>
+      <point x="-668" y="-81" type="line"/>
+      <point x="-648" y="-81" type="line"/>
+      <point x="-648" y="609" type="line"/>
+      <point x="-182" y="609" type="line"/>
+      <point x="-182" y="-81" type="line"/>
+      <point x="-162" y="-81" type="line"/>
+      <point x="-162" y="629" type="line"/>
+      <point x="-668" y="629" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="-187" type="curve" smooth="yes"/>
+      <point x="177" y="-187"/>
+      <point x="256" y="-114"/>
+      <point x="256" y="55" type="curve" smooth="yes"/>
+      <point x="256" y="220"/>
+      <point x="178" y="311"/>
+      <point x="37" y="311" type="curve" smooth="yes"/>
+      <point x="-25" y="311"/>
+      <point x="-94" y="294"/>
+      <point x="-162" y="260" type="curve"/>
+      <point x="-162" y="239" type="line"/>
+      <point x="-95" y="273"/>
+      <point x="-26" y="291"/>
+      <point x="36" y="291" type="curve" smooth="yes"/>
+      <point x="164" y="291"/>
+      <point x="236" y="212"/>
+      <point x="236" y="55" type="curve" smooth="yes"/>
+      <point x="236" y="-94"/>
+      <point x="172" y="-168"/>
+      <point x="56" y="-168" type="curve" smooth="yes"/>
+      <point x="36" y="-168"/>
+      <point x="14" y="-166"/>
+      <point x="-9" y="-162" type="curve"/>
+      <point x="-9" y="-181" type="line"/>
+      <point x="14" y="-185"/>
+      <point x="36" y="-187"/>
+    </contour>
+  </outline>
+</glyph>

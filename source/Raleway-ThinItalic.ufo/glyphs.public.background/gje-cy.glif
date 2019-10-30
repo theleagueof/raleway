@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gje-cy" format="2">
+  <outline>
+    <component base="ge-cy"/>
+    <component base="acutecomb" xOffset="147"/>
+  </outline>
+</glyph>

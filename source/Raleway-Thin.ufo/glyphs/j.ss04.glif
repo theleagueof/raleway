@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j.ss04" format="2">
+  <advance width="188"/>
+  <outline>
+    <contour>
+      <point x="84" y="517" type="line"/>
+      <point x="84" y="-213" type="line"/>
+      <point x="104" y="-213" type="line"/>
+      <point x="104" y="517" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="717" type="line"/>
+      <point x="84" y="653" type="line"/>
+      <point x="104" y="653" type="line"/>
+      <point x="104" y="717" type="line"/>
+    </contour>
+  </outline>
+</glyph>

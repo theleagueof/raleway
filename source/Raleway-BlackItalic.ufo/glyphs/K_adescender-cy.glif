@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kadescender-cy" format="2">
+  <advance width="740"/>
+  <unicode hex="049A"/>
+  <outline>
+    <contour>
+      <point x="468" y="-136" type="line"/>
+      <point x="633" y="-136" type="line"/>
+      <point x="699" y="170" type="line"/>
+      <point x="484" y="170" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="497" y="0" type="line"/>
+    </contour>
+    <component base="Ka-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+    </dict>
+  </lib>
+</glyph>

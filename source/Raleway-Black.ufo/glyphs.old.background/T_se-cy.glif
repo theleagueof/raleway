@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tse-cy" format="2">
+  <outline>
+    <contour>
+      <point x="594" y="-136" type="line"/>
+      <point x="754" y="-136" type="line"/>
+      <point x="754" y="170" type="line"/>
+      <point x="524" y="170" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="594" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

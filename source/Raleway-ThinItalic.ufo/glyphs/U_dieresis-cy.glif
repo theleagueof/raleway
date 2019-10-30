@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresis-cy" format="2">
+  <advance width="560"/>
+  <unicode hex="04F0"/>
+  <outline>
+    <component base="U-cy"/>
+    <component base="dieresiscomb" xOffset="235" yOffset="191"/>
+  </outline>
+</glyph>

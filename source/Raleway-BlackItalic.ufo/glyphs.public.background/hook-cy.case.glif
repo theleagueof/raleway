@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hook-cy.case" format="2">
+  <anchor x="306" y="0" name="bottom"/>
+  <anchor x="382" y="355" name="center"/>
+  <anchor x="457" y="710" name="top"/>
+  <anchor x="115" y="710" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="-70" y="710" type="line"/>
+      <point x="-221" y="0" type="line"/>
+      <point x="-26" y="0" type="line"/>
+      <point x="33" y="278" type="line"/>
+      <point x="245" y="278" type="line"/>
+      <point x="186" y="0" type="line"/>
+      <point x="381" y="0" type="line"/>
+      <point x="532" y="710" type="line"/>
+      <point x="337" y="710" type="line"/>
+      <point x="281" y="448" type="line"/>
+      <point x="69" y="448" type="line"/>
+      <point x="125" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

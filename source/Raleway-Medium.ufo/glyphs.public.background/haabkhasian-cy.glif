@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="haabkhasian-cy" format="2">
+  <outline>
+    <contour>
+      <point x="763" y="70" type="move"/>
+      <point x="724" y="40"/>
+      <point x="668" y="20"/>
+      <point x="622" y="20" type="curve" smooth="yes"/>
+      <point x="596" y="20"/>
+      <point x="561" y="26"/>
+      <point x="536" y="34" type="curve"/>
+    </contour>
+    <contour>
+      <point x="511" y="28" type="move"/>
+      <point x="398" y="62"/>
+      <point x="323" y="158"/>
+      <point x="323" y="276" type="curve" smooth="yes"/>
+      <point x="323" y="409"/>
+      <point x="409" y="497"/>
+      <point x="539" y="497" type="curve" smooth="yes"/>
+      <point x="663" y="497"/>
+      <point x="745" y="410"/>
+      <point x="745" y="279" type="curve" smooth="yes"/>
+      <point x="745" y="124"/>
+      <point x="618" y="20"/>
+      <point x="427" y="20" type="curve" smooth="yes"/>
+      <point x="232" y="20"/>
+      <point x="102" y="118"/>
+      <point x="102" y="266" type="curve" smooth="yes"/>
+      <point x="102" y="382"/>
+      <point x="172" y="474"/>
+      <point x="278" y="497" type="curve"/>
+    </contour>
+    <component base="o" xOffset="20" yOffset="13"/>
+  </outline>
+</glyph>

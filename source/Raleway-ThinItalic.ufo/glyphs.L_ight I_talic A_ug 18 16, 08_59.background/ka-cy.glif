@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ka-cy" format="2">
+  <outline>
+    <contour>
+      <point x="201" y="267" type="move"/>
+      <point x="291" y="320"/>
+      <point x="371" y="410"/>
+      <point x="443" y="518" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

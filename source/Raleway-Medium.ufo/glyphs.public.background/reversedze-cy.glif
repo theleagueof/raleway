@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reversedze-cy" format="2">
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="128" y="228" type="line"/>
+      <point x="400" y="228" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="488" y="0" type="line"/>
+      <point x="488" y="522" type="line"/>
+      <point x="400" y="522" type="line"/>
+      <point x="400" y="306" type="line"/>
+      <point x="128" y="306" type="line"/>
+      <point x="128" y="522" type="line"/>
+      <point x="40" y="522" type="line"/>
+    </contour>
+  </outline>
+</glyph>

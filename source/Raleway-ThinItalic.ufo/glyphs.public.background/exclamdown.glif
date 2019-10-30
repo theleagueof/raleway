@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown" format="2">
+  <outline>
+    <contour>
+      <point x="168" y="517" type="line"/>
+      <point x="148" y="517" type="line"/>
+      <point x="38" y="0" type="line"/>
+      <point x="58" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="717" type="line"/>
+      <point x="190" y="717" type="line"/>
+      <point x="168" y="633" type="line"/>
+      <point x="193" y="633" type="line"/>
+    </contour>
+  </outline>
+</glyph>
