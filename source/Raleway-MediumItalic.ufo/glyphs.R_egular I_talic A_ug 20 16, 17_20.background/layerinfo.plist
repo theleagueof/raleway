@@ -4,12 +4,5 @@
   <dict>
     <key>color</key>
     <string>0.5,1,0,0.7</string>
-    <key>lib</key>
-    <dict>
-      <key>com.schriftgestaltung.layerId</key>
-      <string>7A89058F-6153-4BD1-8F15-CBB560627622</string>
-      <key>com.schriftgestaltung.layerOrderInGlyph.zhe-cy</key>
-      <integer>10</integer>
-    </dict>
   </dict>
 </plist>
