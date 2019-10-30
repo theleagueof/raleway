@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaaccent" format="2">
-  <advance width="115"/>
   <unicode hex="F6C3"/>
   <anchor x="70" y="0" name="_bottom"/>
   <outline>
@@ -14,4 +13,10 @@
       <point x="15" y="-167" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>115</integer>
+    </dict>
+  </lib>
 </glyph>

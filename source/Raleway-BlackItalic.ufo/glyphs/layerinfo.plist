@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>color</key>
-    <string>1,0.75,0,0.7</string>
     <key>lib</key>
     <dict>
       <key>com.schriftgestaltung.layerId</key>
@@ -234,6 +232,8 @@
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.G.ss11</key>
       <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Gacute</key>
+      <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Gbreve</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Gcaron</key>
@@ -290,6 +290,8 @@
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.I-cy</key>
       <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.IJ</key>
+      <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Ia-cy</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Iacute</key>
@@ -792,6 +794,8 @@
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.aogonek</key>
       <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.apostrophe</key>
+      <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.apostrophemod</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.approxequal</key>
@@ -919,6 +923,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.colonsign</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.comma</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.commaaccent</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.commaaccentcomb</key>
       <integer>2</integer>
@@ -1190,6 +1196,8 @@
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.g.sc</key>
       <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.gacute</key>
+      <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.gbreve</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.gcaron</key>
@@ -1336,6 +1344,8 @@
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.iishorttail-cy</key>
       <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ij</key>
+      <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.imacron</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.imacron-cy</key>
@@ -1461,6 +1471,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.nacute</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.naira</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.napostrophe</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.nbspace</key>
       <integer>2</integer>
@@ -1762,6 +1774,8 @@
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.semisoftsign-cy</key>
       <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.servicemark</key>
+      <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.seven</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.seven.dnom</key>
@@ -1949,6 +1963,36 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.umacrondieresis</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.underscore</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni01C4</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni01C5</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni01C6</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni01C7</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni01C8</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni01C9</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni01CA</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni01CB</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni01CC</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni01F1</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni01F2</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni01F3</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni0394</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni03A9</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni03BC</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uogonek</key>
       <integer>2</integer>
