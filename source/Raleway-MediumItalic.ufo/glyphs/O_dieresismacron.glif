@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Odieresismacron" format="2">
   <advance width="721"/>
+  <unicode hex="022A"/>
   <outline>
     <component base="O"/>
     <component base="dieresiscomb" xOffset="231" yOffset="186"/>
