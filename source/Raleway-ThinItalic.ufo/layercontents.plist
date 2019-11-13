@@ -158,5 +158,9 @@
       <string>Dec 2 16, 23:45</string>
       <string>glyphs.D_ec 2 16, 23_45</string>
     </array>
+    <array>
+      <string>ref</string>
+      <string>glyphs.ref</string>
+    </array>
   </array>
 </plist>

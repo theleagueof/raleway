@@ -86,5 +86,9 @@
       <string>Regular Italic Aug 20 16, 16:34</string>
       <string>glyphs.R_egular I_talic A_ug 20 16, 16_34</string>
     </array>
+    <array>
+      <string>ref</string>
+      <string>glyphs.ref</string>
+    </array>
   </array>
 </plist>
