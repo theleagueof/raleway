@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaturnedabovecomb" format="2">
+  <unicode hex="0312"/>
   <anchor x="112" y="519" name="_top"/>
   <anchor x="157" y="730" name="top"/>
   <outline>

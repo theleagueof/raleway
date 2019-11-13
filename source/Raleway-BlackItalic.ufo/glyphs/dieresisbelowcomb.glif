@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresisbelowcomb" format="2">
+  <unicode hex="0324"/>
   <anchor x="222" y="0" name="_bottom"/>
   <anchor x="174" y="-214" name="bottom"/>
   <outline>

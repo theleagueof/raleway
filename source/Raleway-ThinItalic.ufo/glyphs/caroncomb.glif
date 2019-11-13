@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncomb" format="2">
+  <unicode hex="030C"/>
   <anchor x="208" y="519" name="_top"/>
   <anchor x="253" y="730" name="top"/>
   <outline>
