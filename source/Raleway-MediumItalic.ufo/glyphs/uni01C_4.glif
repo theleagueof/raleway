@@ -3,9 +3,9 @@
   <advance width="1292"/>
   <unicode hex="01C4"/>
   <outline>
+    <component base="Z" xOffset="692"/>
     <component base="D"/>
     <component base="caroncomb" xOffset="832" yOffset="186"/>
-    <component base="Z" xOffset="692"/>
   </outline>
   <lib>
     <dict>

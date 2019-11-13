@@ -3,8 +3,8 @@
   <advance width="1335"/>
   <unicode hex="01C4"/>
   <outline>
-    <component base="D"/>
     <component base="Z" xOffset="711"/>
+    <component base="D"/>
     <component base="caroncomb" xOffset="890" yOffset="188"/>
   </outline>
   <lib>
