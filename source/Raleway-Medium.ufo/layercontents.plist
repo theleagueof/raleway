@@ -66,5 +66,9 @@
       <string>Regular Aug 21 16, 02:16.background</string>
       <string>glyphs.R_egular A_ug 21 16, 02_16.background</string>
     </array>
+    <array>
+      <string>ref</string>
+      <string>glyphs.ref</string>
+    </array>
   </array>
 </plist>

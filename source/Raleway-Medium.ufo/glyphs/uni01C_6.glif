@@ -4,7 +4,13 @@
   <unicode hex="01C6"/>
   <outline>
     <component base="d"/>
-    <component base="caron" xOffset="712"/>
+    <component base="caroncomb" xOffset="712"/>
     <component base="z" xOffset="629"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+    </dict>
+  </lib>
 </glyph>
