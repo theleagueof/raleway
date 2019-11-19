@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="verticallinemod" format="2">
   <advance width="189"/>
+  <unicode hex="02C8"/>
   <outline>
     <contour>
       <point x="191" y="775" type="line"/>

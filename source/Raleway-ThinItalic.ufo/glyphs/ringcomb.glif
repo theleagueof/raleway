@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ringcomb" format="2">
+  <unicode hex="030A"/>
   <anchor x="160" y="519" name="_top"/>
   <anchor x="205" y="730" name="top"/>
   <outline>

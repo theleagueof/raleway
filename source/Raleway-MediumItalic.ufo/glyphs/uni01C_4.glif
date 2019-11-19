@@ -3,8 +3,54 @@
   <advance width="1292"/>
   <unicode hex="01C4"/>
   <outline>
-    <component base="D"/>
-    <component base="caron" xOffset="902" yOffset="186"/>
-    <component base="Z" xOffset="692"/>
+    <contour>
+      <point x="673" y="70" type="line"/>
+      <point x="658" y="0" type="line"/>
+      <point x="1193" y="0" type="line"/>
+      <point x="1210" y="80" type="line"/>
+      <point x="788" y="80" type="line"/>
+      <point x="1329" y="640" type="line"/>
+      <point x="1344" y="710" type="line"/>
+      <point x="818" y="710" type="line"/>
+      <point x="801" y="630" type="line"/>
+      <point x="1222" y="630" type="line"/>
+    </contour>
+    <contour>
+      <point x="171" y="710" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="492" y="0"/>
+      <point x="668" y="186"/>
+      <point x="668" y="437" type="curve" smooth="yes"/>
+      <point x="668" y="590"/>
+      <point x="585" y="710"/>
+      <point x="406" y="710" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="272" y="80" type="curve" smooth="yes"/>
+      <point x="127" y="80" type="line"/>
+      <point x="244" y="630" type="line"/>
+      <point x="389" y="630" type="line" smooth="yes"/>
+      <point x="512" y="630"/>
+      <point x="575" y="544"/>
+      <point x="575" y="423" type="curve" smooth="yes"/>
+      <point x="575" y="242"/>
+      <point x="458" y="80"/>
+    </contour>
+    <contour>
+      <point x="977" y="892" type="line"/>
+      <point x="1054" y="802" type="line"/>
+      <point x="1118" y="802" type="line"/>
+      <point x="1234" y="892" type="line"/>
+      <point x="1191" y="916" type="line"/>
+      <point x="1097" y="853" type="line"/>
+      <point x="1030" y="916" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+    </dict>
+  </lib>
 </glyph>

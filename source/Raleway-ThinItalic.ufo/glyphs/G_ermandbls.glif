@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Germandbls" format="2">
   <advance width="573"/>
+  <unicode hex="1E9E"/>
   <outline>
     <contour>
       <point x="283" y="-10" type="curve" smooth="yes"/>

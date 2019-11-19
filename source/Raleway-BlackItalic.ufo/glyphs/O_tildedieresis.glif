@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Otildedieresis" format="2">
   <advance width="738"/>
+  <unicode hex="1E4E"/>
   <outline>
     <component base="O"/>
     <component base="tildecomb" xOffset="146" yOffset="182"/>

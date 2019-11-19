@@ -166,5 +166,9 @@
       <string>Bold Italic Aug 18 16, 09:17</string>
       <string>glyphs.B_old I_talic A_ug 18 16, 09_17</string>
     </array>
+    <array>
+      <string>ref</string>
+      <string>glyphs.ref</string>
+    </array>
   </array>
 </plist>

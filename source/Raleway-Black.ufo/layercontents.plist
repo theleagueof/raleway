@@ -118,5 +118,9 @@
       <string>Bold Aug 22 16, 19:39.background</string>
       <string>glyphs.B_old A_ug 22 16, 19_39.background</string>
     </array>
+    <array>
+      <string>ref</string>
+      <string>glyphs.ref</string>
+    </array>
   </array>
 </plist>
