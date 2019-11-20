@@ -2,16 +2,16 @@
 set -e
 
 
-echo "Generating Static fonts"
-mkdir -p ../fonts
-fontmake -m Raleway-Roman.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m Raleway-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m Raleway-Roman.designspace -i -o otf --output-dir ../fonts/otf/
-fontmake -m Raleway-Italic.designspace -i -o otf --output-dir ../fonts/otf/
+# echo "Generating Static fonts"
+# mkdir -p ../fonts
+# fontmake -m Raleway-Roman.designspace -i -o ttf --output-dir ../fonts/ttf/
+# fontmake -m Raleway-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
+# fontmake -m Raleway-Roman.designspace -i -o otf --output-dir ../fonts/otf/
+# fontmake -m Raleway-Italic.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
 mkdir -p ../fonts/vf
-fontmake -m Raleway-Roman.designspace -o variable --output-path ../fonts/vf/Raleway[wght].ttf
+# fontmake -m Raleway-Roman.designspace -o variable --output-path ../fonts/vf/Raleway[wght].ttf
 fontmake -m Raleway-Italic.designspace -o variable --output-path ../fonts/vf/Raleway-Italic[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/*
@@ -40,7 +40,7 @@ echo "Post processing VFs"
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
-	ttfautohint-vf --stem-width-mode nnn $vf "$vf.fix";
+	ttfautohint --stem-width-mode nnn $vf "$vf.fix";
 	mv "$vf.fix" $vf;
 done
 
