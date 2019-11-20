@@ -11,7 +11,7 @@ set -e
 
 echo "Generating VFs"
 mkdir -p ../fonts/vf
-# fontmake -m Raleway-Roman.designspace -o variable --output-path ../fonts/vf/Raleway[wght].ttf
+fontmake -m Raleway-Roman.designspace -o variable --output-path ../fonts/vf/Raleway[wght].ttf
 fontmake -m Raleway-Italic.designspace -o variable --output-path ../fonts/vf/Raleway-Italic[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/*
