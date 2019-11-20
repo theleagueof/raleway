@@ -4,6 +4,6 @@
   <unicode hex="00D1"/>
   <outline>
     <component base="N"/>
-    <component base="tildecomb" xOffset="127" yOffset="182"/>
+    <component base="tildecomb" xOffset="137" yOffset="182"/>
   </outline>
 </glyph>
