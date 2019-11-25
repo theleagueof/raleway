@@ -210,6 +210,8 @@
     <string>G_.glif</string>
     <key>G.ss11</key>
     <string>G_.ss11.glif</string>
+    <key>Gacute</key>
+    <string>G_acute.glif</string>
     <key>Gbreve</key>
     <string>G_breve.glif</string>
     <key>Gcaron</key>
