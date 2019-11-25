@@ -75,5 +75,5 @@ do
 	mv "$ttf.fix" $ttf;
 done
 
-
+rm -rf master_ufo/ instance_ufo/ instance_ufos/*
 
