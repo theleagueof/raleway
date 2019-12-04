@@ -43,7 +43,7 @@
     </source>
   </sources>
   <instances>
-    <instance name="Raleway Thin Italic" familyname="Raleway" stylename="Thin Italic" filename="instance_ufos/Raleway-ThinItalic.ufo">
+	  <instance name="Raleway Thin Italic" familyname="Raleway" stylename="Thin Italic" filename="instance_ufos/Raleway-ThinItalic.ufo" stylemapfamilyname="Raleway Thin" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="0"/>
       </location>
@@ -67,7 +67,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Raleway ExtraLight Italic" familyname="Raleway" stylename="ExtraLight Italic" filename="instance_ufos/Raleway-ExtraLightItalic.ufo">
+    <instance name="Raleway ExtraLight Italic" familyname="Raleway" stylename="ExtraLight Italic" filename="instance_ufos/Raleway-ExtraLightItalic.ufo" stylemapfamilyname="Raleway ExtraLight" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="82.400000"/>
       </location>
@@ -93,7 +93,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Raleway Light Italic" familyname="Raleway" stylename="Light Italic" filename="instance_ufos/Raleway-LightItalic.ufo">
+    <instance name="Raleway Light Italic" familyname="Raleway" stylename="Light Italic" filename="instance_ufos/Raleway-LightItalic.ufo" stylemapfamilyname="Raleway Light" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="176.500000"/>
       </location>
@@ -119,7 +119,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Raleway Italic" familyname="Raleway" stylename="Italic" filename="instance_ufos/Raleway-Italic.ufo">
+    <instance name="Raleway Italic" familyname="Raleway" stylename="Italic" filename="instance_ufos/Raleway-Italic.ufo" stylemapfamilyname="Raleway" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="282.300000"/>
       </location>
@@ -145,7 +145,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Raleway Medium Italic" familyname="Raleway" stylename="Medium Italic" filename="instance_ufos/Raleway-MediumItalic.ufo">
+    <instance name="Raleway Medium Italic" familyname="Raleway" stylename="Medium Italic" filename="instance_ufos/Raleway-MediumItalic.ufo" stylemapfamilyname="Raleway Medium" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="400"/>
       </location>
@@ -169,7 +169,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Raleway SemiBold Italic" familyname="Raleway" stylename="SemiBold Italic" filename="instance_ufos/Raleway-SemiBoldItalic.ufo">
+    <instance name="Raleway SemiBold Italic" familyname="Raleway" stylename="SemiBold Italic" filename="instance_ufos/Raleway-SemiBoldItalic.ufo" stylemapfamilyname="Raleway SemiBold" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="529.400000"/>
       </location>
@@ -195,7 +195,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Raleway Bold Italic" familyname="Raleway" stylename="Bold Italic" filename="instance_ufos/Raleway-BoldItalic.ufo">
+    <instance name="Raleway Bold Italic" familyname="Raleway" stylename="Bold Italic" filename="instance_ufos/Raleway-BoldItalic.ufo" stylemapfamilyname="Raleway" stylemapstylename="bold italic">
       <location>
         <dimension name="Weight" xvalue="670.600000"/>
       </location>
@@ -221,7 +221,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Raleway ExtraBold Italic" familyname="Raleway" stylename="ExtraBold Italic" filename="instance_ufos/Raleway-ExtraBoldItalic.ufo">
+    <instance name="Raleway ExtraBold Italic" familyname="Raleway" stylename="ExtraBold Italic" filename="instance_ufos/Raleway-ExtraBoldItalic.ufo" stylemapfamilyname="Raleway ExtraBold" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="823.500000"/>
       </location>
@@ -247,7 +247,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Raleway Black Italic" familyname="Raleway" stylename="Black Italic" filename="instance_ufos/Raleway-BlackItalic.ufo">
+    <instance name="Raleway Black Italic" familyname="Raleway" stylename="Black Italic" filename="instance_ufos/Raleway-BlackItalic.ufo" stylemapfamilyname="Raleway Black" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="1000"/>
       </location>
