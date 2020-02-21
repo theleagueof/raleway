@@ -1186,6 +1186,8 @@
     <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <integer>0</integer>
+    <key>com.typemytype.robofont.fontIdentifier</key>
+    <string>9DzFlMS3kmJxwbNzTz0vrEKPZcNgPLeuvRWNcHk6qB0</string>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>

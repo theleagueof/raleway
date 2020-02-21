@@ -1,0 +1,31 @@
+{
+  "designSpaces": {
+    "Italic": {
+      "axes": {},
+      "disabled": [],
+      "instances": [],
+      "interpolations": {},
+      "landingPatterns": {},
+      "locked": [],
+      "masters": [],
+      "name": "Italic",
+      "origin": null,
+      "sortedAxes": []
+    },
+    "Roman": {
+      "axes": {},
+      "disabled": [],
+      "instances": [],
+      "interpolations": {},
+      "landingPatterns": {},
+      "locked": [],
+      "masters": [],
+      "name": "Roman",
+      "origin": null,
+      "sortedAxes": []
+    }
+  },
+  "lib": [],
+  "preferences": {},
+  "sortedStyleIDs": []
+}
