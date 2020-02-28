@@ -3673,6 +3673,8 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
+    <key>com.typemytype.robofont.fontIdentifier</key>
+    <string>MtKxrAOeOUYOClyBzSFGw8bFmkz1_vLwH765rSH9ZRI</string>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
     <key>public.glyphOrder</key>
