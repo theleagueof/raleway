@@ -3,9 +3,14 @@
   <advance width="674"/>
   <unicode hex="01FA"/>
   <outline>
+    <contour>
+      <point x="353" y="845" type="line"/>
+      <point x="435" y="930" type="line"/>
+      <point x="401" y="930" type="line"/>
+      <point x="337" y="857" type="line"/>
+    </contour>
     <component base="A"/>
     <component base="ringcomb" xOffset="218" yOffset="103"/>
-    <component base="acutecomb" xOffset="287" yOffset="200"/>
   </outline>
   <lib>
     <dict>

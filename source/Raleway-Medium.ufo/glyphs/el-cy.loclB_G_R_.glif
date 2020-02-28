@@ -2,6 +2,14 @@
 <glyph name="el-cy.loclBGR" format="2">
   <advance width="539"/>
   <outline>
-    <component base="v" xScale="-1" yScale="-1" xOffset="539" yOffset="522"/>
+    <contour>
+      <point x="318" y="522" type="line"/>
+      <point x="222" y="522" type="line"/>
+      <point x="17" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="267" y="438" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="523" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>
