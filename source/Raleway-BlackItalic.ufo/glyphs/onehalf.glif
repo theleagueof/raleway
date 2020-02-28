@@ -3,8 +3,37 @@
   <advance width="970"/>
   <unicode hex="00BD"/>
   <outline>
+    <contour>
+      <point x="523.116" y="-1" type="curve"/>
+      <point x="867.264" y="-1" type="line"/>
+      <point x="891.364" y="106" type="line"/>
+      <point x="704.348" y="106" type="line"/>
+      <point x="722.664" y="126"/>
+      <point x="757.3679999999999" y="140"/>
+      <point x="800.748" y="158" type="curve" smooth="yes"/>
+      <point x="855.6959999999999" y="181"/>
+      <point x="937.636" y="220"/>
+      <point x="937.636" y="332" type="curve" smooth="yes"/>
+      <point x="937.636" y="402"/>
+      <point x="889.4359999999999" y="444"/>
+      <point x="800.748" y="444" type="curve" smooth="yes"/>
+      <point x="723.6279999999999" y="444"/>
+      <point x="643.616" y="414"/>
+      <point x="606.984" y="374" type="curve"/>
+      <point x="653.256" y="294" type="line"/>
+      <point x="682.1759999999999" y="320"/>
+      <point x="724.592" y="347"/>
+      <point x="768.9359999999999" y="347" type="curve" smooth="yes"/>
+      <point x="797.856" y="347"/>
+      <point x="818.0999999999999" y="332"/>
+      <point x="819.064" y="305" type="curve" smooth="yes"/>
+      <point x="820.028" y="255"/>
+      <point x="767.008" y="237"/>
+      <point x="705.312" y="210" type="curve" smooth="yes"/>
+      <point x="633.012" y="178"/>
+      <point x="548.18" y="131"/>
+    </contour>
     <component base="one.numr"/>
     <component base="fraction" xOffset="313"/>
-    <component base="two.dnom" xScale="0.964" xOffset="553"/>
   </outline>
 </glyph>
