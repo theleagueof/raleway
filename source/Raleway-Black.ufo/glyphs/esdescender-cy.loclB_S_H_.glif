@@ -2,7 +2,6 @@
 <glyph name="esdescender-cy.loclBSH" format="2">
   <advance width="577"/>
   <outline>
-    <component base="es-cy"/>
     <component base="esdescender-cy"/>
   </outline>
   <lib>
