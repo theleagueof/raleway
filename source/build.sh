@@ -50,23 +50,23 @@ do
 done
 
 
-#echo "Generating Static fonts"
-#mkdir -p ../fonts
-#fontmake -m Raleway-Roman.designspace -i -o ttf --output-dir ../fonts/ttf/
-#fontmake -m Raleway-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
-#fontmake -m Raleway-Roman.designspace -i -o otf --output-dir ../fonts/otf/
-#fontmake -m Raleway-Italic.designspace -i -o otf --output-dir ../fonts/otf/
-#
-#
-#echo "Post processing"
-#ttfs=$(ls ../fonts/ttf/*.ttf)
-#for ttf in $ttfs
-#do
-#	gftools fix-dsig -f $ttf;
-#	gftools fix-nonhinting $ttf $ttf.fix;
-#	mv "$ttf.fix" $ttf;
-#done
-#
-#
+echo "Generating Static fonts"
+mkdir -p ../fonts
+fontmake -m Raleway-Roman.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake -m Raleway-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake -m Raleway-Roman.designspace -i -o otf --output-dir ../fonts/otf/
+fontmake -m Raleway-Italic.designspace -i -o otf --output-dir ../fonts/otf/
+
+
+echo "Post processing"
+ttfs=$(ls ../fonts/ttf/*.ttf)
+for ttf in $ttfs
+do
+	gftools fix-dsig -f $ttf;
+	gftools fix-nonhinting $ttf $ttf.fix;
+	mv "$ttf.fix" $ttf;
+done
+
+
 rm -rf master_ufo/ instance_ufo/ instance_ufos/* ../fonts/ttf/*gasp.ttf
 
