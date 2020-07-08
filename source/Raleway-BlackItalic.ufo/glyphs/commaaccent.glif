@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaaccent" format="2">
   <unicode hex="F6C3"/>
-  <anchor x="100" y="0" name="_bottom"/>
   <outline>
     <contour>
       <point x="119" y="-213" type="line"/>
