@@ -2,7 +2,6 @@
 <glyph name="tilde" format="2">
   <advance width="415"/>
   <unicode hex="02DC"/>
-  <anchor x="208" y="522" name="_top"/>
   <outline>
     <contour>
       <point x="210" y="627"/>

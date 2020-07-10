@@ -2,7 +2,6 @@
 <glyph name="commaaccent" format="2">
   <advance width="168"/>
   <unicode hex="F6C3"/>
-  <anchor x="100" y="0" name="_bottom"/>
   <outline>
     <contour>
       <point x="106" y="-213" type="line"/>

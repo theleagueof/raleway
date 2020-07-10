@@ -2,7 +2,6 @@
 <glyph name="firsttonechinese" format="2">
   <advance width="413"/>
   <unicode hex="02C9"/>
-  <anchor x="260" y="526" name="_top"/>
   <outline>
     <contour>
       <point x="137" y="607" type="line"/>

@@ -2,7 +2,6 @@
 <glyph name="apostrophemod" format="2">
   <advance width="232"/>
   <unicode hex="02BC"/>
-  <anchor x="91" y="522" name="_top"/>
   <outline>
     <contour>
       <point x="106" y="609" type="line"/>

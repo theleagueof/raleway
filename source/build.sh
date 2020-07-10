@@ -2,7 +2,6 @@
 set -e
 
 
-
 echo "Generating VFs"
 mkdir -p ../fonts/vf
 fontmake -m Raleway-Roman.designspace -o variable --output-path ../fonts/vf/Raleway[wght].ttf
@@ -11,6 +10,15 @@ fontmake -m Raleway-Italic.designspace -o variable --output-path ../fonts/vf/Ral
 rm -rf master_ufo/ instance_ufo/ instance_ufos/*
 
 
+echo "Compiling VTT hints"
+python -m vttLib mergefile vtt-hinting.ttx ../fonts/vf/Raleway[wght].ttf
+python -m vttLib compile ../fonts/vf/Raleway[wght].ttf ../fonts/vf/Raleway[wght].fix  --ship
+mv ../fonts/vf/Raleway[wght].fix ../fonts/vf/Raleway[wght].ttf
+
+python -m vttLib mergefile vtt-hinting-italic.ttx ../fonts/vf/Raleway-Italic[wght].ttf
+python -m vttLib compile ../fonts/vf/Raleway-Italic[wght].ttf ../fonts/vf/Raleway-Italic[wght].fix --ship
+mv ../fonts/vf/Raleway-Italic[wght].fix ../fonts/vf/Raleway-Italic[wght].ttf
+
 
 vfs=$(ls ../fonts/vf/*\[wght\].ttf)
 
@@ -18,17 +26,16 @@ echo "Post processing VFs"
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
-
-	echo "TTF AH"
-
-	ttfautohint --stem-width-mode nnn $vf "$vf.fix";
-	mv "$vf.fix" $vf;
+	gftools fix-hinting $vf;
+	mv $vf.fix $vf;
+	gftools fix-gasp $vf --autofix;
+	mv $vf.fix $vf;
 done
-
 
 
 echo "Fixing VF Meta"
 gftools fix-vf-meta $vfs;
+
 
 echo "Dropping MVAR"
 for vf in $vfs
@@ -41,15 +48,6 @@ do
 	ttx $new_file
 	rm $new_file
 done
-
-echo "Fixing Hinting"
-for vf in $vfs
-do
-	gftools fix-hinting $vf;
-	mv "$vf.fix" $vf;
-done
-
-
 
 
 echo "Generating Static fonts"
@@ -65,15 +63,10 @@ ttfs=$(ls ../fonts/ttf/*.ttf)
 for ttf in $ttfs
 do
 	gftools fix-dsig -f $ttf;
-	ttfautohint $ttf "$ttf.fix";
+	gftools fix-nonhinting $ttf $ttf.fix;
 	mv "$ttf.fix" $ttf;
 done
 
-for ttf in $ttfs
-do
-	gftools fix-hinting $ttf;
-	mv "$ttf.fix" $ttf;
-done
 
-rm -rf master_ufo/ instance_ufo/ instance_ufos/*
+rm -rf master_ufo/ instance_ufo/ instance_ufos/* ../fonts/ttf/*gasp.ttf
 

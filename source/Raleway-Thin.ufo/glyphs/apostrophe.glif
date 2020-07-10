@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="apostrophe" format="2">
   <advance width="548"/>
-  <anchor x="265" y="519" name="_top"/>
   <outline>
     <contour>
       <point x="333" y="730" type="line"/>
