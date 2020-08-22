@@ -1,0 +1,1 @@
+PSAUTOHINT = $(shell echo cp $< $@) ; :
