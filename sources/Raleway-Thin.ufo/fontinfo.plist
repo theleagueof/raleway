@@ -104,9 +104,9 @@
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
-    <integer>4</integer>
+    <integer>0</integer>
     <key>versionMinor</key>
-    <integer>26</integer>
+    <integer>7</integer>
     <key>xHeight</key>
     <integer>519</integer>
   </dict>
