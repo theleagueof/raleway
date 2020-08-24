@@ -1,3 +1,9 @@
+.fontship
+Raleway-*.tar.xz
+Raleway-*.tar.zip
+*.otf
+*.ttf
 .DS_Store
 references/*
 *(Autosaved)*
+tags
