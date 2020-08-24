@@ -89,6 +89,11 @@ If you make modifications be sure to add your name (N),
 email (E), web-address (if you have one) (W) and
 description (D). This list is in alphabetical order.
 
+N: Caleb Maclennan
+E: caleb@alerque.com
+W: https://alerque.com
+D: Fontship build system
+
 N: Cyreal
 E: contact@cyreal.org
 W: http://cyreal.org

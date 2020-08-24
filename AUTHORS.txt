@@ -13,3 +13,4 @@ Matt McInerney <matt@pixelspread.com>
 Pablo Impallari <impallari@gmail.com>
 Rodrigo Fuenzalida <hello@rfuenzalida.com>
 Alexei Vanyashin <a@cyreal.org>
+Caleb Maclennan <caleb@alerque.com>
