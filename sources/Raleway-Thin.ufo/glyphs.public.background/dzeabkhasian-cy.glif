@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzeabkhasian-cy" format="2">
+  <anchor x="171" y="0" name="bottom"/>
+  <anchor x="186" y="519" name="top"/>
+  <outline>
+    <contour>
+      <point x="110" y="202" type="line"/>
+      <point x="136" y="202" type="line"/>
+      <point x="381" y="499" type="line"/>
+      <point x="381" y="519" type="line"/>
+      <point x="-35" y="519" type="line"/>
+      <point x="-35" y="499" type="line"/>
+      <point x="356" y="499" type="line"/>
+    </contour>
+  </outline>
+</glyph>

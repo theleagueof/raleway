@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omacrongrave" format="2">
+  <outline>
+    <component base="O"/>
+    <component base="macroncomb" xOffset="204" yOffset="182"/>
+    <component base="gravecomb" xOffset="229" yOffset="376"/>
+  </outline>
+</glyph>

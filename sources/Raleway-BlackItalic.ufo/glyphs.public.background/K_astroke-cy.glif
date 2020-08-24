@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kastroke-cy" format="2">
+  <outline>
+    <component base="strokeshortcomb" xOffset="55" yOffset="329"/>
+    <component base="Ka-cy" xOffset="44"/>
+  </outline>
+</glyph>

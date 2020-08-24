@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="descender-cy.case" format="2">
+  <anchor x="-55" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="-6" y="-135" type="line"/>
+      <point x="72" y="-135" type="line"/>
+      <point x="118" y="80" type="line"/>
+      <point x="-37" y="80" type="line"/>
+      <point x="-55" y="0" type="line"/>
+      <point x="23" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

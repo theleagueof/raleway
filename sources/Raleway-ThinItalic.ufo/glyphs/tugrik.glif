@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tugrik" format="2">
+  <advance width="574"/>
+  <unicode hex="20AE"/>
+  <outline>
+    <contour>
+      <point x="86" y="345" type="line"/>
+      <point x="525" y="441" type="line"/>
+      <point x="529" y="461" type="line"/>
+      <point x="90" y="365" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="218" type="line"/>
+      <point x="497" y="314" type="line"/>
+      <point x="501" y="334" type="line"/>
+      <point x="62" y="238" type="line"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

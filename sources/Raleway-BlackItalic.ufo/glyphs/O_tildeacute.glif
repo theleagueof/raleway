@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otildeacute" format="2">
+  <advance width="738"/>
+  <unicode hex="1E4C"/>
+  <outline>
+    <component base="O"/>
+    <component base="tildecomb" xOffset="146" yOffset="182"/>
+    <component base="acutecomb" xOffset="329" yOffset="390"/>
+  </outline>
+</glyph>

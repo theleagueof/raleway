@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shhadescender-cy" format="2">
+  <anchor x="336" y="0" name="bottom"/>
+  <anchor x="412" y="355" name="center"/>
+  <anchor x="487" y="710" name="top"/>
+  <anchor x="145" y="710" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="173" y="710" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="276" y="278" type="line"/>
+      <point x="475" y="278" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="611" y="0" type="line"/>
+      <point x="762" y="710" type="line"/>
+      <point x="567" y="710" type="line"/>
+      <point x="511" y="448" type="line"/>
+      <point x="312" y="448" type="line"/>
+      <point x="368" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

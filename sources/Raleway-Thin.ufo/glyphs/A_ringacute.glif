@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute" format="2">
+  <advance width="674"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <contour>
+      <point x="353" y="845" type="line"/>
+      <point x="435" y="930" type="line"/>
+      <point x="401" y="930" type="line"/>
+      <point x="337" y="857" type="line"/>
+    </contour>
+    <component base="A"/>
+    <component base="ringcomb" xOffset="218" yOffset="103"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.subs" format="2">
+  <advance width="511"/>
+  <outline>
+    <component base="zeroinferior"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>zeroinferior</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>zeroinferior</string>
+    </dict>
+  </lib>
+</glyph>

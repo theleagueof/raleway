@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dzeabkhasian-cy" format="2">
+  <guideline x="461" y="321" angle="90"/>
+  <anchor x="336" y="0" name="bottom"/>
+  <anchor x="354" y="707" name="top"/>
+  <outline>
+    <contour>
+      <point x="221" y="381" type="line"/>
+      <point x="246" y="381" type="line"/>
+      <point x="461" y="690" type="line"/>
+      <point x="461" y="710" type="line"/>
+      <point x="109" y="710" type="line"/>
+      <point x="109" y="690" type="line"/>
+      <point x="436" y="690" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ge-cy.loclBGR" format="2">
+  <advance width="501"/>
+  <anchor x="263" y="0" name="bottom"/>
+  <anchor x="258" y="519" name="top"/>
+  <outline>
+    <contour>
+      <point x="258" y="-10" type="curve" smooth="yes"/>
+      <point x="337" y="-10"/>
+      <point x="410" y="13"/>
+      <point x="456" y="74" type="curve"/>
+      <point x="441" y="87" type="line"/>
+      <point x="397" y="31"/>
+      <point x="332" y="10"/>
+      <point x="258" y="10" type="curve" smooth="yes"/>
+      <point x="156" y="10"/>
+      <point x="85" y="40"/>
+      <point x="85" y="116" type="curve" smooth="yes"/>
+      <point x="85" y="193"/>
+      <point x="151" y="227"/>
+      <point x="267" y="260" type="curve" smooth="yes"/>
+      <point x="371" y="293"/>
+      <point x="422" y="315"/>
+      <point x="422" y="403" type="curve" smooth="yes"/>
+      <point x="422" y="493"/>
+      <point x="344" y="527"/>
+      <point x="253" y="527" type="curve" smooth="yes"/>
+      <point x="164" y="527"/>
+      <point x="104" y="495"/>
+      <point x="80" y="452" type="curve"/>
+      <point x="98" y="444" type="line"/>
+      <point x="125" y="487"/>
+      <point x="179" y="507"/>
+      <point x="253" y="507" type="curve" smooth="yes"/>
+      <point x="334" y="507"/>
+      <point x="402" y="476"/>
+      <point x="402" y="403" type="curve" smooth="yes"/>
+      <point x="402" y="331"/>
+      <point x="359" y="307"/>
+      <point x="264" y="277" type="curve" smooth="yes"/>
+      <point x="141" y="240"/>
+      <point x="65" y="211"/>
+      <point x="65" y="116" type="curve" smooth="yes"/>
+      <point x="65" y="29"/>
+      <point x="137" y="-10"/>
+    </contour>
+  </outline>
+</glyph>

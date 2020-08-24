@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cheabkhasian-cy" format="2">
+  <outline>
+    <component base="hook-cy" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="192" yOffset="266"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.ss05" format="2">
+  <advance width="240"/>
+  <outline>
+    <contour>
+      <point x="76" y="730" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="107" y="0"/>
+      <point x="164" y="0"/>
+      <point x="164" y="0" type="curve"/>
+      <point x="164" y="730" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chekhakassian-cy" format="2">
+  <outline>
+    <contour>
+      <point x="308" y="-135" type="line"/>
+      <point x="386" y="-135" type="line"/>
+      <point x="414" y="0" type="line"/>
+      <point x="491" y="0" type="line"/>
+      <point x="508" y="80" type="line"/>
+      <point x="352" y="80" type="line"/>
+    </contour>
+    <component base="Che-cy"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iishort-cy" format="2">
+  <advance width="581"/>
+  <unicode hex="0439"/>
+  <anchor x="477" y="0" name="bottomright"/>
+  <outline>
+    <component base="ii-cy"/>
+    <component base="brevecomb-cy" xOffset="133"/>
+  </outline>
+</glyph>

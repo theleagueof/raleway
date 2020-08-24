@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twothirds" format="2">
+  <advance width="1060"/>
+  <unicode hex="2154"/>
+  <outline>
+    <contour>
+      <point x="21.23" y="287" type="curve"/>
+      <point x="365.735" y="287" type="line"/>
+      <point x="389.86" y="394" type="line"/>
+      <point x="217.125" y="394" type="line"/>
+      <point x="222.915" y="422"/>
+      <point x="257.655" y="433"/>
+      <point x="294.325" y="446" type="curve" smooth="yes"/>
+      <point x="343.53999999999996" y="463"/>
+      <point x="436.18" y="508"/>
+      <point x="436.18" y="620" type="curve" smooth="yes"/>
+      <point x="436.18" y="690"/>
+      <point x="387.93" y="732"/>
+      <point x="299.15" y="732" type="curve" smooth="yes"/>
+      <point x="221.95" y="732"/>
+      <point x="141.855" y="702"/>
+      <point x="105.185" y="662" type="curve"/>
+      <point x="151.505" y="582" type="line"/>
+      <point x="180.45499999999998" y="608"/>
+      <point x="222.915" y="635"/>
+      <point x="267.305" y="635" type="curve" smooth="yes"/>
+      <point x="296.255" y="635"/>
+      <point x="317.485" y="620"/>
+      <point x="317.485" y="593" type="curve" smooth="yes"/>
+      <point x="317.485" y="539"/>
+      <point x="242.215" y="518"/>
+      <point x="181.42" y="489" type="curve" smooth="yes"/>
+      <point x="75.27" y="438"/>
+      <point x="45.355" y="393"/>
+    </contour>
+    <component base="fraction" xOffset="413"/>
+    <component base="three.dnom" xOffset="653"/>
+  </outline>
+</glyph>

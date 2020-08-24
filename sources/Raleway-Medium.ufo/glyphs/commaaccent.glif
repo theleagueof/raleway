@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccent" format="2">
+  <advance width="168"/>
+  <unicode hex="F6C3"/>
+  <outline>
+    <contour>
+      <point x="106" y="-213" type="line"/>
+      <point x="136" y="-132" type="line"/>
+      <point x="136" y="-48" type="line"/>
+      <point x="58" y="-48" type="line"/>
+      <point x="58" y="-132" type="line"/>
+      <point x="83" y="-132" type="line"/>
+      <point x="63" y="-213" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>1,0.5,0,1</string>
+    </dict>
+  </lib>
+</glyph>

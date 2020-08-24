@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iu-cy.loclBGR" format="2">
+  <outline>
+    <contour>
+      <point x="5" y="0" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="141" y="226" type="line"/>
+      <point x="271" y="226" type="line"/>
+      <point x="288" y="295" type="line"/>
+      <point x="155" y="295" type="line"/>
+      <point x="248" y="730" type="line"/>
+      <point x="160" y="730" type="line"/>
+    </contour>
+    <component base="o-cy" xOffset="205"/>
+  </outline>
+</glyph>

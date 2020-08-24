@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>730</integer>
+    <key>capHeight</key>
+    <integer>710</integer>
+    <key>copyright</key>
+    <string>Copyright 2010 The Raleway Project Authors (impallari@gmail.com), with Reserved Font Name "Raleway".</string>
+    <key>descender</key>
+    <integer>-213</integer>
+    <key>familyName</key>
+    <string>Raleway</string>
+    <key>guidelines</key>
+    <array/>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2016/08/19 06:56:35</string>
+    <key>openTypeHheaAscender</key>
+    <integer>940</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-234</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDescription</key>
+    <string>Raleway is an elegant sans-serif typeface family. Initially designed by Matt McInerney as a single thin weight, it was expanded into a 9 weight family by Pablo Impallari and Rodrigo Fuenzalida in 2012 and iKerned by Igino Marini. It is a display face and the download features both old style and lining numerals, standard and discretionary ligatures, a pretty complete set of diacritics, as well as a stylistic alternate inspired by more geometric sans-serif typefaces than its neo-grotesque inspired default character set.</string>
+    <key>openTypeNameDesigner</key>
+    <string>Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>http://pixelspread.com</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>http://theleagueofmoveabletype.com</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>940</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-234</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1154</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>234</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-10</integer>
+      <integer>0</integer>
+      <integer>522</integer>
+      <integer>532</integer>
+      <integer>710</integer>
+      <integer>720</integer>
+      <integer>730</integer>
+      <integer>740</integer>
+    </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-223</integer>
+      <integer>-213</integer>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>69</integer>
+      <integer>76</integer>
+      <integer>79</integer>
+      <integer>80</integer>
+      <integer>82</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>88</integer>
+      <integer>90</integer>
+      <integer>91</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>styleName</key>
+    <string>Medium</string>
+    <key>trademark</key>
+    <string>Raleway is a trademark of Matt McInerney.</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>4</integer>
+    <key>versionMinor</key>
+    <integer>26</integer>
+    <key>xHeight</key>
+    <integer>522</integer>
+  </dict>
+</plist>

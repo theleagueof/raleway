@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaverticalstroke-cy" format="2">
+  <advance width="656"/>
+  <unicode hex="049D"/>
+  <outline>
+    <contour>
+      <point x="-8" y="0" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="221" y="188" type="line"/>
+      <point x="351" y="188" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="614" y="0" type="line"/>
+      <point x="526" y="274" type="line"/>
+      <point x="713" y="526" type="line"/>
+      <point x="513" y="526" type="line"/>
+      <point x="385" y="347" type="line"/>
+      <point x="255" y="347" type="line"/>
+      <point x="293" y="526" type="line"/>
+      <point x="104" y="526" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="80" type="line"/>
+      <point x="298" y="80" type="line"/>
+      <point x="375" y="441" type="line"/>
+      <point x="310" y="441" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ka-cy</string>
+      <key>com.schriftgestaltung.annotations</key>
+      <array>
+        <dict>
+          <key>position</key>
+          <array>
+            <real>1189.898</real>
+            <real>161.562</real>
+          </array>
+          <key>type</key>
+          <string>Circle</string>
+          <key>width</key>
+          <integer>30</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

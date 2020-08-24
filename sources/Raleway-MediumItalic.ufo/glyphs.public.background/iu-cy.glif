@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iu-cy" format="2">
+  <outline>
+    <contour>
+      <point x="165" y="302" type="line"/>
+      <point x="211" y="522" type="line"/>
+      <point x="123" y="522" type="line"/>
+      <point x="13" y="0" type="line"/>
+      <point x="101" y="0" type="line"/>
+      <point x="150" y="233" type="line"/>
+      <point x="281" y="233" type="line"/>
+      <point x="296" y="302" type="line"/>
+    </contour>
+    <component base="o-cy" xOffset="217"/>
+  </outline>
+</glyph>

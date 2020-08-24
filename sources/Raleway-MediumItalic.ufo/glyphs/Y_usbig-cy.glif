@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yusbig-cy" format="2">
+  <advance width="1001"/>
+  <unicode hex="046A"/>
+  <outline>
+    <contour>
+      <point x="-34" y="0" type="line"/>
+      <point x="68" y="0" type="line"/>
+      <point x="364" y="319" type="line"/>
+      <point x="456" y="319" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="479" y="0" type="line"/>
+      <point x="546" y="319" type="line"/>
+      <point x="638" y="319" type="line"/>
+      <point x="826" y="0" type="line"/>
+      <point x="923" y="0" type="line"/>
+      <point x="707" y="363" type="line"/>
+      <point x="1021" y="710" type="line"/>
+      <point x="918" y="710" type="line"/>
+      <point x="639" y="399" type="line"/>
+      <point x="370" y="399" type="line"/>
+      <point x="193" y="710" type="line"/>
+      <point x="99" y="710" type="line"/>
+      <point x="301" y="363" type="line"/>
+    </contour>
+    <contour>
+      <point x="163" y="643" type="line"/>
+      <point x="911" y="643" type="line"/>
+      <point x="920" y="710" type="line"/>
+      <point x="172" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Zhe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka-cy</string>
+    </dict>
+  </lib>
+</glyph>

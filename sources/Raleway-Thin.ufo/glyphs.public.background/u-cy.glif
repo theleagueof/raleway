@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u-cy" format="2">
+  <outline>
+    <contour>
+      <point x="274" y="3" type="move"/>
+      <point x="222" y="-116" type="line" smooth="yes"/>
+      <point x="194" y="-182"/>
+      <point x="143" y="-229"/>
+      <point x="79" y="-191" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

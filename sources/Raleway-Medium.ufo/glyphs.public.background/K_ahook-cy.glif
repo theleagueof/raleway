@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kahook-cy" format="2">
+  <outline>
+    <contour>
+      <point x="173" y="361" type="move"/>
+      <point x="259" y="361" type="line" smooth="yes"/>
+      <point x="426" y="361"/>
+      <point x="549" y="190"/>
+      <point x="549" y="32" type="curve" smooth="yes"/>
+      <point x="549" y="-116"/>
+      <point x="491" y="-181"/>
+      <point x="415" y="-181" type="curve" smooth="yes"/>
+      <point x="382" y="-181"/>
+      <point x="352" y="-176"/>
+      <point x="320" y="-163" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

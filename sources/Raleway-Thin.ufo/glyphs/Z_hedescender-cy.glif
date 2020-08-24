@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhedescender-cy" format="2">
+  <advance width="936"/>
+  <unicode hex="0496"/>
+  <outline>
+    <contour>
+      <point x="916" y="-135" type="line"/>
+      <point x="936" y="-135" type="line"/>
+      <point x="936" y="20" type="line"/>
+      <point x="864" y="20" type="line"/>
+      <point x="864" y="0" type="line"/>
+      <point x="916" y="0" type="line"/>
+    </contour>
+    <component base="Zhe-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Kadescender-cy</string>
+    </dict>
+  </lib>
+</glyph>
