@@ -1,20 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macroncomb" format="2">
-  <unicode hex="0304"/>
-  <anchor x="238" y="519" name="_top"/>
-  <anchor x="278" y="706" name="top"/>
-  <outline>
-    <contour>
-      <point x="141" y="686" type="line"/>
-      <point x="407" y="686" type="line"/>
-      <point x="411" y="706" type="line"/>
-      <point x="145" y="706" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>366</integer>
-    </dict>
-  </lib>
+	<unicode hex="0304"/>
+	<outline>
+		<contour>
+			<point x="141" y="686" type="line"/>
+			<point x="407" y="686" type="line"/>
+			<point x="411" y="706" type="line"/>
+			<point x="145" y="706" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="238" y="519"/>
+	<anchor name="top" x="278" y="706"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>366</integer>
+		</dict>
+	</lib>
 </glyph>

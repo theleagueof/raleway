@@ -1,74 +1,74 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <array>
-    <array>
-      <string>public.default</string>
-      <string>glyphs</string>
-    </array>
-    <array>
-      <string>public.background</string>
-      <string>glyphs.public.background</string>
-    </array>
-    <array>
-      <string>Regular Aug 24 16, 03:18</string>
-      <string>glyphs.R_egular A_ug 24 16, 03_18</string>
-    </array>
-    <array>
-      <string>Regular Aug 24 16, 03:18.background</string>
-      <string>glyphs.R_egular A_ug 24 16, 03_18.background</string>
-    </array>
-    <array>
-      <string>Regular Aug 21 16, 05:01</string>
-      <string>glyphs.R_egular A_ug 21 16, 05_01</string>
-    </array>
-    <array>
-      <string>Regular Aug 21 16, 05:04</string>
-      <string>glyphs.R_egular A_ug 21 16, 05_04</string>
-    </array>
-    <array>
-      <string>Regular Aug 24 16, 03:50</string>
-      <string>glyphs.R_egular A_ug 24 16, 03_50</string>
-    </array>
-    <array>
-      <string>Regular Aug 24 16, 03:50.background</string>
-      <string>glyphs.R_egular A_ug 24 16, 03_50.background</string>
-    </array>
-    <array>
-      <string>Regular Aug 21 16, 05:35</string>
-      <string>glyphs.R_egular A_ug 21 16, 05_35</string>
-    </array>
-    <array>
-      <string>Dec 8 16, 17:14</string>
-      <string>glyphs.D_ec 8 16, 17_14</string>
-    </array>
-    <array>
-      <string>Dec 8 16, 17:14.background</string>
-      <string>glyphs.D_ec 8 16, 17_14.background</string>
-    </array>
-    <array>
-      <string>Dec 5 16, 12:45</string>
-      <string>glyphs.D_ec 5 16, 12_45</string>
-    </array>
-    <array>
-      <string>Regular Aug 22 16, 19:39</string>
-      <string>glyphs.R_egular A_ug 22 16, 19_39</string>
-    </array>
-    <array>
-      <string>Regular Aug 22 16, 19:39.background</string>
-      <string>glyphs.R_egular A_ug 22 16, 19_39.background</string>
-    </array>
-    <array>
-      <string>Regular Aug 21 16, 02:16</string>
-      <string>glyphs.R_egular A_ug 21 16, 02_16</string>
-    </array>
-    <array>
-      <string>Regular Aug 21 16, 02:16.background</string>
-      <string>glyphs.R_egular A_ug 21 16, 02_16.background</string>
-    </array>
-    <array>
-      <string>ref</string>
-      <string>glyphs.ref</string>
-    </array>
-  </array>
+	<array>
+		<array>
+			<string>public.default</string>
+			<string>glyphs</string>
+		</array>
+		<array>
+			<string>public.background</string>
+			<string>glyphs.public.background</string>
+		</array>
+		<array>
+			<string>Regular Aug 24 16, 03:18</string>
+			<string>glyphs.R_egular A_ug 24 16, 03_18</string>
+		</array>
+		<array>
+			<string>Regular Aug 24 16, 03:18.background</string>
+			<string>glyphs.R_egular A_ug 24 16, 03_18.background</string>
+		</array>
+		<array>
+			<string>Regular Aug 21 16, 05:01</string>
+			<string>glyphs.R_egular A_ug 21 16, 05_01</string>
+		</array>
+		<array>
+			<string>Regular Aug 21 16, 05:04</string>
+			<string>glyphs.R_egular A_ug 21 16, 05_04</string>
+		</array>
+		<array>
+			<string>Regular Aug 24 16, 03:50</string>
+			<string>glyphs.R_egular A_ug 24 16, 03_50</string>
+		</array>
+		<array>
+			<string>Regular Aug 24 16, 03:50.background</string>
+			<string>glyphs.R_egular A_ug 24 16, 03_50.background</string>
+		</array>
+		<array>
+			<string>Regular Aug 21 16, 05:35</string>
+			<string>glyphs.R_egular A_ug 21 16, 05_35</string>
+		</array>
+		<array>
+			<string>Dec 8 16, 17:14</string>
+			<string>glyphs.D_ec 8 16, 17_14</string>
+		</array>
+		<array>
+			<string>Dec 8 16, 17:14.background</string>
+			<string>glyphs.D_ec 8 16, 17_14.background</string>
+		</array>
+		<array>
+			<string>Dec 5 16, 12:45</string>
+			<string>glyphs.D_ec 5 16, 12_45</string>
+		</array>
+		<array>
+			<string>Regular Aug 22 16, 19:39</string>
+			<string>glyphs.R_egular A_ug 22 16, 19_39</string>
+		</array>
+		<array>
+			<string>Regular Aug 22 16, 19:39.background</string>
+			<string>glyphs.R_egular A_ug 22 16, 19_39.background</string>
+		</array>
+		<array>
+			<string>Regular Aug 21 16, 02:16</string>
+			<string>glyphs.R_egular A_ug 21 16, 02_16</string>
+		</array>
+		<array>
+			<string>Regular Aug 21 16, 02:16.background</string>
+			<string>glyphs.R_egular A_ug 21 16, 02_16.background</string>
+		</array>
+		<array>
+			<string>ref</string>
+			<string>glyphs.ref</string>
+		</array>
+	</array>
 </plist>

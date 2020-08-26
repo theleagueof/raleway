@@ -1,166 +1,166 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <array>
-    <array>
-      <string>public.default</string>
-      <string>glyphs</string>
-    </array>
-    <array>
-      <string>public.background</string>
-      <string>glyphs.public.background</string>
-    </array>
-    <array>
-      <string>Nov 16 16, 00:25</string>
-      <string>glyphs.N_ov 16 16, 00_25</string>
-    </array>
-    <array>
-      <string>Nov 16 16, 00:25.background</string>
-      <string>glyphs.N_ov 16 16, 00_25.background</string>
-    </array>
-    <array>
-      <string>Light Italic Aug 17 16, 18:54</string>
-      <string>glyphs.L_ight I_talic A_ug 17 16, 18_54</string>
-    </array>
-    <array>
-      <string>Dec 8 16, 17:14</string>
-      <string>glyphs.D_ec 8 16, 17_14</string>
-    </array>
-    <array>
-      <string>Dec 8 16, 17:14.background</string>
-      <string>glyphs.D_ec 8 16, 17_14.background</string>
-    </array>
-    <array>
-      <string>Light Italic Aug 18 16, 07:35</string>
-      <string>glyphs.L_ight I_talic A_ug 18 16, 07_35</string>
-    </array>
-    <array>
-      <string>(null) Aug 18 16, 07:41</string>
-      <string>glyphs.(null) A_ug 18 16, 07_41</string>
-    </array>
-    <array>
-      <string>(null) Aug 18 16, 07:41.background</string>
-      <string>glyphs.(null) A_ug 18 16, 07_41.background</string>
-    </array>
-    <array>
-      <string>Light Italic Aug 10 16, 14:33</string>
-      <string>glyphs.L_ight I_talic A_ug 10 16, 14_33</string>
-    </array>
-    <array>
-      <string>Light Italic Aug 10 16, 14:39</string>
-      <string>glyphs.L_ight I_talic A_ug 10 16, 14_39</string>
-    </array>
-    <array>
-      <string>Light Italic Aug 10 16, 14:39.background</string>
-      <string>glyphs.L_ight I_talic A_ug 10 16, 14_39.background</string>
-    </array>
-    <array>
-      <string>Alt</string>
-      <string>glyphs.A_lt</string>
-    </array>
-    <array>
-      <string>Alt.background</string>
-      <string>glyphs.A_lt.background</string>
-    </array>
-    <array>
-      <string>1</string>
-      <string>glyphs.1</string>
-    </array>
-    <array>
-      <string>1.background</string>
-      <string>glyphs.1.background</string>
-    </array>
-    <array>
-      <string>2</string>
-      <string>glyphs.2</string>
-    </array>
-    <array>
-      <string>2.background</string>
-      <string>glyphs.2.background</string>
-    </array>
-    <array>
-      <string>3</string>
-      <string>glyphs.3</string>
-    </array>
-    <array>
-      <string>3.background</string>
-      <string>glyphs.3.background</string>
-    </array>
-    <array>
-      <string>Light Italic Aug 17 16, 18:02</string>
-      <string>glyphs.L_ight I_talic A_ug 17 16, 18_02</string>
-    </array>
-    <array>
-      <string>Light Italic Jul 18 16, 12:38</string>
-      <string>glyphs.L_ight I_talic J_ul 18 16, 12_38</string>
-    </array>
-    <array>
-      <string>4</string>
-      <string>glyphs.4</string>
-    </array>
-    <array>
-      <string>4.background</string>
-      <string>glyphs.4.background</string>
-    </array>
-    <array>
-      <string>5</string>
-      <string>glyphs.5</string>
-    </array>
-    <array>
-      <string>5.background</string>
-      <string>glyphs.5.background</string>
-    </array>
-    <array>
-      <string>6</string>
-      <string>glyphs.6</string>
-    </array>
-    <array>
-      <string>6.background</string>
-      <string>glyphs.6.background</string>
-    </array>
-    <array>
-      <string>7</string>
-      <string>glyphs.7</string>
-    </array>
-    <array>
-      <string>7.background</string>
-      <string>glyphs.7.background</string>
-    </array>
-    <array>
-      <string>Light Italic Aug 18 16, 08:59</string>
-      <string>glyphs.L_ight I_talic A_ug 18 16, 08_59</string>
-    </array>
-    <array>
-      <string>Light Italic Aug 18 16, 08:59.background</string>
-      <string>glyphs.L_ight I_talic A_ug 18 16, 08_59.background</string>
-    </array>
-    <array>
-      <string>Light Italic Aug 10 16, 15:15</string>
-      <string>glyphs.L_ight I_talic A_ug 10 16, 15_15</string>
-    </array>
-    <array>
-      <string>not merged</string>
-      <string>glyphs.not merged</string>
-    </array>
-    <array>
-      <string>not merged.background</string>
-      <string>glyphs.not merged.background</string>
-    </array>
-    <array>
-      <string>Nov 15 16, 06:04</string>
-      <string>glyphs.N_ov 15 16, 06_04</string>
-    </array>
-    <array>
-      <string>Nov 15 16, 06:04.background</string>
-      <string>glyphs.N_ov 15 16, 06_04.background</string>
-    </array>
-    <array>
-      <string>Dec 2 16, 23:45</string>
-      <string>glyphs.D_ec 2 16, 23_45</string>
-    </array>
-    <array>
-      <string>ref</string>
-      <string>glyphs.ref</string>
-    </array>
-  </array>
+	<array>
+		<array>
+			<string>public.default</string>
+			<string>glyphs</string>
+		</array>
+		<array>
+			<string>public.background</string>
+			<string>glyphs.public.background</string>
+		</array>
+		<array>
+			<string>Nov 16 16, 00:25</string>
+			<string>glyphs.N_ov 16 16, 00_25</string>
+		</array>
+		<array>
+			<string>Nov 16 16, 00:25.background</string>
+			<string>glyphs.N_ov 16 16, 00_25.background</string>
+		</array>
+		<array>
+			<string>Light Italic Aug 17 16, 18:54</string>
+			<string>glyphs.L_ight I_talic A_ug 17 16, 18_54</string>
+		</array>
+		<array>
+			<string>Dec 8 16, 17:14</string>
+			<string>glyphs.D_ec 8 16, 17_14</string>
+		</array>
+		<array>
+			<string>Dec 8 16, 17:14.background</string>
+			<string>glyphs.D_ec 8 16, 17_14.background</string>
+		</array>
+		<array>
+			<string>Light Italic Aug 18 16, 07:35</string>
+			<string>glyphs.L_ight I_talic A_ug 18 16, 07_35</string>
+		</array>
+		<array>
+			<string>(null) Aug 18 16, 07:41</string>
+			<string>glyphs.(null) A_ug 18 16, 07_41</string>
+		</array>
+		<array>
+			<string>(null) Aug 18 16, 07:41.background</string>
+			<string>glyphs.(null) A_ug 18 16, 07_41.background</string>
+		</array>
+		<array>
+			<string>Light Italic Aug 10 16, 14:33</string>
+			<string>glyphs.L_ight I_talic A_ug 10 16, 14_33</string>
+		</array>
+		<array>
+			<string>Light Italic Aug 10 16, 14:39</string>
+			<string>glyphs.L_ight I_talic A_ug 10 16, 14_39</string>
+		</array>
+		<array>
+			<string>Light Italic Aug 10 16, 14:39.background</string>
+			<string>glyphs.L_ight I_talic A_ug 10 16, 14_39.background</string>
+		</array>
+		<array>
+			<string>Alt</string>
+			<string>glyphs.A_lt</string>
+		</array>
+		<array>
+			<string>Alt.background</string>
+			<string>glyphs.A_lt.background</string>
+		</array>
+		<array>
+			<string>1</string>
+			<string>glyphs.1</string>
+		</array>
+		<array>
+			<string>1.background</string>
+			<string>glyphs.1.background</string>
+		</array>
+		<array>
+			<string>2</string>
+			<string>glyphs.2</string>
+		</array>
+		<array>
+			<string>2.background</string>
+			<string>glyphs.2.background</string>
+		</array>
+		<array>
+			<string>3</string>
+			<string>glyphs.3</string>
+		</array>
+		<array>
+			<string>3.background</string>
+			<string>glyphs.3.background</string>
+		</array>
+		<array>
+			<string>Light Italic Aug 17 16, 18:02</string>
+			<string>glyphs.L_ight I_talic A_ug 17 16, 18_02</string>
+		</array>
+		<array>
+			<string>Light Italic Jul 18 16, 12:38</string>
+			<string>glyphs.L_ight I_talic J_ul 18 16, 12_38</string>
+		</array>
+		<array>
+			<string>4</string>
+			<string>glyphs.4</string>
+		</array>
+		<array>
+			<string>4.background</string>
+			<string>glyphs.4.background</string>
+		</array>
+		<array>
+			<string>5</string>
+			<string>glyphs.5</string>
+		</array>
+		<array>
+			<string>5.background</string>
+			<string>glyphs.5.background</string>
+		</array>
+		<array>
+			<string>6</string>
+			<string>glyphs.6</string>
+		</array>
+		<array>
+			<string>6.background</string>
+			<string>glyphs.6.background</string>
+		</array>
+		<array>
+			<string>7</string>
+			<string>glyphs.7</string>
+		</array>
+		<array>
+			<string>7.background</string>
+			<string>glyphs.7.background</string>
+		</array>
+		<array>
+			<string>Light Italic Aug 18 16, 08:59</string>
+			<string>glyphs.L_ight I_talic A_ug 18 16, 08_59</string>
+		</array>
+		<array>
+			<string>Light Italic Aug 18 16, 08:59.background</string>
+			<string>glyphs.L_ight I_talic A_ug 18 16, 08_59.background</string>
+		</array>
+		<array>
+			<string>Light Italic Aug 10 16, 15:15</string>
+			<string>glyphs.L_ight I_talic A_ug 10 16, 15_15</string>
+		</array>
+		<array>
+			<string>not merged</string>
+			<string>glyphs.not merged</string>
+		</array>
+		<array>
+			<string>not merged.background</string>
+			<string>glyphs.not merged.background</string>
+		</array>
+		<array>
+			<string>Nov 15 16, 06:04</string>
+			<string>glyphs.N_ov 15 16, 06_04</string>
+		</array>
+		<array>
+			<string>Nov 15 16, 06:04.background</string>
+			<string>glyphs.N_ov 15 16, 06_04.background</string>
+		</array>
+		<array>
+			<string>Dec 2 16, 23:45</string>
+			<string>glyphs.D_ec 2 16, 23_45</string>
+		</array>
+		<array>
+			<string>ref</string>
+			<string>glyphs.ref</string>
+		</array>
+	</array>
 </plist>

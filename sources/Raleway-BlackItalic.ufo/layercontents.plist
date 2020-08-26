@@ -1,178 +1,178 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <array>
-    <array>
-      <string>public.default</string>
-      <string>glyphs</string>
-    </array>
-    <array>
-      <string>public.background</string>
-      <string>glyphs.public.background</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 17 16, 18:54</string>
-      <string>glyphs.B_old I_talic A_ug 17 16, 18_54</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 17 16, 18:54.background</string>
-      <string>glyphs.B_old I_talic A_ug 17 16, 18_54.background</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 17 16, 18:47</string>
-      <string>glyphs.B_old I_talic A_ug 17 16, 18_47</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 17 16, 18:47.background</string>
-      <string>glyphs.B_old I_talic A_ug 17 16, 18_47.background</string>
-    </array>
-    <array>
-      <string>Dec 8 16, 17:14</string>
-      <string>glyphs.D_ec 8 16, 17_14</string>
-    </array>
-    <array>
-      <string>Dec 8 16, 17:14.background</string>
-      <string>glyphs.D_ec 8 16, 17_14.background</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 07:13</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 07_13</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 07:35</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 07_35</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 07:29</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 07_29</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 07:40</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 07_40</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 07:40.background</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 07_40.background</string>
-    </array>
-    <array>
-      <string>1</string>
-      <string>glyphs.1</string>
-    </array>
-    <array>
-      <string>2</string>
-      <string>glyphs.2</string>
-    </array>
-    <array>
-      <string>3</string>
-      <string>glyphs.3</string>
-    </array>
-    <array>
-      <string>not merged</string>
-      <string>glyphs.not merged</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 08:47</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 08_47</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 08:47.background</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 08_47.background</string>
-    </array>
-    <array>
-      <string>not merged.background</string>
-      <string>glyphs.not merged.background</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 10:47</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 10_47</string>
-    </array>
-    <array>
-      <string>Oct 15 16, 13:44</string>
-      <string>glyphs.O_ct 15 16, 13_44</string>
-    </array>
-    <array>
-      <string>Oct 15 16, 13:44.background</string>
-      <string>glyphs.O_ct 15 16, 13_44.background</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 17 16, 18:00</string>
-      <string>glyphs.B_old I_talic A_ug 17 16, 18_00</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 17 16, 18:00.background</string>
-      <string>glyphs.B_old I_talic A_ug 17 16, 18_00.background</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 10:21</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 10_21</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 10:22</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 10_22</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 10:22.background</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 10_22.background</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 10:19</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 10_19</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 10:19.background</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 10_19.background</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 10:38</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 10_38</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 17 16, 17:55</string>
-      <string>glyphs.B_old I_talic A_ug 17 16, 17_55</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 17 16, 17:55.background</string>
-      <string>glyphs.B_old I_talic A_ug 17 16, 17_55.background</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 09:41</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 09_41</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 09:08</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 09_08</string>
-    </array>
-    <array>
-      <string>Dec 5 16, 12:45</string>
-      <string>glyphs.D_ec 5 16, 12_45</string>
-    </array>
-    <array>
-      <string>Dec 5 16, 12:45.background</string>
-      <string>glyphs.D_ec 5 16, 12_45.background</string>
-    </array>
-    <array>
-      <string>Dec 5 16, 13:39</string>
-      <string>glyphs.D_ec 5 16, 13_39</string>
-    </array>
-    <array>
-      <string>Dec 5 16, 13:39.background</string>
-      <string>glyphs.D_ec 5 16, 13_39.background</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 09:13</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 09_13</string>
-    </array>
-    <array>
-      <string>Bold Italic Aug 18 16, 09:17</string>
-      <string>glyphs.B_old I_talic A_ug 18 16, 09_17</string>
-    </array>
-    <array>
-      <string>ref</string>
-      <string>glyphs.ref</string>
-    </array>
-    <array>
-      <string>background</string>
-      <string>glyphs.background</string>
-    </array>
-  </array>
+	<array>
+		<array>
+			<string>public.default</string>
+			<string>glyphs</string>
+		</array>
+		<array>
+			<string>public.background</string>
+			<string>glyphs.public.background</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 17 16, 18:54</string>
+			<string>glyphs.B_old I_talic A_ug 17 16, 18_54</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 17 16, 18:54.background</string>
+			<string>glyphs.B_old I_talic A_ug 17 16, 18_54.background</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 17 16, 18:47</string>
+			<string>glyphs.B_old I_talic A_ug 17 16, 18_47</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 17 16, 18:47.background</string>
+			<string>glyphs.B_old I_talic A_ug 17 16, 18_47.background</string>
+		</array>
+		<array>
+			<string>Dec 8 16, 17:14</string>
+			<string>glyphs.D_ec 8 16, 17_14</string>
+		</array>
+		<array>
+			<string>Dec 8 16, 17:14.background</string>
+			<string>glyphs.D_ec 8 16, 17_14.background</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 07:13</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 07_13</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 07:35</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 07_35</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 07:29</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 07_29</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 07:40</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 07_40</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 07:40.background</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 07_40.background</string>
+		</array>
+		<array>
+			<string>1</string>
+			<string>glyphs.1</string>
+		</array>
+		<array>
+			<string>2</string>
+			<string>glyphs.2</string>
+		</array>
+		<array>
+			<string>3</string>
+			<string>glyphs.3</string>
+		</array>
+		<array>
+			<string>not merged</string>
+			<string>glyphs.not merged</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 08:47</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 08_47</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 08:47.background</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 08_47.background</string>
+		</array>
+		<array>
+			<string>not merged.background</string>
+			<string>glyphs.not merged.background</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 10:47</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 10_47</string>
+		</array>
+		<array>
+			<string>Oct 15 16, 13:44</string>
+			<string>glyphs.O_ct 15 16, 13_44</string>
+		</array>
+		<array>
+			<string>Oct 15 16, 13:44.background</string>
+			<string>glyphs.O_ct 15 16, 13_44.background</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 17 16, 18:00</string>
+			<string>glyphs.B_old I_talic A_ug 17 16, 18_00</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 17 16, 18:00.background</string>
+			<string>glyphs.B_old I_talic A_ug 17 16, 18_00.background</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 10:21</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 10_21</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 10:22</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 10_22</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 10:22.background</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 10_22.background</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 10:19</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 10_19</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 10:19.background</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 10_19.background</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 10:38</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 10_38</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 17 16, 17:55</string>
+			<string>glyphs.B_old I_talic A_ug 17 16, 17_55</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 17 16, 17:55.background</string>
+			<string>glyphs.B_old I_talic A_ug 17 16, 17_55.background</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 09:41</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 09_41</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 09:08</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 09_08</string>
+		</array>
+		<array>
+			<string>Dec 5 16, 12:45</string>
+			<string>glyphs.D_ec 5 16, 12_45</string>
+		</array>
+		<array>
+			<string>Dec 5 16, 12:45.background</string>
+			<string>glyphs.D_ec 5 16, 12_45.background</string>
+		</array>
+		<array>
+			<string>Dec 5 16, 13:39</string>
+			<string>glyphs.D_ec 5 16, 13_39</string>
+		</array>
+		<array>
+			<string>Dec 5 16, 13:39.background</string>
+			<string>glyphs.D_ec 5 16, 13_39.background</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 09:13</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 09_13</string>
+		</array>
+		<array>
+			<string>Bold Italic Aug 18 16, 09:17</string>
+			<string>glyphs.B_old I_talic A_ug 18 16, 09_17</string>
+		</array>
+		<array>
+			<string>ref</string>
+			<string>glyphs.ref</string>
+		</array>
+		<array>
+			<string>background</string>
+			<string>glyphs.background</string>
+		</array>
+	</array>
 </plist>
