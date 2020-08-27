@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ka-cy" format="2">
+	<unicode hex="043A"/>
+	<advance width="462"/>
+	<outline>
+		<contour>
+			<point x="25" y="0" type="line"/>
+			<point x="45" y="0" type="line"/>
+			<point x="99" y="256" type="line"/>
+			<point x="176" y="256" type="line"/>
+			<point x="352" y="0" type="line"/>
+			<point x="377" y="0" type="line"/>
+			<point x="195" y="266" type="line"/>
+			<point x="457" y="519" type="line"/>
+			<point x="431" y="519" type="line"/>
+			<point x="180" y="275" type="line"/>
+			<point x="103" y="275" type="line"/>
+			<point x="155" y="519" type="line"/>
+			<point x="135" y="519" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottomright" x="352" y="0"/>
+	<anchor name="top" x="271" y="519"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>en-cy</string>
+		</dict>
+	</lib>
+</glyph>

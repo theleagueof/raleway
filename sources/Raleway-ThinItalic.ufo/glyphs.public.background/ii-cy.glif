@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ii-cy" format="2">
+	<outline>
+		<component base="u"/>
+	</outline>
+	<anchor name="bottomright" x="410" y="0"/>
+	<anchor name="top" x="314" y="519"/>
+</glyph>

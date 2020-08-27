@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_hookabovecomb" format="2">
+	<outline>
+		<component base="circumflexcomb" xOffset="-4" yOffset="-21"/>
+		<component base="hookabovecomb" xOffset="108" yOffset="111"/>
+	</outline>
+	<anchor name="_top" x="201" y="519"/>
+	<anchor name="top" x="289" y="935"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>384</integer>
+			<key>com.schriftgestaltung.componentsAlignment</key>
+			<array>
+				<integer>0</integer>
+				<integer>-1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>

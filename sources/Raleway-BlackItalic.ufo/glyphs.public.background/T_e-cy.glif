@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Te-cy" format="2">
+	<outline>
+		<component base="T"/>
+	</outline>
+	<anchor name="bottomright" x="220" y="0"/>
+</glyph>

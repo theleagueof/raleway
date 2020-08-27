@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eldescender-cy" format="2">
+	<unicode hex="052F"/>
+	<advance width="548"/>
+	<outline>
+		<component base="el-cy"/>
+		<component base="descender-cy" xOffset="444"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>tse-cy</string>
+		</dict>
+	</lib>
+</glyph>

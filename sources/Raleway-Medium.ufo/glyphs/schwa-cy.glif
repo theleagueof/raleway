@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="schwa-cy" format="2">
+	<unicode hex="04D9"/>
+	<advance width="591"/>
+	<outline>
+		<component base="schwa"/>
+	</outline>
+	<anchor name="top" x="296" y="522"/>
+</glyph>
