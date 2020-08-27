@@ -1,7 +1,12 @@
 ![Raleway](https://github.com/theleagueof/raleway/raw/master/images/raleway-1.jpeg)
 
 Raleway
-========
+=======
+
+[![Latest Release](https://img.shields.io/github/v/release/theleagueof/raleway?label=Download%20Release&logo=Github)](https://github.com/theleagueof/raleway/releases/latest)
+[![All Releases](https://img.shields.io/github/downloads/theleagueof/raleway/total)](https://github.com/theleagueof/raleway/releases)
+[![Fontship Build Status](https://img.shields.io/github/workflow/status/theleagueof/raleway/Fontship?label=Fontship&logo=Codeship)](https://github.com/theleagueof/raleway/actions?workflow=Fontship)
+
 _by [Matt McInerney](http://pixelspread.com)_, [Pablo Impallari](https://github.com/impallari), Rodrigo Fuenzalida, [Igino Marini](https://www.iginomarini.com/), and [Nhung Nguyen]()
 
 Raleway is an elegant sans-serif typeface family.
