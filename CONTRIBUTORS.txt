@@ -12,6 +12,7 @@
 Matt McInerney <matt@pixelspread.com>
 Pablo Impallari <impallari@gmail.com>
 Rodrigo Fuenzalida <hello@rfuenzalida.com>
+Igino Marini
 Marc Foley <m.foley.88@gmail.com>
 Nhung Nguyen <vns.wonderland@gmail.com>
 Alexei Vanyashin <a@cyreal.org>
