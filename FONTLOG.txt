@@ -34,6 +34,9 @@ https://github.com/theleagueof/raleway
 
 ChangeLog
 
+29 August 2020 (Caleb Maclennan) v4.101
+- Repackage so license files get distributed properly
+
 27 August 2020 (Caleb Maclennan) v4.100
 - Re-release of the entire font family in more output formats
 - Collect all the developments from various forks back to the original project repository
