@@ -34,7 +34,19 @@ https://github.com/theleagueof/raleway
 
 ChangeLog
 
-17 December 2016 (Alexei Vanyashin, Cyreal) v.4025
+27 August 2020 (Caleb Maclennan) v4.100
+- Re-release of the entire font family in more output formats
+- Collect all the developments from various forks back to the original project repository
+- Build and release using Fontship
+
+10 Jul 2020 () v4.026
+- Release on Google Fonts
+- Add VTT hints
+- Fixup Italic
+- Fixup compose/decompose for several glyphs
+- Fix diacritic placements
+
+17 December 2016 (Alexei Vanyashin, Cyreal) v4.020
 — Expanded glyph set to GF Cyrillic Pro
 
 15 October 2016 (Alexei Vanyashin, Ivan Petrov, Cyreal) v.4.010
