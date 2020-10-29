@@ -1,14 +1,14 @@
-    Copyright (c) 2010-2013, Matt McInerney <matt@pixelspread.com>,
-    with Reserved Font Name: "Raleway".
-
-    Copyright (c) 2012-2013, Pablo Impallari <impallari@gmail.com>
-    Copyright (c) 2012-2013, Rodrigo Fuenzalida <hello@rfuenzalida.com>
+    Copyright (c) 2020, Caleb Maclennan <caleb@alerque>
 
     Copyright (c) 2016, Alexei Vanyashin <a@cyreal.org>
     Copyright (c) 2016, Ivan Petrov <malamaka@yandex.ru>
     Copyright (c) 2016, Nhung Nguyen <vns.wonderland@gmail.com>
 
-    Copyright (c) 2020, Caleb Maclennan <caleb@alerque>
+    Copyright (c) 2012-2013, Pablo Impallari <impallari@gmail.com>
+    Copyright (c) 2012-2013, Rodrigo Fuenzalida <hello@rfuenzalida.com>
+
+    Copyright (c) 2010-2013, Matt McInerney <matt@pixelspread.com>,
+    with Reserved Font Name: "Raleway".
 
     This Font Software is licensed under the SIL Open Font License, Version 1.1.
     This license is copied below, and is also available with a FAQ at:
