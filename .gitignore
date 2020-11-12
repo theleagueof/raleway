@@ -7,3 +7,11 @@ Raleway-*.tar.zip
 references/*
 *(Autosaved)*
 tags
+*.woff
+*.woff2
+Raleway-*
+!*/Raleway-*
+sources/*(Autosaved).glyphs
+sources/*_backups
+sources/*.glyphs
+sources/*.sfd
